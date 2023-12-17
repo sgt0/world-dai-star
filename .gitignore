@@ -1,0 +1,11 @@
+*
+
+!.editorconfig
+!.gitattributes
+!.gitignore
+!*.ass
+!*.md
+!*/
+
+!*.otf
+!*.ttf

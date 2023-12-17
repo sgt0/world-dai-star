@@ -1,0 +1,450 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
+Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
+Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: sign_10496_119_Princess_Leila,Times New Roman,30,&H00FDFEFE,&H000000FF,&H00FEFFFD,&H00000000,-1,0,0,0,100,100,0,1,3,2,0,2,203,241,335,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.66,0:00:16.14,Main,Kokona,0,0,0,,I wonder what it's doing.
+Dialogue: 0,0:00:16.14,0:00:17.26,Main,Kathrina,0,0,0,,Who knows?
+Dialogue: 0,0:00:21.00,0:00:23.72,Main,Shizuka,0,0,0,,Isn't that the spot {\i1}you{\i0} cleaned, Kathrina?
+Dialogue: 0,0:00:23.72,0:00:24.62,Main,Kathrina,0,0,0,,Huh?
+Dialogue: 0,0:00:24.62,0:00:25.83,Main,Kokona,0,0,0,,Wait...
+Dialogue: 0,0:00:29.53,0:00:31.38,Main,Kathrina,0,0,0,,Wha— Is it telling me to redo it?!
+Dialogue: 0,0:00:31.38,0:00:34.14,Main,Kathrina,0,0,0,,How dare you, you little rodent!
+Dialogue: 0,0:00:34.88,0:00:37.29,Main,Panda,0,0,0,,You'd better do what Dugong says.
+Dialogue: 0,0:00:37.29,0:00:40.08,Main,Panda,0,0,0,,Dugong is famous for having a certain jinx.
+Dialogue: 0,0:00:40.08,0:00:41.14,Main,Kathrina,0,0,0,,A jinx?
+Dialogue: 0,0:00:43.07,0:00:47.11,Main,Sasuga,0,0,0,,Any actor that Dugong takes \Na liking to becomes a Dai Star.
+Dialogue: 0,0:00:53.35,0:00:54.77,Main,Kokona,0,0,0,,Dugong-chan!
+Dialogue: 0,0:00:55.50,0:00:57.07,Main,Kokona,0,0,0,,You're so smart!
+Dialogue: 0,0:00:57.07,0:00:59.87,Main,Shizuka,0,0,0,,Come right on over to... Kokona's lap!
+Dialogue: 0,0:00:59.87,0:01:00.72,Main,Shizuka,0,0,0,,Come on!
+Dialogue: 0,0:01:00.72,0:01:02.20,Main,Kathrina,0,0,0,,Can you be any more obvious?
+Dialogue: 0,0:01:06.31,0:01:08.61,Main,Yae,0,0,0,,Good day, everyone!
+Dialogue: 0,0:01:14.87,0:01:18.89,Main,Yae,0,0,0,,Hello, Dugong-san. You're \Nstill as cute as ever.
+Dialogue: 0,0:01:21.08,0:01:24.09,Main,Panda,0,0,0,,Well played, lead runner in the race \Nto become the next SIRIUS Dai Star.
+Dialogue: 0,0:01:24.30,0:01:26.48,Main,Panda,0,0,0,,Dugong's completely under her spell.
+Dialogue: 0,0:01:26.73,0:01:28.23,Main,Kokona,0,0,0,,Oh, Yae-chan!
+Dialogue: 0,0:01:28.23,0:01:30.83,Main,Shizuka,0,0,0,,She's as beautiful as a painting!
+Dialogue: 0,0:01:30.83,0:01:33.97,Main,Katrina,0,0,0,,It's just some rodent. Just you watch.
+Dialogue: 0,0:01:39.23,0:01:40.24,Main,Kathrina,0,0,0,,Shake.
+Dialogue: 0,0:01:46.44,0:01:48.24,Main,Panda,0,0,0,,You poor fool, Kathrin.
+Dialogue: 0,0:01:48.24,0:01:51.13,Main,Panda,0,0,0,,Say goodbye to your dreams \Nof becoming a Dai Star.
+Dialogue: 0,0:01:52.99,0:01:55.39,Main,Hiiragi,0,0,0,,I need you all at the rehearsal hall, now.
+Dialogue: 0,0:01:55.87,0:01:58.04,Main,Hiiragi,0,0,0,,We've decided the cast \Nfor our next production.
+Dialogue: 0,0:01:59.20,0:02:00.73,Main,Kokona,0,0,0,,Our next production?
+Dialogue: 0,0:02:01.10,0:02:02.47,Main,Sign,0,0,0,,{\an8\fs12\bord2\shad0\fnArial\frz338.7\pos(566,78)\c&H6F528C&\3c&HA78CBD&\b1\blur2\fad(312,1)}Arabian Nights
+Dialogue: 0,0:02:01.28,0:02:02.48,Main,Hiiragi,0,0,0,,We'll be doing...
+Dialogue: 0,0:02:02.47,0:02:05.98,Main,Sign,0,0,0,,{\an8\fs32\bord2\shad0\fnArial\c&H62427D&\3c&HA78CBD&\b1\blur2\pos(349,62)\frz357.2}Arabian Nights
+Dialogue: 0,0:02:02.78,0:02:04.28,Main,Hiiragi,0,0,0,,"{\i1}Arabian Nights{\i0}."
+Dialogue: 0,0:02:18.20,0:02:23.57,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,137.696)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:03:36.15,0:03:40.94,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\3c&H4B4B4C&\pos(580.933,308.933)}A Wish
+Dialogue: 0,0:03:37.60,0:03:40.58,Main,Shizuka,0,0,0,,Our story takes place in a desert city \Nin the Middle Ages.
+Dialogue: 0,0:03:41.07,0:03:46.07,Main,Shizuka,0,0,0,,We will be focusing on one of the most \Nprominent stories from {\i1}Arabian Nights{\i0}...
+Dialogue: 0,0:03:46.82,0:03:49.02,Main,Shizuka,0,0,0,,"Aladdin and the Enchanted Lamp."
+Dialogue: 0,0:03:52.00,0:03:53.80,Main,Shizuka,0,0,0,,That's a pretty flashy piece.
+Dialogue: 0,0:03:53.80,0:03:57.38,Main,Kathrina,0,0,0,,She said they've decided the cast already. \NAre they not doing auditions?
+Dialogue: 0,0:03:57.38,0:04:01.00,Main,Terahara,0,0,0,,At SIRIUS, the sponsor and \Ndirector decide on the cast.
+Dialogue: 0,0:04:01.00,0:04:05.75,Main,Kamiyashiki,0,0,0,,Hiiragi-san used to always play the \Nlead. Now, it's usually Yae.
+Dialogue: 0,0:04:06.45,0:04:11.74,Main,Terahara,0,0,0,,Ever since Hiiragi-san retired, people say \Nthat SIRIUS is a troupe without a Dai Star.
+Dialogue: 0,0:04:11.74,0:04:15.59,Main,Kamiyashiki,0,0,0,,SIRIUS's current objective \Nis to make Yae a Dai Star.
+Dialogue: 0,0:04:15.59,0:04:18.41,Main,Kathrina,0,0,0,,Then what was the point in auditioning?
+Dialogue: 0,0:04:18.93,0:04:21.71,Main,Terahara,0,0,0,,If you feel overlooked, \Nprove you're better than her.
+Dialogue: 0,0:04:21.71,0:04:23.15,Main,Terahara,0,0,0,,That's what we're all trying to do.
+Dialogue: 0,0:04:23.46,0:04:27.04,Main,Kamiyashiki,0,0,0,,Our primary goal right now is to have \Npeople talking about SIRIUS way more
+Dialogue: 0,0:04:27.04,0:04:28.44,Main,Kamiyashiki,0,0,0,,than when Hiiragi-san was in it.
+Dialogue: 0,0:04:28.73,0:04:31.63,Main,Terahara,0,0,0,,Yae-chan has the Sense and \Npopularity to do just that.
+Dialogue: 0,0:04:32.78,0:04:35.42,Main,Kokona,0,0,0,,Why did Hiiragi-san retire?
+Dialogue: 0,0:04:35.74,0:04:37.66,Main,Terahara,0,0,0,,Haven't you heard, Kokona-chan?
+Dialogue: 0,0:04:37.66,0:04:41.03,Main,Terahara,0,0,0,,You can only be on stage with \NSIRIUS until you're 23.
+Dialogue: 0,0:04:41.03,0:04:42.76,Main,Kokona,0,0,0,,What? Really?!
+Dialogue: 0,0:04:43.07,0:04:44.93,Main,Kamiyashiki,0,0,0,,That's what Shamo-san decided.
+Dialogue: 0,0:04:44.93,0:04:47.64,Main,Kamiyashiki,0,0,0,,She said it's not good to be \Nstuck in one place for too long.
+Dialogue: 0,0:04:47.93,0:04:49.49,Main,Kokona,0,0,0,,What should I do, Shizuka-chan?!
+Dialogue: 0,0:04:49.49,0:04:51.50,Main,Kokona,0,0,0,,I only have seven years left!
+Dialogue: 0,0:04:51.50,0:04:52.88,Main,Shizuka,0,0,0,,Well, bring it.
+Dialogue: 0,0:04:53.32,0:04:56.03,Main,Shizuka,0,0,0,,Let's make you a World Dai Star by then.
+Dialogue: 0,0:04:56.03,0:04:57.24,Main,Kokona,0,0,0,,What?!
+Dialogue: 0,0:04:58.26,0:04:59.73,Main,Hiiragi,0,0,0,,Pipe down over there.
+Dialogue: 0,0:04:59.73,0:05:01.48,Main,Kokona and Shizuka,0,0,0,,Sorry!
+Dialogue: 0,0:05:01.48,0:05:04.99,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs20}Arabian Nights\N\N\N\N\NAladdin\N\N\N\N\NGenie of the Lamp\N\N\N\N\NPrincess Leila\N\N\N\N\N{\3c&HE6DEDC&}Sultan\N\N\N\N\N{\3c&HE0D9D8&}Abdullah
+Dialogue: 0,0:05:03.17,0:05:04.98,Main,Hiiragi,0,0,0,,I'll now announce the cast.
+Dialogue: 0,0:05:11.74,0:05:15.00,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\pos(356,35)\frz4.461\c&H1E4441&\3c&HFEFFFD&\frx0\fry352\blur2\fax-.4}Role Name
+Dialogue: 0,0:05:11.74,0:05:15.00,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\pos(300,147)\frz1.989\frx2\fry352\fax-.4}Aladdin
+Dialogue: 0,0:05:11.74,0:05:15.00,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\frz359.8\pos(304,268)\frx4\fry354\fax-.4}Genie of the Lamp
+Dialogue: 0,0:05:12.41,0:05:14.98,Main - Italics,Panda,0,0,0,,Niizumacchi will probably play \Nthe lead role of Aladdin.
+Dialogue: 0,0:05:15.70,0:05:16.76,Main - Italics,Panda,0,0,0,,But...
+Dialogue: 0,0:05:16.75,0:05:20.75,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs28\blur2\frz1.989\frx2\fry352\pos(322,28)\fax-.4}Aladdin
+Dialogue: 0,0:05:16.75,0:05:20.75,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\frx4\fry354\frz1.419\pos(324,139)\fax-.4}Genie of the Lamp
+Dialogue: 0,0:05:16.75,0:05:20.75,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\frx4\fry354\pos(249,277)\frz358\fax-.4}Princess Leila
+Dialogue: 0,0:05:17.20,0:05:20.44,Main - Italics,Panda,0,0,0,,The role of the Genie is \Nbasically just as important.
+Dialogue: 0,0:05:21.13,0:05:24.35,Main - Italics,Panda,0,0,0,,If I were able to get that role, I \Ncould bring out the best in Niizumacchi
+Dialogue: 0,0:05:24.35,0:05:26.00,Main - Italics,Panda,0,0,0,,while still showing off my own charm.
+Dialogue: 0,0:05:26.01,0:05:29.89,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs28\blur2\frz1.989\frx2\fry352\pos(322,28)\fax-.4}Aladdin
+Dialogue: 0,0:05:26.01,0:05:29.89,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\frx4\fry354\frz1.419\pos(324,139)\fax-.4}Genie of the Lamp
+Dialogue: 0,0:05:26.01,0:05:29.89,Main,Sign,0,0,0,,{\b1\shad0\fnTimes New Roman\bord2\c&H1E4441&\3c&HFEFFFD&\fs30\blur2\frx4\fry354\pos(249,277)\frz358\fax-.4}Princess Leila
+Dialogue: 0,0:05:26.45,0:05:30.87,Main - Italics,Kathrina,0,0,0,,What the Genie's actor needs \Nis control on the stage.
+Dialogue: 0,0:05:31.43,0:05:33.83,Main - Italics,Kathrina,0,0,0,,It appears I'll have my \Nsecond chance already.
+Dialogue: 0,0:05:34.65,0:05:36.65,Main - Italics,Kathrina,0,0,0,,I'll overshadow the lead.
+Dialogue: 0,0:05:37.94,0:05:40.63,Main - Italics,Shizuka,0,0,0,,Give Kokona a role where she'll stand out, \Ngive Kokona a role where she'll stand out,
+Dialogue: 0,0:05:40.63,0:05:42.32,Main - Italics,Shizuka,0,0,0,,give Kokona a role \Nwhere she'll stand out!
+Dialogue: 0,0:05:43.77,0:05:46.12,Main - Italics,Sasuga,0,0,0,,I'm gonna have to learn magic.
+Dialogue: 0,0:05:46.45,0:05:51.83,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs20\pos(498,81)}Arabian Nights\N\N\N\NAladdin\N\N\N\NGenie of the Lamp\N\N\N\NPrincess Leila
+Dialogue: 0,0:05:49.32,0:05:51.45,Main,Hiiragi,0,0,0,,The lead role of Aladdin
+Dialogue: 0,0:05:52.03,0:05:53.57,Main,Hiiragi,0,0,0,,will go to Kokona Otori.
+Dialogue: 0,0:05:53.96,0:05:54.69,Main,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:05:55.82,0:05:58.14,Main,Hiiragi,0,0,0,,Next, the Genie of the Lamp...
+Dialogue: 0,0:05:58.65,0:05:59.96,Main,Hiiragi,0,0,0,,Yae Niizuma.
+Dialogue: 0,0:06:01.18,0:06:02.11,Main,Niizuma,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:06:02.45,0:06:03.55,Main,Troupe,0,0,0,,Really?
+Dialogue: 0,0:06:03.55,0:06:05.01,Main,Troupe,0,0,0,,A newbie is playing the lead?
+Dialogue: 0,0:06:05.01,0:06:07.70,Main,Troupe,0,0,0,,Yae's playing the Genie? \NThat doesn't seem to fit at all.
+Dialogue: 0,0:06:08.16,0:06:10.36,Main,Hiiragi,0,0,0,,The Royal Princess, Leila...
+Dialogue: 0,0:06:10.36,0:06:11.43,Main,Hiiragi,0,0,0,,Chisa Sasuga.
+Dialogue: 0,0:06:11.82,0:06:14.77,Main,Sasuga,0,0,0,,But I wanted to use magic.
+Dialogue: 0,0:06:14.77,0:06:16.05,Main,Hiiragi,0,0,0,,The Sultan...
+Dialogue: 0,0:06:16.05,0:06:17.36,Main,Hiiragi,0,0,0,,Kathrina Griebel.
+Dialogue: 0,0:06:17.36,0:06:18.86,Main,Kathrina,0,0,0,,What? The Sultan?!
+Dialogue: 0,0:06:19.18,0:06:19.90,Main,Hiiragi,0,0,0,,Your answer?
+Dialogue: 0,0:06:19.90,0:06:21.50,Main,Kathrina,0,0,0,,Y-Yes, ma'am.
+Dialogue: 0,0:06:22.34,0:06:24.40,Main,Hiiragi,0,0,0,,Aladdin's nemesis, Abdullah...
+Dialogue: 0,0:06:24.40,0:06:25.77,Main,Hiiragi,0,0,0,,Panda Yanagiba.
+Dialogue: 0,0:06:25.77,0:06:27.49,Main,Panda,0,0,0,,P-Please wait a second!
+Dialogue: 0,0:06:27.49,0:06:28.15,Main,Hiiragi,0,0,0,,What?
+Dialogue: 0,0:06:28.15,0:06:31.86,Main,Panda,0,0,0,,Niizumacchi's playing the Genie? \NI mean, that's one thing, but...
+Dialogue: 0,0:06:31.86,0:06:33.99,Main,Panda,0,0,0,,A newbie's playing Aladdin?
+Dialogue: 0,0:06:33.99,0:06:35.16,Main,Panda,0,0,0,,That's inconceivable!
+Dialogue: 0,0:06:38.95,0:06:41.78,Main,Hiiragi,0,0,0,,This was decided after careful discussion.
+Dialogue: 0,0:06:42.34,0:06:43.27,Main,Panda,0,0,0,,But...
+Dialogue: 0,0:06:55.38,0:06:57.07,Main,Kokona,0,0,0,,I-I'll do it.
+Dialogue: 0,0:06:57.36,0:07:00.06,Main,Kokona,0,0,0,,I'll make sure this play is a success!
+Dialogue: 0,0:07:00.36,0:07:01.70,Main,Kokona,0,0,0,,Please let me do the part!
+Dialogue: 0,0:07:02.12,0:07:03.73,Main,Niizuma,0,0,0,,I'll do my best, as well.
+Dialogue: 0,0:07:12.74,0:07:14.13,Main,Panda,0,0,0,,All right.
+Dialogue: 0,0:07:17.75,0:07:19.12,Main,Sign,0,0,0,,{\an8\bord0\shad0\fnArial\fs10.5\c&H2C5453&\3c&HF1F4F6&\b1\fax0.15\blur0.75\fs30\frz1.612\pos(308,-5)}Princess Leila
+Dialogue: 0,0:07:17.75,0:07:19.12,Main,Sign,0,0,0,,{\an8\bord0\shad0\fnArial\fs10.5\c&H2C5453&\3c&HF1F4F6&\b1\fax0.15\blur0.75\fs30\pos(302,125)\frz3.9}Sultan
+Dialogue: 0,0:07:17.75,0:07:19.12,Main,Sign,0,0,0,,{\an8\bord0\shad0\fnArial\fs10.5\c&H2C5453&\3c&HF1F4F6&\b1\fax0.15\blur0.75\fs30\frz7.279\pos(410,262)}Abdullah
+Dialogue: 0,0:07:18.15,0:07:21.25,Main,Kathrina,0,0,0,,Th-The S-S-S-Sultan?
+Dialogue: 0,0:07:22.37,0:07:24.13,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs26\frz10.21\pos(252,40)}Arabian Nights
+Dialogue: 0,0:07:22.37,0:07:24.13,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs23\frz9.996\pos(233,171)}Aladdin
+Dialogue: 0,0:07:22.37,0:07:24.13,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs23\frz9.996\pos(468,124)}Kokona Otori
+Dialogue: 0,0:07:22.37,0:07:24.13,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HECE5DE&\blur1.25\fry0\fs23\frz9.996\pos(217,247)}Genie of the Lamp
+Dialogue: 0,0:07:22.37,0:07:24.13,Main,Sign,0,0,0,,{\an7\bord3\shad0\fnTimes New Roman\c&H261D19&\3c&HF4EEEB&\blur1.25\fry0\fs23\frz9.996\pos(483,205)}Yae Niizuma
+Dialogue: 0,0:07:25.64,0:07:27.45,Main,Shizuka,0,0,0,,This is your big break, Kokona!
+Dialogue: 0,0:07:27.45,0:07:30.08,Main,Kokona,0,0,0,,Y-Yeah. I need to do my best...
+Dialogue: 0,0:07:30.08,0:07:32.62,Main,Kokona,0,0,0,,So that Panda-chan and the \Nothers acknowledge me.
+Dialogue: 0,0:07:32.62,0:07:33.88,Main,Kokona,0,0,0,,And the audience...
+Dialogue: 0,0:07:33.88,0:07:38.61,Main,Shizuka,0,0,0,,And for yourself! You're one step \Ncloser to becoming a Dai Star!
+Dialogue: 0,0:07:39.76,0:07:40.94,Main,Kokona,0,0,0,,Yeah...
+Dialogue: 0,0:07:43.28,0:07:44.35,Main,Hiiragi,0,0,0,,May I have a moment?
+Dialogue: 0,0:07:44.65,0:07:46.01,Main,Kokona,0,0,0,,Uh, yes!
+Dialogue: 0,0:07:46.61,0:07:48.11,Main,Sign,0,0,0,,{\an9\fs18\c&H5D6264&\3c&HE0E1E4&\shad0}Schedule\N\N{\fs15}5:30 Wake up\N{\3c&HE0DDD3&}6:00 Get dressed and clean\N{\3c&HE0E1E4&}7:00 Breakfast\N{\3c&HE0DDD3&}8:00 Morning training\N(*details on another sheet)\N{\3c&HE0E1E4&}10:00 Break\N{\3c&HE0DDD3&}10:20 Rehearsal/Lesson \N{\3c&HE0E1E4&}12:00 Lunch\N{\3c&HE0DDD3&}13:30 Afternoon training\N (*details on another sheet)\N{\3c&HE0E1E4&}15:45 Break\N{\3c&HE0DDD3&}16:00 Rehearsal/Lesson\N{\3c&HE0E1E4&}18:00 Bath\N{\3c&HE0DDD3&}19:00 Dinner\N{\3c&HE0E1E4&}20:30 Study\N{\3c&HE0DDD3&}Stretches
+Dialogue: 0,0:07:49.31,0:07:54.20,Main,Hiiragi,0,0,0,,From now until the production is over,\N you'll be following that regimen.
+Dialogue: 0,0:07:54.20,0:07:57.61,Main,Hiiragi,0,0,0,,You need to get the fundamentals of \Nstage acting down once and for all.
+Dialogue: 0,0:07:58.20,0:08:00.42,Main,Kokona,0,0,0,,The fundamentals of stage acting?
+Dialogue: 0,0:08:00.74,0:08:02.28,Main,Hiiragi,0,0,0,,You understand, don't you?
+Dialogue: 0,0:08:02.28,0:08:04.99,Main,Hiiragi,0,0,0,,Right now, you don't have \Nthe stamina or talent
+Dialogue: 0,0:08:04.99,0:08:08.04,Main,Hiiragi,0,0,0,,to be up on stage for 90 minutes\N in the lead role.
+Dialogue: 0,0:08:09.36,0:08:12.48,Main,Shizuka,0,0,0,,Then why did you pick Kokona \Nfor the lead role?!
+Dialogue: 0,0:08:13.83,0:08:15.59,Main,Hiiragi,0,0,0,,For SIRIUS.
+Dialogue: 0,0:08:19.34,0:08:22.55,Main,Hiiragi,0,0,0,,No part-time jobs \Nuntil after the final show.
+Dialogue: 0,0:08:22.55,0:08:25.19,Main,Hiiragi,0,0,0,,SIRIUS will make sure you're \Ntaken care of in the meantime.
+Dialogue: 0,0:08:25.54,0:08:28.86,Main,Hiiragi,0,0,0,,Glance through that regimen by tomorrow.
+Dialogue: 0,0:08:29.17,0:08:31.98,Main,Shizuka,0,0,0,,What does she mean that it's for SIRIUS?
+Dialogue: 0,0:08:34.82,0:08:36.07,Main,Sign,0,0,0,,{\an7\fs22\c&H5D6264&\3c&HFEFFFD&\shad0\b1\bord3.5}| 30 minutes | 10 minute Break\N{\3c&HF2F2FE&}| m dash | 10 minutes | Interval 1\N{\3c&HFEFFFD&}| Squats | 15 x 3 sets | Interval 1 min\N{\3c&HF2F2FE&}| Push-ups | 15 x 3 sets | Interval 1 min\N{\3c&HFEFFFD&}| Lunge | 15 x 3 sets | Interval 1 min\N{\3c&HF2F2FE&}| Crunches | 15 x 3 set | Interval 1 min\N{\3c&HFEFFFD&}| Squat jumps | 15 x 2 sets \N{\3c&HF2F2FE&}| Hip lifts | 60 seconds x 3 sets\N{\3c&HFEFFFD&}| Bird Dog |\N{\3c&HF2F2FE&}| Leg |
+Dialogue: 0,0:08:36.07,0:08:37.32,Main,Sign,0,0,0,,{\an7\fs22\c&H5D6264&\3c&HFEFFFD&\shad0\b1\bord3.5}{\3c&HF2F2FE&}15 x 3 sets\N{\3c&HFEFFFD&}15 x 3 sets | Inter\N{\3c&HF2F2FE&}15 x 3 sets | Interval 1\N{\3c&HFEFFFD&}15 x 2 sets | Interval 1 min\N{\3c&HF2F2FE&}60 seconds x 3 sets | Interval 1 minute\N{\3c&HFEFFFD&}30 seconds x 3 sets | Interval 1 min\N{\3c&HF2F2FE&}30 seconds x 3 sets | Interval 1 min\N{\3c&HFEFFFD&}Interval 1 min
+Dialogue: 0,0:08:37.34,0:08:39.39,Main,Shizuka,0,0,0,,What in the world is this schedule?
+Dialogue: 0,0:08:44.83,0:08:46.08,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs12\c&H5D5DAA&\3c&HA8A9EB&\b1\frz17.28\pos(254,44)\fad(361,1)}Kathrina-chan
+Dialogue: 0,0:08:44.83,0:08:46.08,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs10\c&H82AAA9&\3c&HD6F0FD&\b1\pos(329,70)\frz18.37\fad(361,1)}I added you!
+Dialogue: 0,0:08:44.83,0:08:46.08,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs10\c&H82AAA9&\3c&HFEFCFF&\b1\frz18.37\pos(278,137)\fad(361,1)}Okay.
+Dialogue: 0,0:08:44.83,0:08:46.08,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs10\c&H82AAA9&\3c&HFEFCFF&\b1\pos(329,161)\frz19.42\fad(361,1)}Today
+Dialogue: 1,0:08:44.83,0:08:46.08,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs10\c&H82AAA9&\3c&HFEFCFF&\b1\pos(307,187)\frz20.89\fad(361,1)}Hopping home\NWait right there
+Dialogue: 0,0:08:46.08,0:08:48.34,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs30\c&H416562&\3c&HFEFCFF&\b1\pos(284,61)\frz15.93}Hopping home
+Dialogue: 0,0:08:46.08,0:08:48.34,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs30\c&H416562&\3c&HFEFCFF&\b1\frz15.93\pos(295,174)}Wait right there
+Dialogue: 0,0:08:48.33,0:08:49.80,Main,Shizuka,0,0,0,,What's that?
+Dialogue: 0,0:08:49.80,0:08:52.32,Main,Kokona,0,0,0,,This definitely doesn't seem \Nlike it's from Kathrina-chan.
+Dialogue: 0,0:08:56.05,0:08:57.09,Main,Panda,0,0,0,,Good evening.
+Dialogue: 0,0:09:01.91,0:09:03.59,Main,Kokona,0,0,0,,Um...
+Dialogue: 0,0:09:05.00,0:09:08.91,Main,Panda,0,0,0,,Oh, come on. You don't need to be so scared.
+Dialogue: 0,0:09:09.47,0:09:10.47,Main,Panda,0,0,0,,Here.
+Dialogue: 0,0:09:11.17,0:09:12.98,Main,Kokona,0,0,0,,Th-These are...
+Dialogue: 0,0:09:12.99,0:09:17.74,Main,Sign,0,0,0,,{\an8\fs32\bord0\shad0\fnArial\c&H503566&\b1\blur0\frz2.812\pos(340,112)}Arabian Nights
+Dialogue: 0,0:09:13.25,0:09:17.75,Main,Panda,0,0,0,,Scripts from past productions of {\i1}Arabian \NNights{\i0} our senpais at SIRIUS performed in.
+Dialogue: 0,0:09:18.23,0:09:20.76,Main,Panda,0,0,0,,They're from my secret SIRIUS collection!
+Dialogue: 0,0:09:20.76,0:09:23.88,Main,Panda,0,0,0,,Our senpais wrote in a whole bunch of notes.
+Dialogue: 0,0:09:23.88,0:09:26.05,Main,Panda,0,0,0,,I figured they might help \Nyou understand your role.
+Dialogue: 0,0:09:26.05,0:09:27.38,Main,Kokona,0,0,0,,I can borrow these?
+Dialogue: 0,0:09:27.38,0:09:28.61,Main,Panda,0,0,0,,But of course!
+Dialogue: 0,0:09:28.61,0:09:32.31,Main,Panda,0,0,0,,Hiiragi-san chose you, and you said you \Nwere going to see the role through.
+Dialogue: 0,0:09:32.85,0:09:36.50,Main,Panda,0,0,0,,So I've... made up my mind.
+Dialogue: 0,0:09:39.14,0:09:42.26,Main,Panda,0,0,0,,I'm sorry for being so rude earlier.
+Dialogue: 0,0:09:42.87,0:09:44.15,Main,Kokona,0,0,0,,Panda-chan...
+Dialogue: 0,0:09:45.02,0:09:47.30,Main,Panda,0,0,0,,Let's make this production a success.
+Dialogue: 0,0:09:53.75,0:09:57.77,Main,Kokona,0,0,0,,Thank you. I'll do my best.
+Dialogue: 0,0:09:59.78,0:10:01.78,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs17\c&H82AAA9&\3c&HFEFFFD&\b1\pos(257,39)\fax-0.15\frz359.7}I added you!
+Dialogue: 0,0:09:59.78,0:10:01.78,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs17\c&H82AAA9&\3c&HE1F5FF&\b1\fax-0.15\frz359.7\pos(413,124)}Okay.
+Dialogue: 0,0:09:59.78,0:10:01.78,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs17\c&H82AAA9&\3c&HFEFFFD&\b1\fax-0.15\frz359.7\pos(304,196)}Today
+Dialogue: 0,0:09:59.78,0:10:01.78,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs17\c&H82AAA9&\3c&HFEFFFD&\b1\fax-0.15\frz359.7\pos(381,221)}Hopping home\NWait right there
+Dialogue: 0,0:10:16.71,0:10:18.30,Main,Shizuka,0,0,0,,I see.
+Dialogue: 0,0:10:18.57,0:10:22.32,Main,Shizuka,0,0,0,,These notes suggest that everyone had \Na hard time getting this role down.
+Dialogue: 0,0:10:22.32,0:10:23.55,Main,Kokona,0,0,0,,Yeah.
+Dialogue: 0,0:10:23.55,0:10:27.06,Main,Kokona,0,0,0,,A manly Aladdin, a timid \Nand unreliable Aladdin...
+Dialogue: 0,0:10:23.56,0:10:25.31,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs17\c&H7178BF&\3c&HD8EDF8&\b1\fax-0.15\frz359.7\pos(445,116)}Even though you're surprised by Genie, make sure\N you don't forget the excitement of something starting!!
+Dialogue: 0,0:10:25.31,0:10:27.06,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs20\c&H563A3F&\3c&HDCE2EA&\b1\frz359.7\pos(541,138)}Genie: Ah!
+Dialogue: 0,0:10:25.31,0:10:27.06,Main,Sign,0,0,0,,{\an8\bord2\shad0\blur2\fs20\c&H563A3F&\3c&HDCE2EA&\b1frz359.7\pos(382,87)}Aladdin
+Dialogue: 0,0:10:27.06,0:10:32.06,Main,Sign,0,0,0,,{\an7\bord2\shad0\blur2\fs20\c&H563A3F&\3c&HCFD9E6&\b1frz359.7}...merchants...\N...don't look down.\NThey're so busy running their shops...\NNo one even sees me...\NNo one even knows my name...\NThe apple I stole from the merchant...\NWho...
+Dialogue: 0,0:10:27.50,0:10:31.62,Main,Kokona,0,0,0,,An Aladdin whose life in the grueling \Ndesert has made him detached.
+Dialogue: 0,0:10:32.06,0:10:34.24,Main,Kokona,0,0,0,,They're all completely different.
+Dialogue: 0,0:10:34.24,0:10:38.01,Main,Kathrin,0,0,0,,That just means the character \Nof Aladdin lacks any core.
+Dialogue: 0,0:10:38.01,0:10:38.97,Main,Kokona,0,0,0,,Core?
+Dialogue: 0,0:10:38.97,0:10:41.43,Main,Kathrina,0,0,0,,The roles of the Genie, \NAbdullah, and Princess Leila
+Dialogue: 0,0:10:41.43,0:10:44.46,Main,Kathrina,0,0,0,,are all written out in great \Ndetail in the scripts.
+Dialogue: 0,0:10:44.45,0:10:48.08,Main,Sign,0,0,0,,{\an7\bord2\shad0\blur2\fs20\c&H563A3F&\3c&HCFD9E6&\b1\frz359.7}Aladdin: Everyone's desperate to survive.\NAt night, they all get drunk to the music.\NYou can smell the sweet aroma and hear the laughter...\NSee? It's starting again tonight.
+Dialogue: 0,0:10:44.45,0:10:48.08,Main,Sign,0,0,0,,{\an9\bord2\shad0\blur2\fs18\c&H563A3F&\3c&HCFD9E6&\b1\frz359.7\fax-0.15\pos(630,17)}Say each of \Nthese sentences clearly!
+Dialogue: 0,0:10:44.99,0:10:48.04,Main,Kathrina,0,0,0,,But there's no solid direction for Aladdin.
+Dialogue: 0,0:10:48.04,0:10:51.10,Main,Kathrina,0,0,0,,Which means his character takes a lot \Nfrom the actor's personality.
+Dialogue: 0,0:10:48.08,0:10:51.08,Main,Sign,0,0,0,,{\an7\bord2\shad0\blur2\fs20\c&H563A3F&\3c&HCFD9E6&\b1\frz359.7}Aladdin: ~Sings~\NI love this city!\NEveryone's desperate to survive.\NAt night, they all get drunk to the music.\NYou can smell the sweet aroma and hear the laughter...\NSee? It's starting again tonight.\N~Sings~
+Dialogue: 0,0:10:48.08,0:10:51.08,Main,Sign,0,0,0,,{\an9\bord2\shad0\blur2\fs18\c&H7178BF&\3c&HCFD9E6&\b1\frz359.7\fax-0.15\pos(630,17)}Make sure your body...\NDon't let this line get drowned out. \NIt's important
+Dialogue: 0,0:10:51.42,0:10:53.04,Main,Kathrina,0,0,0,,At least, that's what I think.
+Dialogue: 0,0:10:53.04,0:10:55.03,Main,Kokona,0,0,0,,The actor's personality...
+Dialogue: 0,0:10:55.03,0:10:59.08,Main,Kathrina,0,0,0,,With that in mind, it's really easy to \Nimagine how Niizuma would play Aladdin.
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H67B4C0&\3c&H062132&\blur3\clip(201,33,438,35)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H59ADBA&\3c&H062132&\blur3\clip(201,35,438,37)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H4BA7B4&\3c&H062132&\blur3\clip(201,37,438,39)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H3DA0AE&\3c&H062132&\blur3\clip(201,39,438,41)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H2F9AA8&\3c&H062132&\blur3\clip(201,41,438,43)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H2193A2&\3c&H062132&\blur3\clip(201,43,438,45)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H138D9C&\3c&H062132&\blur3\clip(201,45,438,47)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H058696&\3c&H062132&\blur3\clip(201,47,438,49)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&HD8E8EF&\3c&H062132&\blur3\clip(201,17,438,19)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&HCAE1E9&\3c&H062132&\blur3\clip(201,19,438,21)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&HBCDBE3&\3c&H062132&\blur3\clip(201,21,438,23)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&HAED4DD&\3c&H062132&\blur3\clip(201,23,438,25)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&HA0CED7&\3c&H062132&\blur3\clip(201,25,438,27)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H92C7D1&\3c&H062132&\blur3\clip(201,27,438,29)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H84C1CB&\3c&H062132&\blur3\clip(201,29,438,31)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:10:59.97,0:11:10.77,Main,Sign,0,0,0,,{\an8\fs30\bord2\shad0.5\c&H76BAC5&\3c&H062132&\blur3\clip(201,31,438,33)\pos(320,18)}The Little Mermaid
+Dialogue: 0,0:11:00.38,0:11:02.67,Main,Shizuka,0,0,0,,Yae-chan's innocence.
+Dialogue: 0,0:11:02.67,0:11:05.83,Main,Shizuka,0,0,0,,That alone is enough to bring \Nher characters to life.
+Dialogue: 0,0:11:05.83,0:11:10.51,Main,Shizuka,0,0,0,,The audience will surely enter the world \Nof {\i1}Arabian Nights{\i0} through Yae-chan.
+Dialogue: 0,0:11:10.85,0:11:14.11,Main,Kathrina,0,0,0,,What makes Niizuma scary isn't \Njust her singing Sense.
+Dialogue: 0,0:11:14.11,0:11:17.14,Main,Kathrina,0,0,0,,Her ability to make each character \Nfeel like they're actually her...
+Dialogue: 0,0:11:17.14,0:11:20.50,Main,Kathrina,0,0,0,,I hate to admit it, but I don't \Nhave that kind of charm right now.
+Dialogue: 0,0:11:21.81,0:11:25.41,Main,Kokona,0,0,0,,I wonder what kind of Aladdin \NI should try to play.
+Dialogue: 0,0:11:26.07,0:11:28.55,Main,Shizuka,0,0,0,,We'll just have to try out various versions.
+Dialogue: 0,0:11:29.30,0:11:30.41,Main,Kathrina,0,0,0,,Ahem.
+Dialogue: 0,0:11:32.53,0:11:35.53,Main,Kathrina,0,0,0,,You'll need someone to \Npractice with, won't you?
+Dialogue: 0,0:11:36.50,0:11:38.13,Main,Shizuka,0,0,0,,Uh, hello? I'm right here.
+Dialogue: 0,0:11:39.03,0:11:42.35,Main,Kathrina,0,0,0,,Well, three's always better than two!
+Dialogue: 0,0:11:42.62,0:11:44.25,Main,Kokona,0,0,0,,You're going to help me?
+Dialogue: 0,0:11:44.91,0:11:46.72,Main,Kathrina,0,0,0,,If you end up messing up this role,
+Dialogue: 0,0:11:46.72,0:11:49.84,Main,Kathrina,0,0,0,,I'll seem like a failure, too, \Nsince you got the role instead of me.
+Dialogue: 0,0:11:50.97,0:11:54.34,Main,Kathrina,0,0,0,,More importantly, if you don't do this \Nrole properly, I'm going to upstage you!
+Dialogue: 0,0:11:55.05,0:11:56.46,Main,Shizuka,0,0,0,,As the Sultan?
+Dialogue: 0,0:11:56.46,0:11:59.18,Main,Kokona,0,0,0,,I think that itself could ruin the play...
+Dialogue: 0,0:11:59.18,0:12:01.76,Main,Kathrina,0,0,0,,And that's exactly why you \Nhave to work hard, Kokona!
+Dialogue: 0,0:12:06.74,0:12:08.06,Main,Niizuma,0,0,0,,Good evening!
+Dialogue: 0,0:12:08.06,0:12:09.25,Main,Kokona,0,0,0,,Yae-chan!
+Dialogue: 0,0:12:09.51,0:12:11.33,Main,Kathrina,0,0,0,,What are you doing here at this hour?
+Dialogue: 0,0:12:11.33,0:12:13.94,Main,Niizuma,0,0,0,,Didn't Hiiragi-san tell you?
+Dialogue: 0,0:12:13.94,0:12:15.13,Main,Shizuka,0,0,0,,Tell us what?
+Dialogue: 0,0:12:15.13,0:12:20.39,Main,Niizuma,0,0,0,,I'm going to be living with Kokona-san \Nuntil the production starts.
+Dialogue: 0,0:12:20.39,0:12:21.02,Main,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:12:21.20,0:12:22.09,Main,Kathrina,0,0,0,,Huh?
+Dialogue: 0,0:12:22.35,0:12:23.80,Main,Shizuka,0,0,0,,Living with...?
+Dialogue: 0,0:12:24.96,0:12:27.55,Main,Niizuma,0,0,0,,I look forward to our time \Ntogether, Kokona-san.
+Dialogue: 0,0:12:28.08,0:12:30.81,Main,Shizuka,0,0,0,,Or rather... Master.
+Dialogue: 0,0:12:34.30,0:12:37.93,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:12:39.38,0:12:42.22,Main,Shizuka,0,0,0,,"Dear Kokona Otori-sama."
+Dialogue: 0,0:12:42.22,0:12:45.29,Main,Kathrina,0,0,0,,"I heard that you've agreed \Nto take care of our Yae
+Dialogue: 0,0:12:45.29,0:12:47.95,Main,Kathrina,0,0,0,,in order to help her prepare for her role.
+Dialogue: 0,0:12:47.95,0:12:53.95,Main,Kathrina,0,0,0,,I do apologize that we are greeting you \Nby letter rather than properly in person."
+Dialogue: 0,0:12:54.81,0:12:58.71,Main,Shizuka,0,0,0,,"Ever since she was little, our daughter was \Nvery aware of her surroundings,
+Dialogue: 0,0:12:55.15,0:12:56.86,Main - Top,Niizuma,0,0,0,,Would you like me to help you?
+Dialogue: 0,0:12:56.86,0:12:59.71,Main - Top,Kokona,0,0,0,,N-No! Yae-chan, you can \Njust make yourself at home!
+Dialogue: 0,0:12:58.71,0:13:00.09,Main,Shizuka,0,0,0,,filled with compassion,
+Dialogue: 0,0:13:00.09,0:13:05.04,Main,Shizuka,0,0,0,,determined and uncompromising once \Nshe sets her mind on something.
+Dialogue: 0,0:13:05.04,0:13:06.70,Main,Shizuka,0,0,0,,Everyone often compliments her,
+Dialogue: 0,0:13:06.70,0:13:10.73,Main,Shizuka,0,0,0,,saying that she's an absolute gem, \Nbut sometimes this is not the case..."
+Dialogue: 0,0:13:10.73,0:13:12.09,Main,Kathrina,0,0,0,,Isn't this overly long?
+Dialogue: 0,0:13:12.09,0:13:16.19,Main,Shizuka,0,0,0,,I mean... I can tell that your parents love you...
+Dialogue: 0,0:13:16.19,0:13:18.69,Main,Shizuka,0,0,0,,But what's this about \Npreparing for your role?
+Dialogue: 0,0:13:18.69,0:13:21.35,Main,Niizuma,0,0,0,,Yes. Aladdin and the Genie go through
+Dialogue: 0,0:13:21.35,0:13:25.06,Main,Niizuma,0,0,0,,good times and bad together after they meet.
+Dialogue: 0,0:13:25.06,0:13:31.36,Main,Niizuma,0,0,0,,I thought it was necessary to be in sync \Nwith Kokona-san, who's playing Aladdin.
+Dialogue: 0,0:13:31.36,0:13:35.03,Main,Niizuma,0,0,0,,I did actually tell Hiiragi-san \Nabout this earlier.
+Dialogue: 0,0:13:35.44,0:13:36.32,Main,Hiiragi,0,0,0,,Oh.
+Dialogue: 0,0:13:36.57,0:13:38.39,Main,Kudo,0,0,0,,Is something wrong?
+Dialogue: 0,0:13:38.39,0:13:39.33,Main,Hiiragi,0,0,0,,No.
+Dialogue: 0,0:13:40.17,0:13:42.10,Main,Hiiragi,0,0,0,,It's not a big deal.
+Dialogue: 0,0:13:42.38,0:13:44.08,Main,Hiiragi,0,0,0,,More importantly, about this part...
+Dialogue: 0,0:13:44.08,0:13:47.62,Main,Kokona,0,0,0,,I would've cleaned up if she'd told me!
+Dialogue: 0,0:13:47.88,0:13:51.23,Main,Niizuma,0,0,0,,So, yes. From today until \Nthe production starts,
+Dialogue: 0,0:13:51.23,0:13:54.83,Main,Niizuma,0,0,0,,as the Genie that serves Kokona-san,
+Dialogue: 0,0:13:54.83,0:13:57.39,Main,Niizuma,0,0,0,,I would like to take care of you, Master.
+Dialogue: 0,0:13:57.69,0:13:59.47,Main,Kokona,0,0,0,,M-Master?
+Dialogue: 0,0:13:59.47,0:14:02.24,Main,Kathrina,0,0,0,,Wait a second! You're planning \Nto stay in this room?!
+Dialogue: 0,0:14:02.24,0:14:05.11,Main,Kathrina,0,0,0,,It's cramped enough with Shizuka here!
+Dialogue: 0,0:14:05.11,0:14:07.40,Main,Panda,0,0,0,,I heard everything.
+Dialogue: 0,0:14:09.00,0:14:12.70,Main,Kathrina,0,0,0,,Why do you two {\i1}always{\i0} \Nshow up at times like this?
+Dialogue: 0,0:14:12.70,0:14:14.74,Main,Sasuga,0,0,0,,The walls are paper thin.
+Dialogue: 0,0:14:14.74,0:14:16.78,Main,Panda,0,0,0,,We'll take real good care of Kathrin.
+Dialogue: 0,0:14:16.78,0:14:17.40,Main,Kathrina,0,0,0,,Huh?
+Dialogue: 0,0:14:20.42,0:14:23.57,Main,Panda,0,0,0,,Next, we're going to \Ninvestigate Kathrin's Sense!
+Dialogue: 0,0:14:24.17,0:14:27.75,Main,Kathrina,0,0,0,,Hey! No! Your room's sorta scary!
+Dialogue: 0,0:14:27.75,0:14:30.18,Main,Kathrina,0,0,0,,K-K-Kokona!
+Dialogue: 0,0:14:32.68,0:14:35.26,Main,Kokona,0,0,0,,Maybe we should've stopped them?
+Dialogue: 0,0:14:35.26,0:14:38.47,Main,Shizuka,0,0,0,,Let's treat Kathrina to some \Nice cream sometime soon.
+Dialogue: 0,0:14:38.95,0:14:40.62,Main,Shizuka,0,0,0,,But for now...
+Dialogue: 0,0:14:44.32,0:14:47.40,Main,Yae,0,0,0,,Your wish is my command, Master.
+Dialogue: 0,0:14:47.40,0:14:51.05,Main,Yae,0,0,0,,I shall grant you any wish at once.
+Dialogue: 0,0:14:51.05,0:14:54.24,Main,Yae,0,0,0,,If it is within my power, of course.
+Dialogue: 0,0:14:55.41,0:14:57.79,Main,Shizuka,0,0,0,,Let us savor this happiness.
+Dialogue: 0,0:14:57.79,0:14:58.68,Main,Kokona,0,0,0,,Yes.
+Dialogue: 0,0:15:14.38,0:15:16.55,Main,Niizuma (Genie),0,0,0,,Good morning, Master!
+Dialogue: 0,0:15:16.80,0:15:19.43,Main,Kokona,0,0,0,,Yae-chan? Good morning...
+Dialogue: 0,0:15:19.43,0:15:22.82,Main,Niizuma (Genie),0,0,0,,I'm the Genie! Now, time for \Nyour morning rehearsal!
+Dialogue: 0,0:15:22.82,0:15:25.51,Main,Niizuma (Genie),0,0,0,,Let's give it our all today!
+Dialogue: 0,0:15:32.41,0:15:34.21,Main,Kokona,0,0,0,,G-Good morning!
+Dialogue: 0,0:15:34.47,0:15:36.17,Main,Hiiragi,0,0,0,,Were you able to meet your quota?
+Dialogue: 0,0:15:36.17,0:15:38.24,Main,Kokona,0,0,0,,Yes, I made it. Three kilometers.
+Dialogue: 0,0:15:38.24,0:15:40.72,Main,Hiiragi,0,0,0,,I see. In that case, hop \Nright into vocal training.
+Dialogue: 0,0:15:41.00,0:15:42.01,Main,Hiiragi,0,0,0,,Tongue twisters.
+Dialogue: 0,0:15:42.01,0:15:43.33,Main,Kokona,0,0,0,,Y-Yes, ma'am.
+Dialogue: 0,0:15:43.33,0:15:44.71,Main,Shizuka,0,0,0,,She's a demon.
+Dialogue: 0,0:15:47.83,0:15:49.49,Main,Kokona,0,0,0,,Thank you for the food.
+Dialogue: 0,0:15:51.92,0:15:53.31,Main,Kathrina,0,0,0,,What are you doing?
+Dialogue: 0,0:15:53.31,0:15:54.98,Main,Kokona,0,0,0,,An assignment from Hiiragi-san.
+Dialogue: 0,0:15:54.98,0:15:58.09,Main,Kokona,0,0,0,,I have to do a scene as a different\N character each morning.
+Dialogue: 0,0:15:58.66,0:16:01.60,Main,Kokona,0,0,0,,Tomorrow is Macbeth. \NThe day after that, Tony.
+Dialogue: 0,0:16:01.60,0:16:04.77,Main,Kokona,0,0,0,,After that, there's Jekyll, \NHyde, Inspector Javert...
+Dialogue: 0,0:16:05.04,0:16:06.80,Main,Kathrina,0,0,0,,All male roles.
+Dialogue: 0,0:16:06.80,0:16:08.40,Main,Kathrina,0,0,0,,I wonder why.
+Dialogue: 0,0:16:09.72,0:16:14.42,Main,Kathrina,0,0,0,,I-I mean... if you need someone to read \Nwith you, I guess I wouldn't mind.
+Dialogue: 0,0:16:14.42,0:16:18.00,Main,Kokona,0,0,0,,Really?! It starts with Act 3, Scene 2!
+Dialogue: 0,0:16:25.62,0:16:27.01,Main,Hiiragi,0,0,0,,Don't sit pigeon-toed!
+Dialogue: 0,0:16:27.01,0:16:28.62,Main,Hiiragi,0,0,0,,Separate those feet.
+Dialogue: 0,0:16:28.62,0:16:29.75,Main,Kokona,0,0,0,,Y-Yes, ma'am!
+Dialogue: 0,0:16:30.12,0:16:32.63,Main,Hiiragi,0,0,0,,When playing a male character, \Nyou'll use big gestures.
+Dialogue: 0,0:16:32.63,0:16:34.34,Main,Hiiragi,0,0,0,,Focus power in your fingertips.
+Dialogue: 0,0:16:34.34,0:16:36.38,Main,Hiiragi,0,0,0,,Think about every movement you make.
+Dialogue: 0,0:16:36.38,0:16:37.42,Main,Kokona,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:16:40.77,0:16:43.27,Main,Kokona,0,0,0,,In the morning, I have to work \Nout and practice the basics.
+Dialogue: 0,0:16:43.27,0:16:46.42,Main,Kokona,0,0,0,,In the afternoon, I have a table read,\N then singing and dance lessons.
+Dialogue: 0,0:16:46.42,0:16:49.78,Main,Kokona,0,0,0,,At night, I have a one-on-one \Nwith Hiiragi-sa—
+Dialogue: 0,0:16:53.31,0:16:56.06,Main,Shizuka,0,0,0,,This is going to continue \Nfor three months?
+Dialogue: 0,0:16:58.24,0:17:00.63,Main,Kokona,0,0,0,,Oh, Dugong-chan!
+Dialogue: 0,0:17:01.69,0:17:05.10,Main,Kokona,0,0,0,,Did you come to cheer me... up?
+Dialogue: 0,0:17:11.55,0:17:12.83,Main,Kokona,0,0,0,,I'm home.
+Dialogue: 0,0:17:12.83,0:17:15.43,Main,Niizuma (Genie),0,0,0,,Welcome back, Master.
+Dialogue: 0,0:17:15.43,0:17:17.31,Main,Niizuma (Genie),0,0,0,,Your futon has been laid out for you.
+Dialogue: 0,0:17:17.53,0:17:19.37,Main,Kokona,0,0,0,,Whoa, thanks!
+Dialogue: 0,0:17:19.37,0:17:22.88,Main,Kokona,0,0,0,,Um... I just can't get used to this.
+Dialogue: 0,0:17:22.88,0:17:25.50,Main,Kokona,0,0,0,,Could you just call me Kokona?
+Dialogue: 0,0:17:25.50,0:17:26.98,Main,Niizuma (Genie),0,0,0,,Well, that's strange.
+Dialogue: 0,0:17:26.98,0:17:30.48,Main,Niizuma (Genie),0,0,0,,I could've sworn my master's \Nname was Aladdin.
+Dialogue: 0,0:17:31.02,0:17:33.54,Main,Shizuka,0,0,0,,That's Yae-chan for you... \NShe's not breaking character.
+Dialogue: 0,0:17:33.54,0:17:38.53,Main,Niizuma,0,0,0,,I'm kidding. If you so desire, \NI'll stop for today, Kokona-san.
+Dialogue: 0,0:17:40.46,0:17:43.28,Main,Niizuma,0,0,0,,You did amazing work today.
+Dialogue: 0,0:17:43.28,0:17:45.36,Main,Shizuka,0,0,0,,What an absolute gem.
+Dialogue: 0,0:17:46.05,0:17:47.29,Main,Kokona,0,0,0,,But...
+Dialogue: 0,0:17:47.29,0:17:51.54,Main,Kokona,0,0,0,,Am I really going to make it, \Npracticing like this every day?
+Dialogue: 0,0:17:52.04,0:17:54.19,Main,Niizuma,0,0,0,,Is this training difficult for you?
+Dialogue: 0,0:17:54.19,0:17:56.67,Main,Kokona,0,0,0,,Not exactly, but...
+Dialogue: 0,0:17:57.11,0:17:59.45,Main,Shizuka,0,0,0,,I know the fundamentals are important...
+Dialogue: 0,0:17:59.45,0:18:02.52,Main,Shizuka,0,0,0,,But you've had no time \Nto prepare for your role.
+Dialogue: 0,0:18:02.52,0:18:06.32,Main,Shizuka,0,0,0,,I've been trying to figure out a bunch of \Nthings while Kokona's at school, but...
+Dialogue: 0,0:18:06.68,0:18:09.44,Main,Kokona,0,0,0,,What kind of Aladdin \Nshould I be playing?
+Dialogue: 0,0:18:09.44,0:18:10.31,Main,Kokona,0,0,0,,I...
+Dialogue: 0,0:18:10.66,0:18:12.48,Main,Niizuma,0,0,0,,There's still time before the production.
+Dialogue: 0,0:18:12.48,0:18:14.48,Main,Niizuma,0,0,0,,You don't need to rush.
+Dialogue: 0,0:18:14.48,0:18:15.68,Main,Kokona,0,0,0,,Really?
+Dialogue: 0,0:18:15.68,0:18:17.82,Main,Niizuma,0,0,0,,Yes! Not to mention...
+Dialogue: 0,0:18:17.82,0:18:21.12,Main,Niizuma,0,0,0,,The Aladdin you should play is quite obvious.
+Dialogue: 0,0:18:21.12,0:18:22.37,Main,Kokona and Shizuka,0,0,0,,Huh?
+Dialogue: 0,0:18:22.58,0:18:27.53,Main,Niizuma,0,0,0,,Aladdin meets the Genie, and ends up \Ntrusting him because of how devoted he is.
+Dialogue: 0,0:18:27.53,0:18:29.73,Main,Niizuma,0,0,0,,It's not because he can use magic,
+Dialogue: 0,0:18:29.73,0:18:35.41,Main,Niizuma,0,0,0,,but because Aladdin has spent all his \Nlife trying to survive in a desert city,
+Dialogue: 0,0:18:35.41,0:18:38.55,Main,Niizuma,0,0,0,,and the Genie is the first \Nfriend that he can trust.
+Dialogue: 0,0:18:40.64,0:18:44.39,Main,Niizuma,0,0,0,,Can you trust me, Kokona-san?
+Dialogue: 0,0:18:45.00,0:18:47.15,Main,Kokona,0,0,0,,Yes... I can.
+Dialogue: 0,0:18:47.15,0:18:48.79,Main,Niizuma,0,0,0,,Then it's simple.
+Dialogue: 0,0:18:48.79,0:18:52.13,Main,Niizuma,0,0,0,,That's exactly how you should \Npursue the role of Aladdin.
+Dialogue: 0,0:18:52.13,0:18:53.35,Main,Niizuma,0,0,0,,And then...
+Dialogue: 0,0:18:56.72,0:18:59.61,Main,Niizuma,0,0,0,,I'm sure this production will go well.
+Dialogue: 0,0:19:00.05,0:19:01.15,Main,Kokona,0,0,0,,Right.
+Dialogue: 0,0:19:01.44,0:19:04.27,Main,Kokona,0,0,0,,If I'm with you, Yae-chan, I'm sure...
+Dialogue: 0,0:19:06.72,0:19:07.95,Main,Shizuka,0,0,0,,Kokona?
+Dialogue: 0,0:19:30.61,0:19:33.15,Main,Niizuma (Genie),0,0,0,,Here you go, Master!
+Dialogue: 0,0:19:34.78,0:19:36.08,Main,Kokona,0,0,0,,Thanks...
+Dialogue: 0,0:19:40.75,0:19:43.76,Main,Kokona,0,0,0,,Yae-chan, can I ask you something?
+Dialogue: 0,0:19:43.76,0:19:44.78,Main,Niizuma,0,0,0,,What is it?
+Dialogue: 0,0:19:45.13,0:19:49.07,Main,Kokona,0,0,0,,Why are you playing the Genie \Ninstead of the lead role?
+Dialogue: 0,0:19:50.22,0:19:52.37,Main,Niizuma,0,0,0,,If I want to become a Dai Star,
+Dialogue: 0,0:19:52.37,0:19:55.54,Main,Niizuma,0,0,0,,I need to show everyone a new Yae Niizuma.
+Dialogue: 0,0:19:55.86,0:19:57.98,Main,Kokona,0,0,0,,A new you?
+Dialogue: 0,0:19:57.98,0:19:58.77,Main,Niizuma,0,0,0,,Yes.
+Dialogue: 0,0:19:59.59,0:20:03.86,Main,Niizuma,0,0,0,,Innocent and pure maidens like the \NLittle Mermaid and Princess Kaguya...
+Dialogue: 0,0:20:04.43,0:20:08.25,Main,Niizuma,0,0,0,,I thought those were the kinds of \Ncharacters people wanted from me.
+Dialogue: 0,0:20:08.66,0:20:09.92,Main,Niizuma,0,0,0,,But...
+Dialogue: 0,0:20:09.92,0:20:12.60,Main,Niizuma,0,0,0,,I realized that I couldn't get closer
+Dialogue: 0,0:20:12.60,0:20:15.87,Main,Niizuma,0,0,0,,to becoming a Dai Star by only playing \Nthe roles people wanted from me.
+Dialogue: 0,0:20:15.87,0:20:18.94,Main,Kokona,0,0,0,,So you're working to become a Dai Star, too?
+Dialogue: 0,0:20:19.31,0:20:20.37,Main,Niizuma,0,0,0,,Of course!
+Dialogue: 0,0:20:31.96,0:20:34.21,Main,Sign,0,0,0,,{\an8\fs32\bord2\shad2\fnArial\c&HA3AAAB&\3c&H2F3035&\b1\blur4\pos(546,72)}Arabian
+Dialogue: 0,0:20:34.57,0:20:37.11,Main,Niizuma,0,0,0,,The poster came out quite nicely.
+Dialogue: 0,0:20:37.11,0:20:38.07,Main,Kokona,0,0,0,,Yeah...
+Dialogue: 0,0:20:38.62,0:20:41.00,Main,Niizuma,0,0,0,,First, I'll become a Dai Star at SIRIUS.
+Dialogue: 0,0:20:41.00,0:20:43.15,Main,Niizuma,0,0,0,,Then, a World Dai Star.
+Dialogue: 0,0:20:43.91,0:20:45.95,Main,Niizuma,0,0,0,,And then, finally...
+Dialogue: 0,0:20:47.08,0:20:48.27,Main,Kokona,0,0,0,,Finally?
+Dialogue: 0,0:20:47.10,0:20:54.48,Main,Sign,0,0,0,,{\an8\fs12\bord2\shad0\fnArial\c&HA3AAAB&\3c&H2F3035&\b1\blur2\pos(321,91)}Arabian Nights
+Dialogue: 0,0:20:48.27,0:20:50.55,Main,Niizuma,0,0,0,,No, it's nothing.
+Dialogue: 0,0:20:51.04,0:20:54.47,Main,Kokona,0,0,0,,Is it really okay for me to play the lead?
+Dialogue: 0,0:20:54.81,0:20:56.76,Main,Kokona,0,0,0,,What if I really mess up?
+Dialogue: 0,0:20:56.76,0:20:58.31,Main,Niizuma,0,0,0,,It'll be okay.
+Dialogue: 0,0:20:58.71,0:21:00.49,Main,Niizuma (Genie),0,0,0,,I'm the Genie of the lamp!
+Dialogue: 0,0:21:00.82,0:21:04.41,Main,Niizuma (Genie),0,0,0,,You just need to tell me \Nwhat you wish for, Master.
+Dialogue: 0,0:21:04.41,0:21:06.35,Main,Niizuma (Genie),0,0,0,,And then, I'll make it come true.
+Dialogue: 0,0:21:09.39,0:21:11.51,Main,Kokona,0,0,0,,Then I have two wishes.
+Dialogue: 0,0:21:12.45,0:21:16.87,Main,Kokona,0,0,0,,I wish for this production to \Nbe a success. And...
+Dialogue: 0,0:21:17.45,0:21:20.35,Main,Kokona,0,0,0,,I wish for you to \Nbecome a Dai Star, Yae-chan.
+Dialogue: 0,0:21:21.34,0:21:22.58,Main,Niizuma,0,0,0,,That's...
+Dialogue: 0,0:21:23.86,0:21:25.92,Main,Niizuma,0,0,0,,A very lovely wish.
+Dialogue: 0,0:21:41.54,0:21:43.62,Main,Kathrina,0,0,0,,You're not going to sleep yet?
+Dialogue: 0,0:21:43.62,0:21:44.47,Main,Panda,0,0,0,,No, it's just...
+Dialogue: 0,0:21:44.47,0:21:47.58,Main,Panda,0,0,0,,Something still doesn't sit right with me.
+Dialogue: 0,0:21:47.58,0:21:50.16,Main,Panda,0,0,0,,Why was Koko-chan chosen for the lead role?
+Dialogue: 0,0:21:50.98,0:21:53.43,Main,Panda,0,0,0,,Oh... I get it now.
+Dialogue: 0,0:22:00.58,0:22:03.93,Main,Panda,0,0,0,,She's supposed to be... the foil.
+Dialogue: 0,0:23:34.93,0:23:39.93,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Sixth Stage
+Dialogue: 0,0:23:34.93,0:23:39.93,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}No One Is Looking at Me
+Dialogue: 0,0:23:35.87,0:23:39.50,Main,Kokona,0,0,0,,Next time: "No One Is Looking at Me."

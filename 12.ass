@@ -1,0 +1,347 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation:
+Original Editing:
+Original Timing:
+Synch Point:
+Script Updated By:
+Update Details:
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Lyrics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
+Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: Flashback - Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.28,0:00:20.29,Main,Sign,0,0,0,,{\fnTimes New Roman\b1\shad0\bord1\fs20\c&HE3D1BF&\3c&H62343C&\an8)}The Phantom {\c&H240375&}of {\c&HE3D1BF&}the Opera
+Dialogue: 0,0:00:14.06,0:00:16.68,Main,Niizuma,0,0,0,,The show will start once\Ndress rehearsals are over.
+Dialogue: 0,0:00:16.68,0:00:18.54,Main,Panda,0,0,0,,It's finally upon us.
+Dialogue: 0,0:00:18.54,0:00:20.29,Main,Sasuga,0,0,0,,The big performance.
+Dialogue: 0,0:00:22.00,0:00:23.40,Main,Kokona,0,0,0,,Shizuka-chan...
+Dialogue: 0,0:00:26.31,0:00:28.27,Main,Kathrina,0,0,0,,Have more confidence in yourself.
+Dialogue: 0,0:00:28.27,0:00:31.29,Main,Kathrina,0,0,0,,You beat all of us to \Nbecome the Phantom, Kokona.
+Dialogue: 0,0:00:31.29,0:00:33.55,Main,Panda,0,0,0,,And you've rehearsed like crazy.
+Dialogue: 0,0:00:33.55,0:00:37.59,Main,Niizuma,0,0,0,,Even the Phantom\Nisn't that harsh on Christine.
+Dialogue: 0,0:00:37.81,0:00:40.11,Main,Kathrina,0,0,0,,I stopped counting after \Nthe tenth time you said,
+Dialogue: 0,0:00:40.11,0:00:42.96,Main,Kathrina,0,0,0,,"Sorry. Can we do that one more time?"
+Dialogue: 0,0:00:42.96,0:00:44.59,Main,Sasuga,0,0,0,,It was 23 times.
+Dialogue: 0,0:00:46.72,0:00:50.48,Main,Kathrina,0,0,0,,Let's show the Shizuka that's inside of you
+Dialogue: 0,0:00:50.48,0:00:53.85,Main,Kathrina,0,0,0,,what a waste it'd be to miss \Nout on a production like this.
+Dialogue: 0,0:00:54.20,0:00:55.80,Main,Kokona,0,0,0,,Kathrina-chan...
+Dialogue: 0,0:00:58.67,0:00:59.60,Main,Kokona,0,0,0,,Yeah!
+Dialogue: 0,0:01:02.12,0:01:07.04,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}The Two of Us Together
+Dialogue: 0,0:01:08.01,0:01:09.68,Main,Kokona's Mom,0,0,0,,Isn't this exciting, dear?
+Dialogue: 0,0:01:09.68,0:01:10.49,Main,Kokona's Dad,0,0,0,,Yes.
+Dialogue: 0,0:01:10.49,0:01:13.25,Main - Italics,Koyomi,0,0,0,,SIRIUS's {\i0}The Phantom of the Opera{\i1}...
+Dialogue: 0,0:01:13.25,0:01:16.88,Main - Italics,Koyomi,0,0,0,,The last time I saw this was when \NNoa Hiiragi was starring.
+Dialogue: 0,0:01:17.26,0:01:20.62,Main,Iroha,0,0,0,,I'm excited to see\Nwhat the Phantom will be like.
+Dialogue: 0,0:01:20.62,0:01:24.03,Main,Mito,0,0,0,,Yeah, yeah! I'm getting excited, too.
+Dialogue: 0,0:01:24.31,0:01:26.85,Main,Hatsumi,0,0,0,,The star is that rather dry Aladdin...
+Dialogue: 0,0:01:26.85,0:01:29.94,Main,Hatsumi,0,0,0,,I hope you're able to \Nquench my thirst today.
+Dialogue: 0,0:01:30.27,0:01:32.15,Main,Sign,0,0,0,,{\fad(1,230)\fnTimes New Roman\b1\shad0\bord0\fs10\c&H423C41&\3c&H62343C&\frz341.4\pos(285.091,327.818)}The Phantom {\c&H0D0426&}of {\c&H423C41&}the Opera
+Dialogue: 0,0:01:35.92,0:01:38.15,Main,Chikage,0,0,0,,Huh?! Y-Y-You're—
+Dialogue: 0,0:01:37.53,0:01:38.53,Overlap,Theresa,0,0,0,,Shh.
+Dialogue: 0,0:01:38.53,0:01:40.52,Main,Theresa,0,0,0,,I haven't told my daughter I'm here.
+Dialogue: 0,0:01:46.63,0:01:48.74,Main,Shamo,0,0,0,,How is our confidence level?
+Dialogue: 0,0:01:48.74,0:01:51.78,Main,Hiiragi,0,0,0,,We won't know until the curtain rises.
+Dialogue: 0,0:01:52.16,0:01:56.67,Main,Shamo,0,0,0,,It's rare to hear you sound so unsure.
+Dialogue: 0,0:01:56.67,0:02:00.05,Main,Hiiragi,0,0,0,,I can't get Kokona's \Nperformance out of my head.
+Dialogue: 0,0:02:00.75,0:02:05.15,Main,Hiiragi,0,0,0,,A Phantom of mixed yearning and hatred.
+Dialogue: 0,0:02:05.59,0:02:09.09,Main,Hiiragi,0,0,0,,When they said Shizuka disappeared, \Nit became obvious.
+Dialogue: 0,0:02:10.00,0:02:13.26,Main,Hiiragi,0,0,0,,Producing a World Dai Star here at SIRIUS...
+Dialogue: 0,0:02:13.91,0:02:17.78,Main,Hiiragi,0,0,0,,That selfish desire of mine \Nmay have taken the Sense...
+Dialogue: 0,0:02:18.40,0:02:20.76,Main,Hiiragi,0,0,0,,may have taken Shizuka from Kokona.
+Dialogue: 0,0:02:22.18,0:02:27.82,Main,Hiiragi,0,0,0,,But even so, I didn't recast\Nthe play because I still wanted to see
+Dialogue: 0,0:02:27.82,0:02:30.00,Main,Hiiragi,0,0,0,,the Phantom that Kokona would play.
+Dialogue: 0,0:02:30.61,0:02:34.80,Main,Hiiragi,0,0,0,,Even if it means she loses her Sense.
+Dialogue: 0,0:02:36.61,0:02:39.37,Main,Shamo,0,0,0,,Senses represent possibility.
+Dialogue: 0,0:02:41.09,0:02:44.27,Main,Shamo,0,0,0,,The ability to make dreams come true.
+Dialogue: 0,0:02:44.76,0:02:48.50,Main,Shamo,0,0,0,,They're incredible, blinding powers.
+Dialogue: 0,0:02:53.91,0:02:57.17,Main,Shamo,0,0,0,,Let us believe in those girls' brilliance.
+Dialogue: 0,0:03:08.50,0:03:10.21,Main,Sasuga (Sorelli),0,0,0,,Nineteenth century Paris.
+Dialogue: 0,0:03:10.79,0:03:14.81,Main,Sasuga (Sorelli),0,0,0,,Strange rumors are afoot\Nabout the opera house.
+Dialogue: 0,0:03:15.33,0:03:19.38,Main,Sasuga (Sorelli),0,0,0,,Rumors... of the Phantom.
+Dialogue: 0,0:03:20.02,0:03:23.67,Main,Sasuga (Sorelli),0,0,0,,Everyone at the opera house knows of him,
+Dialogue: 0,0:03:23.96,0:03:28.38,Main,Sasuga (Sorelli),0,0,0,,but no one has ever actually seen him.
+Dialogue: 0,0:03:29.37,0:03:33.31,Main,Sasuga (Sorelli),0,0,0,,Now, listen carefully.
+Dialogue: 0,0:03:37.43,0:03:39.18,Main,Sasuga (Sorelli),0,0,0,,Don't you hear it?
+Dialogue: 0,0:03:39.43,0:03:43.26,Main,Sasuga (Sorelli),0,0,0,,The sad but beautiful song of the Phantom.
+Dialogue: 0,0:03:47.27,0:03:50.17,Main,Panda (Carlotta),0,0,0,,Christine! Christine!
+Dialogue: 0,0:03:50.17,0:03:51.71,Main,Niizuma (Christine),0,0,0,,Y-Yes, ma'am!
+Dialogue: 0,0:03:52.12,0:03:55.17,Main,Panda (Carlotta),0,0,0,,I'll be counting on you \Nfor tonight's concert as well.
+Dialogue: 0,0:03:55.46,0:03:57.95,Main,Niizuma (Christine),0,0,0,,U-Um, is it really okay for me to do it?
+Dialogue: 0,0:03:57.95,0:04:00.42,Main,Panda (Carlotta),0,0,0,,I'm only asking {\i1}because{\i0} it's you.
+Dialogue: 0,0:04:00.99,0:04:04.22,Main,Panda (Carlotta),0,0,0,,You're the only one worthy \Nof being my "ghost."
+Dialogue: 0,0:04:04.55,0:04:06.85,Main,Niizuma (Christine),0,0,0,,Of course! I'll sing from \Nthe bottom of my heart!
+Dialogue: 0,0:04:06.85,0:04:08.73,Main,Panda (Carlotta),0,0,0,,Now go and hide behind the curtain.
+Dialogue: 0,0:04:13.16,0:04:14.52,Main,Terahara (Moncharmin),0,0,0,,Carlotta.
+Dialogue: 0,0:04:15.89,0:04:20.40,Main,Panda (Carlotta),0,0,0,,She's a terrible actress, \Nbut she's quite the songstress.
+Dialogue: 0,0:04:20.40,0:04:22.85,Main,Panda (Carlotta),0,0,0,,I'll be making good use of her for a while.
+Dialogue: 0,0:04:24.49,0:04:26.23,Main,Panda (Carlotta),0,0,0,,Now, everyone!
+Dialogue: 0,0:04:26.23,0:04:30.32,Main,Panda (Carlotta),0,0,0,,Tonight's concert will have distinguished\Nguests from the government in attendance.
+Dialogue: 0,0:04:30.66,0:04:33.00,Main,Panda (Carlotta),0,0,0,,Let's make it a night to remember!
+Dialogue: 0,0:04:44.97,0:04:53.67,Lyrics,Lyrics,0,0,0,,Dust dances around on this old stage
+Dialogue: 0,0:04:54.97,0:05:03.72,Lyrics,Lyrics,0,0,0,,Her crushed toes make the floors creak
+Dialogue: 0,0:05:03.88,0:05:06.62,Main - Italics,Panda,0,0,0,,This is the only time I'll be your foil.
+Dialogue: 0,0:05:04.19,0:05:09.01,Lyrics,Lyrics,0,0,0,,Dance, ballerina
+Dialogue: 0,0:05:09.36,0:05:19.28,Lyrics,Lyrics,0,0,0,,(Inside my mind, inside your mind)
+Dialogue: 0,0:05:11.34,0:05:12.63,Main,Sasuga,0,0,0,,Kokona...
+Dialogue: 0,0:05:13.84,0:05:16.13,Flashback,Sasuga,0,0,0,,Shizuka mentioned to me before
+Dialogue: 0,0:05:16.68,0:05:20.38,Flashback,Sasuga,0,0,0,,that she shouldn't have gone up\Non stage like she did
+Dialogue: 0,0:05:19.28,0:05:29.21,Lyrics,Lyrics,0,0,0,,This empty audience, the soundless cheers
+Dialogue: 0,0:05:20.79,0:05:23.47,Flashback,Sasuga,0,0,0,,during {\i1}The Tale of the Bamboo Cutter{\i0}.
+Dialogue: 0,0:05:23.47,0:05:24.25,Flashback,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:05:24.65,0:05:29.48,Flashback,Sasuga,0,0,0,,When I watch you play the Phantom, \Nit reminds me of Shizuka back then.
+Dialogue: 0,0:05:29.21,0:05:38.60,Lyrics,Lyrics,0,0,0,,The clock begins to move; now rise, curtain
+Dialogue: 0,0:05:29.98,0:05:34.54,Flashback,Sasuga,0,0,0,,Like the Phantom who bestowed Christine \Nwith his dreams and vanished.
+Dialogue: 0,0:05:35.66,0:05:39.52,Flashback,Sasuga,0,0,0,,It'd be weird to have a Sense\Nthat only exists to disappear, right?
+Dialogue: 0,0:05:38.60,0:05:44.34,Lyrics,Lyrics,0,0,0,,She sways back and forth
+Dialogue: 0,0:05:39.52,0:05:40.72,Flashback,Sasuga,0,0,0,,That's nonsense.
+Dialogue: 0,0:05:42.45,0:05:43.22,Flashback,Kokona,0,0,0,,Yeah.
+Dialogue: 0,0:05:44.34,0:05:53.85,Lyrics,Lyrics,0,0,0,,In the moonlight, her shining beads \Nof sweat resemble jewels
+Dialogue: 0,0:05:45.19,0:05:47.52,Main - Italics,Kokona,0,0,0,,Shizuka-chan, I...
+Dialogue: 0,0:05:48.09,0:05:51.73,Main - Italics,Kokona,0,0,0,,I have so much I need to tell you.
+Dialogue: 0,0:05:53.85,0:06:02.40,Lyrics,Lyrics,0,0,0,,Pas de chat un deux trois, \Nuntil the day she can shine
+Dialogue: 0,0:06:05.92,0:06:08.06,Main,Terahara (Moncharmin),0,0,0,,Everyone, please stay calm!
+Dialogue: 0,0:06:08.06,0:06:10.21,Main,Terahara (Moncharmin),0,0,0,,That was just a little accident.
+Dialogue: 0,0:06:11.70,0:06:13.11,Main,Panda (Carlotta),0,0,0,,Why...
+Dialogue: 0,0:06:13.11,0:06:15.71,Main,Terahara (Moncharmin),0,0,0,,Richard! Take care of Carlotta.
+Dialogue: 0,0:06:23.92,0:06:27.14,Main,Kokona (Phantom),0,0,0,,The defiler of opera has exited the stage.
+Dialogue: 0,0:06:27.59,0:06:30.15,Main,Niizuma (Christine),0,0,0,,That voice... Are you the angel?
+Dialogue: 0,0:06:30.15,0:06:31.67,Main,Kokona (Phantom),0,0,0,,Do not turn around.
+Dialogue: 0,0:06:32.07,0:06:36.47,Main,Kokona (Phantom),0,0,0,,The show must go on. \NDo not let the performance stop.
+Dialogue: 0,0:06:37.52,0:06:40.36,Main,Niizuma (Christine),0,0,0,,What should I do?
+Dialogue: 0,0:06:40.67,0:06:43.42,Main,Kokona (Phantom),0,0,0,,Let them hear you sing.
+Dialogue: 0,0:06:43.95,0:06:44.79,Main,Niizuma (Christine),0,0,0,,But...
+Dialogue: 0,0:06:45.20,0:06:47.81,Main,Kokona (Phantom),0,0,0,,Don't worry. I know you can do it.
+Dialogue: 0,0:06:49.13,0:06:50.93,Main,Kokona (Phantom),0,0,0,,Believe in me.
+Dialogue: 0,0:06:55.29,0:07:03.57,Lyrics,Lyrics,0,0,0,,Dust dances around on this old stage
+Dialogue: 0,0:07:05.04,0:07:09.58,Lyrics,Lyrics,0,0,0,,Her crushed toes...
+Dialogue: 0,0:07:12.03,0:07:15.58,Main,Kathrina (Raoul),0,0,0,,Oh? Isn't this Christine's dressing room?
+Dialogue: 0,0:07:15.58,0:07:19.35,Main,Sasuga (Sorelli),0,0,0,,It is. Do you need something from her?
+Dialogue: 0,0:07:19.35,0:07:20.16,Main,Niizuma (Christine),0,0,0,,Who are you?
+Dialogue: 0,0:07:20.69,0:07:23.69,Main,Kathrina (Raoul),0,0,0,,Christine! Do you remember me?
+Dialogue: 0,0:07:24.72,0:07:27.36,Main - Top,Kathrina (Raoul),0,0,0,,Maybe this will refresh your memory...
+Dialogue: 0,0:07:27.84,0:07:30.96,Main - Top,Kathrina (Raoul),0,0,0,,I'm the boy who retrieved\Nyour scarf from the ocean.
+Dialogue: 0,0:07:28.78,0:07:34.79,Main - Italics,Kokona,0,0,0,,I've been able to take the stage because \Nit's where Shizuka-chan saw me off.
+Dialogue: 0,0:07:31.34,0:07:34.11,Main - Top,Niizuma (Christine),0,0,0,,Raoul?! Is that you, Raoul?
+Dialogue: 0,0:07:39.05,0:07:41.58,Main,Niizuma (Christine),0,0,0,,Did you hear something just now?
+Dialogue: 0,0:07:41.58,0:07:43.61,Main,Kathrina (Raoul),0,0,0,,Hmm? No, nothing.
+Dialogue: 0,0:07:47.11,0:07:51.45,Main - Italics,Kokona,0,0,0,,But I had no idea how Shizuka-chan felt.
+Dialogue: 0,0:07:52.20,0:07:54.84,Main - Italics,Kokona,0,0,0,,So one more time...
+Dialogue: 0,0:07:56.35,0:07:57.73,Main,Kokona (Phantom),0,0,0,,Christine.
+Dialogue: 0,0:07:58.74,0:08:01.56,Main,Kokona (Phantom),0,0,0,,You wanted to see me, didn't you?
+Dialogue: 0,0:08:01.56,0:08:02.90,Main,Niizuma (Christine),0,0,0,,Y-Yes...
+Dialogue: 0,0:08:03.29,0:08:06.08,Main,Kokona (Phantom),0,0,0,,Then I shall invite you to my dwelling.
+Dialogue: 0,0:08:06.61,0:08:11.14,Main,Kokona (Phantom),0,0,0,,Behold how you look in that mirror!
+Dialogue: 0,0:08:20.26,0:08:23.61,Lyrics,Lyrics,0,0,0,,I'm drowning...
+Dialogue: 0,0:08:24.30,0:08:27.93,Lyrics,Lyrics,0,0,0,,I'm melting...
+Dialogue: 0,0:08:28.48,0:08:32.16,Lyrics,Lyrics,0,0,0,,Into you...
+Dialogue: 0,0:08:34.23,0:08:35.56,Lyrics,Lyrics,0,0,0,,Inside this dream
+Dialogue: 0,0:08:35.56,0:08:36.54,Lyrics,Lyrics,0,0,0,,Inside this dream
+Dialogue: 0,0:08:36.54,0:08:37.54,Lyrics,Lyrics,0,0,0,,I question
+Dialogue: 0,0:08:37.54,0:08:38.48,Lyrics,Lyrics,0,0,0,,I call you
+Dialogue: 0,0:08:38.48,0:08:42.65,Lyrics,Lyrics,0,0,0,,You sing praises of my name,\N just who are you?
+Dialogue: 0,0:08:42.65,0:08:43.79,Lyrics,Lyrics,0,0,0,,Can you hear me?
+Dialogue: 0,0:08:43.79,0:08:44.85,Lyrics,Lyrics,0,0,0,,I can hear you
+Dialogue: 0,0:08:44.85,0:08:46.87,Lyrics,Lyrics,0,0,0,,It's the beginning of this despair
+Dialogue: 0,0:08:46.87,0:08:50.67,Lyrics,Lyrics,0,0,0,,The curtain rises on this darkness
+Dialogue: 0,0:08:50.67,0:08:53.47,Lyrics,Lyrics,0,0,0,,I'm scared
+Dialogue: 0,0:08:53.47,0:08:54.94,Lyrics,Lyrics,0,0,0,,Even fear...
+Dialogue: 0,0:08:54.94,0:08:57.52,Lyrics,Lyrics,0,0,0,,It's not fair
+Dialogue: 0,0:08:57.52,0:08:59.82,Lyrics,Lyrics,0,0,0,,...can be sweet
+Dialogue: 0,0:08:59.82,0:09:06.95,Lyrics,Lyrics,0,0,0,,My heart commits a taboo, aah
+Dialogue: 0,0:09:03.05,0:09:06.97,Main - Italics,Kudo,0,0,0,,Wait... We didn't prepare \Nanything like that.
+Dialogue: 0,0:09:07.26,0:09:10.31,Lyrics,Lyrics,0,0,0,,You are my angel
+Dialogue: 0,0:09:10.31,0:09:15.28,Lyrics,Lyrics,0,0,0,,Two shadows overlap as this melody wavers
+Dialogue: 0,0:09:15.28,0:09:18.89,Main - Italics,Niizuma,0,0,0,,This feeling... It was the \Nsame way with Theresa-san.
+Dialogue: 0,0:09:15.28,0:09:19.28,Lyrics,Lyrics,0,0,0,,Until we fall into the abyss
+Dialogue: 0,0:09:19.28,0:09:23.39,Lyrics,Lyrics,0,0,0,,I will swear myself to you for eternity
+Dialogue: 0,0:09:23.39,0:09:26.35,Lyrics,Lyrics,0,0,0,,Even our sins can be hidden
+Dialogue: 0,0:09:25.02,0:09:28.81,Main - Italics,Theresa,0,0,0,,Expressiveness polished\Nto the limit via one's Sense
+Dialogue: 0,0:09:26.35,0:09:30.46,Lyrics,Lyrics,0,0,0,,In this masquerade
+Dialogue: 0,0:09:28.81,0:09:31.91,Main - Italics,Theresa,0,0,0,,allows an actor to show everyone\Nthe world they imagine.
+Dialogue: 0,0:09:30.46,0:09:33.92,Lyrics,Lyrics,0,0,0,,I'm drowning...
+Dialogue: 0,0:09:32.51,0:09:34.43,Main,Hiiragi,0,0,0,,Her Sense evolved...
+Dialogue: 0,0:09:34.56,0:09:38.04,Lyrics,Lyrics,0,0,0,,I'm melting...
+Dialogue: 0,0:09:43.75,0:09:45.31,Main,Kokona (Phantom),0,0,0,,I always have the same dream...
+Dialogue: 0,0:09:46.76,0:09:51.61,Main,Kokona (Phantom),0,0,0,,I'm walking under the sun\Nwith nothing to hide.
+Dialogue: 0,0:09:53.38,0:09:56.65,Main,Kokona (Phantom),0,0,0,,I can dine out like normal people do.
+Dialogue: 0,0:09:57.22,0:10:00.99,Main,Kokona (Phantom),0,0,0,,I go to mass on Sundays and pray to God.
+Dialogue: 0,0:10:03.30,0:10:09.78,Main,Kokona (Phantom),0,0,0,,No matter how unsightly I am,\NI still seek the light.
+Dialogue: 0,0:10:11.84,0:10:13.95,Main,Niizuma (Christine),0,0,0,,Is there anything wrong with that?
+Dialogue: 0,0:10:17.17,0:10:21.87,Main,Niizuma (Christine),0,0,0,,I'm sorry I was so startled earlier.\NI won't run away again.
+Dialogue: 0,0:10:23.56,0:10:28.01,Main,Niizuma (Christine),0,0,0,,So please, show me your face once more.
+Dialogue: 0,0:10:31.84,0:10:33.17,Flashback,Kokona,0,0,0,,I see.
+Dialogue: 0,0:10:33.17,0:10:36.07,Flashback,Kokona,0,0,0,,I thought the Phantom\Nwas being indifferent here
+Dialogue: 0,0:10:36.07,0:10:38.44,Flashback,Kokona,0,0,0,,because he didn't want \Nto talk about the past, but...
+Dialogue: 0,0:10:38.66,0:10:40.98,Flashback,Shizuka,0,0,0,,I don't think that's the only reason.
+Dialogue: 0,0:10:40.98,0:10:46.89,Flashback,Shizuka,0,0,0,,I think he loves spending time with \NChristine and wants to make the most of it.
+Dialogue: 0,0:10:47.33,0:10:50.55,Flashback,Shizuka,0,0,0,,I realized that after hearing\Nyour interpretation of the Phantom.
+Dialogue: 0,0:10:50.97,0:10:53.59,Flashback,Kokona,0,0,0,,You really are amazing, Shizuka-chan!
+Dialogue: 0,0:10:53.59,0:10:56.50,Flashback,Shizuka,0,0,0,,Again, {\i1}you'll{\i0} be the one\Nplaying the part, Kokona.
+Dialogue: 0,0:10:57.30,0:11:00.41,Flashback,Kokona,0,0,0,,Though it'd be the best if we \Ncould perform together.
+Dialogue: 0,0:11:13.95,0:11:15.01,Main,Shizuka,0,0,0,,Kokona...
+Dialogue: 0,0:11:16.02,0:11:21.02,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:11:24.03,0:11:25.36,Main,Kokona,0,0,0,,Shizuka-chan.
+Dialogue: 0,0:11:30.70,0:11:33.37,Main,Shizuka,0,0,0,,Should the Phantom be here?
+Dialogue: 0,0:11:34.42,0:11:38.17,Main,Shizuka,0,0,0,,You're not done yet, but it's \Nbeen a great performance so far.
+Dialogue: 0,0:11:38.17,0:11:41.58,Main,Shizuka,0,0,0,,Far better than when \Nwe rehearsed it together.
+Dialogue: 0,0:11:42.11,0:11:45.80,Main,Shizuka,0,0,0,,You really could become\Na World Dai Star, Kokona.
+Dialogue: 0,0:11:46.15,0:11:48.23,Main,Kokona,0,0,0,,I will someday.
+Dialogue: 0,0:11:50.70,0:11:55.43,Main,Kokona,0,0,0,,The truth is, somewhere deep inside, \NI didn't think I could do it.
+Dialogue: 0,0:11:55.43,0:11:58.43,Main,Kokona,0,0,0,,I was entirely self-taught before SIRIUS,
+Dialogue: 0,0:11:58.43,0:12:01.58,Main,Kokona,0,0,0,,and at auditions, I always I got told \NI didn't have any Sense...
+Dialogue: 0,0:12:02.66,0:12:04.98,Main,Kokona,0,0,0,,I didn't believe in myself.
+Dialogue: 0,0:12:05.77,0:12:11.82,Main,Kokona,0,0,0,,That's why I forgot about you\N and the promise we made.
+Dialogue: 0,0:12:13.75,0:12:17.66,Main,Kokona,0,0,0,,But I believe now,\Nfrom the bottom of my heart.
+Dialogue: 0,0:12:18.44,0:12:20.84,Main,Kokona,0,0,0,,Because we promised each other.
+Dialogue: 0,0:12:20.84,0:12:24.52,Main,Kokona,0,0,0,,You can't make a promise without two people.
+Dialogue: 0,0:12:26.75,0:12:30.27,Main,Kokona,0,0,0,,You said this was my story, Shizuka-chan...
+Dialogue: 0,0:12:31.05,0:12:33.34,Main,Kokona,0,0,0,,But it's actually {\i1}our{\i0} story.
+Dialogue: 0,0:12:50.47,0:12:52.39,Main,Kokona,0,0,0,,What do you want to do, Shizuka-chan?
+Dialogue: 0,0:12:56.33,0:12:59.46,Flashback - Italics,Young Kokona,0,0,0,,Someday, let's take the stage together!
+Dialogue: 0,0:13:03.36,0:13:05.01,Flashback - Italics,Young Kokona,0,0,0,,It's a promise.
+Dialogue: 0,0:13:05.01,0:13:05.78,Flashback - Italics,Young Shizuka,0,0,0,,Yeah.
+Dialogue: 0,0:13:06.38,0:13:08.00,Main,Shizuka,0,0,0,,It's a promise.
+Dialogue: 0,0:13:12.15,0:13:16.14,Main,Shizuka,0,0,0,,I want to be up there... \Nalongside you, Kokona.
+Dialogue: 0,0:13:17.91,0:13:21.04,Main,Kokona,0,0,0,,Let's go back to our stage!
+Dialogue: 0,0:13:32.87,0:13:34.75,Main,Kathrina (Raoul),0,0,0,,I will protect you.
+Dialogue: 0,0:13:35.82,0:13:38.33,Main,Kathrina (Raoul),0,0,0,,I will free you from that monster!
+Dialogue: 0,0:13:42.47,0:13:44.70,Main,Kathrina (Raoul),0,0,0,,I will become your light.
+Dialogue: 0,0:13:50.86,0:13:53.62,Main,Kokona (Phantom),0,0,0,,I'm the one who gave you music.
+Dialogue: 0,0:13:54.80,0:13:58.28,Main,Kokona (Phantom),0,0,0,,I'm the one who rekindled your passion.
+Dialogue: 0,0:13:58.84,0:14:01.25,Main,Kokona (Phantom),0,0,0,,And {\i1}this{\i0} is what I get in return?
+Dialogue: 0,0:14:02.09,0:14:06.05,Main,Kokona (Phantom),0,0,0,,I won't stand for this...\NI will not tolerate it!
+Dialogue: 0,0:14:06.91,0:14:10.06,Main,Kokona (Phantom),0,0,0,,May divine punishment befall\Nthose who betrayed me!
+Dialogue: 0,0:14:26.43,0:14:31.21,Main,Kokona (Phantom),0,0,0,,I've written both a wedding hymn \Nand a funeral's requiem!
+Dialogue: 0,0:14:31.64,0:14:33.72,Main,Kokona (Phantom),0,0,0,,I can play either!
+Dialogue: 0,0:14:34.19,0:14:35.22,Main,Niizuma (Christine),0,0,0,,Please stop...
+Dialogue: 0,0:14:35.22,0:14:40.36,Main,Kokona (Phantom),0,0,0,,Will we all die together, or will you \Nspend the rest of your life with me?
+Dialogue: 0,0:14:40.36,0:14:41.70,Main,Kokona (Phantom),0,0,0,,The choice is yours!
+Dialogue: 0,0:14:41.70,0:14:42.69,Main,Niizuma (Christine),0,0,0,,Stop!
+Dialogue: 0,0:14:44.71,0:14:49.11,Main,Niizuma (Christine),0,0,0,,I would've chosen you\Neven if you hadn't done all this.
+Dialogue: 0,0:14:49.11,0:14:50.10,Main,Kokona (Phantom),0,0,0,,You're lying!
+Dialogue: 0,0:14:50.10,0:14:50.86,Main,Niizuma (Christine),0,0,0,,I'm not!
+Dialogue: 0,0:14:50.86,0:14:52.29,Main,Kokona (Phantom),0,0,0,,That can't be true!
+Dialogue: 0,0:14:52.29,0:14:54.79,Main,Kokona (Phantom),0,0,0,,You ran away from me!
+Dialogue: 0,0:14:54.79,0:14:57.53,Main,Kokona (Phantom),0,0,0,,You saw my face and fled!
+Dialogue: 0,0:14:58.09,0:15:00.79,Main,Niizuma (Christine),0,0,0,,I was just startled at first.
+Dialogue: 0,0:15:00.79,0:15:02.87,Main,Niizuma (Christine),0,0,0,,I'll never fear you again.
+Dialogue: 0,0:15:08.03,0:15:12.70,Main,Niizuma (Christine),0,0,0,,Because you're the one who gave me music.
+Dialogue: 0,0:15:13.31,0:15:16.12,Main,Niizuma (Christine),0,0,0,,You're my angel of music.
+Dialogue: 0,0:15:17.20,0:15:19.99,Main,Niizuma (Christine),0,0,0,,And... you're not alone anymore.
+Dialogue: 0,0:15:34.12,0:15:36.33,Main,Kokona (Phantom),0,0,0,,Why did you kiss me?
+Dialogue: 0,0:15:38.06,0:15:40.30,Main,Niizuma (Christine),0,0,0,,Because I love you.
+Dialogue: 0,0:15:47.34,0:15:49.09,Main,Niizuma (Christine),0,0,0,,Raoul! Are you all right?!
+Dialogue: 0,0:15:49.61,0:15:51.81,Main,Kathrina (Raoul),0,0,0,,Yeah, I'm fine.
+Dialogue: 0,0:15:52.73,0:15:56.52,Main,Kathrina (Raoul),0,0,0,,Christine, do you really...
+Dialogue: 0,0:16:00.96,0:16:03.93,Main,Niizuma (Christine),0,0,0,,Everyone must be worried. Let's go.
+Dialogue: 0,0:16:04.75,0:16:07.22,Main,Niizuma (Christine),0,0,0,,If you could work up the courage \Nto take one step forward,
+Dialogue: 0,0:16:07.73,0:16:10.59,Main,Niizuma (Christine),0,0,0,,I think the people would understand you.
+Dialogue: 0,0:16:12.64,0:16:17.04,Main,Kokona (Phantom),0,0,0,,Christine... I have a request for you.
+Dialogue: 0,0:16:17.94,0:16:19.02,Main,Niizuma (Christine),0,0,0,,What is it?
+Dialogue: 0,0:16:20.65,0:16:25.35,Main,Kokona (Phantom),0,0,0,,Tonight, onstage, will you sing \Nthis song that I wrote?
+Dialogue: 0,0:16:25.75,0:16:28.38,Main,Kokona (Phantom),0,0,0,,It's the song we used in our lessons.
+Dialogue: 0,0:16:29.24,0:16:33.01,Main,Niizuma (Christine),0,0,0,,I'll ask if they'll let me sing it\N at the curtain call.
+Dialogue: 0,0:16:34.15,0:16:35.23,Main,Kokona (Phantom),0,0,0,,Thank you.
+Dialogue: 0,0:16:36.16,0:16:39.63,Main,Kokona (Phantom),0,0,0,,Viscount Raoul, take Christine back.
+Dialogue: 0,0:16:39.94,0:16:42.79,Main,Kokona (Phantom),0,0,0,,I must defuse the bomb I set up.
+Dialogue: 0,0:16:42.79,0:16:44.42,Main,Kathrina (Raoul),0,0,0,,All right, I will.
+Dialogue: 0,0:16:48.21,0:16:49.33,Main,Niizuma (Christine),0,0,0,,Phantom!
+Dialogue: 0,0:16:50.44,0:16:54.39,Main,Kokona (Phantom),0,0,0,,Erik... That's my real name.
+Dialogue: 0,0:16:55.16,0:16:56.39,Main,Niizuma (Christine),0,0,0,,Erik...
+Dialogue: 0,0:16:57.53,0:17:01.56,Main,Niizuma (Christine),0,0,0,,Erik, you'll come hear me sing, won't you?
+Dialogue: 0,0:17:03.33,0:17:05.60,Main,Kokona (Phantom),0,0,0,,I wouldn't miss it.
+Dialogue: 0,0:17:22.78,0:17:28.77,Main,Kokona (Phantom),0,0,0,,That's enough. I can't keep \Nher tied down any longer.
+Dialogue: 0,0:17:33.60,0:17:39.27,Main,Kokona (Phantom),0,0,0,,This is the first time in my life\NI've ever been glad that I was born.
+Dialogue: 0,0:17:43.10,0:17:45.79,Main,Kokona (Phantom),0,0,0,,Thank you, Christine.
+Dialogue: 0,0:17:45.79,0:17:49.47,Main,Kokona (Phantom),0,0,0,,I love you from the bottom of my heart.
+Dialogue: 0,0:17:49.47,0:17:59.06,Lyrics,Lyrics,0,0,0,,This music I just wrote is where my feelings \Ngo when they have nowhere else to go
+Dialogue: 0,0:17:59.06,0:18:08.92,Lyrics,Lyrics,0,0,0,,The faithful metronome continues \Nto carve an unchanging rhythm
+Dialogue: 0,0:18:08.92,0:18:13.71,Lyrics,Lyrics,0,0,0,,Alone and unheard
+Dialogue: 0,0:18:13.71,0:18:21.96,Lyrics,Lyrics,0,0,0,,This lonely yet free melody...
+Dialogue: 0,0:18:21.96,0:18:26.12,Lyrics,Lyrics,0,0,0,,You're the only one who can give it flight...
+Dialogue: 0,0:18:26.12,0:18:27.92,Lyrics,Lyrics,0,0,0,,Can you hear it?
+Dialogue: 0,0:18:28.19,0:18:30.76,Lyrics,Lyrics,0,0,0,,Thank you, goodbye
+Dialogue: 0,0:18:30.76,0:18:37.92,Lyrics,Lyrics,0,0,0,,I give you this farewell \Nsong in parting, my beloved
+Dialogue: 0,0:18:38.34,0:18:47.64,Lyrics,Lyrics,0,0,0,,This single red rose continues to \Nshine beautifully in my memories
+Dialogue: 0,0:18:47.64,0:18:50.20,Lyrics,Lyrics,0,0,0,,Happiness, sadness
+Dialogue: 0,0:18:50.20,0:18:57.73,Lyrics,Lyrics,0,0,0,,So that I never forget them, \NI change my body and soul into music
+Dialogue: 0,0:18:57.73,0:19:05.69,Lyrics,Lyrics,0,0,0,,These wavering days fall into the abyss,\N proving that I was alive
+Dialogue: 0,0:19:05.69,0:19:12.02,Lyrics,Lyrics,0,0,0,,Our eternity starts to play our end
+Dialogue: 0,0:19:39.59,0:19:44.31,Main - Italics,Chikage,0,0,0,,That was amazing. For a moment there,\NI forgot I was watching a play.
+Dialogue: 0,0:19:45.06,0:19:48.33,Main - Italics,Theresa,0,0,0,,We're probably not the only ones who forgot.
+Dialogue: 0,0:19:48.33,0:19:49.99,Main - Italics,Theresa,0,0,0,,I'm sure the performers did, too.
+Dialogue: 0,0:19:50.86,0:19:54.26,Main - Italics,Theresa,0,0,0,,You've gained a wonderful rival, Kathrina.
+Dialogue: 0,0:19:57.98,0:20:01.17,Main,Hatsumi,0,0,0,,My body is tingling?
+Dialogue: 0,0:20:01.17,0:20:02.63,Main,Hatsumi,0,0,0,,SIRIUS really...
+Dialogue: 0,0:20:02.99,0:20:07.65,Main - Italics,Koyomi,0,0,0,,My emotions are conflicted... \NI'm moved but also anxious.
+Dialogue: 0,0:20:07.65,0:20:10.41,Main,Iroha,0,0,0,,Phantom!
+Dialogue: 0,0:20:09.10,0:20:12.39,Overlap,Mito,0,0,0,,That was such a lovely performance!
+Dialogue: 0,0:20:14.40,0:20:18.80,Main,Shamo,0,0,0,,As long as there are actors,\Nthere will always be plays.
+Dialogue: 0,0:20:18.80,0:20:20.78,Main,Shamo,0,0,0,,As long as there are plays,
+Dialogue: 0,0:20:20.78,0:20:25.53,Main,Shamo,0,0,0,,Senses will continue to evolve\Nand actors will shine bright.
+Dialogue: 0,0:20:46.53,0:20:54.36,Main,Shamo,0,0,0,,Wanting to see that light might be \Nwhat brings people to the theater.
+Dialogue: 0,0:20:55.74,0:20:57.29,Main,Hiiragi,0,0,0,,They are truly radiant.
+Dialogue: 0,0:20:57.70,0:21:01.00,Main,Shamo,0,0,0,,You've only gotten started yourself, my dear.
+Dialogue: 0,0:21:20.60,0:21:21.79,Main,Niizuma,0,0,0,,You flatter me.
+Dialogue: 0,0:21:21.79,0:21:24.42,Main,Panda,0,0,0,,No, this is really amazing, Niizumacchi!
+Dialogue: 0,0:21:24.42,0:21:27.13,Main,Panda,0,0,0,,You actually got chosen as a Dai Star!
+Dialogue: 0,0:21:27.13,0:21:29.12,Main,Sasuga,0,0,0,,I want to sleep with it.
+Dialogue: 0,0:21:29.12,0:21:31.43,Main,Panda,0,0,0,,That might actually bring good luck!
+Dialogue: 0,0:21:31.43,0:21:33.06,Main,Panda,0,0,0,,Can we borrow it for a night?
+Dialogue: 0,0:21:33.06,0:21:34.14,Main,Niizuma,0,0,0,,Nope.
+Dialogue: 0,0:21:36.56,0:21:40.12,Main,Kathrina,0,0,0,,Why did Niizuma get it when Kokona's \Nthe one who played the Phantom?
+Dialogue: 0,0:21:40.51,0:21:44.65,Main,Niizuma,0,0,0,,During the play, I was able to channel \NChristine from the bottom of my heart.
+Dialogue: 0,0:21:44.65,0:21:46.77,Main,Panda,0,0,0,,Yeah, I get that.
+Dialogue: 0,0:21:46.77,0:21:50.88,Main,Panda,0,0,0,,We totally got carried away\Nby Koko-chan's Sense.
+Dialogue: 0,0:21:50.88,0:21:54.67,Main,Sasuga,0,0,0,,Being in {\i1}The Phantom of \Nthe Opera{\i0} felt real nice.
+Dialogue: 0,0:21:58.14,0:22:00.08,Main,Kathrina,0,0,0,,That's not what I meant.
+Dialogue: 0,0:22:00.52,0:22:03.89,Main,Panda,0,0,0,,Anyway, I mean,\NKoko-chan's already got quite a record.
+Dialogue: 0,0:22:03.89,0:22:07.22,Main,Panda,0,0,0,,You don't need to get upset on her behalf.
+Dialogue: 0,0:22:07.22,0:22:09.30,Main,Kathrina,0,0,0,,I-I-I'm not doing it for her!
+Dialogue: 0,0:22:09.30,0:22:09.98,Main,Kudo,0,0,0,,Girls!
+Dialogue: 0,0:22:10.67,0:22:12.98,Main,Hiiragi,0,0,0,,We've decided on our next production.
+Dialogue: 0,0:22:12.98,0:22:14.84,Main,Panda,0,0,0,,Will there be another audition?
+Dialogue: 0,0:22:15.08,0:22:18.72,Main,Hiiragi,0,0,0,,If you're overly disappointing, \NI'll fail all of you.
+Dialogue: 0,0:22:18.96,0:22:21.62,Main,Niizuma,0,0,0,,Then would you star instead, Hiiragi-san?
+Dialogue: 0,0:22:21.85,0:22:25.56,Main,Hiiragi,0,0,0,,Well, if you're {\i1}all{\i0} that disappointing...
+Dialogue: 0,0:22:26.36,0:22:29.04,Main,Panda,0,0,0,,Oh, come on. Surely you jest.
+Dialogue: 0,0:22:29.04,0:22:31.68,Main,Panda,0,0,0,,This time, I'm going to be the star!
+Dialogue: 0,0:22:31.68,0:22:33.51,Main,Sasuga,0,0,0,,I got myself some good luck.
+Dialogue: 0,0:22:33.51,0:22:35.61,Main,Panda,0,0,0,,Hey, that's no fair, Sassu!
+Dialogue: 0,0:22:35.61,0:22:38.43,Main,Panda,0,0,0,,Me too! Gimme some good luck!
+Dialogue: 0,0:22:39.52,0:22:41.55,Main,Niizuma,0,0,0,,I hope it brings you great fortune.
+Dialogue: 0,0:22:41.55,0:22:43.00,Main,Hiiragi,0,0,0,,Where are Kokona and Shizuka?
+Dialogue: 0,0:22:49.36,0:22:51.71,Main,Shizuka,0,0,0,,It's so nice and cool...
+Dialogue: 0,0:22:52.26,0:22:55.01,Main,Kokona,0,0,0,,Hey, won't we get in trouble for this?
+Dialogue: 0,0:22:55.42,0:23:00.05,Main,Shizuka,0,0,0,,Kathrina is always using the stage \Nto rehearse, so we should be fine.
+Dialogue: 0,0:23:00.05,0:23:01.79,Main,Kokona,0,0,0,,You think so?
+Dialogue: 0,0:23:02.83,0:23:05.87,Main,Kokona,0,0,0,,I wonder what the next production will be.
+Dialogue: 0,0:23:05.87,0:23:08.24,Main,Shizuka,0,0,0,,Whatever it is, we'll be the stars.
+Dialogue: 0,0:23:08.53,0:23:10.05,Main,Kokona,0,0,0,,W-Wow, you're confident.
+Dialogue: 0,0:23:10.72,0:23:13.45,Main,Shizuka,0,0,0,,Well, we decided we'd take it.
+Dialogue: 0,0:23:29.30,0:23:30.16,Main,Kokona,0,0,0,,Yeah!
+Dialogue: 0,0:23:31.09,0:23:34.01,Main,Sign,0,0,0,,{\fnArial\b1\fs08\frx0\fry350\frz0.6747\shad0\c&H2E2216&\3c&H847A6E&\move(458.097,100,413.764,100)}Become World Dai\N Stars together!!!!
+Dialogue: 0,0:23:34.01,0:23:40.01,Main,Sign,0,0,0,,{\fnArial\b1\fs14\frx0\fry350\frz0.6747\shad0\c&H2E2216&\3c&H847A6E&\pos(384.097,47.164)}Become World Dai Stars together!!!!
+Dialogue: 0,0:23:36.78,0:23:38.40,Main,Kokona and Shizuka,0,0,0,,The two of us together!
