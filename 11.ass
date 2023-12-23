@@ -7,254 +7,243 @@ Synch Point:
 Script Updated By:
 Update Details:
 ScriptType: v4.00+
-Collisions: Normal
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
-Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
-Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
-Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
-Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
-Style: Flashback - Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.94,0:00:10.19,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs18\c&H3B3F46&\3c&H8E908B&\shad0\b1}The Deep Blue Sea Is Everyone's Treasure
-Dialogue: 0,0:00:10.52,0:00:12.20,Main,Kokona,0,0,0,,Wow!
-Dialogue: 0,0:00:12.87,0:00:16.22,Main,Kokona,0,0,0,,We haven't even been away six months,\N but this is so nostalgic.
-Dialogue: 0,0:00:16.22,0:00:17.45,Main,Kokona,0,0,0,,I feel so relaxed now.
-Dialogue: 0,0:00:18.74,0:00:23.08,Main,Kokona,0,0,0,,But should we really be here? \NThe audition is tomorrow...
-Dialogue: 0,0:00:23.46,0:00:25.22,Main,Shizuka,0,0,0,,This is necessary, though.
-Dialogue: 0,0:00:25.53,0:00:26.20,Main,Kokona,0,0,0,,Huh?
-Dialogue: 0,0:00:27.51,0:00:32.70,Main,Shizuka,0,0,0,,Do you remember when you first said you \Nwanted to become a World Dai Star?
-Dialogue: 0,0:00:33.78,0:00:35.24,Main,Kokona,0,0,0,,Um...
-Dialogue: 0,0:00:35.77,0:00:38.59,Main,Kokona,0,0,0,,I think it was about when\NI graduated middle school.
-Dialogue: 0,0:00:38.59,0:00:40.88,Main,Kokona,0,0,0,,I wrote it on my future plans survey at school
-Dialogue: 0,0:00:40.88,0:00:42.84,Main,Kokona,0,0,0,,and my teacher looked so done with me.
-Dialogue: 0,0:00:43.32,0:00:46.99,Main,Kokona,0,0,0,,Oh, but I might've told\Nsomeone in class before that...
-Dialogue: 0,0:00:49.62,0:00:50.53,Main,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:00:02.94,0:00:10.19,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs54\c&H3B3F46&\3c&H8E908B&\shad0\b1}The Deep Blue Sea Is Everyone's Treasure
+Dialogue: 0,0:00:10.52,0:00:12.20,Default,Kokona,0,0,0,,Wow!
+Dialogue: 0,0:00:12.87,0:00:16.22,Default,Kokona,0,0,0,,We haven't even been away six months,\N but this is so nostalgic.
+Dialogue: 0,0:00:16.22,0:00:17.45,Default,Kokona,0,0,0,,I feel so relaxed now.
+Dialogue: 0,0:00:18.74,0:00:23.08,Default,Kokona,0,0,0,,But should we really be here? \NThe audition is tomorrow...
+Dialogue: 0,0:00:23.46,0:00:25.22,Default,Shizuka,0,0,0,,This is necessary, though.
+Dialogue: 0,0:00:25.53,0:00:26.20,Default,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:00:27.51,0:00:32.70,Default,Shizuka,0,0,0,,Do you remember when you first said you \Nwanted to become a World Dai Star?
+Dialogue: 0,0:00:33.78,0:00:35.24,Default,Kokona,0,0,0,,Um...
+Dialogue: 0,0:00:35.77,0:00:38.59,Default,Kokona,0,0,0,,I think it was about when\NI graduated middle school.
+Dialogue: 0,0:00:38.59,0:00:40.88,Default,Kokona,0,0,0,,I wrote it on my future plans survey at school
+Dialogue: 0,0:00:40.88,0:00:42.84,Default,Kokona,0,0,0,,and my teacher looked so done with me.
+Dialogue: 0,0:00:43.32,0:00:46.99,Default,Kokona,0,0,0,,Oh, but I might've told\Nsomeone in class before that...
+Dialogue: 0,0:00:49.62,0:00:50.53,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:00:51.50,0:00:54.34,Flashback,Young Kokona,0,0,0,,I'm going to be a World Dai Star!
 Dialogue: 0,0:00:54.68,0:00:55.90,Flashback,Young Kokona,0,0,0,,That's what I want to be!
-Dialogue: 0,0:00:58.41,0:01:03.13,Main,Kokona,0,0,0,,I told someone even before that...
-Dialogue: 0,0:01:03.92,0:01:07.23,Main,Shizuka,0,0,0,,Well, I figured you didn't remember, but...
-Dialogue: 0,0:01:08.51,0:01:11.47,Main,Shizuka,0,0,0,,I'll tell you what you're missing, Kokona.
-Dialogue: 0,0:01:11.47,0:01:12.16,Main,Kokona,0,0,0,,Huh?
-Dialogue: 0,0:01:17.50,0:01:19.23,Main,Shizuka,0,0,0,,The great age of theater...
-Dialogue: 0,0:01:20.12,0:01:24.76,Main,Shizuka,0,0,0,,This is the story of how to make\N one girl's dream come true.
-Dialogue: 0,0:01:39.32,0:01:44.66,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:57.15,0:03:02.03,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}Our Promise
-Dialogue: 0,0:03:02.95,0:03:06.70,Main,Shizuka,0,0,0,,There was once a town\Nthat was the beating heart of theater.
-Dialogue: 0,0:03:06.70,0:03:10.79,Main,Shizuka,0,0,0,,A town where actors and actresses \Nplayed all kinds of roles,
-Dialogue: 0,0:03:10.79,0:03:13.46,Main,Shizuka,0,0,0,,bringing countless stories to life.
-Dialogue: 0,0:03:15.93,0:03:19.75,Main,Shizuka,0,0,0,,A certain young girl lived there as well.
-Dialogue: 0,0:03:20.50,0:03:24.36,Main,Shizuka,0,0,0,,She loved picture books and the \Nstories her parents would tell her.
-Dialogue: 0,0:03:25.05,0:03:30.85,Main,Shizuka,0,0,0,,Eventually, she would become a storyteller\Ntoo and try various roles herself.
-Dialogue: 0,0:03:31.43,0:03:33.08,Main,Kokona,0,0,0,,That's...
-Dialogue: 0,0:03:34.36,0:03:36.83,Main,Shizuka,0,0,0,,That was when the girl first saw...
-Dialogue: 0,0:03:37.93,0:03:40.93,Main,Shizuka,0,0,0,,a production put on by \Nactors called Dai Stars.
-Dialogue: 0,0:03:45.70,0:03:50.03,Main,Shizuka,0,0,0,,From that moment on,\Nshe was captivated by the stage.
-Dialogue: 0,0:03:51.12,0:03:53.62,Main,Shizuka,0,0,0,,She went to the theater over and over
-Dialogue: 0,0:03:54.08,0:03:56.74,Main,Shizuka,0,0,0,,and reenacted the plays she saw there.
-Dialogue: 0,0:03:57.37,0:04:01.39,Main,Shizuka,0,0,0,,Sometimes, she was a knight \Nwho swore fealty to the king.
-Dialogue: 0,0:04:01.74,0:04:05.49,Main,Shizuka,0,0,0,,Others, she was a young man madly in love.
-Dialogue: 0,0:04:07.66,0:04:09.79,Main,Shizuka,0,0,0,,She'd get too into her role on occasion
-Dialogue: 0,0:04:09.79,0:04:12.01,Main,Shizuka,0,0,0,,and cause trouble for the people around her.
-Dialogue: 0,0:04:13.77,0:04:16.19,Main,Shizuka,0,0,0,,Those were fun and happy days for her...
-Dialogue: 0,0:04:16.84,0:04:20.12,Main,Shizuka,0,0,0,,But they didn't last long.
-Dialogue: 0,0:04:20.71,0:04:22.19,Main,Shizuka (Young Kokona),0,0,0,,We're moving?
-Dialogue: 0,0:04:23.27,0:04:26.97,Main,Shizuka (Young Kokona),0,0,0,,Our house will be smaller than it is now?
-Dialogue: 0,0:04:27.52,0:04:30.28,Main,Shizuka (Young Kokona),0,0,0,,But why? What about theater?
-Dialogue: 0,0:04:31.64,0:04:35.29,Main,Shizuka (Young Kokona),0,0,0,,I see... The ocean?
-Dialogue: 0,0:04:35.29,0:04:37.59,Main,Shizuka (Young Kokona),0,0,0,,Yeah, that sounds fun.
-Dialogue: 0,0:04:39.14,0:04:45.31,Main,Shizuka (Young Kokona),0,0,0,,It's okay. I'll just go to see plays\N by saving up my allowance.
-Dialogue: 0,0:04:47.24,0:04:51.17,Main,Shizuka,0,0,0,,And so the girl arrived in a new town\Nwhere the sea and sky stretched out forever.
-Dialogue: 0,0:04:51.74,0:04:55.72,Main,Shizuka,0,0,0,,The scenery was unfamiliar,\Nand so were the people.
-Dialogue: 0,0:04:55.72,0:04:59.02,Main,Shizuka,0,0,0,,The theater was so far away,
-Dialogue: 0,0:04:59.02,0:05:01.44,Main,Shizuka,0,0,0,,she had to take multiple trains to reach it.
-Dialogue: 0,0:05:02.28,0:05:06.61,Main,Shizuka,0,0,0,,Her parents were busy and didn't \Ncome home until late into the evenings.
-Dialogue: 0,0:05:08.44,0:05:12.71,Main,Shizuka,0,0,0,,On top of that... she had trouble\Nmaking friends right away.
-Dialogue: 0,0:05:17.85,0:05:20.98,Main,Shizuka,0,0,0,,She was bored to tears when she was alone.
-Dialogue: 0,0:05:23.60,0:05:24.95,Main,Kokona,0,0,0,,That's right.
-Dialogue: 0,0:05:26.49,0:05:27.65,Main,Kokona,0,0,0,,I...
-Dialogue: 0,0:05:59.38,0:06:02.75,Main,Shizuka,0,0,0,,The little girl recalled the plays she'd seen
-Dialogue: 0,0:06:03.53,0:06:09.45,Main,Shizuka,0,0,0,,and brought that dream world back to her, \None performance at a time.
-Dialogue: 0,0:06:13.31,0:06:16.48,Main,Shizuka,0,0,0,,Day after day, she never tired of it.
-Dialogue: 0,0:06:19.76,0:06:23.69,Main,Shizuka,0,0,0,,But being by yourself is a lonely thing.
-Dialogue: 0,0:06:28.20,0:06:29.68,Main,Shizuka,0,0,0,,Then one day...
-Dialogue: 0,0:06:38.21,0:06:39.67,Main,Kokona,0,0,0,,I remember now.
-Dialogue: 0,0:06:40.36,0:06:43.34,Main,Shizuka,0,0,0,,We finally met.
+Dialogue: 0,0:00:58.41,0:01:03.13,Default,Kokona,0,0,0,,I told someone even before that...
+Dialogue: 0,0:01:03.92,0:01:07.23,Default,Shizuka,0,0,0,,Well, I figured you didn't remember, but...
+Dialogue: 0,0:01:08.51,0:01:11.47,Default,Shizuka,0,0,0,,I'll tell you what you're missing, Kokona.
+Dialogue: 0,0:01:11.47,0:01:12.16,Default,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:01:17.50,0:01:19.23,Default,Shizuka,0,0,0,,The great age of theater...
+Dialogue: 0,0:01:20.12,0:01:24.76,Default,Shizuka,0,0,0,,This is the story of how to make\N one girl's dream come true.
+Dialogue: 0,0:01:39.32,0:01:44.66,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:57.15,0:03:02.03,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H4B4B4C&}Our Promise
+Dialogue: 0,0:03:02.95,0:03:06.70,Default,Shizuka,0,0,0,,There was once a town\Nthat was the beating heart of theater.
+Dialogue: 0,0:03:06.70,0:03:10.79,Default,Shizuka,0,0,0,,A town where actors and actresses \Nplayed all kinds of roles,
+Dialogue: 0,0:03:10.79,0:03:13.46,Default,Shizuka,0,0,0,,bringing countless stories to life.
+Dialogue: 0,0:03:15.93,0:03:19.75,Default,Shizuka,0,0,0,,A certain young girl lived there as well.
+Dialogue: 0,0:03:20.50,0:03:24.36,Default,Shizuka,0,0,0,,She loved picture books and the \Nstories her parents would tell her.
+Dialogue: 0,0:03:25.05,0:03:30.85,Default,Shizuka,0,0,0,,Eventually, she would become a storyteller\Ntoo and try various roles herself.
+Dialogue: 0,0:03:31.43,0:03:33.08,Default,Kokona,0,0,0,,That's...
+Dialogue: 0,0:03:34.36,0:03:36.83,Default,Shizuka,0,0,0,,That was when the girl first saw...
+Dialogue: 0,0:03:37.93,0:03:40.93,Default,Shizuka,0,0,0,,a production put on by \Nactors called Dai Stars.
+Dialogue: 0,0:03:45.70,0:03:50.03,Default,Shizuka,0,0,0,,From that moment on,\Nshe was captivated by the stage.
+Dialogue: 0,0:03:51.12,0:03:53.62,Default,Shizuka,0,0,0,,She went to the theater over and over
+Dialogue: 0,0:03:54.08,0:03:56.74,Default,Shizuka,0,0,0,,and reenacted the plays she saw there.
+Dialogue: 0,0:03:57.37,0:04:01.39,Default,Shizuka,0,0,0,,Sometimes, she was a knight \Nwho swore fealty to the king.
+Dialogue: 0,0:04:01.74,0:04:05.49,Default,Shizuka,0,0,0,,Others, she was a young man madly in love.
+Dialogue: 0,0:04:07.66,0:04:09.79,Default,Shizuka,0,0,0,,She'd get too into her role on occasion
+Dialogue: 0,0:04:09.79,0:04:12.01,Default,Shizuka,0,0,0,,and cause trouble for the people around her.
+Dialogue: 0,0:04:13.77,0:04:16.19,Default,Shizuka,0,0,0,,Those were fun and happy days for her...
+Dialogue: 0,0:04:16.84,0:04:20.12,Default,Shizuka,0,0,0,,But they didn't last long.
+Dialogue: 0,0:04:20.71,0:04:22.19,Default,Shizuka (Young Kokona),0,0,0,,We're moving?
+Dialogue: 0,0:04:23.27,0:04:26.97,Default,Shizuka (Young Kokona),0,0,0,,Our house will be smaller than it is now?
+Dialogue: 0,0:04:27.52,0:04:30.28,Default,Shizuka (Young Kokona),0,0,0,,But why? What about theater?
+Dialogue: 0,0:04:31.64,0:04:35.29,Default,Shizuka (Young Kokona),0,0,0,,I see... The ocean?
+Dialogue: 0,0:04:35.29,0:04:37.59,Default,Shizuka (Young Kokona),0,0,0,,Yeah, that sounds fun.
+Dialogue: 0,0:04:39.14,0:04:45.31,Default,Shizuka (Young Kokona),0,0,0,,It's okay. I'll just go to see plays\N by saving up my allowance.
+Dialogue: 0,0:04:47.24,0:04:51.17,Default,Shizuka,0,0,0,,And so the girl arrived in a new town\Nwhere the sea and sky stretched out forever.
+Dialogue: 0,0:04:51.74,0:04:55.72,Default,Shizuka,0,0,0,,The scenery was unfamiliar,\Nand so were the people.
+Dialogue: 0,0:04:55.72,0:04:59.02,Default,Shizuka,0,0,0,,The theater was so far away,
+Dialogue: 0,0:04:59.02,0:05:01.44,Default,Shizuka,0,0,0,,she had to take multiple trains to reach it.
+Dialogue: 0,0:05:02.28,0:05:06.61,Default,Shizuka,0,0,0,,Her parents were busy and didn't \Ncome home until late into the evenings.
+Dialogue: 0,0:05:08.44,0:05:12.71,Default,Shizuka,0,0,0,,On top of that... she had trouble\Nmaking friends right away.
+Dialogue: 0,0:05:17.85,0:05:20.98,Default,Shizuka,0,0,0,,She was bored to tears when she was alone.
+Dialogue: 0,0:05:23.60,0:05:24.95,Default,Kokona,0,0,0,,That's right.
+Dialogue: 0,0:05:26.49,0:05:27.65,Default,Kokona,0,0,0,,I...
+Dialogue: 0,0:05:59.38,0:06:02.75,Default,Shizuka,0,0,0,,The little girl recalled the plays she'd seen
+Dialogue: 0,0:06:03.53,0:06:09.45,Default,Shizuka,0,0,0,,and brought that dream world back to her, \None performance at a time.
+Dialogue: 0,0:06:13.31,0:06:16.48,Default,Shizuka,0,0,0,,Day after day, she never tired of it.
+Dialogue: 0,0:06:19.76,0:06:23.69,Default,Shizuka,0,0,0,,But being by yourself is a lonely thing.
+Dialogue: 0,0:06:28.20,0:06:29.68,Default,Shizuka,0,0,0,,Then one day...
+Dialogue: 0,0:06:38.21,0:06:39.67,Default,Kokona,0,0,0,,I remember now.
+Dialogue: 0,0:06:40.36,0:06:43.34,Default,Shizuka,0,0,0,,We finally met.
 Dialogue: 0,0:06:43.86,0:06:46.03,Flashback,Young Shizuka,0,0,0,,Could you do that one more time?
 Dialogue: 0,0:06:49.58,0:06:53.96,Flashback,Young Shizuka,0,0,0,,You must like acting. I love it too!
 Dialogue: 0,0:06:56.19,0:06:59.69,Flashback,Young Kokona,0,0,0,,Then let's do it together!
-Dialogue: 0,0:07:01.71,0:07:05.39,Main,Kokona,0,0,0,,The first friend I made after moving here...
-Dialogue: 0,0:07:06.22,0:07:10.47,Main,Kokona,0,0,0,,She wasn't anyone from school, \Nand I could only meet her here.
-Dialogue: 0,0:07:11.22,0:07:15.67,Main,Kokona,0,0,0,,She loved acting, \Nknew all the plays I had seen,
-Dialogue: 0,0:07:16.16,0:07:18.37,Main,Kokona,0,0,0,,and was a better actor than me.
-Dialogue: 0,0:07:19.13,0:07:23.49,Main,Shizuka,0,0,0,,We always wanted the same roles, \Nand you'd always let me have them,
-Dialogue: 0,0:07:23.83,0:07:28.25,Main,Shizuka,0,0,0,,just because you thought I'd play them better.
-Dialogue: 0,0:07:29.62,0:07:32.35,Main,Kokona,0,0,0,,And my friend would always get mad.
-Dialogue: 0,0:07:32.35,0:07:37.26,Main,Kokona,0,0,0,,She'd tell me I wouldn't be able to play \Na part well if I kept lying about how I felt.
-Dialogue: 0,0:07:38.77,0:07:40.47,Main,Kokona,0,0,0,,That's right...
-Dialogue: 0,0:07:40.47,0:07:44.41,Main,Kokona,0,0,0,,How did I forget all of that?
-Dialogue: 0,0:07:44.79,0:07:48.52,Main,Shizuka,0,0,0,,Maybe it was because\Nyou couldn't control your Sense yet.
-Dialogue: 0,0:07:49.77,0:07:52.82,Main,Shizuka,0,0,0,,Not to mention that {\i1}this{\i0} was \Nthe stage we had to work with...
-Dialogue: 0,0:07:54.03,0:07:57.40,Main,Kokona,0,0,0,,Stage... my Sense?
-Dialogue: 0,0:08:04.30,0:08:06.77,Main,Shizuka,0,0,0,,I'm your Sense, Kokona.
-Dialogue: 0,0:08:06.77,0:08:11.72,Main,Shizuka,0,0,0,,The partner you created because you \Nneeded someone to perform with.
-Dialogue: 0,0:08:17.37,0:08:18.64,Main,Shizuka,0,0,0,,And...
-Dialogue: 0,0:08:19.74,0:08:24.81,Main,Shizuka,0,0,0,,The receptacle for the feelings you couldn't\N sustain after you lost your confidence.
-Dialogue: 0,0:08:26.18,0:08:28.86,Main,Kokona,0,0,0,,The feelings I couldn't sustain?
-Dialogue: 0,0:08:31.24,0:08:32.96,Main,Shizuka,0,0,0,,I want to be on that stage.
-Dialogue: 0,0:08:34.50,0:08:38.76,Main,Shizuka,0,0,0,,I want the best role. \NI want to outshine everyone...
-Dialogue: 0,0:08:40.08,0:08:42.59,Main,Shizuka,0,0,0,,Even if it means knocking other actors down!
-Dialogue: 0,0:08:44.58,0:08:48.60,Main,Shizuka,0,0,0,,I'm totally better! \NMy performance was perfect!
-Dialogue: 0,0:08:48.88,0:08:51.33,Main,Shizuka,0,0,0,,I want to be onstage more than anyone!
-Dialogue: 0,0:08:51.67,0:08:54.49,Main,Shizuka,0,0,0,,So... why?!
-Dialogue: 0,0:08:56.01,0:08:58.00,Main,Shizuka,0,0,0,,Why doesn't anyone see that?!
-Dialogue: 0,0:08:58.00,0:08:59.49,Main,Kokona,0,0,0,,That's not what I—
-Dialogue: 0,0:08:59.49,0:09:00.59,Main,Shizuka,0,0,0,,You {\i1}did{\i0} think it!
-Dialogue: 0,0:09:01.84,0:09:05.35,Main,Shizuka,0,0,0,,I know your heart\Nbetter than anyone, Kokona.
-Dialogue: 0,0:09:07.31,0:09:10.62,Main,Shizuka,0,0,0,,But it's okay to feel that way. You're an actor!
-Dialogue: 0,0:09:11.45,0:09:15.23,Main,Shizuka,0,0,0,,Especially if you want \Nto become a World Dai Star.
-Dialogue: 0,0:09:16.21,0:09:18.35,Main,Shizuka,0,0,0,,Don't forget those feelings.
-Dialogue: 0,0:09:19.63,0:09:20.66,Main,Shizuka,0,0,0,,So...
-Dialogue: 0,0:09:21.53,0:09:22.35,Main,Kokona,0,0,0,,Huh?
-Dialogue: 0,0:09:24.77,0:09:27.65,Main,Shizuka,0,0,0,,I'm going to return these feelings to you.
-Dialogue: 0,0:09:29.03,0:09:32.43,Main,Shizuka,0,0,0,,I can't take the stage,\Nso I shouldn't hold on to them.
-Dialogue: 0,0:09:34.35,0:09:37.63,Main,Kokona,0,0,0,,No! I don't want them!\NYou keep them, Shizuka-chan!
-Dialogue: 0,0:09:37.63,0:09:40.65,Main,Kokona,0,0,0,,I promise I'll play the roles \Nexactly how you tell me to!
-Dialogue: 0,0:09:40.97,0:09:44.49,Main,Shizuka,0,0,0,,You can't beat Kathrina and the \Nothers with half-hearted acting.
-Dialogue: 0,0:09:48.57,0:09:50.88,Main,Kokona,0,0,0,,But... I'm scared.
-Dialogue: 0,0:09:52.17,0:09:53.86,Main,Kokona,0,0,0,,This is too sudden...
-Dialogue: 0,0:09:54.73,0:09:58.26,Main,Kokona,0,0,0,,Without you, Shizuka-chan, I...
-Dialogue: 0,0:09:58.91,0:10:00.88,Main,Shizuka,0,0,0,,I told you from the start.
-Dialogue: 0,0:10:00.88,0:10:04.70,Main,Shizuka,0,0,0,,This is the story of how you make\N your dream come true, Kokona.
-Dialogue: 0,0:10:05.14,0:10:08.67,Main,Shizuka,0,0,0,,I'm not the star, so my role ends here.
-Dialogue: 0,0:10:11.04,0:10:12.56,Main,Kokona,0,0,0,,Shizuka-chan...
-Dialogue: 0,0:10:20.00,0:10:21.17,Main,Kokona,0,0,0,,Shizuka-chan!
-Dialogue: 0,0:10:22.29,0:10:25.65,Main - Italics,Shizuka,0,0,0,,I know you can make it happen, Kokona.
-Dialogue: 0,0:10:25.65,0:10:28.99,Main - Italics,Shizuka,0,0,0,,I can't wait to see your Phantom.
-Dialogue: 0,0:10:46.32,0:10:48.05,Main,Kokona,0,0,0,,Shizuka-chan...
-Dialogue: 0,0:11:03.32,0:11:06.96,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:11:20.02,0:11:22.78,Main,Sasuga,0,0,0,,It's almost time for the audition.
-Dialogue: 0,0:11:22.78,0:11:23.80,Main,Panda,0,0,0,,Yeah.
-Dialogue: 0,0:11:25.76,0:11:29.41,Main,Panda,0,0,0,,Kathrin, how's your right eye doing?
-Dialogue: 0,0:11:29.98,0:11:31.63,Main,Kathrina,0,0,0,,It's the worst.
-Dialogue: 0,0:11:34.97,0:11:36.25,Main,Niizuma,0,0,0,,Kokona-san...
-Dialogue: 0,0:11:37.78,0:11:40.00,Main,Hiiragi,0,0,0,,Are the four of you ready?
-Dialogue: 0,0:11:40.00,0:11:42.29,Main,Hiiragi,0,0,0,,Kokona was supposed to go first,
-Dialogue: 0,0:11:42.29,0:11:45.00,Main,Hiiragi,0,0,0,,but if she's not here in time, \Nshe's not fit to play the role.
-Dialogue: 0,0:11:45.00,0:11:48.79,Main,Hiiragi,0,0,0,,Kathrina, I know you're not in your \Nbest condition, but are you ready?
-Dialogue: 0,0:11:49.15,0:11:50.52,Main,Kathrina,0,0,0,,Yes, of course.
-Dialogue: 0,0:11:53.23,0:11:55.14,Main,Hiiragi,0,0,0,,Then come up to the stage—
-Dialogue: 0,0:11:55.14,0:11:56.76,Main,Kokona,0,0,0,,I'm sorry I'm late!
-Dialogue: 0,0:12:01.72,0:12:06.58,Main,Kokona,0,0,0,,Please let me, Kokona Otori, \Nplay the role of the Phantom.
-Dialogue: 0,0:12:14.94,0:12:16.71,Main,Hiiragi,0,0,0,,You're always like this.
-Dialogue: 0,0:12:17.54,0:12:20.89,Main,Hiiragi,0,0,0,,Kathrina, do you mind if Kokona goes first?
-Dialogue: 0,0:12:20.89,0:12:24.31,Main,Kathrina,0,0,0,,That's fine. I'm the one who's \Ngoing to win in the end.
-Dialogue: 0,0:12:24.64,0:12:28.57,Main,Hiiragi,0,0,0,,Kokona, you'll be docked \Npoints for being late.
-Dialogue: 0,0:12:28.57,0:12:30.06,Main,Hiiragi,0,0,0,,Do you still want to audition?
-Dialogue: 0,0:12:30.42,0:12:33.05,Main,Kokona,0,0,0,,Yes! Please let me do this!
-Dialogue: 0,0:12:56.97,0:12:58.62,Main,Kokona (Phantom),0,0,0,,I always have the same dream...
-Dialogue: 0,0:13:00.66,0:13:05.17,Main,Kokona (Phantom),0,0,0,,I'm walking under the sun\Nwith nothing to hide.
-Dialogue: 0,0:13:07.22,0:13:10.77,Main,Kokona (Phantom),0,0,0,,I can dine out like normal people do.
-Dialogue: 0,0:13:10.76,0:13:13.35,Main - Italics,Panda,0,0,0,,This is the scene where \NChristine takes off his mask
-Dialogue: 0,0:13:11.17,0:13:14.89,Main - Top,Kokona (Phantom),0,0,0,,I go to mass on Sundays and pray to God.
-Dialogue: 0,0:13:13.35,0:13:16.01,Main - Italics,Panda,0,0,0,,and he becomes enraged but \Nalso tells her how he feels.
-Dialogue: 0,0:13:16.76,0:13:19.03,Main,Kokona (Phantom),0,0,0,,No matter how unsightly I am...
-Dialogue: 0,0:13:29.21,0:13:32.17,Main - Italics,Shizuka,0,0,0,,Being on a real stage was blinding.
-Dialogue: 0,0:13:33.30,0:13:35.77,Main - Italics,Shizuka,0,0,0,,Kokona's growth was blinding.
-Dialogue: 0,0:13:39.40,0:13:41.09,Main - Italics,Shizuka,0,0,0,,I want to be up there too.
-Dialogue: 0,0:13:42.37,0:13:47.86,Main - Italics,Shizuka,0,0,0,,I wonder if I'll be able to stand on \Nthat stage overflowing with light.
-Dialogue: 0,0:13:50.39,0:13:52.94,Main,Kokona (Phantom),0,0,0,,I still seek the light.
-Dialogue: 0,0:13:54.59,0:13:56.66,Main - Italics,Niizuma,0,0,0,,There's no rage or resentment.
-Dialogue: 0,0:13:56.66,0:13:59.43,Main - Italics,Niizuma,0,0,0,,This is how the Phantom \Nfeels inside as a person.
-Dialogue: 0,0:13:59.75,0:14:02.43,Main - Italics,Kathrina,0,0,0,,Pure admiration for the stage?
-Dialogue: 0,0:14:02.43,0:14:05.10,Main - Italics,Kathrina,0,0,0,,To think she'd play the Phantom \Nwith that look on her face...
-Dialogue: 0,0:14:19.27,0:14:21.91,Main,Kokona (Phantom),0,0,0,,I shall channel my rage into song!
-Dialogue: 0,0:14:22.46,0:14:24.22,Main,Kokona (Phantom),0,0,0,,As my heart wills!
-Dialogue: 0,0:14:24.52,0:14:27.03,Main,Kokona (Phantom),0,0,0,,So that I may forget my loneliness!
-Dialogue: 0,0:14:30.89,0:14:34.23,Main,Kokona (Phantom),0,0,0,,Music? It must be the opera.
-Dialogue: 0,0:14:36.25,0:14:38.50,Main,Kokona (Phantom),0,0,0,,I cannot stand the sound of it.
-Dialogue: 0,0:14:39.12,0:14:41.30,Main,Kokona (Phantom),0,0,0,,Let me play!
-Dialogue: 0,0:14:41.30,0:14:44.18,Main,Kokona (Phantom),0,0,0,,I'll give you a true opera!
-Dialogue: 0,0:14:44.18,0:14:45.79,Main,Kokona (Phantom),0,0,0,,It should be {\i1}me{\i0}!
-Dialogue: 0,0:14:46.70,0:14:50.62,Main - Italics,Niizuma,0,0,0,,That's the anger and loneliness \NShizuka-san portrayed.
-Dialogue: 0,0:14:46.96,0:14:48.58,Main - Top,Kokona (Phantom),0,0,0,,No, that's impossible...
-Dialogue: 0,0:14:48.58,0:14:50.61,Main - Top,Kokona (Phantom),0,0,0,,I am but a shadow.
-Dialogue: 0,0:14:51.21,0:14:53.51,Main,Kokona (Phantom),0,0,0,,A hideous monster.
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\frz353.5\frx350\fry10\pos(537.333,57.333)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frx350\fry10\pos(440,102.666)\frz358.4}R\No\Nl\Ne\Ns
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(335.333,61.999)\frz359.2\frx356\fry6}T\Nh\Ne\N\NP\Nh\Na\Nn\Nt\No\Nm
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz1.651\frx356\fry2\pos(242.666,66.666)}C\Nh\Nr\Ni\Ns\Nt\Ni\Nn\Ne
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz4.874\pos(136.666,65.332)\frx6\fry2}R\Na\No\Nu\Nl
-Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(43.333,64.665)\frz7\frx10\fry2}C\Na\Nr\Nl\No\Nt\Nt\Na
-Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\pos(463.333,244)\frx354\fry334\frz354.2}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\shad0\bord0\fnTimes New Roman\c&H0E1213&\frx354\fry334\frz354.2\pos(404.666,80.666)}K\No\Nk\No\Nn\Na
-Dialogue: 0,0:15:11.49,0:15:12.91,Main,Kathrina,0,0,0,,I totally lost.
-Dialogue: 0,0:15:13.61,0:15:14.88,Main,Sasuga,0,0,0,,Are you crying?
-Dialogue: 0,0:15:14.88,0:15:16.00,Main,Kathrina,0,0,0,,No!
-Dialogue: 0,0:15:16.00,0:15:19.26,Main,Kathrina,0,0,0,,I gave that performance my all.\N I have no regrets.
-Dialogue: 0,0:15:19.26,0:15:22.42,Main,Panda,0,0,0,,The loneliness and rage of the Phantom \Nhiding deep within the opera house...
-Dialogue: 0,0:15:22.97,0:15:29.14,Main,Panda,0,0,0,,I thought expressing that was the key to \Nshowing the Phantom's fear and sadness.
-Dialogue: 0,0:15:29.53,0:15:32.50,Main,Niizuma,0,0,0,,The variations of the \NPhantom we tried to play
-Dialogue: 0,0:15:32.50,0:15:36.58,Main,Niizuma,0,0,0,,are probably extensions\Nof Hiiragi-san's Phantom.
-Dialogue: 0,0:15:37.77,0:15:43.09,Main,Niizuma,0,0,0,,I'm sure that she saw new \Npotential in Kokona-san.
-Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\i1\shad0\bord0\fnTimes New Roman\c&H02040C&\frx354\fry334\frz354.2\move(524,214.667,535.667,210.334)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\shad0\fs20\bord0\fnTimes New Roman\c&H02040C&\frz354.2\move(385.333,228.667,390.333,225.334)\frx350\fry336}P\Nh\Na\Nn\Nt\No\Nm\N\N\NK\No\Nk\No\Nn\Na
-Dialogue: 0,0:15:44.16,0:15:49.74,Main,Sasuga,0,0,0,,His heart's weakness, its purity... \NThe longing to step outside...
-Dialogue: 0,0:15:50.93,0:15:56.03,Main,Sasuga,0,0,0,,The annoyance, jealousy, and sadness\Nof being denied what he wants...
-Dialogue: 0,0:15:56.90,0:16:00.08,Main,Sasuga,0,0,0,,I'm surprised she played the role\N in such a complex way.
-Dialogue: 0,0:16:00.86,0:16:02.92,Main,Panda,0,0,0,,I wonder what happened.
-Dialogue: 0,0:16:06.07,0:16:08.46,Main,Niizuma,0,0,0,,It must be... Shizuka-san...
-Dialogue: 0,0:16:15.96,0:16:18.34,Main,Shamo,0,0,0,,Your Phantom was wonderful.
-Dialogue: 0,0:16:18.34,0:16:19.45,Main,Kokona,0,0,0,,Shamo-san...
-Dialogue: 0,0:16:19.45,0:16:23.18,Main,Shamo,0,0,0,,You don't look like an actor\Nwho just got the role.
-Dialogue: 0,0:16:23.75,0:16:26.59,Main,Shamo,0,0,0,,Seems you haven't been able \Nto shake off the Phantom yet.
-Dialogue: 0,0:16:27.63,0:16:31.54,Main,Kokona,0,0,0,,I don't think I'll ever be able \Nto shake him off again.
-Dialogue: 0,0:16:32.07,0:16:34.36,Main,Kokona,0,0,0,,That wasn't actually the Phantom.
-Dialogue: 0,0:16:34.36,0:16:37.50,Main,Kokona,0,0,0,,It was the Shizuka-chan who \Ndisappeared into my heart.
-Dialogue: 0,0:16:38.27,0:16:40.16,Main,Shamo,0,0,0,,I see.
-Dialogue: 0,0:16:41.87,0:16:46.56,Main,Shamo,0,0,0,,Is this really how an actor who wants\Nto become a Dai Star should be looking?
-Dialogue: 0,0:16:46.56,0:16:47.39,Main,Kokona,0,0,0,,Huh?
-Dialogue: 0,0:16:47.39,0:16:52.25,Main,Shamo,0,0,0,,Even after this production is done,\Nyour time on stage won't come to an end.
-Dialogue: 0,0:16:53.13,0:16:58.75,Main,Shamo,0,0,0,,I've watched many actors over \Nthe years. That's how I know.
-Dialogue: 0,0:16:59.09,0:17:03.34,Main,Shamo,0,0,0,,You still don't truly understand yourself.
-Dialogue: 0,0:17:03.74,0:17:09.35,Main,Shamo,0,0,0,,To be on the stage\Nis to find yourself through acting.
-Dialogue: 0,0:17:09.83,0:17:15.63,Main,Shamo,0,0,0,,Your Sense is born by facing the \Nbrilliance that lies dormant within you.
-Dialogue: 0,0:17:17.17,0:17:19.10,Main,Kokona,0,0,0,,Find myself...?
-Dialogue: 0,0:17:21.91,0:17:23.77,Main,Shamo,0,0,0,,Why don't we go downstairs?
-Dialogue: 0,0:17:28.90,0:17:30.25,Main,Shamo,0,0,0,,Have a seat.
-Dialogue: 0,0:17:31.59,0:17:32.68,Main,Kokona,0,0,0,,Okay.
-Dialogue: 0,0:17:34.57,0:17:36.53,Main,Shamo,0,0,0,,Close your eyes.
-Dialogue: 0,0:17:40.52,0:17:44.61,Main,Shamo,0,0,0,,In front of you is your other self.
-Dialogue: 0,0:17:44.61,0:17:47.44,Main,Shamo,0,0,0,,The person you need to talk to.
-Dialogue: 0,0:17:48.15,0:17:53.43,Main,Shamo,0,0,0,,Go on, ask her. Ask her what \Nyou want to do right now.
-Dialogue: 0,0:17:54.21,0:17:57.91,Main,Kokona,0,0,0,,What I... want to do?
-Dialogue: 0,0:18:12.30,0:18:16.81,Main,Kokona,0,0,0,,Why did I want to become \Na World Dai Star again?
-Dialogue: 0,0:18:17.10,0:18:19.94,Main,Young Kokona,0,0,0,,You even forgot something that important?
-Dialogue: 0,0:18:22.21,0:18:24.32,Main,Young Kokona,0,0,0,,It's because you love the theater.
-Dialogue: 0,0:18:24.83,0:18:27.30,Main,Kokona,0,0,0,,But that's not a rational thought to have.
-Dialogue: 0,0:18:27.68,0:18:30.84,Main,Kokona,0,0,0,,They're, like, the best of the absolute best.
-Dialogue: 0,0:18:30.84,0:18:34.51,Main,Young Kokona,0,0,0,,Well, you fell in love with them.\NWhat can you do?
-Dialogue: 0,0:18:35.23,0:18:39.33,Main,Young Kokona,0,0,0,,Besides, it's not just my dream.
-Dialogue: 0,0:18:39.62,0:18:40.47,Main,Kokona,0,0,0,,Huh?
-Dialogue: 0,0:18:41.84,0:18:46.64,Main,Young Kokona,0,0,0,,I would've lost hope if I'd been alone,\N so I needed her.
-Dialogue: 0,0:18:49.10,0:18:52.11,Main,Young Kokona,0,0,0,,Remember our promise.
+Dialogue: 0,0:07:01.71,0:07:05.39,Default,Kokona,0,0,0,,The first friend I made after moving here...
+Dialogue: 0,0:07:06.22,0:07:10.47,Default,Kokona,0,0,0,,She wasn't anyone from school, \Nand I could only meet her here.
+Dialogue: 0,0:07:11.22,0:07:15.67,Default,Kokona,0,0,0,,She loved acting, \Nknew all the plays I had seen,
+Dialogue: 0,0:07:16.16,0:07:18.37,Default,Kokona,0,0,0,,and was a better actor than me.
+Dialogue: 0,0:07:19.13,0:07:23.49,Default,Shizuka,0,0,0,,We always wanted the same roles, \Nand you'd always let me have them,
+Dialogue: 0,0:07:23.83,0:07:28.25,Default,Shizuka,0,0,0,,just because you thought I'd play them better.
+Dialogue: 0,0:07:29.62,0:07:32.35,Default,Kokona,0,0,0,,And my friend would always get mad.
+Dialogue: 0,0:07:32.35,0:07:37.26,Default,Kokona,0,0,0,,She'd tell me I wouldn't be able to play \Na part well if I kept lying about how I felt.
+Dialogue: 0,0:07:38.77,0:07:40.47,Default,Kokona,0,0,0,,That's right...
+Dialogue: 0,0:07:40.47,0:07:44.41,Default,Kokona,0,0,0,,How did I forget all of that?
+Dialogue: 0,0:07:44.79,0:07:48.52,Default,Shizuka,0,0,0,,Maybe it was because\Nyou couldn't control your Sense yet.
+Dialogue: 0,0:07:49.77,0:07:52.82,Default,Shizuka,0,0,0,,Not to mention that {\i1}this{\i0} was \Nthe stage we had to work with...
+Dialogue: 0,0:07:54.03,0:07:57.40,Default,Kokona,0,0,0,,Stage... my Sense?
+Dialogue: 0,0:08:04.30,0:08:06.77,Default,Shizuka,0,0,0,,I'm your Sense, Kokona.
+Dialogue: 0,0:08:06.77,0:08:11.72,Default,Shizuka,0,0,0,,The partner you created because you \Nneeded someone to perform with.
+Dialogue: 0,0:08:17.37,0:08:18.64,Default,Shizuka,0,0,0,,And...
+Dialogue: 0,0:08:19.74,0:08:24.81,Default,Shizuka,0,0,0,,The receptacle for the feelings you couldn't\N sustain after you lost your confidence.
+Dialogue: 0,0:08:26.18,0:08:28.86,Default,Kokona,0,0,0,,The feelings I couldn't sustain?
+Dialogue: 0,0:08:31.24,0:08:32.96,Default,Shizuka,0,0,0,,I want to be on that stage.
+Dialogue: 0,0:08:34.50,0:08:38.76,Default,Shizuka,0,0,0,,I want the best role. \NI want to outshine everyone...
+Dialogue: 0,0:08:40.08,0:08:42.59,Default,Shizuka,0,0,0,,Even if it means knocking other actors down!
+Dialogue: 0,0:08:44.58,0:08:48.60,Default,Shizuka,0,0,0,,I'm totally better! \NMy performance was perfect!
+Dialogue: 0,0:08:48.88,0:08:51.33,Default,Shizuka,0,0,0,,I want to be onstage more than anyone!
+Dialogue: 0,0:08:51.67,0:08:54.49,Default,Shizuka,0,0,0,,So... why?!
+Dialogue: 0,0:08:56.01,0:08:58.00,Default,Shizuka,0,0,0,,Why doesn't anyone see that?!
+Dialogue: 0,0:08:58.00,0:08:59.49,Default,Kokona,0,0,0,,That's not what I—
+Dialogue: 0,0:08:59.49,0:09:00.59,Default,Shizuka,0,0,0,,You {\i1}did{\i0} think it!
+Dialogue: 0,0:09:01.84,0:09:05.35,Default,Shizuka,0,0,0,,I know your heart\Nbetter than anyone, Kokona.
+Dialogue: 0,0:09:07.31,0:09:10.62,Default,Shizuka,0,0,0,,But it's okay to feel that way. You're an actor!
+Dialogue: 0,0:09:11.45,0:09:15.23,Default,Shizuka,0,0,0,,Especially if you want \Nto become a World Dai Star.
+Dialogue: 0,0:09:16.21,0:09:18.35,Default,Shizuka,0,0,0,,Don't forget those feelings.
+Dialogue: 0,0:09:19.63,0:09:20.66,Default,Shizuka,0,0,0,,So...
+Dialogue: 0,0:09:21.53,0:09:22.35,Default,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:09:24.77,0:09:27.65,Default,Shizuka,0,0,0,,I'm going to return these feelings to you.
+Dialogue: 0,0:09:29.03,0:09:32.43,Default,Shizuka,0,0,0,,I can't take the stage,\Nso I shouldn't hold on to them.
+Dialogue: 0,0:09:34.35,0:09:37.63,Default,Kokona,0,0,0,,No! I don't want them!\NYou keep them, Shizuka-chan!
+Dialogue: 0,0:09:37.63,0:09:40.65,Default,Kokona,0,0,0,,I promise I'll play the roles \Nexactly how you tell me to!
+Dialogue: 0,0:09:40.97,0:09:44.49,Default,Shizuka,0,0,0,,You can't beat Kathrina and the \Nothers with half-hearted acting.
+Dialogue: 0,0:09:48.57,0:09:50.88,Default,Kokona,0,0,0,,But... I'm scared.
+Dialogue: 0,0:09:52.17,0:09:53.86,Default,Kokona,0,0,0,,This is too sudden...
+Dialogue: 0,0:09:54.73,0:09:58.26,Default,Kokona,0,0,0,,Without you, Shizuka-chan, I...
+Dialogue: 0,0:09:58.91,0:10:00.88,Default,Shizuka,0,0,0,,I told you from the start.
+Dialogue: 0,0:10:00.88,0:10:04.70,Default,Shizuka,0,0,0,,This is the story of how you make\N your dream come true, Kokona.
+Dialogue: 0,0:10:05.14,0:10:08.67,Default,Shizuka,0,0,0,,I'm not the star, so my role ends here.
+Dialogue: 0,0:10:11.04,0:10:12.56,Default,Kokona,0,0,0,,Shizuka-chan...
+Dialogue: 0,0:10:20.00,0:10:21.17,Default,Kokona,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:10:22.29,0:10:25.65,Default,Shizuka,0,0,0,,{\i1}I know you can make it happen, Kokona.
+Dialogue: 0,0:10:25.65,0:10:28.99,Default,Shizuka,0,0,0,,{\i1}I can't wait to see your Phantom.
+Dialogue: 0,0:10:46.32,0:10:48.05,Default,Kokona,0,0,0,,Shizuka-chan...
+Dialogue: 0,0:11:03.32,0:11:06.96,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:11:20.02,0:11:22.78,Default,Sasuga,0,0,0,,It's almost time for the audition.
+Dialogue: 0,0:11:22.78,0:11:23.80,Default,Panda,0,0,0,,Yeah.
+Dialogue: 0,0:11:25.76,0:11:29.41,Default,Panda,0,0,0,,Kathrin, how's your right eye doing?
+Dialogue: 0,0:11:29.98,0:11:31.63,Default,Kathrina,0,0,0,,It's the worst.
+Dialogue: 0,0:11:34.97,0:11:36.25,Default,Niizuma,0,0,0,,Kokona-san...
+Dialogue: 0,0:11:37.78,0:11:40.00,Default,Hiiragi,0,0,0,,Are the four of you ready?
+Dialogue: 0,0:11:40.00,0:11:42.29,Default,Hiiragi,0,0,0,,Kokona was supposed to go first,
+Dialogue: 0,0:11:42.29,0:11:45.00,Default,Hiiragi,0,0,0,,but if she's not here in time, \Nshe's not fit to play the role.
+Dialogue: 0,0:11:45.00,0:11:48.79,Default,Hiiragi,0,0,0,,Kathrina, I know you're not in your \Nbest condition, but are you ready?
+Dialogue: 0,0:11:49.15,0:11:50.52,Default,Kathrina,0,0,0,,Yes, of course.
+Dialogue: 0,0:11:53.23,0:11:55.14,Default,Hiiragi,0,0,0,,Then come up to the stage—
+Dialogue: 0,0:11:55.14,0:11:56.76,Default,Kokona,0,0,0,,I'm sorry I'm late!
+Dialogue: 0,0:12:01.72,0:12:06.58,Default,Kokona,0,0,0,,Please let me, Kokona Otori, \Nplay the role of the Phantom.
+Dialogue: 0,0:12:14.94,0:12:16.71,Default,Hiiragi,0,0,0,,You're always like this.
+Dialogue: 0,0:12:17.54,0:12:20.89,Default,Hiiragi,0,0,0,,Kathrina, do you mind if Kokona goes first?
+Dialogue: 0,0:12:20.89,0:12:24.31,Default,Kathrina,0,0,0,,That's fine. I'm the one who's \Ngoing to win in the end.
+Dialogue: 0,0:12:24.64,0:12:28.57,Default,Hiiragi,0,0,0,,Kokona, you'll be docked \Npoints for being late.
+Dialogue: 0,0:12:28.57,0:12:30.06,Default,Hiiragi,0,0,0,,Do you still want to audition?
+Dialogue: 0,0:12:30.42,0:12:33.05,Default,Kokona,0,0,0,,Yes! Please let me do this!
+Dialogue: 0,0:12:56.97,0:12:58.62,Default,Kokona (Phantom),0,0,0,,I always have the same dream...
+Dialogue: 0,0:13:00.66,0:13:05.17,Default,Kokona (Phantom),0,0,0,,I'm walking under the sun\Nwith nothing to hide.
+Dialogue: 0,0:13:07.22,0:13:10.77,Default,Kokona (Phantom),0,0,0,,I can dine out like normal people do.
+Dialogue: 0,0:13:10.76,0:13:13.35,Default,Panda,0,0,0,,{\i1}This is the scene where \NChristine takes off his mask
+Dialogue: 0,0:13:11.17,0:13:14.89,Default,Kokona (Phantom),0,0,0,,{\an8}I go to mass on Sundays and pray to God.
+Dialogue: 0,0:13:13.35,0:13:16.01,Default,Panda,0,0,0,,{\i1}and he becomes enraged but \Nalso tells her how he feels.
+Dialogue: 0,0:13:16.76,0:13:19.03,Default,Kokona (Phantom),0,0,0,,No matter how unsightly I am...
+Dialogue: 0,0:13:29.21,0:13:32.17,Default,Shizuka,0,0,0,,{\i1}Being on a real stage was blinding.
+Dialogue: 0,0:13:33.30,0:13:35.77,Default,Shizuka,0,0,0,,{\i1}Kokona's growth was blinding.
+Dialogue: 0,0:13:39.40,0:13:41.09,Default,Shizuka,0,0,0,,{\i1}I want to be up there too.
+Dialogue: 0,0:13:42.37,0:13:47.86,Default,Shizuka,0,0,0,,{\i1}I wonder if I'll be able to stand on \Nthat stage overflowing with light.
+Dialogue: 0,0:13:50.39,0:13:52.94,Default,Kokona (Phantom),0,0,0,,I still seek the light.
+Dialogue: 0,0:13:54.59,0:13:56.66,Default,Niizuma,0,0,0,,{\i1}There's no rage or resentment.
+Dialogue: 0,0:13:56.66,0:13:59.43,Default,Niizuma,0,0,0,,{\i1}This is how the Phantom \Nfeels inside as a person.
+Dialogue: 0,0:13:59.75,0:14:02.43,Default,Kathrina,0,0,0,,{\i1}Pure admiration for the stage?
+Dialogue: 0,0:14:02.43,0:14:05.10,Default,Kathrina,0,0,0,,{\i1}To think she'd play the Phantom \Nwith that look on her face...
+Dialogue: 0,0:14:19.27,0:14:21.91,Default,Kokona (Phantom),0,0,0,,I shall channel my rage into song!
+Dialogue: 0,0:14:22.46,0:14:24.22,Default,Kokona (Phantom),0,0,0,,As my heart wills!
+Dialogue: 0,0:14:24.52,0:14:27.03,Default,Kokona (Phantom),0,0,0,,So that I may forget my loneliness!
+Dialogue: 0,0:14:30.89,0:14:34.23,Default,Kokona (Phantom),0,0,0,,Music? It must be the opera.
+Dialogue: 0,0:14:36.25,0:14:38.50,Default,Kokona (Phantom),0,0,0,,I cannot stand the sound of it.
+Dialogue: 0,0:14:39.12,0:14:41.30,Default,Kokona (Phantom),0,0,0,,Let me play!
+Dialogue: 0,0:14:41.30,0:14:44.18,Default,Kokona (Phantom),0,0,0,,I'll give you a true opera!
+Dialogue: 0,0:14:44.18,0:14:45.79,Default,Kokona (Phantom),0,0,0,,It should be {\i1}me{\i0}!
+Dialogue: 0,0:14:46.70,0:14:50.62,Default,Niizuma,0,0,0,,{\i1}That's the anger and loneliness \NShizuka-san portrayed.
+Dialogue: 0,0:14:46.96,0:14:48.58,Default,Kokona (Phantom),0,0,0,,{\an8}No, that's impossible...
+Dialogue: 0,0:14:48.58,0:14:50.61,Default,Kokona (Phantom),0,0,0,,{\an8}I am but a shadow.
+Dialogue: 0,0:14:51.21,0:14:53.51,Default,Kokona (Phantom),0,0,0,,A hideous monster.
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(1611.999,171.999)\org(1611.999,171.999)\fscx98.35\fscy98.957\frz-6.52\fry3.364\frx-3.41\fax-0.026\fnTimes New Roman\i1\xbord0\ybord0\c&H0E1213&\fad(1003,1)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(1320,307.998)\org(1320,307.998)\fscx98.576\fscy98.73\frz-1.601\fry3.364\frx-3.41\fax-0.027\fnTimes New Roman\fs60\xbord0\ybord0\c&H0E1213&\fad(1003,1)}R\No\Nl\Ne\Ns
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(1005.999,185.997)\org(1005.999,185.997)\fscx99.504\fscy99.793\frz-0.802\fry2.007\frx-1.342\fax-0.006\fnTimes New Roman\fs60\xbord0\ybord0\c&H0E1213&\fad(1003,1)}T\Nh\Ne\N\NP\Nh\Na\Nn\Nt\No\Nm
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(727.998,199.998)\org(727.998,199.998)\fscx99.952\fscy99.777\frz1.648\fry0.667\frx-1.336\fax-0.002\fnTimes New Roman\fs60\xbord0\ybord0\c&H0E1213&\fad(1003,1)}C\Nh\Nr\Ni\Ns\Nt\Ni\Nn\Ne
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(409.998,195.996)\org(409.998,195.996)\fscx99.915\fscy99.544\frz4.854\fry0.667\frx2.008\fax0.004\fnTimes New Roman\fs60\xbord0\ybord0\c&H0E1213&\fad(1003,1)}R\Na\No\Nu\Nl
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\an8\pos(129.999,193.995)\org(129.999,193.995)\fscx99.862\fscy98.734\frz6.915\fry0.667\frx3.366\fax0.008\fnTimes New Roman\fs60\xbord0\ybord0\c&H0E1213&\fad(1003,1)}C\Na\Nr\Nl\No\Nt\Nt\Na
+Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\pos(1385.548,732)\org(1389.999,732)\fscx91.554\fscy98.988\frz-6.307\fry-9.234\frx-2.203\fax0.062\fnTimes New Roman\i1\xbord0\ybord0\c&H0E1213&}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\pos(1209.547,241.998)\org(1213.998,241.998)\fscx91.554\fscy98.988\frz-6.307\fry-9.234\frx-2.203\fax0.062\fnTimes New Roman\xbord0\ybord0\c&H0E1213&}K\No\Nk\No\Nn\Na
+Dialogue: 0,0:15:11.49,0:15:12.91,Default,Kathrina,0,0,0,,I totally lost.
+Dialogue: 0,0:15:13.61,0:15:14.88,Default,Sasuga,0,0,0,,Are you crying?
+Dialogue: 0,0:15:14.88,0:15:16.00,Default,Kathrina,0,0,0,,No!
+Dialogue: 0,0:15:16.00,0:15:19.26,Default,Kathrina,0,0,0,,I gave that performance my all.\N I have no regrets.
+Dialogue: 0,0:15:19.26,0:15:22.42,Default,Panda,0,0,0,,The loneliness and rage of the Phantom \Nhiding deep within the opera house...
+Dialogue: 0,0:15:22.97,0:15:29.14,Default,Panda,0,0,0,,I thought expressing that was the key to \Nshowing the Phantom's fear and sadness.
+Dialogue: 0,0:15:29.53,0:15:32.50,Default,Niizuma,0,0,0,,The variations of the \NPhantom we tried to play
+Dialogue: 0,0:15:32.50,0:15:36.58,Default,Niizuma,0,0,0,,are probably extensions\Nof Hiiragi-san's Phantom.
+Dialogue: 0,0:15:37.77,0:15:43.09,Default,Niizuma,0,0,0,,I'm sure that she saw new \Npotential in Kokona-san.
+Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\i1\shad0\bord0\fnTimes New Roman\c&H02040C&\frx354\fry334\frz354.2\move(1572,644.001,1607.001,631.002)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\shad0\fs60\bord0\fnTimes New Roman\c&H02040C&\frz354.2\move(1155.999,686.001,1170.999,676.002)\frx350\fry336}P\Nh\Na\Nn\Nt\No\Nm\N\N\NK\No\Nk\No\Nn\Na
+Dialogue: 0,0:15:44.16,0:15:49.74,Default,Sasuga,0,0,0,,His heart's weakness, its purity... \NThe longing to step outside...
+Dialogue: 0,0:15:50.93,0:15:56.03,Default,Sasuga,0,0,0,,The annoyance, jealousy, and sadness\Nof being denied what he wants...
+Dialogue: 0,0:15:56.90,0:16:00.08,Default,Sasuga,0,0,0,,I'm surprised she played the role\N in such a complex way.
+Dialogue: 0,0:16:00.86,0:16:02.92,Default,Panda,0,0,0,,I wonder what happened.
+Dialogue: 0,0:16:06.07,0:16:08.46,Default,Niizuma,0,0,0,,It must be... Shizuka-san...
+Dialogue: 0,0:16:15.96,0:16:18.34,Default,Shamo,0,0,0,,Your Phantom was wonderful.
+Dialogue: 0,0:16:18.34,0:16:19.45,Default,Kokona,0,0,0,,Shamo-san...
+Dialogue: 0,0:16:19.45,0:16:23.18,Default,Shamo,0,0,0,,You don't look like an actor\Nwho just got the role.
+Dialogue: 0,0:16:23.75,0:16:26.59,Default,Shamo,0,0,0,,Seems you haven't been able \Nto shake off the Phantom yet.
+Dialogue: 0,0:16:27.63,0:16:31.54,Default,Kokona,0,0,0,,I don't think I'll ever be able \Nto shake him off again.
+Dialogue: 0,0:16:32.07,0:16:34.36,Default,Kokona,0,0,0,,That wasn't actually the Phantom.
+Dialogue: 0,0:16:34.36,0:16:37.50,Default,Kokona,0,0,0,,It was the Shizuka-chan who \Ndisappeared into my heart.
+Dialogue: 0,0:16:38.27,0:16:40.16,Default,Shamo,0,0,0,,I see.
+Dialogue: 0,0:16:41.87,0:16:46.56,Default,Shamo,0,0,0,,Is this really how an actor who wants\Nto become a Dai Star should be looking?
+Dialogue: 0,0:16:46.56,0:16:47.39,Default,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:16:47.39,0:16:52.25,Default,Shamo,0,0,0,,Even after this production is done,\Nyour time on stage won't come to an end.
+Dialogue: 0,0:16:53.13,0:16:58.75,Default,Shamo,0,0,0,,I've watched many actors over \Nthe years. That's how I know.
+Dialogue: 0,0:16:59.09,0:17:03.34,Default,Shamo,0,0,0,,You still don't truly understand yourself.
+Dialogue: 0,0:17:03.74,0:17:09.35,Default,Shamo,0,0,0,,To be on the stage\Nis to find yourself through acting.
+Dialogue: 0,0:17:09.83,0:17:15.63,Default,Shamo,0,0,0,,Your Sense is born by facing the \Nbrilliance that lies dormant within you.
+Dialogue: 0,0:17:17.17,0:17:19.10,Default,Kokona,0,0,0,,Find myself...?
+Dialogue: 0,0:17:21.91,0:17:23.77,Default,Shamo,0,0,0,,Why don't we go downstairs?
+Dialogue: 0,0:17:28.90,0:17:30.25,Default,Shamo,0,0,0,,Have a seat.
+Dialogue: 0,0:17:31.59,0:17:32.68,Default,Kokona,0,0,0,,Okay.
+Dialogue: 0,0:17:34.57,0:17:36.53,Default,Shamo,0,0,0,,Close your eyes.
+Dialogue: 0,0:17:40.52,0:17:44.61,Default,Shamo,0,0,0,,In front of you is your other self.
+Dialogue: 0,0:17:44.61,0:17:47.44,Default,Shamo,0,0,0,,The person you need to talk to.
+Dialogue: 0,0:17:48.15,0:17:53.43,Default,Shamo,0,0,0,,Go on, ask her. Ask her what \Nyou want to do right now.
+Dialogue: 0,0:17:54.21,0:17:57.91,Default,Kokona,0,0,0,,What I... want to do?
+Dialogue: 0,0:18:12.30,0:18:16.81,Default,Kokona,0,0,0,,Why did I want to become \Na World Dai Star again?
+Dialogue: 0,0:18:17.10,0:18:19.94,Default,Young Kokona,0,0,0,,You even forgot something that important?
+Dialogue: 0,0:18:22.21,0:18:24.32,Default,Young Kokona,0,0,0,,It's because you love the theater.
+Dialogue: 0,0:18:24.83,0:18:27.30,Default,Kokona,0,0,0,,But that's not a rational thought to have.
+Dialogue: 0,0:18:27.68,0:18:30.84,Default,Kokona,0,0,0,,They're, like, the best of the absolute best.
+Dialogue: 0,0:18:30.84,0:18:34.51,Default,Young Kokona,0,0,0,,Well, you fell in love with them.\NWhat can you do?
+Dialogue: 0,0:18:35.23,0:18:39.33,Default,Young Kokona,0,0,0,,Besides, it's not just my dream.
+Dialogue: 0,0:18:39.62,0:18:40.47,Default,Kokona,0,0,0,,Huh?
+Dialogue: 0,0:18:41.84,0:18:46.64,Default,Young Kokona,0,0,0,,I would've lost hope if I'd been alone,\N so I needed her.
+Dialogue: 0,0:18:49.10,0:18:52.11,Default,Young Kokona,0,0,0,,Remember our promise.
 Dialogue: 0,0:18:58.60,0:19:04.13,Flashback,Young Kokona,0,0,0,,It's no use. I've only ever \Nacted in front of my parents...
 Dialogue: 0,0:19:04.47,0:19:07.90,Flashback,Young Shizuka,0,0,0,,It's always easy to find reasons \N{\i1}not{\i0} to do something.
 Dialogue: 0,0:19:07.90,0:19:09.87,Flashback,Young Shizuka,0,0,0,,You know that, Kokona.
@@ -281,29 +270,29 @@ Dialogue: 0,0:20:08.00,0:20:09.78,Flashback,Young Kokona,0,0,0,,Then someday...
 Dialogue: 0,0:20:10.55,0:20:14.22,Flashback,Young Kokona,0,0,0,,Someday, let's take the stage together!
 Dialogue: 0,0:20:19.43,0:20:20.76,Flashback,Young Kokona,0,0,0,,It's a promise!
 Dialogue: 0,0:20:21.35,0:20:23.69,Flashback,Young Shizuka,0,0,0,,Yeah, it's a promise.
-Dialogue: 0,0:20:31.85,0:20:35.65,Main,Kokona,0,0,0,,Someday, let's take the stage together...
-Dialogue: 0,0:20:43.49,0:20:44.82,Main,Shamo,0,0,0,,Kokona-chan?
-Dialogue: 0,0:20:46.21,0:20:49.14,Main,Kokona,0,0,0,,I'm going to go rehearse with everyone...
-Dialogue: 0,0:20:49.41,0:20:51.88,Main,Kokona,0,0,0,,so that I can see Shizuka-chan again!
-Dialogue: 0,0:21:00.42,0:21:01.57,Main,Panda,0,0,0,,Koko-chan...
-Dialogue: 0,0:21:02.68,0:21:06.51,Main,Kokona,0,0,0,,I have to work hard for Shizuka-chan, too.
-Dialogue: 0,0:21:06.90,0:21:12.19,Main,Kokona,0,0,0,,I need to make {\i1}The Phantom of the Opera{\i0}\Na success so I can become a World Dai Star.
-Dialogue: 0,0:21:13.30,0:21:14.29,Main,Kokona,0,0,0,,So...
-Dialogue: 0,0:21:15.06,0:21:18.51,Main,Kokona,0,0,0,,Please help me out, everyone! \NI need your help!
-Dialogue: 0,0:21:23.01,0:21:24.38,Main,Panda,0,0,0,,The hell?!
-Dialogue: 0,0:21:28.38,0:21:33.40,Main,Panda,0,0,0,,You got nothing to worry about!\NWe're your friends, after all.
-Dialogue: 0,0:21:33.64,0:21:36.66,Main,Sasuga,0,0,0,,The only thing that should \Nbe dense is French baguettes.
-Dialogue: 0,0:21:36.66,0:21:40.26,Main,Niizuma,0,0,0,,We'll rehearse with you lots!
-Dialogue: 0,0:21:40.74,0:21:42.16,Main,Kokona,0,0,0,,Everyone...
-Dialogue: 0,0:21:42.16,0:21:43.32,Main,Kathrina,0,0,0,,Kokona!
-Dialogue: 0,0:21:44.32,0:21:48.18,Main,Kathrina,0,0,0,,You can have the role of the Phantom, \Nbut this time, I'm going to upstage you!
-Dialogue: 0,0:21:48.18,0:21:49.41,Main,Kathrina,0,0,0,,You'd better be ready!
-Dialogue: 0,0:21:50.03,0:21:51.72,Main,Kokona,0,0,0,,Kathrina-chan...
-Dialogue: 0,0:21:52.29,0:21:54.68,Main,Panda,0,0,0,,You're so young and edgy, Kathrin.
-Dialogue: 0,0:21:54.68,0:21:56.58,Main,Sasuga,0,0,0,,So edgy I might cut myself.
-Dialogue: 0,0:21:56.58,0:21:58.41,Main,Kathrina,0,0,0,,Huh? What's that supposed to mean?
-Dialogue: 0,0:21:58.41,0:21:59.61,Main,Niizuma,0,0,0,,That you're edgy.
-Dialogue: 0,0:21:59.61,0:22:02.96,Main,Kathrina,0,0,0,,No, really! What does that even mean?!
-Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Twelfth Stage
-Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}The Two of Us Together
-Dialogue: 0,0:23:35.84,0:23:38.87,Main,Kokona,0,0,0,,The final episode: "The Two of Us Together."
+Dialogue: 0,0:20:31.85,0:20:35.65,Default,Kokona,0,0,0,,Someday, let's take the stage together...
+Dialogue: 0,0:20:43.49,0:20:44.82,Default,Shamo,0,0,0,,Kokona-chan?
+Dialogue: 0,0:20:46.21,0:20:49.14,Default,Kokona,0,0,0,,I'm going to go rehearse with everyone...
+Dialogue: 0,0:20:49.41,0:20:51.88,Default,Kokona,0,0,0,,so that I can see Shizuka-chan again!
+Dialogue: 0,0:21:00.42,0:21:01.57,Default,Panda,0,0,0,,Koko-chan...
+Dialogue: 0,0:21:02.68,0:21:06.51,Default,Kokona,0,0,0,,I have to work hard for Shizuka-chan, too.
+Dialogue: 0,0:21:06.90,0:21:12.19,Default,Kokona,0,0,0,,I need to make {\i1}The Phantom of the Opera{\i0}\Na success so I can become a World Dai Star.
+Dialogue: 0,0:21:13.30,0:21:14.29,Default,Kokona,0,0,0,,So...
+Dialogue: 0,0:21:15.06,0:21:18.51,Default,Kokona,0,0,0,,Please help me out, everyone! \NI need your help!
+Dialogue: 0,0:21:23.01,0:21:24.38,Default,Panda,0,0,0,,The hell?!
+Dialogue: 0,0:21:28.38,0:21:33.40,Default,Panda,0,0,0,,You got nothing to worry about!\NWe're your friends, after all.
+Dialogue: 0,0:21:33.64,0:21:36.66,Default,Sasuga,0,0,0,,The only thing that should \Nbe dense is French baguettes.
+Dialogue: 0,0:21:36.66,0:21:40.26,Default,Niizuma,0,0,0,,We'll rehearse with you lots!
+Dialogue: 0,0:21:40.74,0:21:42.16,Default,Kokona,0,0,0,,Everyone...
+Dialogue: 0,0:21:42.16,0:21:43.32,Default,Kathrina,0,0,0,,Kokona!
+Dialogue: 0,0:21:44.32,0:21:48.18,Default,Kathrina,0,0,0,,You can have the role of the Phantom, \Nbut this time, I'm going to upstage you!
+Dialogue: 0,0:21:48.18,0:21:49.41,Default,Kathrina,0,0,0,,You'd better be ready!
+Dialogue: 0,0:21:50.03,0:21:51.72,Default,Kokona,0,0,0,,Kathrina-chan...
+Dialogue: 0,0:21:52.29,0:21:54.68,Default,Panda,0,0,0,,You're so young and edgy, Kathrin.
+Dialogue: 0,0:21:54.68,0:21:56.58,Default,Sasuga,0,0,0,,So edgy I might cut myself.
+Dialogue: 0,0:21:56.58,0:21:58.41,Default,Kathrina,0,0,0,,Huh? What's that supposed to mean?
+Dialogue: 0,0:21:58.41,0:21:59.61,Default,Niizuma,0,0,0,,That you're edgy.
+Dialogue: 0,0:21:59.61,0:22:02.96,Default,Kathrina,0,0,0,,No, really! What does that even mean?!
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Twelfth Stage
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}The Two of Us Together
+Dialogue: 0,0:23:35.84,0:23:38.87,Default,Kokona,0,0,0,,The final episode: "The Two of Us Together."
