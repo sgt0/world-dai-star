@@ -28,6 +28,7 @@ Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
 Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
 Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -36,7 +37,7 @@ Dialogue: 0,0:00:23.49,0:00:28.09,Flashback,Hiiragi,0,0,0,,Yes. You have a Sense
 Dialogue: 0,0:00:28.53,0:00:30.08,Flashback,Yae,0,0,0,,Sense?
 Dialogue: 0,0:00:30.31,0:00:32.18,Flashback,Hiiragi,0,0,0,,Why not come to SIRIUS?
 Dialogue: 0,0:00:35.74,0:00:38.67,Flashback,Hiiragi,0,0,0,,If you're interested at all,\Ncome check us out.
-Dialogue: 0,0:00:40.72,0:00:43.23,Main,Sign,0,0,0,,{\fnTimes New Roman\fs14\b1\shad1\bord1\frz352.5\pos(322.353,53.53)\c&H8293B5&\3c&H11113A&\4c&H8293B5&}The Little Prince
+Dialogue: 0,0:00:40.72,0:00:43.23,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs14\b1\shad1\bord1\frz352.5\pos(322.353,53.53)\c&H8293B5&\3c&H11113A&\4c&H8293B5&}The Little Prince
 Dialogue: 0,0:00:45.85,0:00:48.38,Main - Italics,Yae,0,0,0,,It was like a dream.
 Dialogue: 0,0:00:49.30,0:00:55.12,Main - Italics,Yae,0,0,0,,When she speaks, everyone's enraptured, \Ndrawn into the story.
 Dialogue: 0,0:00:55.82,0:00:58.36,Main - Italics,Yae,0,0,0,,When she looks sad,
@@ -45,22 +46,22 @@ Dialogue: 0,0:01:00.65,0:01:02.75,Main - Italics,Yae,0,0,0,,When she smiles...
 Dialogue: 0,0:01:03.57,0:01:08.55,Main - Italics,Yae,0,0,0,,She was the one who taught me that theater \Nis beloved throughout the world.
 Dialogue: 0,0:01:09.27,0:01:12.19,Main - Italics,Yae,0,0,0,,That it brings happiness to so many.
 Dialogue: 0,0:01:13.56,0:01:15.70,Main - Italics,Yae,0,0,0,,I wonder if I can do that too...
-Dialogue: 0,0:01:29.23,0:01:34.56,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:47.18,0:02:52.27,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}Believe in Yourself
-Dialogue: 0,0:02:50.02,0:02:52.27,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\frz51.42\pos(259.714,142)}Arabian Nights
-Dialogue: 0,0:02:50.02,0:02:52.27,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\pos(68.857,222)\frz93.41}Arabian Nights
-Dialogue: 0,0:02:50.02,0:02:52.27,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\frz29.88\pos(443.143,96.857)\clip(m 384 93 l 472 126 573 59 520 5)}Arabian Nights
+Dialogue: 0,0:01:29.23,0:01:34.56,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:47.18,0:02:52.27,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}Believe in Yourself
+Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\frz51.42\pos(259.714,142)}Arabian Nights
+Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\pos(68.857,222)\frz93.41}Arabian Nights
+Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs18\c&H493268&\b1\frz29.88\pos(443.143,96.857)\clip(m 384 93 l 472 126 573 59 520 5)}Arabian Nights
 Dialogue: 0,0:02:50.68,0:02:55.15,Main,Kokona,0,0,0,,"I need to get better for Yae-chan's sake..."
 Dialogue: 0,0:02:55.15,0:02:58.06,Main,Kokona,0,0,0,,That's all I could think\Nwhile playing Aladdin.
 Dialogue: 0,0:02:58.73,0:03:00.77,Main,Shizuka,0,0,0,,You need to get more familiar with the role.
 Dialogue: 0,0:03:01.02,0:03:02.03,Main,Kokona,0,0,0,,Yeah.
 Dialogue: 0,0:03:02.03,0:03:02.99,Main,Shizuka,0,0,0,,All right!
-Dialogue: 0,0:03:03.41,0:03:07.79,Main,Sign,0,0,0,,{\fad(480,1)\shad0\fnTimes New Roman\fs8\c&H493268&\b1\frz17.87\pos(168.637,188.769)\3c&H8E81B0&}Arabian Nights
+Dialogue: 0,0:03:03.41,0:03:07.79,Signs,Sign,0,0,0,,{\fad(480,1)\shad0\fnTimes New Roman\fs8\c&H493268&\b1\frz17.87\pos(168.637,188.769)\3c&H8E81B0&}Arabian Nights
 Dialogue: 0,0:03:03.49,0:03:07.78,Main,Shizuka,0,0,0,,I'm going to try playing various versions \Nof Aladdin, so make sure you watch.
 Dialogue: 0,0:03:08.82,0:03:09.70,Main,Kokona,0,0,0,,Okay!
-Dialogue: 0,0:03:10.54,0:03:13.04,Main,Sign,0,0,0,,{\fnTimes New Roman\fs16\shad0\pos(163.692,179.538)\frx38\fry8\frz344.5\c&H3D4871&\3c&H0F132E&\b1}Established in 1962
+Dialogue: 0,0:03:10.54,0:03:13.04,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs16\shad0\pos(163.692,179.538)\frx38\fry8\frz344.5\c&H3D4871&\3c&H0F132E&\b1}Established in 1962
 Dialogue: 0,0:03:10.95,0:03:13.03,Main,Reporter,0,0,0,,Thank you very much.
-Dialogue: 0,0:03:13.04,0:03:16.55,Main,Sign,0,0,0,,{\fnTimes New Roman\b1\shad0\c&H3B5069&\fs12\3c&HA1CCE8&\frx358\fry320\frz352.7\pos(539.815,269.631)}Coffee
+Dialogue: 0,0:03:13.04,0:03:16.55,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\shad0\c&H3B5069&\fs12\3c&HA1CCE8&\frx358\fry320\frz352.7\pos(539.815,269.631)}Coffee
 Dialogue: 0,0:03:13.38,0:03:16.55,Main,Reporter,0,0,0,,We'll send you the interview article soon.
 Dialogue: 0,0:03:16.55,0:03:19.25,Main,Yae,0,0,0,,Great. Thank you very much.
 Dialogue: 0,0:03:23.13,0:03:25.94,Main,Hiiragi,0,0,0,,You have so many press requests, \NI hardly know what to do.
@@ -174,17 +175,17 @@ Dialogue: 0,0:09:01.93,0:09:03.36,Main,Kokona,0,0,0,,You will?
 Dialogue: 0,0:09:03.57,0:09:07.35,Main,Hiiragi,0,0,0,,I'll show you exactly how to use your Sense.
 Dialogue: 0,0:09:07.35,0:09:09.65,Main,Kokona,0,0,0,,My Sense?
 Dialogue: 0,0:09:09.65,0:09:11.19,Main,Shizuka,0,0,0,,How to use it?
-Dialogue: 0,0:09:15.24,0:09:18.24,Main,Sign,0,0,0,,{\fnArial\fs8\shad0\blur1\bord1\c&HF2F3F0&\3c&H9E5D58&\move(409.846,93.385,409.846,76.154)}Prince: Noa Hiiragi
-Dialogue: 0,0:09:15.24,0:09:18.24,Main,Sign,0,0,0,,{\fnArial\fs8\shad0\blur1\bord1\c&HF2F3F0&\3c&H9E5D58&\move(176,110.616,176,92.154)}The Little Mermaid:\NYae Niizuma
-Dialogue: 0,0:09:15.24,0:09:18.24,Main,Sign,0,0,0,,{\fnTimes New Roman\shad0\b1\c&H4C4D4E&\bord1\blur2\move(314.462,298.923,314.462,279.769)}The Little Mermaid
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnTimes New Roman\fs12\b1\shad0\bord0\frz15.3\c&H1C1C1B&\pos(289.846,60.769)}The Little Mermaid
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\b1\shad0\bord0\c&H1C1C1B&\pos(158.154,137.077)\frz21.65}Role
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\b1\shad0\bord0\c&H1C1C1B&\frz10.63\pos(386.462,63.846)}Actor
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\pos(293.538,143.231)\frz14.33}Yae Niizuma
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(140.922,203.538)}Little Mermaid
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\b1\an1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(159.384,257.077)}Prince
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\b1\an1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(183.384,306.923)}Sea Witch
-Dialogue: 0,0:09:24.50,0:09:26.75,Main,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\pos(312,194.923)\frz15.22}Noa Hiiragi
+Dialogue: 0,0:09:15.24,0:09:18.24,Signs,Sign,0,0,0,,{\fnArial\fs8\shad0\blur1\bord1\c&HF2F3F0&\3c&H9E5D58&\move(409.846,93.385,409.846,76.154)}Prince: Noa Hiiragi
+Dialogue: 0,0:09:15.24,0:09:18.24,Signs,Sign,0,0,0,,{\fnArial\fs8\shad0\blur1\bord1\c&HF2F3F0&\3c&H9E5D58&\move(176,110.616,176,92.154)}The Little Mermaid:\NYae Niizuma
+Dialogue: 0,0:09:15.24,0:09:18.24,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\b1\c&H4C4D4E&\bord1\blur2\move(314.462,298.923,314.462,279.769)}The Little Mermaid
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs12\b1\shad0\bord0\frz15.3\c&H1C1C1B&\pos(289.846,60.769)}The Little Mermaid
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\b1\shad0\bord0\c&H1C1C1B&\pos(158.154,137.077)\frz21.65}Role
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\b1\shad0\bord0\c&H1C1C1B&\frz10.63\pos(386.462,63.846)}Actor
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\pos(293.538,143.231)\frz14.33}Yae Niizuma
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(140.922,203.538)}Little Mermaid
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\b1\an1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(159.384,257.077)}Prince
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\b1\an1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(183.384,306.923)}Sea Witch
+Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs12\an1\b1\shad0\bord0\c&H1C1C1B&\pos(312,194.923)\frz15.22}Noa Hiiragi
 Dialogue: 0,0:09:33.63,0:09:36.31,Flashback,Kudo,0,0,0,,Yae, where are you off to in such a rush?
 Dialogue: 0,0:09:36.31,0:09:39.97,Flashback,Yae,0,0,0,,I'm looking for Hiiragi-san! \NI wanted to rehearse with her!
 Dialogue: 0,0:09:42.66,0:09:45.04,Flashback,Shamo,0,0,0,,Are you really going to stay?
@@ -198,7 +199,7 @@ Dialogue: 0,0:10:06.90,0:10:10.75,Flashback,Hiiragi,0,0,0,,It was SIRIUS that sh
 Dialogue: 0,0:10:11.41,0:10:14.87,Flashback,Hiiragi,0,0,0,,Until SIRIUS produces a World Dai Star,
 Dialogue: 0,0:10:14.87,0:10:18.02,Flashback,Hiiragi,0,0,0,,I have no plans to take the stage again.
 Dialogue: 0,0:10:23.78,0:10:27.41,Main - Italics,Yae,0,0,0,,I want to become a World Dai \NStar as soon as possible.
-Dialogue: 0,0:10:29.04,0:10:34.00,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:10:29.04,0:10:34.00,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:10:37.45,0:10:42.03,Main,Hiiragi,0,0,0,,The changed marks, lighting, \Nmusic cues, and direction...
 Dialogue: 0,0:10:42.29,0:10:44.42,Main,Hiiragi,0,0,0,,You've got it all down now, right?
 Dialogue: 0,0:10:44.95,0:10:46.29,Main,Shizuka,0,0,0,,Kokona!
@@ -210,8 +211,8 @@ Dialogue: 0,0:10:58.03,0:11:00.54,Main,Kokona,0,0,0,,No... I can keep going.
 Dialogue: 0,0:11:00.54,0:11:03.69,Main,Hiiragi,0,0,0,,Okay. Then let's continue \Nrehearsing until you can't anymore,
 Dialogue: 0,0:11:03.69,0:11:05.62,Main,Hiiragi,0,0,0,,to increase the precision of your Sense.
 Dialogue: 0,0:11:05.62,0:11:06.57,Main,Kokona and Shizuka,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:11:07.35,0:11:10.19,Main,Sign,0,0,0,,{\fad(900,1)\fnTimes New Roman\b1\i1\blur1\fs12\bord1\shad0\c&H40637B&\3c&H201527&\frz353\pos(243.938,81.733)}Arabian Nights{\c&H406380&}
-Dialogue: 0,0:11:07.35,0:11:10.19,Main,Sign,0,0,0,,{\fad(900,1)\fnTimes New Roman\b1\fs12\shad0\c&H4A518B&\3c&H17116D&\frz351.1\pos(237.785,145.446)}Sold Out   Thank You
+Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\fad(900,1)\fnTimes New Roman\b1\i1\blur1\fs12\bord1\shad0\c&H40637B&\3c&H201527&\frz353\pos(243.938,81.733)}Arabian Nights{\c&H406380&}
+Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\fad(900,1)\fnTimes New Roman\b1\fs12\shad0\c&H4A518B&\3c&H17116D&\frz351.1\pos(237.785,145.446)}Sold Out   Thank You
 Dialogue: 0,0:11:07.59,0:11:10.19,Main,Audience,0,0,0,,That person totally cut in line!
 Dialogue: 0,0:11:10.19,0:11:12.94,Main,Audience,0,0,0,,I'm so glad I made it in time!
 Dialogue: 0,0:11:12.94,0:11:15.18,Main,Audience,0,0,0,,We get to see Yae-chan, right?
@@ -330,11 +331,11 @@ Dialogue: 0,0:18:30.45,0:18:32.10,Main,Kokona (Aladdin),0,0,0,,It's all thanks t
 Dialogue: 0,0:18:33.70,0:18:37.10,Main,Kokona (Aladdin),0,0,0,,If I ever get to see you again...
 Dialogue: 0,0:18:40.47,0:18:44.49,Main,Kokona (Aladdin),0,0,0,,No... No more wishes.
 Dialogue: 0,0:19:19.75,0:19:24.31,Main,Audience A,0,0,0,,Yae-chan's Genie was just like \NI heard. She was super cute!
-Dialogue: 0,0:19:20.30,0:19:29.73,Main,Sign,0,0,0,,{\fnArial\fs14\fay-.16\shad0\c&H5B5B73&\3c&HD7D6F0&\b1\move(682.154,110.615,382.154,110.615)}Merchandise Area
+Dialogue: 0,0:19:20.30,0:19:29.73,Signs,Sign,0,0,0,,{\fnArial\fs14\fay-.16\shad0\c&H5B5B73&\3c&HD7D6F0&\b1\move(682.154,110.615,382.154,110.615)}Merchandise Area
 Dialogue: 0,0:19:24.31,0:19:26.97,Main,Audience B,0,0,0,,Right? I think it was \Neven better than before.
 Dialogue: 0,0:19:26.97,0:19:29.73,Main,Audience B,0,0,0,,Especially that last scene \Nwith Aladdin and the Genie!
 Dialogue: 0,0:19:29.96,0:19:34.48,Main,Audience C (little girl),0,0,0,,Um! I'd like a picture of Aladdin... \NOf Kokona Otori-chan, please!
-Dialogue: 0,0:19:34.48,0:19:36.98,Main,Sign,0,0,0,,{\fnArial\b1\bord0\fs10\shad0\3c&HE7E9E9&\c&H262234&\frz326.5\pos(341.744,295.519)\frx16\fry0\i1}T-shirts 2,500 yen
+Dialogue: 0,0:19:34.48,0:19:36.98,Signs,Sign,0,0,0,,{\fnArial\b1\bord0\fs10\shad0\3c&HE7E9E9&\c&H262234&\frz326.5\pos(341.744,295.519)\frx16\fry0\i1}T-shirts 2,500 yen
 Dialogue: 1,0:19:34.48,0:19:36.99,Main,Staff,0,0,0,,Here you go. Thank you very much.
 Dialogue: 0,0:19:37.46,0:19:41.58,Main,Audience E,0,0,0,,Was her name Kokona Otori? \NI heard she's new, but she's pretty good.
 Dialogue: 0,0:19:48.08,0:19:51.02,Main,Yae,0,0,0,,I guess I was destroying the performances.
@@ -380,14 +381,14 @@ Dialogue: 0,0:21:44.14,0:21:46.32,Main,Panda,0,0,0,,Festival time! Festival time
 Dialogue: 0,0:21:45.76,0:21:47.25,Main,Kokona,0,0,0,,Fireworks!
 Dialogue: 0,0:21:47.25,0:21:49.16,Main,Yae,0,0,0,,They're very pretty.
 Dialogue: 0,0:21:50.13,0:21:52.28,Main,Kokona,0,0,0,,Up they go!
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\frz355.9\pos(528,65.077)\3c&HEAEEEB&\c&H695CA5&}Aladdin gets nervous{\s0}
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\3c&HD2D3D1&\c&H695CA5&\frz339.8\pos(463.384,317.385)}Make the Genie stand out
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\fs12\fnArial\shad0\frz355.9\3c&HDCDFDF&\c&H695CA5&\pos(376,303.846)}I'm the star!!
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\fs8\fnArial\shad0\3c&HEFEBE8&\c&H695CA5&\pos(318.769,252.769)\frz7.872}Without being swallowed up\Nby the Genie, Aladdin is totally moved\Nfrom the bottom of his heart!
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\fs10\fnArial\shad0\3c&HECEFEC&\c&H695CA5&\frz340.4\pos(249.846,49.076)}Make sure you don't get upstaged by the Genie's lines!
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\3c&HEAEEEB&\c&H695CA5&\frz344.5\pos(124.923,212.77)}Aladdin seems anxious
-Dialogue: 0,0:21:52.75,0:21:57.04,Main,Sign,0,0,0,,{\fad(1680,1)\fs8\fnArial\shad0\3c&HE4E1E3&\c&H695CA5&\frz346.3\pos(103.999,237.384)}Make sure to be excited about new, unknown experiences!
-Dialogue: 0,0:22:01.05,0:22:05.05,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\c&H493268&\fs36\b1\pos(400.637,89.077)\frz343.7}Arabian Nights
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Eighth Stage
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Romeo and Juliet
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\frz355.9\pos(528,65.077)\3c&HEAEEEB&\c&H695CA5&}Aladdin gets nervous{\s0}
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\3c&HD2D3D1&\c&H695CA5&\frz339.8\pos(463.384,317.385)}Make the Genie stand out
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\fs12\fnArial\shad0\frz355.9\3c&HDCDFDF&\c&H695CA5&\pos(376,303.846)}I'm the star!!
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\fs8\fnArial\shad0\3c&HEFEBE8&\c&H695CA5&\pos(318.769,252.769)\frz7.872}Without being swallowed up\Nby the Genie, Aladdin is totally moved\Nfrom the bottom of his heart!
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\fs10\fnArial\shad0\3c&HECEFEC&\c&H695CA5&\frz340.4\pos(249.846,49.076)}Make sure you don't get upstaged by the Genie's lines!
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\s1\fs10\fnArial\shad0\3c&HEAEEEB&\c&H695CA5&\frz344.5\pos(124.923,212.77)}Aladdin seems anxious
+Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\fs8\fnArial\shad0\3c&HE4E1E3&\c&H695CA5&\frz346.3\pos(103.999,237.384)}Make sure to be excited about new, unknown experiences!
+Dialogue: 0,0:22:01.05,0:22:05.05,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\c&H493268&\fs36\b1\pos(400.637,89.077)\frz343.7}Arabian Nights
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Eighth Stage
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Romeo and Juliet
 Dialogue: 0,0:23:36.12,0:23:39.04,Main,Kokona,0,0,0,,Next time: "Romeo and Juliet."

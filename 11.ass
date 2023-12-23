@@ -29,10 +29,11 @@ Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
 Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
 Style: Flashback - Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.94,0:00:10.19,Main,Sign,0,0,0,,{\an8\fnTimes New Roman\fs18\c&H3B3F46&\3c&H8E908B&\shad0\b1}The Deep Blue Sea Is Everyone's Treasure
+Dialogue: 0,0:00:02.94,0:00:10.19,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs18\c&H3B3F46&\3c&H8E908B&\shad0\b1}The Deep Blue Sea Is Everyone's Treasure
 Dialogue: 0,0:00:10.52,0:00:12.20,Main,Kokona,0,0,0,,Wow!
 Dialogue: 0,0:00:12.87,0:00:16.22,Main,Kokona,0,0,0,,We haven't even been away six months,\N but this is so nostalgic.
 Dialogue: 0,0:00:16.22,0:00:17.45,Main,Kokona,0,0,0,,I feel so relaxed now.
@@ -54,8 +55,8 @@ Dialogue: 0,0:01:08.51,0:01:11.47,Main,Shizuka,0,0,0,,I'll tell you what you're 
 Dialogue: 0,0:01:11.47,0:01:12.16,Main,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:01:17.50,0:01:19.23,Main,Shizuka,0,0,0,,The great age of theater...
 Dialogue: 0,0:01:20.12,0:01:24.76,Main,Shizuka,0,0,0,,This is the story of how to make\N one girl's dream come true.
-Dialogue: 0,0:01:39.32,0:01:44.66,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:57.15,0:03:02.03,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}Our Promise
+Dialogue: 0,0:01:39.32,0:01:44.66,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:57.15,0:03:02.03,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}Our Promise
 Dialogue: 0,0:03:02.95,0:03:06.70,Main,Shizuka,0,0,0,,There was once a town\Nthat was the beating heart of theater.
 Dialogue: 0,0:03:06.70,0:03:10.79,Main,Shizuka,0,0,0,,A town where actors and actresses \Nplayed all kinds of roles,
 Dialogue: 0,0:03:10.79,0:03:13.46,Main,Shizuka,0,0,0,,bringing countless stories to life.
@@ -148,7 +149,7 @@ Dialogue: 0,0:10:20.00,0:10:21.17,Main,Kokona,0,0,0,,Shizuka-chan!
 Dialogue: 0,0:10:22.29,0:10:25.65,Main - Italics,Shizuka,0,0,0,,I know you can make it happen, Kokona.
 Dialogue: 0,0:10:25.65,0:10:28.99,Main - Italics,Shizuka,0,0,0,,I can't wait to see your Phantom.
 Dialogue: 0,0:10:46.32,0:10:48.05,Main,Kokona,0,0,0,,Shizuka-chan...
-Dialogue: 0,0:11:03.32,0:11:06.96,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:11:03.32,0:11:06.96,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:11:20.02,0:11:22.78,Main,Sasuga,0,0,0,,It's almost time for the audition.
 Dialogue: 0,0:11:22.78,0:11:23.80,Main,Panda,0,0,0,,Yeah.
 Dialogue: 0,0:11:25.76,0:11:29.41,Main,Panda,0,0,0,,Kathrin, how's your right eye doing?
@@ -196,14 +197,14 @@ Dialogue: 0,0:14:46.70,0:14:50.62,Main - Italics,Niizuma,0,0,0,,That's the anger
 Dialogue: 0,0:14:46.96,0:14:48.58,Main - Top,Kokona (Phantom),0,0,0,,No, that's impossible...
 Dialogue: 0,0:14:48.58,0:14:50.61,Main - Top,Kokona (Phantom),0,0,0,,I am but a shadow.
 Dialogue: 0,0:14:51.21,0:14:53.51,Main,Kokona (Phantom),0,0,0,,A hideous monster.
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\frz353.5\frx350\fry10\pos(537.333,57.333)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frx350\fry10\pos(440,102.666)\frz358.4}R\No\Nl\Ne\Ns
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(335.333,61.999)\frz359.2\frx356\fry6}T\Nh\Ne\N\NP\Nh\Na\Nn\Nt\No\Nm
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz1.651\frx356\fry2\pos(242.666,66.666)}C\Nh\Nr\Ni\Ns\Nt\Ni\Nn\Ne
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz4.874\pos(136.666,65.332)\frx6\fry2}R\Na\No\Nu\Nl
-Dialogue: 0,0:15:00.37,0:15:04.13,Main,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(43.333,64.665)\frz7\frx10\fry2}C\Na\Nr\Nl\No\Nt\Nt\Na
-Dialogue: 0,0:15:07.63,0:15:10.63,Main,Sign,0,0,0,,{\an3\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\pos(463.333,244)\frx354\fry334\frz354.2}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:07.63,0:15:10.63,Main,Sign,0,0,0,,{\an3\shad0\bord0\fnTimes New Roman\c&H0E1213&\frx354\fry334\frz354.2\pos(404.666,80.666)}K\No\Nk\No\Nn\Na
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\frz353.5\frx350\fry10\pos(537.333,57.333)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frx350\fry10\pos(440,102.666)\frz358.4}R\No\Nl\Ne\Ns
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(335.333,61.999)\frz359.2\frx356\fry6}T\Nh\Ne\N\NP\Nh\Na\Nn\Nt\No\Nm
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz1.651\frx356\fry2\pos(242.666,66.666)}C\Nh\Nr\Ni\Ns\Nt\Ni\Nn\Ne
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\frz4.874\pos(136.666,65.332)\frx6\fry2}R\Na\No\Nu\Nl
+Dialogue: 0,0:15:00.37,0:15:04.13,Signs,Sign,0,0,0,,{\fad(1003,1)\an8\shad0\bord0\fs20\fnTimes New Roman\c&H0E1213&\pos(43.333,64.665)\frz7\frx10\fry2}C\Na\Nr\Nl\No\Nt\Nt\Na
+Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\i1\shad0\bord0\fnTimes New Roman\c&H0E1213&\pos(463.333,244)\frx354\fry334\frz354.2}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:07.63,0:15:10.63,Signs,Sign,0,0,0,,{\an3\shad0\bord0\fnTimes New Roman\c&H0E1213&\frx354\fry334\frz354.2\pos(404.666,80.666)}K\No\Nk\No\Nn\Na
 Dialogue: 0,0:15:11.49,0:15:12.91,Main,Kathrina,0,0,0,,I totally lost.
 Dialogue: 0,0:15:13.61,0:15:14.88,Main,Sasuga,0,0,0,,Are you crying?
 Dialogue: 0,0:15:14.88,0:15:16.00,Main,Kathrina,0,0,0,,No!
@@ -213,8 +214,8 @@ Dialogue: 0,0:15:22.97,0:15:29.14,Main,Panda,0,0,0,,I thought expressing that wa
 Dialogue: 0,0:15:29.53,0:15:32.50,Main,Niizuma,0,0,0,,The variations of the \NPhantom we tried to play
 Dialogue: 0,0:15:32.50,0:15:36.58,Main,Niizuma,0,0,0,,are probably extensions\Nof Hiiragi-san's Phantom.
 Dialogue: 0,0:15:37.77,0:15:43.09,Main,Niizuma,0,0,0,,I'm sure that she saw new \Npotential in Kokona-san.
-Dialogue: 0,0:15:39.91,0:15:43.67,Main,Sign,0,0,0,,{\an2\i1\shad0\bord0\fnTimes New Roman\c&H02040C&\frx354\fry334\frz354.2\move(524,214.667,535.667,210.334)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
-Dialogue: 0,0:15:39.91,0:15:43.67,Main,Sign,0,0,0,,{\an2\shad0\fs20\bord0\fnTimes New Roman\c&H02040C&\frz354.2\move(385.333,228.667,390.333,225.334)\frx350\fry336}P\Nh\Na\Nn\Nt\No\Nm\N\N\NK\No\Nk\No\Nn\Na
+Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\i1\shad0\bord0\fnTimes New Roman\c&H02040C&\frx354\fry334\frz354.2\move(524,214.667,535.667,210.334)}P\Nh\Na\Nn\Nt\No\Nm\N\No\Nf\N\Nt\Nh\Ne\N\NO\Np\Ne\Nr\Na{\i0}
+Dialogue: 0,0:15:39.91,0:15:43.67,Signs,Sign,0,0,0,,{\an2\shad0\fs20\bord0\fnTimes New Roman\c&H02040C&\frz354.2\move(385.333,228.667,390.333,225.334)\frx350\fry336}P\Nh\Na\Nn\Nt\No\Nm\N\N\NK\No\Nk\No\Nn\Na
 Dialogue: 0,0:15:44.16,0:15:49.74,Main,Sasuga,0,0,0,,His heart's weakness, its purity... \NThe longing to step outside...
 Dialogue: 0,0:15:50.93,0:15:56.03,Main,Sasuga,0,0,0,,The annoyance, jealousy, and sadness\Nof being denied what he wants...
 Dialogue: 0,0:15:56.90,0:16:00.08,Main,Sasuga,0,0,0,,I'm surprised she played the role\N in such a complex way.
@@ -303,6 +304,6 @@ Dialogue: 0,0:21:54.68,0:21:56.58,Main,Sasuga,0,0,0,,So edgy I might cut myself.
 Dialogue: 0,0:21:56.58,0:21:58.41,Main,Kathrina,0,0,0,,Huh? What's that supposed to mean?
 Dialogue: 0,0:21:58.41,0:21:59.61,Main,Niizuma,0,0,0,,That you're edgy.
 Dialogue: 0,0:21:59.61,0:22:02.96,Main,Kathrina,0,0,0,,No, really! What does that even mean?!
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Twelfth Stage
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}The Two of Us Together
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Twelfth Stage
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}The Two of Us Together
 Dialogue: 0,0:23:35.84,0:23:38.87,Main,Kokona,0,0,0,,The final episode: "The Two of Us Together."

@@ -28,6 +28,7 @@ Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
 Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
 Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,8 +50,8 @@ Dialogue: 0,0:00:52.74,0:00:59.25,Main - Italics,Hiiragi,0,0,0,,Panda Yanagiba's
 Dialogue: 0,0:00:55.65,0:00:58.74,Main - Top,Panda (Misato),0,0,0,,making it hard to judge them on love alone.
 Dialogue: 0,0:00:58.74,0:01:02.24,Main - Top,Panda (Misato),0,0,0,,So why not choose based\Non something tangible?
 Dialogue: 0,0:01:02.69,0:01:05.74,Main - Italics,Hiiragi,0,0,0,,She's going overboard.\NShe'll be getting a lecture later.
-Dialogue: 0,0:01:27.23,0:01:32.56,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,137.696)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:45.18,0:02:50.06,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an1\fs18\blur2\bord1\shad0\pos(41,308.933)\3c&H4B4B4C&}Our First Play
+Dialogue: 0,0:01:27.23,0:01:32.56,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,137.696)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:45.18,0:02:50.06,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an1\fs18\blur2\bord1\shad0\pos(41,308.933)\3c&H4B4B4C&}Our First Play
 Dialogue: 0,0:02:45.47,0:02:49.53,Main - Top,Reporter,0,0,0,,I'm with {\i1}Future Dai Star{\i0},\Nthe magazine that introduces young actors
 Dialogue: 0,0:02:49.53,0:02:51.19,Main - Top,Reporter,0,0,0,,who represent Japan's future.
 Dialogue: 0,0:02:51.19,0:02:53.18,Main - Top,Reporter,0,0,0,,Thank you for speaking with me today.
@@ -100,7 +101,7 @@ Dialogue: 0,0:05:35.43,0:05:39.27,Subtitles,Kathrina,0,0,0,,Well, I am your daug
 Dialogue: 0,0:05:39.48,0:05:42.61,Subtitles,Kathrina's Mother,0,0,0,,Are you all right?\NNot pushing yourself too hard, are you?
 Dialogue: 0,0:05:42.78,0:05:47.66,Subtitles,Kathrina,0,0,0,,I'm fine, Mama. Don't worry. Bye. I love you.
 Dialogue: 0,0:05:54.05,0:05:58.02,Main,Kokona,0,0,0,,Who I really am... Who am I, anyway?
-Dialogue: 0,0:05:55.89,0:05:58.29,Main,Sign,0,0,0,,{\fad(1840,1)\fs18\fnArial\shad0\bord0\fay-.02\b1\c&HB89DB7&\pos(412,177.666)}SIRIUS SENTO
+Dialogue: 0,0:05:55.89,0:05:58.29,Signs,Sign,0,0,0,,{\fad(1840,1)\fs18\fnArial\shad0\bord0\fay-.02\b1\c&HB89DB7&\pos(412,177.666)}SIRIUS SENTO
 Dialogue: 0,0:05:58.54,0:06:01.02,Main,Shizuka,0,0,0,,That's not an easy question to answer.
 Dialogue: 0,0:06:01.02,0:06:03.81,Main,Shizuka,0,0,0,,This is why people go\Non journeys of self-discovery.
 Dialogue: 0,0:06:03.81,0:06:05.16,Main,Kokona,0,0,0,,Ooh!
@@ -108,7 +109,7 @@ Dialogue: 0,0:06:05.54,0:06:08.25,Main,Kokona,0,0,0,,I really felt the awe of yo
 Dialogue: 0,0:06:12.29,0:06:13.92,Main,Kokona,0,0,0,,Shizuka-chan.
 Dialogue: 0,0:06:13.92,0:06:14.80,Main,Shizuka,0,0,0,,Yeah?
 Dialogue: 0,0:06:14.80,0:06:17.59,Main,Kokona,0,0,0,,How would you describe \Nme in a single phrase?
-Dialogue: 0,0:06:14.80,0:06:23.07,Main,Sign,0,0,0,,{\an8\fnTimes New Roman\fs15\shad0\c&H321E16&\3c&HBEA595&}Furaijinmon\N2nd Year, Auspicious Day in April
+Dialogue: 0,0:06:14.80,0:06:23.07,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs15\shad0\c&H321E16&\3c&HBEA595&}Furaijinmon\N2nd Year, Auspicious Day in April
 Dialogue: 0,0:06:17.59,0:06:18.42,Main,Shizuka,0,0,0,,An idiot.
 Dialogue: 0,0:06:18.42,0:06:19.41,Main,Kokona,0,0,0,,That's so mean!
 Dialogue: 0,0:06:19.41,0:06:20.65,Main,Shizuka,0,0,0,,Obsessed with acting.
@@ -122,10 +123,10 @@ Dialogue: 0,0:06:39.08,0:06:41.67,Main,Shizuka,0,0,0,,You're the one who makes m
 Dialogue: 0,0:06:41.67,0:06:43.16,Main,Kokona,0,0,0,,See? You got mad!
 Dialogue: 0,0:06:43.16,0:06:44.80,Main,Shizuka,0,0,0,,Honestly...
 Dialogue: 0,0:06:45.78,0:06:49.79,Main,Kokona,0,0,0,,Yummy! It's stuffed with red bean paste!\NI love these ningyo-yaki cakes!
-Dialogue: 0,0:06:51.47,0:06:53.47,Main,Sign,0,0,0,,{\fnTimes New Roman\fs15\shad0\c&H282418&\3c&HCCC4CC&\frx336\fry358\pos(342.836,127.6)\frz341\b1}Hanayashiki
-Dialogue: 0,0:06:51.47,0:06:53.47,Main,Sign,0,0,0,,{\fnTimes New Roman\fay.2\fs12\shad0\c&H23291B&\3c&H7891A5&\b1\pos(337.745,206.145)}Asakusa Gate
-Dialogue: 0,0:06:53.47,0:06:58.89,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\c&H182333&\3c&HD1E1E3&\pos(595.637,149.999)}East
-Dialogue: 0,0:06:53.47,0:06:58.89,Main,Sign,0,0,0,,{\fnArial\b1\fs10\shad0\c&H10223D&\3c&H49DED8&\frz15.54\pos(544.727,119.454)}Flower
+Dialogue: 0,0:06:51.47,0:06:53.47,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs15\shad0\c&H282418&\3c&HCCC4CC&\frx336\fry358\pos(342.836,127.6)\frz341\b1}Hanayashiki
+Dialogue: 0,0:06:51.47,0:06:53.47,Signs,Sign,0,0,0,,{\fnTimes New Roman\fay.2\fs12\shad0\c&H23291B&\3c&H7891A5&\b1\pos(337.745,206.145)}Asakusa Gate
+Dialogue: 0,0:06:53.47,0:06:58.89,Signs,Sign,0,0,0,,{\fnArial\fs10\shad0\c&H182333&\3c&HD1E1E3&\pos(595.637,149.999)}East
+Dialogue: 0,0:06:53.47,0:06:58.89,Signs,Sign,0,0,0,,{\fnArial\b1\fs10\shad0\c&H10223D&\3c&H49DED8&\frz15.54\pos(544.727,119.454)}Flower
 Dialogue: 0,0:06:53.72,0:06:57.41,Main,Shizuka,0,0,0,,You wear your heart on your sleeve,\Nso you suck at lying.
 Dialogue: 0,0:06:57.41,0:06:58.90,Main,Kokona,0,0,0,,You're probably right.
 Dialogue: 0,0:06:59.28,0:07:01.00,Main,Shizuka,0,0,0,,Also, you get depressed really easily.
@@ -203,7 +204,7 @@ Dialogue: 0,0:11:13.09,0:11:15.44,Main,Kathrina,0,0,0,,Kokona, you're standing i
 Dialogue: 0,0:11:15.44,0:11:18.89,Main,Panda,0,0,0,,Yeesh. Now she's bossing people around.
 Dialogue: 0,0:11:19.19,0:11:22.82,Main,Kudo,0,0,0,,All right. Like Kathrina said, \Nlet's take it from the top.
 Dialogue: 0,0:11:26.03,0:11:28.19,Main,Shizuka,0,0,0,,Are you sure you don't \Nwant to switch rooms?
-Dialogue: 0,0:11:28.20,0:11:32.17,Main,Sign,0,0,0,,{\fnArial\b1\fs10\frx0\fry350\frz0.6747\shad0\c&H4E595B&\3c&HAFB5A9&\pos(446.642,39.164)}Become a World Dai Star!
+Dialogue: 0,0:11:28.20,0:11:32.17,Signs,Sign,0,0,0,,{\fnArial\b1\fs10\frx0\fry350\frz0.6747\shad0\c&H4E595B&\3c&HAFB5A9&\pos(446.642,39.164)}Become a World Dai Star!
 Dialogue: 0,0:11:28.63,0:11:31.22,Main,Shizuka,0,0,0,,We can't relax with her around.
 Dialogue: 0,0:11:31.22,0:11:32.69,Main,Kokona,0,0,0,,Don't say that.
 Dialogue: 0,0:11:32.69,0:11:34.15,Main,Kokona,0,0,0,,We need to get along.
@@ -259,8 +260,8 @@ Dialogue: 0,0:14:29.98,0:14:32.75,Main,Kokona,0,0,0,,Yeah. Just a bit shocked.
 Dialogue: 0,0:14:33.14,0:14:36.34,Main,Kokona,0,0,0,,But I'm doing this to make our \Nperformance a success!
 Dialogue: 0,0:14:36.34,0:14:38.02,Main,Kokona,0,0,0,,I'm totally fine!
 Dialogue: 0,0:14:39.77,0:14:42.12,Main,Kokona,0,0,0,,I need to face her head-on without running.
-Dialogue: 0,0:14:45.40,0:14:46.90,Main,Sign,0,0,0,,{\fnTimes New Roman\fs12\shad0\bord1\fry350\frz350.5\pos(442.182,129.636)\c&HBCCDA3&\3c&H46494A&}The Tale of the Bamboo Cutter
-Dialogue: 0,0:14:45.40,0:14:46.90,Main,Sign,0,0,0,,{\fnTimes New Roman\fs10\b1\shad0\pos(429.091,208.182)\frz350.7\c&H6C60C4&\3c&HFAFDFA&}Newcomer Performance Today
+Dialogue: 0,0:14:45.40,0:14:46.90,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs12\shad0\bord1\fry350\frz350.5\pos(442.182,129.636)\c&HBCCDA3&\3c&H46494A&}The Tale of the Bamboo Cutter
+Dialogue: 0,0:14:45.40,0:14:46.90,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs10\b1\shad0\pos(429.091,208.182)\frz350.7\c&H6C60C4&\3c&HFAFDFA&}Newcomer Performance Today
 Dialogue: 0,0:14:59.32,0:15:01.37,Main,Shizuka,0,0,0,,Are you all right, Kokona?
 Dialogue: 0,0:15:01.37,0:15:02.50,Main,Kokona,0,0,0,,Shizuka-chan!
 Dialogue: 0,0:15:02.50,0:15:03.41,Main,Shizuka,0,0,0,,Wh-What?
@@ -271,7 +272,7 @@ Dialogue: 0,0:15:14.52,0:15:16.53,Main,Kokona,0,0,0,,Thanks, Shizuka-chan!
 Dialogue: 0,0:15:18.51,0:15:20.82,Main,Kathrina,0,0,0,,Listen, Kathrina.
 Dialogue: 0,0:15:20.82,0:15:22.78,Main,Kathrina,0,0,0,,You can't mess up this time.
 Dialogue: 0,0:15:23.42,0:15:25.71,Main,Kathrina,0,0,0,,You have to make this a \Nsuccess no matter what.
-Dialogue: 0,0:15:27.25,0:15:32.03,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:15:27.25,0:15:32.03,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:15:32.71,0:15:35.61,Lyrics,Lyrics,0,0,0,,...for you just grows again
 Dialogue: 0,0:15:35.61,0:15:41.59,Lyrics,Lyrics,0,0,0,,Even if this is but a faint dream\Nthat will one day fade
 Dialogue: 0,0:15:41.59,0:15:50.80,Lyrics,Lyrics,0,0,0,,May this falling tear melt\Nwith this momentary fragrance
@@ -342,6 +343,6 @@ Dialogue: 0,0:21:53.52,0:21:54.68,Main,Hiiragi,0,0,0,,Kokona.
 Dialogue: 0,0:21:54.68,0:21:55.78,Main,Kokona,0,0,0,,Y-Yes?
 Dialogue: 0,0:21:56.09,0:21:58.24,Main,Hiiragi,0,0,0,,I knew it. You...
 Dialogue: 0,0:21:58.77,0:22:01.55,Main,Hiiragi,0,0,0,,really do have an interesting Sense.
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Fourth Stage
-Dialogue: 0,0:23:35.06,0:23:40.05,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Once Upon a Time
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Fourth Stage
+Dialogue: 0,0:23:35.06,0:23:40.05,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Once Upon a Time
 Dialogue: 0,0:23:36.23,0:23:38.90,Main,Kokona,0,0,0,,Next time: "Once Upon a Time."

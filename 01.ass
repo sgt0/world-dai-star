@@ -28,6 +28,7 @@ Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
 Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
 Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -35,7 +36,7 @@ Dialogue: 0,0:00:08.25,0:00:09.90,Main,Kokona,0,0,0,,A World Dai Star?
 Dialogue: 0,0:00:10.27,0:00:12.08,Main,Shizuka,0,0,0,,I know you'll be one someday, Kokona.
 Dialogue: 0,0:00:12.08,0:00:13.66,Main,Kokona,0,0,0,,No way.
 Dialogue: 0,0:00:14.24,0:00:17.00,Main,Kokona,0,0,0,,Even at the audition the other day...
-Dialogue: 0,0:00:16.99,0:00:19.95,Main,Sign,0,0,0,,{\an9\fnArial\fs14\3c&HB0C4E5&\4c&HB0C4E5&\c&H5D5D5D&}Regarding Your Audition\N\N{\3c&HF5F5F3&\4c&HF5F5F3&}Hello, Kokona Otori-sama.\NThank you very much for auditioning with us.\NAfter careful deliberation, we regret to inform you that\N{\fs20}you have not passed {\fs14}our audition.
+Dialogue: 0,0:00:16.99,0:00:19.95,Signs,Sign,0,0,0,,{\an9\fnArial\fs14\3c&HB0C4E5&\4c&HB0C4E5&\c&H5D5D5D&}Regarding Your Audition\N\N{\3c&HF5F5F3&\4c&HF5F5F3&}Hello, Kokona Otori-sama.\NThank you very much for auditioning with us.\NAfter careful deliberation, we regret to inform you that\N{\fs20}you have not passed {\fs14}our audition.
 Dialogue: 0,0:00:17.30,0:00:19.95,Main,Kokona,0,0,0,,they told me I lacked Sense.
 Dialogue: 0,0:00:19.95,0:00:21.82,Main,Shizuka,0,0,0,,Well, {\i1}I{\i0} disagree.
 Dialogue: 0,0:00:24.21,0:00:26.84,Main,Shizuka,0,0,0,,You don't believe them either,\N do you, Kokona?
@@ -54,22 +55,22 @@ Dialogue: 0,0:01:35.29,0:01:37.02,Main,Shizuka,0,0,0,,I'll make it happen.
 Dialogue: 0,0:01:43.80,0:01:45.38,Main - Italics,Narrator,0,0,0,,In the twentieth century,
 Dialogue: 0,0:01:45.75,0:01:49.71,Main - Italics,Narrator,0,0,0,,the passionate performances of actors\N who appeared like shooting stars
 Dialogue: 0,0:01:49.72,0:01:53.60,Main - Italics,Narrator,0,0,0,,ushered the world into \Nthe great age of theater.
-Dialogue: 0,0:01:52.34,0:01:55.63,Main,Sign,0,0,0,,{\fad(270,190)\fnTimes New Roman\fs15\shad0\c&H2E314E&\3c&HECECEC&\pos(307.2,239.6)}Kaminarimon
+Dialogue: 0,0:01:52.34,0:01:55.63,Signs,Sign,0,0,0,,{\fad(270,190)\fnTimes New Roman\fs15\shad0\c&H2E314E&\3c&HECECEC&\pos(307.2,239.6)}Kaminarimon
 Dialogue: 0,0:01:54.86,0:01:59.67,Main - Italics,Narrator,0,0,0,,It became the ultimate entertainment \Nfor the masses around the globe,
 Dialogue: 0,0:01:59.67,0:02:03.67,Main - Italics,Narrator,0,0,0,,and many an actor competed \Nfor the spotlight.
 Dialogue: 0,0:02:08.17,0:02:13.82,Main - Italics,Narrator,0,0,0,,Performers with the Sense to outshine others\Nbecame known as "Dai Stars."
 Dialogue: 0,0:02:14.13,0:02:19.02,Main - Italics,Narrator,0,0,0,,And the pinnacle of Dai Stars\N was given the title...
 Dialogue: 0,0:02:19.32,0:02:21.71,Main - Italics,Narrator,0,0,0,,World Dai Star.
-Dialogue: 0,0:02:22.01,0:02:28.00,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:28.12,0:02:32.96,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}The Girl with Dreams
-Dialogue: 0,0:02:30.50,0:02:33.25,Main,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs12\frz134.5\c&H01020B&\move(160.534,233.2,160.534,356.267)}At Twilight When \Nthe Cold Wind Blows
-Dialogue: 0,0:02:30.50,0:02:33.25,Main,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs10\c&H72573B&\frz15.76\b1\move(192.934,48.133,192.934,171.666)}The Little Mermaid
-Dialogue: 0,0:02:33.25,0:02:35.75,Main,Sign,0,0,0,,{\fnArial\b1\fs14\frx0\fry350\frz0.6747\shad0\c&H4E595B&\3c&HDFE3E5&\pos(395.733,98.8)}Become a World Dai Star!
-Dialogue: 0,0:02:35.75,0:02:37.76,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\an1\fs12\pos(161.6,126)\c&H1F2127&}Kokona Otori-sama
-Dialogue: 0,0:02:35.75,0:02:37.76,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs14\c&H1F2127&\pos(316.8,170.8)}Notification of Second Audition
-Dialogue: 0,0:02:35.75,0:02:37.76,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs10\c&H1F2127&\pos(360.533,260.4)\frz16.98}Shinkansen Ticket
-Dialogue: 0,0:02:35.75,0:02:37.76,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs8\c&H1F2127&\frz16.98\pos(328.533,281.2)}Hachinohe
-Dialogue: 0,0:02:35.75,0:02:37.76,Main,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs8\c&H1F2127&\frz16.98\pos(398.4,259.867)}Ueno
+Dialogue: 0,0:02:22.01,0:02:28.00,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)\t(\fs38)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:28.12,0:02:32.96,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(604.933,308.933)\3c&H4B4B4C&}The Girl with Dreams
+Dialogue: 0,0:02:30.50,0:02:33.25,Signs,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs12\frz134.5\c&H01020B&\move(160.534,233.2,160.534,356.267)}At Twilight When \Nthe Cold Wind Blows
+Dialogue: 0,0:02:30.50,0:02:33.25,Signs,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs10\c&H72573B&\frz15.76\b1\move(192.934,48.133,192.934,171.666)}The Little Mermaid
+Dialogue: 0,0:02:33.25,0:02:35.75,Signs,Sign,0,0,0,,{\fnArial\b1\fs14\frx0\fry350\frz0.6747\shad0\c&H4E595B&\3c&HDFE3E5&\pos(395.733,98.8)}Become a World Dai Star!
+Dialogue: 0,0:02:35.75,0:02:37.76,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\an1\fs12\pos(161.6,126)\c&H1F2127&}Kokona Otori-sama
+Dialogue: 0,0:02:35.75,0:02:37.76,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs14\c&H1F2127&\pos(316.8,170.8)}Notification of Second Audition
+Dialogue: 0,0:02:35.75,0:02:37.76,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs10\c&H1F2127&\pos(360.533,260.4)\frz16.98}Shinkansen Ticket
+Dialogue: 0,0:02:35.75,0:02:37.76,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs8\c&H1F2127&\frz16.98\pos(328.533,281.2)}Hachinohe
+Dialogue: 0,0:02:35.75,0:02:37.76,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs8\c&H1F2127&\frz16.98\pos(398.4,259.867)}Ueno
 Dialogue: 0,0:02:40.57,0:02:42.58,Main,Shizuka,0,0,0,,What are you so nervous about?
 Dialogue: 0,0:02:42.82,0:02:44.75,Main,Kokona,0,0,0,,I mean, who wouldn't be?
 Dialogue: 0,0:02:44.75,0:02:47.40,Main,Kokona,0,0,0,,I've always wanted to join SIRIUS,
@@ -118,17 +119,17 @@ Dialogue: 0,0:05:29.94,0:05:31.56,Main,Shizuka,0,0,0,,{\i1}You're{\i0} supposed 
 Dialogue: 0,0:05:31.91,0:05:36.08,Main,Kokona,0,0,0,,If only you could \Naudition too, Shizuka-chan...
 Dialogue: 0,0:05:36.08,0:05:38.26,Main,Shizuka,0,0,0,,Come on. The first train will be here soon.
 Dialogue: 0,0:05:38.26,0:05:40.64,Main,Kokona,0,0,0,,Oh, right!
-Dialogue: 0,0:05:54.45,0:05:59.58,Main,Sign,0,0,0,,{\fay.24\fnTimes New Roman\fs30\shad0\bord1\frx8\fry14\3c&H3B386B&\4c&H121030&\frz356.9\move(429.6,153.733,403.133,153.733)}Elisabeth
-Dialogue: 0,0:05:54.45,0:05:59.58,Main,Sign,0,0,0,,{\fay.19\fnTimes New Roman\fs20\shad1\bord1\move(465.067,238,438.6,238)\frx8\fry14\frz358.4\3c&H121030&\4c&H121030&}Now Playing!
+Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\fay.24\fnTimes New Roman\fs30\shad0\bord1\frx8\fry14\3c&H3B386B&\4c&H121030&\frz356.9\move(429.6,153.733,403.133,153.733)}Elisabeth
+Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\fay.19\fnTimes New Roman\fs20\shad1\bord1\move(465.067,238,438.6,238)\frx8\fry14\frz358.4\3c&H121030&\4c&H121030&}Now Playing!
 Dialogue: 0,0:05:55.19,0:05:59.59,Main,Shizuka,0,0,0,,Oh, {\i1}Elisabeth{\i0} is playing again. \NI wonder if we can get tickets the day of.
 Dialogue: 0,0:05:59.89,0:06:01.59,Main,Kokona,0,0,0,,There's an audition for it.
 Dialogue: 0,0:06:01.59,0:06:03.46,Main,Shizuka,0,0,0,,You'll pass, so it's all good.
 Dialogue: 0,0:06:03.46,0:06:05.47,Main,Kokona,0,0,0,,It's {\i1}me{\i0} auditioning, remember?
 Dialogue: 0,0:06:06.01,0:06:11.72,Subtitles,Kathrina subs,0,0,0,,The metro... Which one goes to... Asakusa?
-Dialogue: 0,0:06:11.72,0:06:14.22,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\pos(125.467,130.8)\c&HADAB92&\b1}Minami Urawa       Omiya
-Dialogue: 0,0:06:11.72,0:06:14.22,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(125.467,160.133)}Ikebukuro   Shinjuku      Shibuya
-Dialogue: 0,0:06:11.72,0:06:14.22,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(153.2,186.266)}Tokyo   Hamamatsucho  Shinagawa
-Dialogue: 0,0:06:11.72,0:06:14.22,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(116.934,212.933)}Kawasaki   Yokohama       Kannai
+Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\pos(125.467,130.8)\c&HADAB92&\b1}Minami Urawa       Omiya
+Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(125.467,160.133)}Ikebukuro   Shinjuku      Shibuya
+Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(153.2,186.266)}Tokyo   Hamamatsucho  Shinagawa
+Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an3\c&HADAB92&\b1\pos(116.934,212.933)}Kawasaki   Yokohama       Kannai
 Dialogue: 0,0:06:11.93,0:06:13.85,Subtitles,Kathrina subs,0,0,0,,It's basically a maze...
 Dialogue: 0,0:06:19.35,0:06:22.31,Main,Kokona,0,0,0,,Konnichiwa! Um, hello?
 Dialogue: 0,0:06:22.31,0:06:25.44,Main,Kokona,0,0,0,,Guten Tag? Добрый день?
@@ -145,7 +146,7 @@ Dialogue: 0,0:06:51.31,0:06:51.87,Main,Kathrina,0,0,0,,Huh?
 Dialogue: 0,0:06:52.20,0:06:53.68,Main,Kokona,0,0,0,,Come on! This way!
 Dialogue: 0,0:06:53.68,0:06:54.18,Main,Kathrina,0,0,0,,Hey—
 Dialogue: 0,0:06:54.18,0:06:55.71,Main,Kathrina,0,0,0,,H-Hey!
-Dialogue: 0,0:06:58.43,0:07:00.44,Main,Sign,0,0,0,,{\an1\fs12\fnArial\b1\shad0\frx0\fry346\pos(251.2,191.066)\frz0\c&HFFFFFF&\3c&H7F52A9&}Won't You Be a {\c&H4B35BE&\3c&HE1E4FC&}Dai Star, {\3c&H7F52A9&\c&HFFFFFF&}too?
+Dialogue: 0,0:06:58.43,0:07:00.44,Signs,Sign,0,0,0,,{\an1\fs12\fnArial\b1\shad0\frx0\fry346\pos(251.2,191.066)\frz0\c&HFFFFFF&\3c&H7F52A9&}Won't You Be a {\c&H4B35BE&\3c&HE1E4FC&}Dai Star, {\3c&H7F52A9&\c&HFFFFFF&}too?
 Dialogue: 0,0:07:00.73,0:07:02.79,Main,Kokona,0,0,0,,So, what did you come to see today?
 Dialogue: 0,0:07:02.79,0:07:03.69,Main,Kathrina,0,0,0,,Huh?
 Dialogue: 0,0:07:03.99,0:07:06.60,Main,Kokona,0,0,0,,You're going to Asakusa, \Nso I figure you're seeing a play.
@@ -159,7 +160,7 @@ Dialogue: 0,0:07:22.18,0:07:24.12,Main,Shizuka,0,0,0,,Just leave her alone.
 Dialogue: 0,0:07:24.12,0:07:25.28,Main,Kokona,0,0,0,,Okay...
 Dialogue: 0,0:07:25.28,0:07:27.22,Main,Girl,0,0,0,,When's the train coming?
 Dialogue: 0,0:07:27.88,0:07:30.42,Main,Mother,0,0,0,,It'll be here soon. Just keep \Nreading your picture book.
-Dialogue: 0,0:07:33.05,0:07:36.18,Main,Sign,0,0,0,,{\pos(331.733,76.4)\fnImpact\fscx200\c&H231AD7&\3c&HFFFFFF&\bord1}Little Red Riding Hood
+Dialogue: 0,0:07:33.05,0:07:36.18,Signs,Sign,0,0,0,,{\pos(331.733,76.4)\fnImpact\fscx200\c&H231AD7&\3c&HFFFFFF&\bord1}Little Red Riding Hood
 Dialogue: 0,0:07:34.36,0:07:36.18,Main,Kokona,0,0,0,,Do you like "Little Red Riding Hood"?
 Dialogue: 0,0:07:37.66,0:07:38.59,Main,Girl,0,0,0,,Uh-huh.
 Dialogue: 0,0:07:39.07,0:07:42.24,Main,Kokona,0,0,0,,Then I'll perform it for you.
@@ -167,8 +168,8 @@ Dialogue: 0,0:07:43.68,0:07:45.74,Main,Girl,0,0,0,,Are you an actress, miss?
 Dialogue: 0,0:07:46.03,0:07:50.98,Main,Kokona,0,0,0,,Uh... Not yet, but I hope to be someday.
 Dialogue: 0,0:07:51.66,0:07:53.01,Main,Kokona,0,0,0,,Okay, here goes.
 Dialogue: 0,0:07:53.51,0:08:00.26,Main,Kokona,0,0,0,,Once upon a time, there was a little girl \Nwho wore a cap of red velvet.
-Dialogue: 0,0:08:01.75,0:08:03.50,Main,Sign,0,0,0,,{\fnTimes New Roman\shad0\c&H694A40&\3c&HEFF5F2&\pos(320,42.267)\b1}Kaminarimon
-Dialogue: 0,0:08:03.50,0:08:05.13,Main,Sign,0,0,0,,{\fnTimes New Roman\shad0\c&H694A40&\fs14\3c&HEFF5F2&\b1\pos(322.667,130.8)}Kaminarimon
+Dialogue: 0,0:08:01.75,0:08:03.50,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\c&H694A40&\3c&HEFF5F2&\pos(320,42.267)\b1}Kaminarimon
+Dialogue: 0,0:08:03.50,0:08:05.13,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\c&H694A40&\fs14\3c&HEFF5F2&\b1\pos(322.667,130.8)}Kaminarimon
 Dialogue: 0,0:08:06.16,0:08:08.13,Main,Kokona,0,0,0,,Welcome to Asakusa!
 Dialogue: 0,0:08:08.40,0:08:12.63,Main,Kathrina,0,0,0,,Huh... It's much noisier \Nthan where I'm from.
 Dialogue: 0,0:08:12.63,0:08:13.64,Main,Kokona,0,0,0,,Where you're from?
@@ -177,14 +178,14 @@ Dialogue: 0,0:08:15.65,0:08:18.09,Main,Kokona,0,0,0,,What? I can take you to the
 Dialogue: 0,0:08:18.09,0:08:19.98,Main,Kathrina,0,0,0,,I'll use my navigation app from here.
 Dialogue: 0,0:08:19.98,0:08:20.77,Main,Kathrina,0,0,0,,Goodbye.
 Dialogue: 0,0:08:21.94,0:08:23.28,Main,Kokona,0,0,0,,I see...
-Dialogue: 0,0:08:25.02,0:08:27.02,Main,Sign,0,0,0,,{\pos(314.133,130.267)\fnTimes New Roman\shad0\b1\c&H0E0A06&\3c&HCCBDBB&}Nakamise {top}
-Dialogue: 0,0:08:27.02,0:08:28.94,Main,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\frz338.2\frx0\fry50\pos(118.934,64.668)\c&H382122&\3c&HF3F4F6&}Toyotaya Shoes Shop {left 8:27}
-Dialogue: 0,0:08:27.02,0:08:28.94,Main,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\c&H382122&\3c&HF3F4F6&\frx352\fry310\pos(569.068,59.868)\frz16.32}Koyama Shop {right 8:27}
-Dialogue: 0,0:08:29.19,0:08:31.69,Main,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\frx0\fry50\c&H382122&\3c&HF3F4F6&\pos(126.934,73.735)\frz339.5}Toyotaya Shoes Shop {left 8:27}
-Dialogue: 0,0:08:29.19,0:08:31.69,Main,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\c&H382122&\3c&HF3F4F6&\frx352\fry310\frz16.32\pos(575.468,70.535)}Koyama Shop {right 8:27}
+Dialogue: 0,0:08:25.02,0:08:27.02,Signs,Sign,0,0,0,,{\pos(314.133,130.267)\fnTimes New Roman\shad0\b1\c&H0E0A06&\3c&HCCBDBB&}Nakamise {top}
+Dialogue: 0,0:08:27.02,0:08:28.94,Signs,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\frz338.2\frx0\fry50\pos(118.934,64.668)\c&H382122&\3c&HF3F4F6&}Toyotaya Shoes Shop {left 8:27}
+Dialogue: 0,0:08:27.02,0:08:28.94,Signs,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\c&H382122&\3c&HF3F4F6&\frx352\fry310\pos(569.068,59.868)\frz16.32}Koyama Shop {right 8:27}
+Dialogue: 0,0:08:29.19,0:08:31.69,Signs,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\frx0\fry50\c&H382122&\3c&HF3F4F6&\pos(126.934,73.735)\frz339.5}Toyotaya Shoes Shop {left 8:27}
+Dialogue: 0,0:08:29.19,0:08:31.69,Signs,Sign,0,0,0,,{\an8\fnArial\fs14\b1\shad0\c&H382122&\3c&HF3F4F6&\frx352\fry310\frz16.32\pos(575.468,70.535)}Koyama Shop {right 8:27}
 Dialogue: 0,0:08:35.33,0:08:36.07,Main,Kokona,0,0,0,,Oh.
 Dialogue: 0,0:08:37.13,0:08:39.58,Main,Kokona,0,0,0,,I'll get as much on me as I can!
-Dialogue: 0,0:08:40.04,0:08:43.79,Main,Sign,0,0,0,,{\fnArial\fs14\shad0\bord0\c&H8331AE&\frx6\fry18\frz355.8\pos(328,39.599)}Hanayashiki Street
+Dialogue: 0,0:08:40.04,0:08:43.79,Signs,Sign,0,0,0,,{\fnArial\fs14\shad0\bord0\c&H8331AE&\frx6\fry18\frz355.8\pos(328,39.599)}Hanayashiki Street
 Dialogue: 0,0:08:44.80,0:08:45.54,Main,Kathrina,0,0,0,,What?
 Dialogue: 0,0:08:45.54,0:08:46.44,Main,Kokona,0,0,0,,Uh—
 Dialogue: 0,0:08:46.44,0:08:50.31,Main,Kokona,0,0,0,,Well, I'm going that way too, so...
@@ -209,7 +210,7 @@ Dialogue: 0,0:09:38.36,0:09:42.27,Main,Kokona,0,0,0,,Let's do our best so we can
 Dialogue: 0,0:09:43.44,0:09:48.72,Main,Kathrina,0,0,0,,I'm not going to shake your hand. \NI'm fairly certain I won't see you again.
 Dialogue: 0,0:09:48.72,0:09:49.73,Main,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:09:50.05,0:09:54.22,Main,Kathrina,0,0,0,,Frankly speaking, \Nyou have no Sense whatsoever.
-Dialogue: 0,0:09:57.98,0:10:02.99,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:09:57.98,0:10:02.99,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:10:10.26,0:10:12.18,Main,Shizuka,0,0,0,,The heck is her problem?
 Dialogue: 0,0:10:12.18,0:10:14.69,Main,Shizuka,0,0,0,,She may be cute,\N but she's got a rotten personality.
 Dialogue: 0,0:10:15.26,0:10:21.00,Main,Shizuka,0,0,0,,"I'm not going to shake your hand. \NI'm fairly certain I won't see you again."
@@ -256,7 +257,7 @@ Dialogue: 0,0:12:34.12,0:12:36.90,Main,Shizuka,0,0,0,,They said you'd find out t
 Dialogue: 0,0:12:37.74,0:12:41.62,Main,Hiiragi,0,0,0,,We'll now proceed with the readings.
 Dialogue: 0,0:12:41.62,0:12:44.66,Main,Hiiragi,0,0,0,,We'll also be handing out your scripts.
 Dialogue: 0,0:12:45.10,0:12:46.95,Main,Kokona,0,0,0,,Thank you very much.
-Dialogue: 0,0:12:47.37,0:12:51.62,Main,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs18\c&H372616&\b1\pos(200.934,61.467)\frz0.307}The Little Mermaid
+Dialogue: 0,0:12:47.37,0:12:51.62,Signs,Sign,0,0,0,,{\an1\shad0\bord0\fnTimes New Roman\fs18\c&H372616&\b1\pos(200.934,61.467)\frz0.307}The Little Mermaid
 Dialogue: 0,0:12:47.77,0:12:49.62,Main,Shizuka,0,0,0,,SIRIUS's {\i1}The Little Mermaid{\i0}!
 Dialogue: 0,0:12:49.62,0:12:51.61,Main,Shizuka,0,0,0,,You've totally practiced this one before!
 Dialogue: 0,0:12:51.61,0:12:53.43,Main,Kokona,0,0,0,,Y-Yeah...
@@ -404,6 +405,6 @@ Dialogue: 0,0:21:54.52,0:21:55.31,Main - Italics,Hiiragi,0,0,0,,But...
 Dialogue: 0,0:21:55.31,0:22:00.40,Main - Top,Kokona,0,0,0,,Just thinking about what I'd have\N done if Yae-chan hadn't shown up...
 Dialogue: 0,0:21:56.04,0:21:58.94,Main - Italics,Hiiragi,0,0,0,,That wasn't her take on the prince.
 Dialogue: 0,0:21:59.64,0:22:02.96,Main - Italics,Hiiragi,0,0,0,,Who exactly were you playing?
-Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Second Stage
-Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Copying Someone Else
+Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Second Stage
+Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}Copying Someone Else
 Dialogue: 0,0:23:35.65,0:23:38.49,Main,Kokona,0,0,0,,Next time: "Copying Someone Else."

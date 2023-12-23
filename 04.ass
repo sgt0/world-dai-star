@@ -28,6 +28,7 @@ Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 Style: Lyrics,Trebuchet MS,24,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
 Style: Subtitles,Arial,20,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,55,0
 Style: Boxed text,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,10,10,18,0
+Style: Signs,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -39,31 +40,31 @@ Dialogue: 0,0:00:09.96,0:00:12.73,Main,Panda,0,0,0,,Who the heck is that?
 Dialogue: 0,0:00:19.04,0:00:20.03,Main,Kokona and Shizuka,0,0,0,,Huh?!
 Dialogue: 0,0:00:20.03,0:00:22.20,Main,Kokona,0,0,0,,They can see you?!
 Dialogue: 0,0:00:20.03,0:00:22.20,Main,Shizuka,0,0,0,,They can see me?!
-Dialogue: 0,0:00:36.24,0:00:41.56,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,137.696)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:01:54.17,0:01:59.01,Main,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(584.933,308.933)\3c&H4B4B4C&}Once Upon a Time
+Dialogue: 0,0:00:36.24,0:00:41.56,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,137.696)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:01:54.17,0:01:59.01,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs18\blur2\bord1\shad0\pos(584.933,308.933)\3c&H4B4B4C&}Once Upon a Time
 Dialogue: 0,0:02:00.54,0:02:03.27,Main,Shizuka,0,0,0,,"The final show of\N{\i1}The Tale of the Bamboo Cutter{\i0}."
 Dialogue: 0,0:02:03.27,0:02:05.88,Main,Shizuka,0,0,0,,"Audience brought to tears by the \Nsinging of lead actress Yae Niizuma..."
-Dialogue: 0,0:02:05.89,0:02:09.08,Main,Sign,0,0,0,,{\fad(1,160)\fnArial\fs20\shad0\pos(318.769,303.846)\c&H2B243E&\3c&HFDFFFD&}The Final Show of SIRIUS's {\i1}The Tale of the Bamboo Cutter{\i0}\NAudience brought to tears by the singing of lead actress Yae Niizuma...
+Dialogue: 0,0:02:05.89,0:02:09.08,Signs,Sign,0,0,0,,{\fad(1,160)\fnArial\fs20\shad0\pos(318.769,303.846)\c&H2B243E&\3c&HFDFFFD&}The Final Show of SIRIUS's {\i1}The Tale of the Bamboo Cutter{\i0}\NAudience brought to tears by the singing of lead actress Yae Niizuma...
 Dialogue: 0,0:02:06.20,0:02:08.32,Main - Top,Kokona,0,0,0,,She was so amazing!
 Dialogue: 0,0:02:08.32,0:02:10.95,Main - Top,Kokona,0,0,0,,All the comments are about her, too!
 Dialogue: 0,0:02:09.08,0:02:09.83,Main,Kokona,0,0,0,,{\fad(170,120)\fnArial\fs16\shad0\an4\c&H2B243E&\3c&HFDFFFD&}Yae Niizuma starred in {\i1}The Tale of the Bamboo Cutter{\i0} at SIRIUS's theater in Asakusa.\NAs most readers probably know, SIRIUS is a female acting troupe put together by \Nour country's renowned World Dai Star, Shamo Yamabuki. Their performances regularly sell out,\N and while SIRIUS is gaining national attention, the one who shines the brightest among them\N is Yae Niizuma.
 Dialogue: 0,0:02:09.83,0:02:11.33,Main,Kokona,0,0,0,,{\fad(120,120)\fnArial\fs16\shad0\an4\c&H2B243E&\3c&HFDFFFD&}Niizuma's rendition of Princess Kaguya was delicate, and she put on a fantastic performance\Nthat made the audience feel how strong her will was at times. Her solo during the climax was \Ntruly a highlight, and the whole audience was brought to tears, overwhelmed with emotion\N from Niizuma's song overflowing with her Sense. I definitely saw her potential as a future\N Dai Star as she captivated the audience.
-Dialogue: 0,0:02:09.85,0:02:10.75,Main,Sign,0,0,0,,{\fad(280,120)\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}Yae-chan was amazing in {\i1}The Tale of the Bamboo Cutter{\i0}!
-Dialogue: 0,0:02:10.75,0:02:11.50,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}She really was! I'm definitely catching the next show!
-Dialogue: 0,0:02:11.50,0:02:12.25,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I cried every time I saw it...
-Dialogue: 0,0:02:12.25,0:02:13.00,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I'm a Yae-chan fan after seeing {\i1}The Tale of the Bamboo Cutter{\i0}!
-Dialogue: 0,0:02:13.00,0:02:13.80,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}Niizuma's talent stands out, even in the current acting world...
+Dialogue: 0,0:02:09.85,0:02:10.75,Signs,Sign,0,0,0,,{\fad(280,120)\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}Yae-chan was amazing in {\i1}The Tale of the Bamboo Cutter{\i0}!
+Dialogue: 0,0:02:10.75,0:02:11.50,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}She really was! I'm definitely catching the next show!
+Dialogue: 0,0:02:11.50,0:02:12.25,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I cried every time I saw it...
+Dialogue: 0,0:02:12.25,0:02:13.00,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I'm a Yae-chan fan after seeing {\i1}The Tale of the Bamboo Cutter{\i0}!
+Dialogue: 0,0:02:13.00,0:02:13.80,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}Niizuma's talent stands out, even in the current acting world...
 Dialogue: 0,0:02:13.25,0:02:17.06,Main - Top,Shizuka,0,0,0,,How is no one talking about you, Kokona?!
-Dialogue: 0,0:02:13.80,0:02:14.50,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I'm going to go to every production Yae-chan's in!
-Dialogue: 0,0:02:14.50,0:02:14.90,Main,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}She's cute, an amazing singer, and such a talented actress... What a prodigy!
+Dialogue: 0,0:02:13.80,0:02:14.50,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}I'm going to go to every production Yae-chan's in!
+Dialogue: 0,0:02:14.50,0:02:14.90,Signs,Sign,0,0,0,,{\fnArial\an1\fs14\shad0\c&H2B243E&\3c&HFDFFFD&\pos(105.846,314.923)}She's cute, an amazing singer, and such a talented actress... What a prodigy!
 Dialogue: 0,0:02:17.06,0:02:17.82,Main,Kokona,0,0,0,,Yeah...
 Dialogue: 0,0:02:18.78,0:02:20.99,Main,Shizuka,0,0,0,,You poured your heart into that performance.
 Dialogue: 0,0:02:20.99,0:02:26.77,Main,Shizuka,0,0,0,,So why isn't anyone saying, \N"Oh my gosh, she's amazing"?!
 Dialogue: 0,0:02:26.77,0:02:30.47,Main,Kokona,0,0,0,,Oh! I found a comment about \Nyou, Kathrina-chan! Lookie!
 Dialogue: 0,0:02:31.15,0:02:32.20,Main,Kathrina,0,0,0,,Sure.
 Dialogue: 0,0:02:32.20,0:02:33.54,Main,Kathrina,0,0,0,,I'll read it later.
-Dialogue: 0,0:02:33.54,0:02:35.55,Main,Sign,0,0,0,,{\fnArial\fs16\an1\shad0\bord0\c&H524F5F&\pos(235.692,125.385)}Voice call has ended
-Dialogue: 0,0:02:33.54,0:02:35.55,Main,Sign,0,0,0,,{\fnArial\fs16\an1\shad0\bord0\c&H524F5F&\pos(235.692,236.77)}Voice call has ended
+Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\fnArial\fs16\an1\shad0\bord0\c&H524F5F&\pos(235.692,125.385)}Voice call has ended
+Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\fnArial\fs16\an1\shad0\bord0\c&H524F5F&\pos(235.692,236.77)}Voice call has ended
 Dialogue: 0,0:02:38.63,0:02:44.97,Subtitles,Theresa/Subs,0,0,0,,{\pos(318.545,289)}Great performance. I saw the stream. Good job getting\N over that hiccup. You have some wonderful costars.
 Dialogue: 0,0:02:45.60,0:02:46.35,Subtitles,Kathrina,0,0,0,,...Yes.
 Dialogue: 0,0:02:46.47,0:02:48.48,Subtitles,Theresa/Subs,0,0,0,,Have you thanked them?
@@ -75,8 +76,8 @@ Dialogue: 0,0:02:56.59,0:02:57.81,Main - Top,Kokona,0,0,0,,Er, no...
 Dialogue: 0,0:02:57.00,0:02:58.31,Main,Kathrina,0,0,0,,Hey, Ko—
 Dialogue: 0,0:02:58.62,0:03:00.52,Main,Panda,0,0,0,,Heya, are all three of you here?
 Dialogue: 0,0:03:00.52,0:03:01.42,Main,Kokona; Shizuka; Kathrina,0,0,0,,Huh?
-Dialogue: 1,0:03:03.07,0:03:05.95,Main,Sign,0,0,0,,{\an8\fnComic Sans MS\b1\fs30\shad0\c&HAC6AE1&\3c&HF8FFFC&}Move{\c&H74F3F3&}-in {\c&HAC6AE1&}party{\c&H74F3F3&}?
-Dialogue: 0,0:03:03.07,0:03:05.95,Main,Sign,0,0,0,,{\an8\fnComic Sans MS\b1\bord4\fs30\shad0\c&HAC6AE1&\3c&HE0CFFB&}Move{\c&H74F3F3&\3c&HC9D7EF&}-in {\c&HAC6AE1&\3c&HE0CFFB&}party{\c&H74F3F3&\3c&HC9D7EF&}?
+Dialogue: 1,0:03:03.07,0:03:05.95,Signs,Sign,0,0,0,,{\an8\fnComic Sans MS\b1\fs30\shad0\c&HAC6AE1&\3c&HF8FFFC&}Move{\c&H74F3F3&}-in {\c&HAC6AE1&}party{\c&H74F3F3&}?
+Dialogue: 0,0:03:03.07,0:03:05.95,Signs,Sign,0,0,0,,{\an8\fnComic Sans MS\b1\bord4\fs30\shad0\c&HAC6AE1&\3c&HE0CFFB&}Move{\c&H74F3F3&\3c&HC9D7EF&}-in {\c&HAC6AE1&\3c&HE0CFFB&}party{\c&H74F3F3&\3c&HC9D7EF&}?
 Dialogue: 0,0:03:03.73,0:03:05.86,Main,Kokona,0,0,0,,A move-in party?
 Dialogue: 0,0:03:06.22,0:03:07.45,Main,Panda,0,0,0,,Yup!
 Dialogue: 0,0:03:07.45,0:03:12.73,Main,Panda,0,0,0,,It's tradition at this dorm to throw a \Nparty after the newcomer performance.
@@ -131,7 +132,7 @@ Dialogue: 0,0:05:16.54,0:05:18.12,Main,Kokona,0,0,0,,No idea...
 Dialogue: 0,0:05:18.74,0:05:23.30,Main,Kokona,0,0,0,,But I'm sure Shizuka-chan would enjoy\Nsome time away from me.
 Dialogue: 0,0:05:23.76,0:05:25.02,Main,Kokona,0,0,0,,Let's go shopping!
 Dialogue: 0,0:05:25.53,0:05:27.56,Main,Kathrina,0,0,0,,You sure bounce back quick.
-Dialogue: 0,0:05:28.80,0:05:33.06,Main,Sign,0,0,0,,{\fad(1840,1)\fs12\fnArial\shad0\bord0\fay-.02\b1\c&H9C969D&\frz330.7\frx334\fry330\pos(183.077,145.051)}SIRIUS SENTO
+Dialogue: 0,0:05:28.80,0:05:33.06,Signs,Sign,0,0,0,,{\fad(1840,1)\fs12\fnArial\shad0\bord0\fay-.02\b1\c&H9C969D&\frz330.7\frx334\fry330\pos(183.077,145.051)}SIRIUS SENTO
 Dialogue: 0,0:05:31.19,0:05:33.05,Main,Kokona,0,0,0,,I wonder what I should make.
 Dialogue: 0,0:05:34.68,0:05:36.33,Main,Kokona,0,0,0,,Hmm...
 Dialogue: 0,0:05:37.84,0:05:41.15,Main,Kokona,0,0,0,,Is there anything you'd\Nlike to eat, Kathrina-chan?
@@ -211,8 +212,8 @@ Dialogue: 0,0:09:59.12,0:10:00.63,Flashback,Shizuka,0,0,0,,I'm Shizuka.
 Dialogue: 0,0:10:01.07,0:10:05.05,Flashback,Shizuka,0,0,0,,I'll make you shine brighter\Nthan anyone as an actor...
 Dialogue: 0,0:10:05.71,0:10:08.04,Flashback,Shizuka,0,0,0,,I'll make you into a World Dai Star.
 Dialogue: 0,0:10:08.87,0:10:11.11,Flashback,Kokona,0,0,0,,A World Dai Star...
-Dialogue: 0,0:10:16.67,0:10:20.18,Main,Sign,0,0,0,,{\fnImpact\fay.08\fax-.1\frx342\shad0\pos(364.307,125.385)\c&H346A8E&\3c&H251C24&}Asakusa Hisago Street
-Dialogue: 0,0:10:16.67,0:10:20.18,Main,Sign,0,0,0,,{\fnArial\b1\fs16\fay.05\shad0\pos(334.769,253.385)\c&H444641&\3c&HC7CFD2&}Asakusa Hisago Shopping Street
+Dialogue: 0,0:10:16.67,0:10:20.18,Signs,Sign,0,0,0,,{\fnImpact\fay.08\fax-.1\frx342\shad0\pos(364.307,125.385)\c&H346A8E&\3c&H251C24&}Asakusa Hisago Street
+Dialogue: 0,0:10:16.67,0:10:20.18,Signs,Sign,0,0,0,,{\fnArial\b1\fs16\fay.05\shad0\pos(334.769,253.385)\c&H444641&\3c&HC7CFD2&}Asakusa Hisago Shopping Street
 Dialogue: 0,0:10:18.72,0:10:20.19,Main,Kokona,0,0,0,,So I think Shizuka-chan
 Dialogue: 0,0:10:20.68,0:10:24.93,Main,Kokona,0,0,0,,is a version of me that has \Neverything I've ever wanted.
 Dialogue: 0,0:10:25.31,0:10:29.70,Main,Kokona,0,0,0,,A me who's good at acting, \Nsuper confident, and cool.
@@ -243,13 +244,13 @@ Dialogue: 0,0:11:45.37,0:11:49.54,Main,Sasuga,0,0,0,,You really {\i1}can{\i0} we
 Dialogue: 0,0:11:49.54,0:11:50.90,Main,Sasuga,0,0,0,,Must be nice.
 Dialogue: 0,0:11:53.01,0:11:54.59,Main,Panda,0,0,0,,On to the next outfit!
 Dialogue: 0,0:11:54.59,0:11:56.13,Main,Shizuka,0,0,0,,But why?
-Dialogue: 0,0:11:56.98,0:12:01.98,Main,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:11:56.98,0:12:01.98,Signs,Sign,0,0,0,,{\fad(1200,1)\fnArial\shad0\b1\frx-5\bord0\fs36\c&H8A62FD&\3c&HFFFFFF&\pos(321.456,128.969)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:12:10.49,0:12:13.51,Main,Kokona,0,0,0,,And now, we're going to be making \Nthe home-style German dish
 Dialogue: 0,0:12:13.51,0:12:15.32,Main,Kokona,0,0,0,,that Kathrina-chan recommended...
 Dialogue: 0,0:12:15.32,0:12:16.43,Main,Kokona,0,0,0,,Schuniterun!
 Dialogue: 0,0:12:16.43,0:12:17.92,Main,Kathrina,0,0,0,,It's {\i1}schnitzel{\i0}.
 Dialogue: 0,0:12:17.92,0:12:20.63,Main,Kokona,0,0,0,,Schnitzel! Um...
-Dialogue: 0,0:12:23.63,0:12:26.51,Main,Sign,0,0,0,,{\fad(150,1)\fnArial\shad0\fs10\an9\bord0\frz348.4\c&H93B28D&\b1\pos(595.077,221.384)}Schnitzel\N\N{\b0\fs8\c&H5D5D5D&}Lean pork\NBlock of bacon\NPotatoes\NGreen beans\NCherry tomatoes\NLemon\NItalian parsley\NPanko
+Dialogue: 0,0:12:23.63,0:12:26.51,Signs,Sign,0,0,0,,{\fad(150,1)\fnArial\shad0\fs10\an9\bord0\frz348.4\c&H93B28D&\b1\pos(595.077,221.384)}Schnitzel\N\N{\b0\fs8\c&H5D5D5D&}Lean pork\NBlock of bacon\NPotatoes\NGreen beans\NCherry tomatoes\NLemon\NItalian parsley\NPanko
 Dialogue: 0,0:12:24.16,0:12:26.52,Main,Kokona,0,0,0,,It's basically German tonkatsu, right?
 Dialogue: 0,0:12:26.52,0:12:29.13,Main,Kathrina,0,0,0,,Well... Sort of.
 Dialogue: 0,0:12:29.13,0:12:32.58,Main,Kathrina,0,0,0,,Japanese tonkatsu is really good too, though.
@@ -258,7 +259,7 @@ Dialogue: 0,0:12:34.43,0:12:37.19,Main,Kokona,0,0,0,,Come to think of it, \NKath
 Dialogue: 0,0:12:38.62,0:12:40.19,Main,Kokona,0,0,0,,Are you getting any veggies?
 Dialogue: 0,0:12:40.49,0:12:41.56,Main,Kathrina,0,0,0,,But of course.
 Dialogue: 0,0:12:42.15,0:12:44.69,Main,Kathrina,0,0,0,,Japanese vegetable juice is delicious.
-Dialogue: 0,0:12:42.82,0:12:46.70,Main,Sign,0,0,0,,{\fad(270,480)\fnArial\fs8\shad0\c&H385D36&\frz349.4\3c&HF3FDF8&\pos(297.23,237.385)}27 Delicious Daily Veg
+Dialogue: 0,0:12:42.82,0:12:46.70,Signs,Sign,0,0,0,,{\fad(270,480)\fnArial\fs8\shad0\c&H385D36&\frz349.4\3c&HF3FDF8&\pos(297.23,237.385)}27 Delicious Daily Veg
 Dialogue: 0,0:12:47.96,0:12:48.74,Main,Kathrina,0,0,0,,So...
 Dialogue: 0,0:12:49.92,0:12:51.43,Main,Kathrina,0,0,0,,How do we make it?
 Dialogue: 0,0:12:52.59,0:12:53.46,Main,Kokona,0,0,0,,Huh?
@@ -281,7 +282,7 @@ Dialogue: 0,0:14:00.39,0:14:02.06,Main - Italics,Kathrina,0,0,0,,I'm a chef.
 Dialogue: 0,0:14:02.54,0:14:04.09,Main - Italics,Kathrina,0,0,0,,I'm a chef.
 Dialogue: 0,0:14:04.47,0:14:05.97,Main - Italics,Kathrina,0,0,0,,I'm a chef.
 Dialogue: 0,0:14:06.34,0:14:08.08,Main - Italics,Kathrina,0,0,0,,I'm a chef.
-Dialogue: 0,0:14:11.78,0:14:14.58,Main,Sign,0,0,0,,{\fad(270,1)\fnTimes New Roman\b1\fs36\pos(303.385,198.616)\frz14.6\c&HF3F3F3&\3c&H333333&\4c&H333333&}A master chef is born!
+Dialogue: 0,0:14:11.78,0:14:14.58,Signs,Sign,0,0,0,,{\fad(270,1)\fnTimes New Roman\b1\fs36\pos(303.385,198.616)\frz14.6\c&HF3F3F3&\3c&H333333&\4c&H333333&}A master chef is born!
 Dialogue: 0,0:14:20.12,0:14:22.54,Main,Kokona,0,0,0,,Ooh, that already sounds delicious!
 Dialogue: 0,0:14:22.98,0:14:24.60,Main,Kokona,0,0,0,,Smells great, too.
 Dialogue: 0,0:14:24.60,0:14:26.42,Main,Kokona,0,0,0,,Hmm? Is that smoke?
@@ -339,7 +340,7 @@ Dialogue: 0,0:17:54.02,0:17:55.23,Main,Kathrina,0,0,0,,Look who's talking.
 Dialogue: 0,0:17:55.23,0:17:57.34,Main,Shizuka,0,0,0,,Well, I'm Kokona's Sense!
 Dialogue: 0,0:17:58.52,0:18:01.14,Main,Kokona,0,0,0,,Why are you two so eager to fight?
 Dialogue: 0,0:18:01.88,0:18:04.64,Main,Niizuma,0,0,0,,Sorry I'm late!
-Dialogue: 0,0:18:04.64,0:18:06.41,Main,Sign,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&H0D3733&\frz351.5\move(313.231,216.462,313.231,389.77)}Taiyaki
+Dialogue: 0,0:18:04.64,0:18:06.41,Signs,Sign,0,0,0,,{\fnArial\fs12\shad0\bord0\b1\c&H0D3733&\frz351.5\move(313.231,216.462,313.231,389.77)}Taiyaki
 Dialogue: 0,0:18:04.91,0:18:06.05,Main - Top,Kokona,0,0,0,,Yae-chan?!
 Dialogue: 0,0:18:06.05,0:18:06.96,Main - Top,Shizuka,0,0,0,,What gives?!
 Dialogue: 0,0:18:06.96,0:18:09.36,Main,Panda,0,0,0,,We invited her as a surprise!
@@ -352,7 +353,7 @@ Dialogue: 0,0:18:21.17,0:18:22.80,Main,Niizuma,0,0,0,,Thank you.
 Dialogue: 0,0:18:25.55,0:18:29.93,Main,Panda,0,0,0,,Okay! Now we can officially \Nwelcome you to Sirius Sento!
 Dialogue: 0,0:18:29.93,0:18:31.08,Main,Panda,0,0,0,,Cheers!
 Dialogue: 0,0:18:31.36,0:18:33.32,Main,All but Kathrina and Hiiragi,0,0,0,,Cheers!
-Dialogue: 0,0:18:38.22,0:18:40.34,Main,Sign,0,0,0,,{\fnTimes New Roman\fs16\an7\shad0\bord0\frz110.4\c&H191A33&\b1\move(515.231,166.307,571.847,166.307)}The\NStar\Nof\NAsakusa
+Dialogue: 0,0:18:38.22,0:18:40.34,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs16\an7\shad0\bord0\frz110.4\c&H191A33&\b1\move(515.231,166.307,571.847,166.307)}The\NStar\Nof\NAsakusa
 Dialogue: 0,0:18:47.65,0:18:50.62,Main,Sasuga,0,0,0,,My mouth is full of Germany.
 Dialogue: 0,0:18:51.07,0:18:52.45,Main,Panda,0,0,0,,What does that mean?
 Dialogue: 0,0:18:53.14,0:18:56.79,Main,Niizuma,0,0,0,,Is this a dish from your \Nhomeland, Kathrina-san?
@@ -403,6 +404,6 @@ Dialogue: 0,0:21:51.15,0:21:52.21,Main,Hiiragi,0,0,0,,Come in.
 Dialogue: 0,0:21:55.11,0:21:56.39,Main,Niizuma,0,0,0,,Pardon me.
 Dialogue: 0,0:21:58.35,0:21:59.49,Main,Hiiragi,0,0,0,,What's the matter?
 Dialogue: 0,0:21:59.93,0:22:04.32,Main,Niizuma,0,0,0,,I have a request regarding our next show.
-Dialogue: 0,0:23:35.01,0:23:40.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Fifth Stage
-Dialogue: 0,0:23:35.01,0:23:40.01,Main,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}A Request
+Dialogue: 0,0:23:35.01,0:23:40.01,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs20\blur2\bord1\shad0\3c&H4B4B4C&\pos(317.467,102.533)}Fifth Stage
+Dialogue: 0,0:23:35.01,0:23:40.01,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur2\bord1\fs30\shad0\3c&H4B4B4C&\pos(319.6,236.4)}A Request
 Dialogue: 0,0:23:35.97,0:23:38.59,Main,Kokona,0,0,0,,Next time: "A Request."
