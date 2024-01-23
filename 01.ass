@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -125,7 +125,7 @@ Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\a
 Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(350.802,638.799)}Kawasaki   Yokohama       Kannai
 Dialogue: 0,0:06:11.93,0:06:13.85,Subtitles,Kathrina subs,0,0,0,,It's basically a maze...
 Dialogue: 0,0:06:19.35,0:06:22.31,Default,Kokona,0,0,0,,Konnichiwa! Um, hello?
-Dialogue: 0,0:06:22.31,0:06:25.44,Default,Kokona,0,0,0,,Guten Tag? Добрый день?
+Dialogue: 0,0:06:22.31,0:06:25.44,Default,Kokona,0,0,0,,Guten Tag? {\fnArial}Добрый день{\r}?
 Dialogue: 0,0:06:25.75,0:06:27.44,Default,Kokona,0,0,0,,Bonjour?
 Dialogue: 0,0:06:27.44,0:06:29.14,Default,Kokona,0,0,0,,Oh, I know! Merci!
 Dialogue: 0,0:06:29.14,0:06:31.20,Default,Shizuka,0,0,0,,That means "thank you."
