@@ -324,7 +324,7 @@ Dialogue: 0,0:19:10.18,0:19:14.77,Default,Panda,0,0,0,,{\i1}Huh... Not bad. She'
 Dialogue: 0,0:19:16.14,0:19:17.58,Default,Kokona,0,0,0,,Just lovely.
 Dialogue: 0,0:19:18.28,0:19:19.33,Default,Kathrina (Kaguya),0,0,0,,I hope...
 Dialogue: 0,0:19:20.45,0:19:22.50,Default,Kathrina (Kaguya),0,0,0,,we can see one together someday.
-Dialogue: 0,0:19:23.68,0:19:26.02,Signs,Sign,0,0,0,,{\pos(1354.665,555.999)\frz286.7\fnTimes New Roman\fs36\c&H858B8E&\3c&HFEFFFD&\4c&H695FB1&\fad(560,110)}How to Beautifully Wear\Nand Move in a Kimono
+Dialogue: 0,0:19:23.68,0:19:25.94,Signs,Sign,0,0,0,,{\pos(1354.665,555.999)\frz286.7\fnTimes New Roman\fs36\c&H858B8E&\3c&HFEFFFD&\4c&H695FB1&\fad(560,110)}How to Beautifully Wear\Nand Move in a Kimono
 Dialogue: 0,0:19:24.63,0:19:26.84,Default,Kathrina,0,0,0,,{\i1}It's been one week since \NI received this script.
 Dialogue: 0,0:19:27.27,0:19:29.47,Default,Kathrina,0,0,0,,{\i1}That's 168 hours.
 Dialogue: 0,0:19:31.75,0:19:34.31,Default,Kathrina,0,0,0,,{\i1}More time than I'd ever need.
@@ -353,6 +353,6 @@ Dialogue: 0,0:21:34.50,0:21:35.47,Default,Kokona,0,0,0,,{\i1}Wait...
 Dialogue: 0,0:21:36.37,0:21:37.38,Default,Shizuka,0,0,0,,Kokona?
 Dialogue: 0,0:21:58.27,0:22:01.02,Default,Panda,0,0,0,,{\i1}Ah, this is...
 Dialogue: 0,0:22:01.67,0:22:03.70,Default,Panda,0,0,0,,{\i1}Niizumacchi's performance.
-Dialogue: 0,0:23:35.10,0:23:40.09,Signs,Sign,0,0,0,,{\pos(955.401,307.599)\fnTimes New Roman\fs60\bord3\3c&H4B4B4C&\blur6}Third Stage
-Dialogue: 0,0:23:35.10,0:23:40.09,Signs,Sign,0,0,0,,{\an8\pos(958.8,709.2)\fnTimes New Roman\fs90\bord3\3c&H4B4B4C&\blur6}Our First Play
+Dialogue: 0,0:23:35.10,0:23:40.11,Signs,Sign,0,0,0,,{\pos(955.401,307.599)\fnTimes New Roman\fs60\bord3\3c&H4B4B4C&\blur6}Third Stage
+Dialogue: 0,0:23:35.10,0:23:40.11,Signs,Sign,0,0,0,,{\an8\pos(958.8,709.2)\fnTimes New Roman\fs90\bord3\3c&H4B4B4C&\blur6}Our First Play
 Dialogue: 0,0:23:35.93,0:23:38.54,Default,Kokona,0,0,0,,Next time: "Our First Play."
