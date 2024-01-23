@@ -145,7 +145,7 @@ Dialogue: 0,0:07:02.79,0:07:03.69,Default,Kathrina,0,0,0,,Huh?
 Dialogue: 0,0:07:03.99,0:07:06.60,Default,Kokona,0,0,0,,You're going to Asakusa, \Nso I figure you're seeing a play.
 Dialogue: 0,0:07:06.60,0:07:08.89,Default,Kokona,0,0,0,,It has over a hundred theaters!
 Dialogue: 0,0:07:08.89,0:07:11.16,Default,Shizuka,0,0,0,,Is anything super popular right now?
-Dialogue: 0,0:07:08.90,0:07:15.16,Subtitles,Sign,0,0,0,,{\an1\pos(305.199,367.8)}Did you make it to Japan safely?\NTell me if you pass or fail your audition immediately.
+Dialogue: 0,0:07:08.90,0:07:15.16,Signs,Sign,0,0,0,,{\an1\pos(301.2,379.8)\fnLato\b1\c&H2D2546&\3a&HFF&\blur0.5}Did you make it to Japan safely?\NTell me if you pass or fail your audition immediately.
 Dialogue: 0,0:07:11.16,0:07:15.15,Default,Kokona,0,0,0,,Maybe... {\i1}Mecha Macbeth Versus Space Hamlet{\i0}?
 Dialogue: 0,0:07:16.77,0:07:19.38,Default,Kokona,0,0,0,,So, what is it, Kathrina-chan?
 Dialogue: 0,0:07:19.38,0:07:20.79,Default,Kathrina,0,0,0,,Yeah, sure. Whatever.
