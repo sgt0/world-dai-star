@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -41,18 +41,18 @@ Dialogue: 0,0:02:06.20,0:02:08.32,Default,Kokona,0,0,0,,{\an8}She was so amazing
 Dialogue: 0,0:02:08.32,0:02:10.95,Default,Kokona,0,0,0,,{\an8}All the comments are about her, too!
 Dialogue: 0,0:02:09.08,0:02:09.83,Default,Kokona,0,0,0,,{\fad(170,120)\fnArial\fs48\shad0\an4\c&H2B243E&\3c&HFDFFFD&}Yae Niizuma starred in {\i1}The Tale of the Bamboo Cutter{\i0} at SIRIUS's theater in Asakusa.\NAs most readers probably know, SIRIUS is a female acting troupe put together by \Nour country's renowned World Dai Star, Shamo Yamabuki. Their performances regularly sell out,\N and while SIRIUS is gaining national attention, the one who shines the brightest among them\N is Yae Niizuma.
 Dialogue: 0,0:02:09.83,0:02:11.33,Default,Kokona,0,0,0,,{\fad(120,120)\fnArial\fs48\shad0\an4\c&H2B243E&\3c&HFDFFFD&}Niizuma's rendition of Princess Kaguya was delicate, and she put on a fantastic performance\Nthat made the audience feel how strong her will was at times. Her solo during the climax was \Ntruly a highlight, and the whole audience was brought to tears, overwhelmed with emotion\N from Niizuma's song overflowing with her Sense. I definitely saw her potential as a future\N Dai Star as she captivated the audience.
-Dialogue: 0,0:02:09.85,0:02:10.75,Signs,Sign,0,0,0,,{\fad(280,120)\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}Yae-chan was amazing in {\i1}The Tale of the Bamboo Cutter{\i0}!
+Dialogue: 0,0:02:09.85,0:02:10.75,Signs,Sign,0,0,0,,{\fad(280,120)\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}Yae{**-chan} was amazing in {\i1}The Tale of the Bamboo Cutter{\i0}!
 Dialogue: 0,0:02:10.75,0:02:11.50,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}She really was! I'm definitely catching the next show!
 Dialogue: 0,0:02:11.50,0:02:12.25,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}I cried every time I saw it...
-Dialogue: 0,0:02:12.25,0:02:13.00,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}I'm a Yae-chan fan after seeing {\i1}The Tale of the Bamboo Cutter{\i0}!
+Dialogue: 0,0:02:12.25,0:02:13.00,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}I'm a Yae{**-chan} fan after seeing {\i1}The Tale of the Bamboo Cutter{\i0}!
 Dialogue: 0,0:02:13.00,0:02:13.80,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}Niizuma's talent stands out, even in the current acting world...
 Dialogue: 0,0:02:13.25,0:02:17.06,Default,Shizuka,0,0,0,,{\an8}How is no one talking about you, Kokona?!
-Dialogue: 0,0:02:13.80,0:02:14.50,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}I'm going to go to every production Yae-chan's in!
+Dialogue: 0,0:02:13.80,0:02:14.50,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}I'm going to go to every production Yae{**-chan}'s in!
 Dialogue: 0,0:02:14.50,0:02:14.90,Signs,Sign,0,0,0,,{\fnArial\an1\fs42\shad0\c&H2B243E&\3c&HFDFFFD&\pos(317.538,944.769)}She's cute, an amazing singer, and such a talented actress... What a prodigy!
 Dialogue: 0,0:02:17.06,0:02:17.82,Default,Kokona,0,0,0,,Yeah...
 Dialogue: 0,0:02:18.78,0:02:20.99,Default,Shizuka,0,0,0,,You poured your heart into that performance.
 Dialogue: 0,0:02:20.99,0:02:26.77,Default,Shizuka,0,0,0,,So why isn't anyone saying, \N"Oh my gosh, she's amazing"?!
-Dialogue: 0,0:02:26.77,0:02:30.47,Default,Kokona,0,0,0,,Oh! I found a comment about \Nyou, Kathrina-chan! Lookie!
+Dialogue: 0,0:02:26.77,0:02:30.47,Default,Kokona,0,0,0,,Oh! I found a comment about \Nyou, Kathrina{**-chan}! Lookie!
 Dialogue: 0,0:02:31.15,0:02:32.20,Default,Kathrina,0,0,0,,Sure.
 Dialogue: 0,0:02:32.20,0:02:33.54,Default,Kathrina,0,0,0,,I'll read it later.
 Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\fnArial\fs48\an1\shad0\bord0\c&H524F5F&\pos(707.076,376.155)}Voice call has ended
@@ -74,11 +74,11 @@ Dialogue: 0,0:03:03.73,0:03:05.86,Default,Kokona,0,0,0,,A move-in party?
 Dialogue: 0,0:03:06.22,0:03:07.45,Default,Panda,0,0,0,,Yup!
 Dialogue: 0,0:03:07.45,0:03:12.73,Default,Panda,0,0,0,,It's tradition at this dorm to throw a \Nparty after the newcomer performance.
 Dialogue: 0,0:03:12.73,0:03:14.40,Default,Panda,0,0,0,,How do your schedules look today?
-Dialogue: 0,0:03:14.40,0:03:16.44,Default,Panda,0,0,0,,You're not working today, Koko-chan.
+Dialogue: 0,0:03:14.40,0:03:16.44,Default,Panda,0,0,0,,You're not working today, Koko{**-chan}.
 Dialogue: 0,0:03:16.44,0:03:20.20,Default,Kokona,0,0,0,,Huh? No, I'm not... \NBut how do you know that?
 Dialogue: 0,0:03:20.80,0:03:22.67,Default,Panda,0,0,0,,That means tonight...
 Dialogue: 0,0:03:22.67,0:03:25.43,Default,Panda,0,0,0,,We'll be throwing a move-in party
-Dialogue: 0,0:03:25.43,0:03:29.99,Default,Panda,0,0,0,,for Koko-chan, Kathrin, \Nand Oshizu-chan as well!
+Dialogue: 0,0:03:25.43,0:03:29.99,Default,Panda,0,0,0,,for Koko{**-chan}, Kathrin, \Nand Oshizu{**-chan} as well!
 Dialogue: 0,0:03:30.55,0:03:31.56,Default,Sasuga,0,0,0,,Yay.
 Dialogue: 0,0:03:31.97,0:03:33.96,Default,Shizuka,0,0,0,,Um... I'm allowed to join, too?
 Dialogue: 0,0:03:33.96,0:03:35.83,Default,Panda,0,0,0,,But of course!
@@ -95,14 +95,14 @@ Dialogue: 0,0:04:03.18,0:04:04.72,Default,Panda,0,0,0,,What can I say? It's trad
 Dialogue: 0,0:04:04.72,0:04:05.61,Default,Kathrina,0,0,0,,But...
 Dialogue: 0,0:04:05.61,0:04:06.67,Default,Panda,0,0,0,,Tradition.
 Dialogue: 0,0:04:06.67,0:04:10.40,Default,Sasuga,0,0,0,,I've never had authentic German food before!
-Dialogue: 0,0:04:11.67,0:04:12.90,Default,Kokona,0,0,0,,Kathrina-chan!
+Dialogue: 0,0:04:11.67,0:04:12.90,Default,Kokona,0,0,0,,Kathrina{**-chan}!
 Dialogue: 0,0:04:13.57,0:04:14.90,Default,Kokona,0,0,0,,Let's do our best together!
-Dialogue: 0,0:04:18.00,0:04:19.01,Default,Kokona,0,0,0,,Kathrina-chan?
+Dialogue: 0,0:04:18.00,0:04:19.01,Default,Kokona,0,0,0,,Kathrina{**-chan}?
 Dialogue: 0,0:04:21.10,0:04:23.03,Default,Kathrina,0,0,0,,So be it.
 Dialogue: 0,0:04:23.92,0:04:26.40,Default,Kokona,0,0,0,,Now that that's decided, let's go shopping!
 Dialogue: 0,0:04:26.40,0:04:27.08,Default,Shizuka,0,0,0,,Yeah.
 Dialogue: 0,0:04:27.08,0:04:28.09,Default,Panda,0,0,0,,Whoa there.
-Dialogue: 0,0:04:29.51,0:04:31.56,Default,Panda,0,0,0,,You're staying here, Oshizu-chan.
+Dialogue: 0,0:04:29.51,0:04:31.56,Default,Panda,0,0,0,,You're staying here, Oshizu{**-chan}.
 Dialogue: 0,0:04:31.56,0:04:32.16,Default,Shizuka,0,0,0,,Huh?
 Dialogue: 0,0:04:34.06,0:04:36.96,Default,Sasuga,0,0,0,,We're very interested in you.
 Dialogue: 0,0:04:36.96,0:04:38.37,Default,Kokona and Shizuka,0,0,0,,Huh?!
@@ -114,24 +114,24 @@ Dialogue: 0,0:04:47.88,0:04:50.22,Default,Panda,0,0,0,,See? I've got dark circle
 Dialogue: 0,0:04:50.22,0:04:53.65,Default,Panda,0,0,0,,I mean, it's honestly pretty cute \Nand makes me seem more panda-like.
 Dialogue: 0,0:04:53.65,0:04:56.38,Default,Shizuka,0,0,0,,Huh? Um, uh... sure?
 Dialogue: 0,0:04:56.38,0:04:59.54,Default,Panda,0,0,0,,How do you change clothes? \NOr hop in the bath?
-Dialogue: 0,0:04:59.54,0:05:02.82,Default,Panda,0,0,0,,Hey, do you disappear if you \Nget too far from Koko-chan?
+Dialogue: 0,0:04:59.54,0:05:02.82,Default,Panda,0,0,0,,Hey, do you disappear if you \Nget too far from Koko{**-chan}?
 Dialogue: 0,0:05:02.82,0:05:05.28,Default,Kokona,0,0,0,,Wait, what?
 Dialogue: 0,0:05:05.48,0:05:09.81,Default,Panda,0,0,0,,Well, I'm sure it'll be fine.\NAnyway, looking forward to the food!
 Dialogue: 0,0:05:09.81,0:05:11.24,Default,Shizuka,0,0,0,,Kokona!
-Dialogue: 0,0:05:11.24,0:05:13.66,Default,Kokona,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:05:11.24,0:05:13.66,Default,Kokona,0,0,0,,Shizuka{**-chan}!
 Dialogue: 0,0:05:14.37,0:05:16.54,Default,Kathrina,0,0,0,,Is she going to be okay?
 Dialogue: 0,0:05:16.54,0:05:18.12,Default,Kokona,0,0,0,,No idea...
-Dialogue: 0,0:05:18.74,0:05:23.30,Default,Kokona,0,0,0,,But I'm sure Shizuka-chan would enjoy\Nsome time away from me.
+Dialogue: 0,0:05:18.74,0:05:23.30,Default,Kokona,0,0,0,,But I'm sure Shizuka{**-chan} would enjoy\Nsome time away from me.
 Dialogue: 0,0:05:23.76,0:05:25.02,Default,Kokona,0,0,0,,Let's go shopping!
 Dialogue: 0,0:05:25.53,0:05:27.56,Default,Kathrina,0,0,0,,You sure bounce back quick.
 Dialogue: 0,0:05:28.80,0:05:33.06,Signs,Sign,0,0,0,,{\pos(544.731,433.262)\org(549.231,435.153)\fscx96.928\fscy83.157\frz-26.423\fry-10.893\frx-10.445\fax0.121\fnArial\fs36\b1\xbord0\ybord0\c&H9C969D&\fad(1840,1)}SIRIUS SENTO
 Dialogue: 0,0:05:31.19,0:05:33.05,Default,Kokona,0,0,0,,I wonder what I should make.
 Dialogue: 0,0:05:34.68,0:05:36.33,Default,Kokona,0,0,0,,Hmm...
-Dialogue: 0,0:05:37.84,0:05:41.15,Default,Kokona,0,0,0,,Is there anything you'd\Nlike to eat, Kathrina-chan?
+Dialogue: 0,0:05:37.84,0:05:41.15,Default,Kokona,0,0,0,,Is there anything you'd\Nlike to eat, Kathrina{**-chan}?
 Dialogue: 0,0:05:41.15,0:05:42.62,Default,Kokona,0,0,0,,Like a favorite food?
 Dialogue: 0,0:05:44.03,0:05:45.11,Default,Kathrina,0,0,0,,Hey.
 Dialogue: 0,0:05:45.11,0:05:46.79,Default,Kathrina,0,0,0,,Who exactly is Shizuka?
-Dialogue: 0,0:05:48.26,0:05:50.41,Default,Kokona,0,0,0,,She's Shizuka-chan.
+Dialogue: 0,0:05:48.26,0:05:50.41,Default,Kokona,0,0,0,,She's Shizuka{**-chan}.
 Dialogue: 0,0:05:52.44,0:05:54.42,Default,Kathrina,0,0,0,,Okay, let me put it another way.
 Dialogue: 0,0:05:54.76,0:05:57.67,Default,Kathrina,0,0,0,,What exactly is your Sense?
 Dialogue: 0,0:05:58.26,0:05:59.74,Default,Kokona,0,0,0,,Well...
@@ -139,7 +139,7 @@ Dialogue: 0,0:06:05.96,0:06:07.35,Default,Shizuka,0,0,0,,A jungle?
 Dialogue: 0,0:06:07.35,0:06:11.02,Default,Sasuga,0,0,0,,We get all kinds of things from \Nfans after playing various roles.
 Dialogue: 0,0:06:11.33,0:06:13.24,Default,Panda,0,0,0,,We got bamboo shoots this time.
 Dialogue: 0,0:06:13.24,0:06:16.76,Default,Panda,0,0,0,,Sassu fans are just too clever!
-Dialogue: 0,0:06:16.99,0:06:21.84,Default,Panda,0,0,0,,Now, then... How much do you \Nknow about Senses, Oshizu-chan?
+Dialogue: 0,0:06:16.99,0:06:21.84,Default,Panda,0,0,0,,Now, then... How much do you \Nknow about Senses, Oshizu{**-chan}?
 Dialogue: 0,0:06:21.84,0:06:24.28,Default,Shizuka,0,0,0,,Honestly, not much.
 Dialogue: 0,0:06:24.28,0:06:27.42,Default,Sasuga,0,0,0,,So you really don't even \Nknow much about yourself.
 Dialogue: 0,0:06:27.42,0:06:29.04,Default,Sasuga,0,0,0,,What a curious Sense.
@@ -156,7 +156,7 @@ Dialogue: 0,0:07:07.88,0:07:10.52,Default,Sasuga,0,0,0,,I wonder if actors evolv
 Dialogue: 0,0:07:10.52,0:07:12.02,Default,Shizuka,0,0,0,,Evolved?
 Dialogue: 0,0:07:14.02,0:07:19.43,Default,Panda,0,0,0,,Basically, we figure Senses are just \Na super-amazing form of expression
 Dialogue: 0,0:07:19.43,0:07:21.78,Default,Panda,0,0,0,,that only manifests onstage.
-Dialogue: 0,0:07:22.43,0:07:25.81,Default,Panda,0,0,0,,But Oshizu-chan, you're sorta... different.
+Dialogue: 0,0:07:22.43,0:07:25.81,Default,Panda,0,0,0,,But Oshizu{**-chan}, you're sorta... different.
 Dialogue: 0,0:07:28.05,0:07:31.15,Default,Kathrina,0,0,0,,There are actors who can awaken \Na different personality
 Dialogue: 0,0:07:31.15,0:07:34.14,Default,Kathrina,0,0,0,,within them via their Sense\N to fit certain roles.
 Dialogue: 0,0:07:34.47,0:07:38.18,Default,Kathrina,0,0,0,,It's rare, but there are even actors\Nwho can change their appearance.
@@ -164,11 +164,11 @@ Dialogue: 0,0:07:38.18,0:07:42.36,Default,Kathrina,0,0,0,,Nevertheless, they rem
 Dialogue: 0,0:07:42.65,0:07:45.90,Default,Kathrina,0,0,0,,It's inconceivable for another personality\Nto appear alongside you
 Dialogue: 0,0:07:45.90,0:07:48.26,Default,Kathrina,0,0,0,,that other people can see, too.
 Dialogue: 0,0:07:50.50,0:07:51.68,Default,Panda,0,0,0,,Not to mention,
-Dialogue: 0,0:07:51.68,0:07:54.96,Default,Panda,0,0,0,,you don't seem to disappear when \Nyou leave the stage or Koko-chan's side.
-Dialogue: 0,0:07:55.70,0:07:58.83,Default,Panda,0,0,0,,I wonder what Koko-chan's Sense really is...
-Dialogue: 0,0:07:59.48,0:08:02.68,Default,Panda,0,0,0,,What exactly are you, Oshizu-chan?
+Dialogue: 0,0:07:51.68,0:07:54.96,Default,Panda,0,0,0,,you don't seem to disappear when \Nyou leave the stage or Koko{**-chan}'s side.
+Dialogue: 0,0:07:55.70,0:07:58.83,Default,Panda,0,0,0,,I wonder what Koko{**-chan}'s Sense really is...
+Dialogue: 0,0:07:59.48,0:08:02.68,Default,Panda,0,0,0,,What exactly are you, Oshizu{**-chan}?
 Dialogue: 0,0:08:03.29,0:08:04.59,Default,Shizuka,0,0,0,,I'm...
-Dialogue: 0,0:08:06.05,0:08:07.58,Default,Kokona,0,0,0,,As for Shizuka-chan...
+Dialogue: 0,0:08:06.05,0:08:07.58,Default,Kokona,0,0,0,,As for Shizuka{**-chan}...
 Dialogue: 0,0:08:07.58,0:08:11.59,Default,Kokona,0,0,0,,I met her during a time when I was \Nfailing one audition after another.
 Dialogue: 0,0:08:12.51,0:08:17.83,Flashback,Hamlet (Kokona),0,0,0,,To be! Or not to be! That is the question!
 Dialogue: 0,0:08:17.83,0:08:21.52,Flashback,Judge A,0,0,0,,You're not bad, but you lack Sense.
@@ -206,10 +206,10 @@ Dialogue: 0,0:10:05.71,0:10:08.04,Flashback,Shizuka,0,0,0,,I'll make you into a 
 Dialogue: 0,0:10:08.87,0:10:11.11,Flashback,Kokona,0,0,0,,A World Dai Star...
 Dialogue: 0,0:10:16.67,0:10:20.18,Signs,Sign,0,0,0,,{\pos(1088.936,399.075)\org(1092.921,376.155)\fscx100.292\fscy96.146\frz-4.376\fry0\frx-6.181\fax-0.027\fnImpact\xbord3.91\ybord3.75\c&H346A8E&\3c&H251C24&}Asakusa Hisago Street
 Dialogue: 0,0:10:16.67,0:10:20.18,Signs,Sign,0,0,0,,{\fnArial\b1\fs48\fay.05\shad0\pos(1004.307,760.155)\c&H444641&\3c&HC7CFD2&}Asakusa Hisago Shopping Street
-Dialogue: 0,0:10:18.72,0:10:20.19,Default,Kokona,0,0,0,,So I think Shizuka-chan
+Dialogue: 0,0:10:18.72,0:10:20.19,Default,Kokona,0,0,0,,So I think Shizuka{**-chan}
 Dialogue: 0,0:10:20.68,0:10:24.93,Default,Kokona,0,0,0,,is a version of me that has \Neverything I've ever wanted.
 Dialogue: 0,0:10:25.31,0:10:29.70,Default,Kokona,0,0,0,,A me who's good at acting, \Nsuper confident, and cool.
-Dialogue: 0,0:10:30.84,0:10:33.85,Default,Kokona,0,0,0,,Though I'm too embarrassed \Nto tell Shizuka-chan that.
+Dialogue: 0,0:10:30.84,0:10:33.85,Default,Kokona,0,0,0,,Though I'm too embarrassed \Nto tell Shizuka{**-chan} that.
 Dialogue: 0,0:10:34.46,0:10:35.52,Default,Clerk,0,0,0,,{\an8}Stop on by!
 Dialogue: 0,0:10:36.76,0:10:41.69,Default,Kathrina,0,0,0,,{\i1}So a Sense that allows her to create \Nan ideal version of herself as an example?
 Dialogue: 0,0:10:36.84,0:10:40.91,Default,Kokona,0,0,0,,{\an8}Count me in! Got any recommendations?
@@ -229,7 +229,7 @@ Dialogue: 0,0:11:21.96,0:11:25.42,Default,Shizuka,0,0,0,,So... I probably won't 
 Dialogue: 0,0:11:25.90,0:11:27.58,Default,Sasuga,0,0,0,,Well, that's a waste.
 Dialogue: 0,0:11:27.58,0:11:30.49,Default,Panda,0,0,0,,But I think I finally figured something out.
 Dialogue: 0,0:11:30.49,0:11:33.09,Default,Panda,0,0,0,,When she was playing the prince \Nin {\i1}The Little Mermaid{\i0},
-Dialogue: 0,0:11:33.09,0:11:37.23,Default,Panda,0,0,0,,Koko-chan must've been channeling that \Nrole through you, Oshizu-chan.
+Dialogue: 0,0:11:33.09,0:11:37.23,Default,Panda,0,0,0,,Koko{**-chan} must've been channeling that \Nrole through you, Oshizu{**-chan}.
 Dialogue: 0,0:11:38.14,0:11:39.77,Default,Shizuka,0,0,0,,Now then...
 Dialogue: 0,0:11:40.18,0:11:41.62,Default,Shizuka,0,0,0,,What's the meaning of this?
 Dialogue: 0,0:11:45.37,0:11:49.54,Default,Sasuga,0,0,0,,You really {\i1}can{\i0} wear the same costume\N just by imagining yourself in it.
@@ -238,7 +238,7 @@ Dialogue: 0,0:11:53.01,0:11:54.59,Default,Panda,0,0,0,,On to the next outfit!
 Dialogue: 0,0:11:54.59,0:11:56.13,Default,Shizuka,0,0,0,,But why?
 Dialogue: 0,0:11:56.98,0:12:01.98,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:12:10.49,0:12:13.51,Default,Kokona,0,0,0,,And now, we're going to be making \Nthe home-style German dish
-Dialogue: 0,0:12:13.51,0:12:15.32,Default,Kokona,0,0,0,,that Kathrina-chan recommended...
+Dialogue: 0,0:12:13.51,0:12:15.32,Default,Kokona,0,0,0,,that Kathrina{**-chan} recommended...
 Dialogue: 0,0:12:15.32,0:12:16.43,Default,Kokona,0,0,0,,Schuniterun!
 Dialogue: 0,0:12:16.43,0:12:17.92,Default,Kathrina,0,0,0,,It's {\i1}schnitzel{\i0}.
 Dialogue: 0,0:12:17.92,0:12:20.63,Default,Kokona,0,0,0,,Schnitzel! Um...
@@ -247,7 +247,7 @@ Dialogue: 0,0:12:24.16,0:12:26.52,Default,Kokona,0,0,0,,It's basically German to
 Dialogue: 0,0:12:26.52,0:12:29.13,Default,Kathrina,0,0,0,,Well... Sort of.
 Dialogue: 0,0:12:29.13,0:12:32.58,Default,Kathrina,0,0,0,,Japanese tonkatsu is really good too, though.
 Dialogue: 0,0:12:32.58,0:12:34.18,Default,Kathrina,0,0,0,,And deep-fried horse mackerel.
-Dialogue: 0,0:12:34.43,0:12:37.19,Default,Kokona,0,0,0,,Come to think of it, \NKathrina-chan, the way you eat...
+Dialogue: 0,0:12:34.43,0:12:37.19,Default,Kokona,0,0,0,,Come to think of it, \NKathrina{**-chan}, the way you eat...
 Dialogue: 0,0:12:38.62,0:12:40.19,Default,Kokona,0,0,0,,Are you getting any veggies?
 Dialogue: 0,0:12:40.49,0:12:41.56,Default,Kathrina,0,0,0,,But of course.
 Dialogue: 0,0:12:42.15,0:12:44.69,Default,Kathrina,0,0,0,,Japanese vegetable juice is delicious.
@@ -309,7 +309,7 @@ Dialogue: 0,0:16:24.75,0:16:26.98,Default,Kokona,0,0,0,,Say, why don't we go ahe
 Dialogue: 0,0:16:26.98,0:16:27.68,Default,Kathrina,0,0,0,,Huh?
 Dialogue: 0,0:16:30.82,0:16:33.80,Default,Kokona,0,0,0,,I've messed up a bunch of times, too.
 Dialogue: 0,0:16:33.80,0:16:36.38,Default,Kokona,0,0,0,,I failed a bunch of auditions,
-Dialogue: 0,0:16:36.96,0:16:42.14,Default,Kokona,0,0,0,,Shizuka-chan always yells at me, \Nand I lost the Princess Kaguya role.
+Dialogue: 0,0:16:36.96,0:16:42.14,Default,Kokona,0,0,0,,Shizuka{**-chan} always yells at me, \Nand I lost the Princess Kaguya role.
 Dialogue: 0,0:16:44.65,0:16:51.12,Default,Kokona,0,0,0,,But I don't think I'll ever forget \Nyour performance as Princess Kaguya.
 Dialogue: 0,0:16:52.56,0:16:54.15,Default,Kokona,0,0,0,,Because it was our first play!
 Dialogue: 0,0:16:56.23,0:16:58.94,Default,Kokona,0,0,0,,Next time we do {\i1}The Tale of the Bamboo Cutter{\i0},
@@ -321,7 +321,7 @@ Dialogue: 0,0:17:14.79,0:17:17.48,Default,Kathrina,0,0,0,,And... thank you.
 Dialogue: 0,0:17:18.92,0:17:19.63,Default,Kokona,0,0,0,,Sure.
 Dialogue: 0,0:17:23.29,0:17:26.90,Default,Panda,0,0,0,,Okay! Is everyone here?
 Dialogue: 0,0:17:26.90,0:17:28.35,Default,Kokona; Shizuka; Sasuga,0,0,0,,Yes!
-Dialogue: 0,0:17:30.65,0:17:33.86,Default,Kokona,0,0,0,,Hiiragi-san... What's the matter?
+Dialogue: 0,0:17:30.65,0:17:33.86,Default,Kokona,0,0,0,,Hiiragi{**-san}... What's the matter?
 Dialogue: 0,0:17:33.86,0:17:35.37,Default,Shamo,0,0,0,,Don't worry about her.
 Dialogue: 0,0:17:35.87,0:17:39.59,Default,Shamo,0,0,0,,She's just relieved now \Nthat the play is over.
 Dialogue: 0,0:17:39.59,0:17:43.14,Default,Shamo,0,0,0,,She had a lot of stress pent up.
@@ -333,7 +333,7 @@ Dialogue: 0,0:17:55.23,0:17:57.34,Default,Shizuka,0,0,0,,Well, I'm Kokona's Sens
 Dialogue: 0,0:17:58.52,0:18:01.14,Default,Kokona,0,0,0,,Why are you two so eager to fight?
 Dialogue: 0,0:18:01.88,0:18:04.64,Default,Niizuma,0,0,0,,Sorry I'm late!
 Dialogue: 0,0:18:04.64,0:18:06.41,Signs,Sign,0,0,0,,{\fnArial\fs36\shad0\bord0\b1\c&H0D3733&\frz351.5\move(939.693,649.386,939.693,1169.31)}Taiyaki
-Dialogue: 0,0:18:04.91,0:18:06.05,Default,Kokona,0,0,0,,{\an8}Yae-chan?!
+Dialogue: 0,0:18:04.91,0:18:06.05,Default,Kokona,0,0,0,,{\an8}Yae{**-chan}?!
 Dialogue: 0,0:18:06.05,0:18:06.96,Default,Shizuka,0,0,0,,{\an8}What gives?!
 Dialogue: 0,0:18:06.96,0:18:09.36,Default,Panda,0,0,0,,We invited her as a surprise!
 Dialogue: 0,0:18:09.36,0:18:11.48,Default,Niizuma,0,0,0,,They were kind enough to include me.
@@ -348,21 +348,21 @@ Dialogue: 0,0:18:31.36,0:18:33.32,Default,All but Kathrina and Hiiragi,0,0,0,,Ch
 Dialogue: 0,0:18:38.22,0:18:40.34,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs48\an7\shad0\bord0\frz110.4\c&H191A33&\b1\move(1545.693,498.921,1715.541,498.921)}The\NStar\Nof\NAsakusa
 Dialogue: 0,0:18:47.65,0:18:50.62,Default,Sasuga,0,0,0,,My mouth is full of Germany.
 Dialogue: 0,0:18:51.07,0:18:52.45,Default,Panda,0,0,0,,What does that mean?
-Dialogue: 0,0:18:53.14,0:18:56.79,Default,Niizuma,0,0,0,,Is this a dish from your \Nhomeland, Kathrina-san?
+Dialogue: 0,0:18:53.14,0:18:56.79,Default,Niizuma,0,0,0,,Is this a dish from your \Nhomeland, Kathrina{**-san}?
 Dialogue: 0,0:18:56.79,0:19:00.98,Default,Kathrina,0,0,0,,Yes... Though Kokona made most of it.
-Dialogue: 0,0:19:00.98,0:19:04.32,Default,Kokona,0,0,0,,But you got a lot better at it,\N Kathrina-chan.
-Dialogue: 0,0:19:08.12,0:19:11.53,Default,Panda,0,0,0,,Koko-chan and Kathrin seem \Nto be getting along great!
+Dialogue: 0,0:19:00.98,0:19:04.32,Default,Kokona,0,0,0,,But you got a lot better at it,\N Kathrina{**-chan}.
+Dialogue: 0,0:19:08.12,0:19:11.53,Default,Panda,0,0,0,,Koko{**-chan} and Kathrin seem \Nto be getting along great!
 Dialogue: 0,0:19:12.45,0:19:16.29,Default,Shizuka,0,0,0,,Well, they are roommates,\Nso that's probably for the best.
 Dialogue: 0,0:19:16.29,0:19:17.80,Default,Sasuga,0,0,0,,But how do you really feel?
 Dialogue: 0,0:19:18.19,0:19:20.90,Default,Shizuka,0,0,0,,I hate it! I feel like she's \Ntaking Kokona from me!
 Dialogue: 0,0:19:20.90,0:19:22.22,Default,Panda and Sasuga,0,0,0,,Ooh.
 Dialogue: 0,0:19:23.05,0:19:24.70,Default,Shizuka,0,0,0,,Don't make me admit that!
-Dialogue: 0,0:19:24.70,0:19:27.05,Default,Kokona,0,0,0,,Are you good at cooking too, Yae-chan?
+Dialogue: 0,0:19:24.70,0:19:27.05,Default,Kokona,0,0,0,,Are you good at cooking too, Yae{**-chan}?
 Dialogue: 0,0:19:27.60,0:19:30.72,Default,Hiiragi,0,0,0,,Why did the newbies cook?
 Dialogue: 0,0:19:30.72,0:19:31.77,Default,All,0,0,0,,Huh?
 Dialogue: 0,0:19:31.77,0:19:33.80,Default,Kathrina,0,0,0,,You mean it's not a dorm tradition?
 Dialogue: 0,0:19:34.62,0:19:36.56,Default,Hiiragi,0,0,0,,First I've heard of it.
-Dialogue: 0,0:19:37.54,0:19:41.64,Default,Sasuga (Impersonating Panda),0,0,0,,"Let's give Kathrin an opportunity \Nto apologize to Koko-chan!"
+Dialogue: 0,0:19:37.54,0:19:41.64,Default,Sasuga (Impersonating Panda),0,0,0,,"Let's give Kathrin an opportunity \Nto apologize to Koko{**-chan}!"
 Dialogue: 0,0:19:41.64,0:19:44.05,Default,Sasuga (Impersonating Panda),0,0,0,,"Her being so pouty is honestly a pain."
 Dialogue: 0,0:19:44.05,0:19:45.93,Default,Sasuga,0,0,0,,That's what Panda said.
 Dialogue: 0,0:19:46.99,0:19:48.17,Default,Panda,0,0,0,,Heh!
@@ -371,7 +371,7 @@ Dialogue: 0,0:19:50.16,0:19:51.43,Default,Shizuka,0,0,0,,Oho...
 Dialogue: 0,0:19:52.15,0:19:54.14,Default,Kathrina,0,0,0,,I-I wasn't being pouty!
 Dialogue: 0,0:19:54.14,0:19:56.17,Default,Kathrina,0,0,0,,Who asked for your help anyway?!
 Dialogue: 0,0:19:56.17,0:19:59.29,Default,Panda,0,0,0,,What? I did you a favor.
-Dialogue: 0,0:20:00.20,0:20:04.45,Default,Panda,0,0,0,,I'm sure you're thinking, "Thank you, \NPanda-chan! You're super adorable!"
+Dialogue: 0,0:20:00.20,0:20:04.45,Default,Panda,0,0,0,,I'm sure you're thinking, "Thank you, \NPanda{**-chan}! You're super adorable!"
 Dialogue: 0,0:20:04.45,0:20:07.06,Default,Panda,0,0,0,,That's what your \Nheart of hearts is saying, no?
 Dialogue: 0,0:20:07.06,0:20:08.77,Default,Kathrina,0,0,0,,No, it's not!
 Dialogue: 0,0:20:08.77,0:20:10.60,Default,Panda,0,0,0,,Oh, come on now!
@@ -386,11 +386,11 @@ Dialogue: 0,0:20:54.46,0:20:57.76,Default,Kokona,0,0,0,,North! Let's go north!
 Dialogue: 0,0:21:02.53,0:21:05.03,Subtitles,Sign,0,0,0,,Will you be okay all by yourself?
 Dialogue: 0,0:21:10.54,0:21:13.57,Subtitles,Sign,0,0,0,,I'll be fine.
 Dialogue: 0,0:21:13.57,0:21:15.82,Default,Kathrina,0,0,0,,{\i1}Don't worry, Mama.
-Dialogue: 0,0:21:16.16,0:21:21.70,Default,Kokona,0,0,0,,No, Kathrina-chan... Don't go that way...
+Dialogue: 0,0:21:16.16,0:21:21.70,Default,Kokona,0,0,0,,No, Kathrina{**-chan}... Don't go that way...
 Dialogue: 0,0:21:24.40,0:21:26.86,Default,Kathrina,0,0,0,,{\i1}I'm not alone anymore.
 Dialogue: 0,0:21:28.18,0:21:30.57,Default,Kokona,0,0,0,,North, north...
 Dialogue: 0,0:21:38.12,0:21:40.89,Default,Hiiragi,0,0,0,,All right, so that will be our next play.
-Dialogue: 0,0:21:42.27,0:21:44.36,Default,Kudo,0,0,0,,Yae-chan's starring again?
+Dialogue: 0,0:21:42.27,0:21:44.36,Default,Kudo,0,0,0,,Yae{**-chan}'s starring again?
 Dialogue: 0,0:21:45.39,0:21:46.71,Default,Hiiragi,0,0,0,,Well...
 Dialogue: 0,0:21:51.15,0:21:52.21,Default,Hiiragi,0,0,0,,Come in.
 Dialogue: 0,0:21:55.11,0:21:56.39,Default,Niizuma,0,0,0,,Pardon me.
