@@ -62,10 +62,10 @@ Dialogue: 0,0:02:45.60,0:02:46.35,Subtitles,Kathrina,0,0,0,,...Yes.
 Dialogue: 0,0:02:46.47,0:02:48.48,Subtitles,Theresa/Subs,0,0,0,,Have you thanked them?
 Dialogue: 0,0:02:49.02,0:02:50.39,Subtitles,Kathrina/Subs,0,0,0,,...Not yet.
 Dialogue: 0,0:02:51.66,0:02:53.96,Default,Kokona,0,0,0,,Man, she really is incredible!
-Dialogue: 0,0:02:53.96,0:02:56.59,Default,Shizuka,0,0,0,,{\an8}Hey! Are you okay with that?! \NDoesn't it frustrate you?!
-Dialogue: 0,0:02:54.59,0:02:55.21,Default,Kathrina,0,0,0,,H—
-Dialogue: 0,0:02:56.59,0:02:57.81,Default,Kokona,0,0,0,,{\an8}Er, no...
-Dialogue: 0,0:02:57.00,0:02:58.31,Default,Kathrina,0,0,0,,Hey, Ko—
+Dialogue: 0,0:02:53.96,0:02:56.59,Default,Shizuka,0,0,0,,Hey! Are you okay with that?! \NDoesn't it frustrate you?!
+Dialogue: 0,0:02:54.59,0:02:55.21,Overlap,Kathrina,0,0,0,,H—
+Dialogue: 0,0:02:56.59,0:02:57.81,Default,Kokona,0,0,0,,Er, no...
+Dialogue: 0,0:02:57.00,0:02:58.31,Overlap,Kathrina,0,0,0,,Hey, Ko—
 Dialogue: 0,0:02:58.62,0:03:00.52,Default,Panda,0,0,0,,Heya, are all three of you here?
 Dialogue: 0,0:03:00.52,0:03:01.42,Default,Kokona; Shizuka; Kathrina,0,0,0,,Huh?
 Dialogue: 1,0:03:03.07,0:03:05.95,Signs,Sign,0,0,0,,{\an8\fnComic Sans MS\fs90\b1\c&HAC6AE1&\3c&HF8FFFC&}Move{\c&H74F3F3&}-in {\c&HAC6AE1&}party{\c&H74F3F3&}?
@@ -210,13 +210,13 @@ Dialogue: 0,0:10:18.72,0:10:20.19,Default,Kokona,0,0,0,,So I think Shizuka{**-ch
 Dialogue: 0,0:10:20.68,0:10:24.93,Default,Kokona,0,0,0,,is a version of me that has \Neverything I've ever wanted.
 Dialogue: 0,0:10:25.31,0:10:29.70,Default,Kokona,0,0,0,,A me who's good at acting, \Nsuper confident, and cool.
 Dialogue: 0,0:10:30.84,0:10:33.85,Default,Kokona,0,0,0,,Though I'm too embarrassed \Nto tell Shizuka{**-chan} that.
-Dialogue: 0,0:10:34.46,0:10:35.52,Default,Clerk,0,0,0,,{\an8}Stop on by!
+Dialogue: 0,0:10:34.46,0:10:35.52,Overlap,Clerk,0,0,0,,{\an8}Stop on by!
 Dialogue: 0,0:10:36.76,0:10:41.69,Default,Kathrina,0,0,0,,{\i1}So a Sense that allows her to create \Nan ideal version of herself as an example?
-Dialogue: 0,0:10:36.84,0:10:40.91,Default,Kokona,0,0,0,,{\an8}Count me in! Got any recommendations?
-Dialogue: 0,0:10:41.11,0:10:43.24,Default,Kokona,0,0,0,,{\an8}Everything looks so good!
-Dialogue: 0,0:10:43.70,0:10:45.06,Default,Kokona,0,0,0,,{\an8}I wonder what everyone likes.
+Dialogue: 0,0:10:36.84,0:10:40.91,Overlap,Kokona,0,0,0,,{\an8}Count me in! Got any recommendations?
+Dialogue: 0,0:10:41.11,0:10:43.24,Overlap,Kokona,0,0,0,,{\an8}Everything looks so good!
+Dialogue: 0,0:10:43.70,0:10:45.06,Overlap,Kokona,0,0,0,,{\an8}I wonder what everyone likes.
 Dialogue: 0,0:10:44.26,0:10:48.95,Default,Kathrina,0,0,0,,{\i1}But then there'd be no need for \NShizuka to show up on stage.
-Dialogue: 0,0:10:46.14,0:10:48.73,Default,Kokona,0,0,0,,{\an8}Maybe these?
+Dialogue: 0,0:10:46.14,0:10:48.73,Overlap,Kokona,0,0,0,,{\an8}Maybe these?
 Dialogue: 0,0:10:49.93,0:10:56.25,Default,Shizuka,0,0,0,,I think I came from Kokona's \Ndesire to become a World Dai Star.
 Dialogue: 0,0:10:57.22,0:11:00.04,Default,Shizuka,0,0,0,,I don't know who I am exactly,
 Dialogue: 0,0:11:00.63,0:11:04.67,Default,Shizuka,0,0,0,,but I want to help Kokona \Nachieve her dream. That's all.
@@ -333,11 +333,11 @@ Dialogue: 0,0:17:55.23,0:17:57.34,Default,Shizuka,0,0,0,,Well, I'm Kokona's Sens
 Dialogue: 0,0:17:58.52,0:18:01.14,Default,Kokona,0,0,0,,Why are you two so eager to fight?
 Dialogue: 0,0:18:01.88,0:18:04.64,Default,Niizuma,0,0,0,,Sorry I'm late!
 Dialogue: 0,0:18:04.64,0:18:06.41,Signs,Sign,0,0,0,,{\move(939.693,649.386,939.693,1169.31)\frz351.5\fnArial\fs36\b1\bord0\c&H0D3733&}Taiyaki
-Dialogue: 0,0:18:04.91,0:18:06.05,Default,Kokona,0,0,0,,{\an8}Yae{**-chan}?!
-Dialogue: 0,0:18:06.05,0:18:06.96,Default,Shizuka,0,0,0,,{\an8}What gives?!
-Dialogue: 0,0:18:06.96,0:18:09.36,Default,Panda,0,0,0,,We invited her as a surprise!
-Dialogue: 0,0:18:09.36,0:18:11.48,Default,Niizuma,0,0,0,,They were kind enough to include me.
-Dialogue: 0,0:18:11.48,0:18:14.62,Default,Niizuma,0,0,0,,Also, I brought some taiyaki.
+Dialogue: 1,0:18:04.91,0:18:06.05,Default,Kokona,0,0,0,,Yae{**-chan}?!
+Dialogue: 1,0:18:06.05,0:18:06.96,Default,Shizuka,0,0,0,,What gives?!
+Dialogue: 1,0:18:06.96,0:18:09.36,Default,Panda,0,0,0,,We invited her as a surprise!
+Dialogue: 1,0:18:09.36,0:18:11.48,Default,Niizuma,0,0,0,,They were kind enough to include me.
+Dialogue: 1,0:18:11.48,0:18:14.62,Default,Niizuma,0,0,0,,Also, I brought some taiyaki.
 Dialogue: 0,0:18:15.52,0:18:16.81,Default,Shizuka,0,0,0,,What an angel.
 Dialogue: 0,0:18:16.81,0:18:19.13,Default,Kokona and Shizuka,0,0,0,,Come sit over here!
 Dialogue: 0,0:18:19.13,0:18:20.25,Default,Kathrina,0,0,0,,What?!
