@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,10 +119,10 @@ Dialogue: 0,0:05:59.89,0:06:01.59,Default,Kokona,0,0,0,,There's an audition for 
 Dialogue: 0,0:06:01.59,0:06:03.46,Default,Shizuka,0,0,0,,You'll pass, so it's all good.
 Dialogue: 0,0:06:03.46,0:06:05.47,Default,Kokona,0,0,0,,It's {\i1}me{\i0} auditioning, remember?
 Dialogue: 0,0:06:06.01,0:06:11.72,Subtitles,Kathrina subs,0,0,0,,The metro... Which one goes to... Asakusa?
-Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\pos(376.401,392.4)\c&HADAB92&\b1}Minami Urawa       Omiya
-Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(376.401,480.399)}Ikebukuro   Shinjuku      Shibuya
-Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(459.6,558.798)}Tokyo   Hamamatsucho  Shinagawa
-Dialogue: 0,0:06:11.72,0:06:14.22,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(350.802,638.799)}Kawasaki   Yokohama       Kannai
+Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\pos(376.401,392.4)\c&HADAB92&\b1}Minami Urawa       Omiya
+Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(376.401,480.399)}Ikebukuro   Shinjuku      Shibuya
+Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(459.6,558.798)}Tokyo   Hamamatsucho  Shinagawa
+Dialogue: 0,0:06:11.72,0:06:14.15,Signs,Sign,0,0,0,,{\fnArial\fs30\shad0\bord0\an3\c&HADAB92&\b1\pos(350.802,638.799)}Kawasaki   Yokohama       Kannai
 Dialogue: 0,0:06:11.93,0:06:13.85,Subtitles,Kathrina subs,0,0,0,,It's basically a maze...
 Dialogue: 0,0:06:19.35,0:06:22.31,Default,Kokona,0,0,0,,Konnichiwa! Um, hello?
 Dialogue: 0,0:06:22.31,0:06:25.44,Default,Kokona,0,0,0,,Guten Tag? Добрый день?
