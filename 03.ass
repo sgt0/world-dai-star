@@ -30,12 +30,12 @@ Dialogue: 0,0:00:03.97,0:00:07.85,Default,Sasuga (Old Man),0,0,0,,and they have 
 Dialogue: 0,0:00:08.40,0:00:13.37,Default,Sasuga (Old Man),0,0,0,,Why not meet with one of them?
 Dialogue: 0,0:00:13.78,0:00:16.41,Default,Niizuma (Kaguya),0,0,0,,I won't make such a decision so lightly.
 Dialogue: 0,0:00:18.11,0:00:19.61,Default,Sasuga Fan A,0,0,0,,{\i1}Aww...
-Dialogue: 0,0:00:20.05,0:00:23.70,Default,Sasuga Fan A,0,0,0,,{\i1}It's hard to see Chisa-san's face from here.
+Dialogue: 0,0:00:20.05,0:00:23.70,Default,Sasuga Fan A,0,0,0,,{\i1}It's hard to see Chisa{**-san}'s face from here.
 Dialogue: 0,0:00:23.99,0:00:29.20,Default,Sasuga (Old Man),0,0,0,,But I believe their love for you is deep.
 Dialogue: 0,0:00:29.20,0:00:33.33,Default,Panda (Misato),0,0,0,,In that case, how about this?
 Dialogue: 0,0:00:33.33,0:00:36.09,Default,Sasuga (Old Man),0,0,0,,What is it, Misao?\NDo you have an idea?
 Dialogue: 0,0:00:36.34,0:00:38.59,Default,Sasuga Fan A,0,0,0,,{\i1}I can see her! She's so cool!
-Dialogue: 0,0:00:41.12,0:00:44.34,Default,Panda Fan,0,0,0,,{\i1}Panda-san's as cute as ever today!
+Dialogue: 0,0:00:41.12,0:00:44.34,Default,Panda Fan,0,0,0,,{\i1}Panda{**-san}'s as cute as ever today!
 Dialogue: 0,0:00:44.69,0:00:49.85,Default,Panda (Misato),0,0,0,,What if the princess marries\Nwhoever brings her what she desires?
 Dialogue: 0,0:00:50.11,0:00:52.23,Default,Panda Fan,0,0,0,,{\i1}She's too precious!
 Dialogue: 0,0:00:52.23,0:00:55.65,Overlap,Panda (Misato),0,0,0,,{\an8}I'm sure the love\Nof all five prices runs deep,
@@ -55,14 +55,14 @@ Dialogue: 0,0:03:08.30,0:03:12.05,Default,Kathrina,0,0,0,,Yes. They told me to m
 Dialogue: 0,0:03:12.05,0:03:15.03,Default,Kathrina,0,0,0,,instill the people of Japan\Nwith hopes and dreams.
 Dialogue: 0,0:03:15.39,0:03:19.54,Default,Reporter,0,0,0,,Your parents have received the \Nmost prestigious German acting award,
 Dialogue: 0,0:03:19.54,0:03:24.44,Default,Reporter,0,0,0,,the Reinhardt Award, three years in a row.\NThey're considered Germany's...
-Dialogue: 0,0:03:36.02,0:03:38.10,Default,Kokona,0,0,0,,Shizuka-chan, are you mad?
+Dialogue: 0,0:03:36.02,0:03:38.10,Default,Kokona,0,0,0,,Shizuka{**-chan}, are you mad?
 Dialogue: 0,0:03:38.38,0:03:41.99,Default,Shizuka,0,0,0,,I'm not mad. I'm just at a loss for words.
 Dialogue: 0,0:03:41.99,0:03:43.82,Default,Kokona,0,0,0,,Figures...
-Dialogue: 0,0:03:43.82,0:03:47.09,Default,Shizuka,0,0,0,,You lost the moment you copied Yae-chan.
+Dialogue: 0,0:03:43.82,0:03:47.09,Default,Shizuka,0,0,0,,You lost the moment you copied Yae{**-chan}.
 Dialogue: 0,0:03:48.14,0:03:49.22,Default,Kokona,0,0,0,,Yeah.
 Dialogue: 0,0:03:49.97,0:03:54.44,Default,Shizuka,0,0,0,,Actors who want to be Dai Stars\N{\i1}don't{\i0} copy other actors' performances.
 Dialogue: 0,0:03:54.92,0:03:59.74,Default,Shizuka,0,0,0,,But at the same time, I'm not sure we\Ncould have beat Kathrina with our plan.
-Dialogue: 0,0:03:59.74,0:04:02.76,Default,Kokona,0,0,0,,Yeah, Kathrina-chan's \Nperformance was amazing!
+Dialogue: 0,0:03:59.74,0:04:02.76,Default,Kokona,0,0,0,,Yeah, her performance was amazing!{sgt: removed "Kathrina-chan" to avoid awkward linebreak}
 Dialogue: 0,0:04:02.76,0:04:04.55,Default,Shizuka,0,0,0,,What are you grinning for?
 Dialogue: 0,0:04:04.55,0:04:06.18,Default,Kokona,0,0,0,,I'm not.
 Dialogue: 0,0:04:06.42,0:04:07.44,Default,Shizuka,0,0,0,,Listen.
@@ -99,7 +99,7 @@ Dialogue: 0,0:05:58.54,0:06:01.02,Default,Shizuka,0,0,0,,That's not an easy ques
 Dialogue: 0,0:06:01.02,0:06:03.81,Default,Shizuka,0,0,0,,This is why people go\Non journeys of self-discovery.
 Dialogue: 0,0:06:03.81,0:06:05.16,Default,Kokona,0,0,0,,Ooh!
 Dialogue: 0,0:06:05.54,0:06:08.25,Default,Kokona,0,0,0,,I really felt the awe of youth in that line!
-Dialogue: 0,0:06:12.29,0:06:13.92,Default,Kokona,0,0,0,,Shizuka-chan.
+Dialogue: 0,0:06:12.29,0:06:13.92,Default,Kokona,0,0,0,,Shizuka{**-chan}.
 Dialogue: 0,0:06:13.92,0:06:14.80,Default,Shizuka,0,0,0,,Yeah?
 Dialogue: 0,0:06:14.80,0:06:17.59,Default,Kokona,0,0,0,,How would you describe \Nme in a single phrase?
 Dialogue: 0,0:06:14.80,0:06:23.07,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs45\c&H321E16&\3c&HBEA595&}Furaijinmon\N2nd Year, Auspicious Day in April
@@ -175,9 +175,9 @@ Dialogue: 0,0:10:07.83,0:10:10.38,Default,Kudo,0,0,0,,so let's start with Misao'
 Dialogue: 0,0:10:10.38,0:10:11.56,Default,Kathrina,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:10:11.56,0:10:13.63,Default,Kokona,0,0,0,,Th-Thank you for having me!
 Dialogue: 0,0:10:15.99,0:10:20.63,Default,Sasuga (Old Man),0,0,0,,I thought you'd be more comfortable \Nwith a girl close to your age.
-Dialogue: 0,0:10:21.52,0:10:23.10,Default,Kathrina (Kaguya),0,0,0,,Misao-chan!
+Dialogue: 0,0:10:21.52,0:10:23.10,Default,Kathrina (Kaguya),0,0,0,,Misao{**-chan}!
 Dialogue: 0,0:10:23.36,0:10:24.79,Default,Kokona (Misao),0,0,0,,Y-Yes?
-Dialogue: 0,0:10:25.33,0:10:26.33,Default,Kathrina (Kaguya),0,0,0,,Misao-chan!
+Dialogue: 0,0:10:25.33,0:10:26.33,Default,Kathrina (Kaguya),0,0,0,,Misao{**-chan}!
 Dialogue: 0,0:10:26.91,0:10:28.60,Default,Kokona (Misao),0,0,0,,Can I help you?
 Dialogue: 0,0:10:31.63,0:10:33.02,Default,Kathrina,0,0,0,,Can we stop for a sec?
 Dialogue: 0,0:10:33.02,0:10:33.63,Default,Kokona,0,0,0,,Huh?
@@ -201,7 +201,7 @@ Dialogue: 0,0:11:28.20,0:11:32.17,Signs,Sign,0,0,0,,{\pos(1339.936,117.492)\org(
 Dialogue: 0,0:11:28.63,0:11:31.22,Default,Shizuka,0,0,0,,We can't relax with her around.
 Dialogue: 0,0:11:31.22,0:11:32.69,Default,Kokona,0,0,0,,Don't say that.
 Dialogue: 0,0:11:32.69,0:11:34.15,Default,Kokona,0,0,0,,We need to get along.
-Dialogue: 0,0:11:35.62,0:11:37.41,Default,Kokona,0,0,0,,Say, Kathrina-chan.
+Dialogue: 0,0:11:35.62,0:11:37.41,Default,Kokona,0,0,0,,Say, Kathrina{**-chan}.
 Dialogue: 0,0:11:37.41,0:11:40.54,Default,Kokona,0,0,0,,I wanted to ask you for \Nsome advice about my role.
 Dialogue: 0,0:11:40.54,0:11:44.90,Default,Kathrina,0,0,0,,You need to work on your focus \Nbefore you even think about your role.
 Dialogue: 0,0:11:44.90,0:11:48.05,Default,Kathrina,0,0,0,,You're a failure as an actor if you\Ndrop character and smile in a scene.
@@ -223,19 +223,19 @@ Dialogue: 0,0:12:36.21,0:12:38.02,Default,Kokona,0,0,0,,who trust each other com
 Dialogue: 0,0:12:38.33,0:12:41.02,Default,Shizuka,0,0,0,,You may just have to tough \Nit out at this point.
 Dialogue: 0,0:12:42.10,0:12:45.51,Default,Niizuma,0,0,0,,The audience at SIRIUS\Ndesires genuine performances
 Dialogue: 0,0:12:45.51,0:12:48.24,Default,Niizuma,0,0,0,,where the actors let their emotions collide.
-Dialogue: 0,0:12:48.24,0:12:49.28,Default,Kokona and Shizuka,0,0,0,,Yae-chan!
+Dialogue: 0,0:12:48.24,0:12:49.28,Default,Kokona and Shizuka,0,0,0,,Yae{**-chan}!
 Dialogue: 0,0:12:49.28,0:12:54.13,Default,Niizuma,0,0,0,,If you truly want to be a Dai Star, \Nwhy not strive to be genuine?
 Dialogue: 0,0:12:55.02,0:12:56.17,Default,Kokona,0,0,0,,Genuine?
-Dialogue: 0,0:12:57.26,0:13:01.16,Default,Niizuma,0,0,0,,You don't need to force yourself to go \Nalong with Kathrina-san's take.
-Dialogue: 0,0:13:01.44,0:13:05.63,Default,Niizuma,0,0,0,,You should perform in a way \Nthat's true to you, Kokona-san.
-Dialogue: 0,0:13:06.90,0:13:08.24,Default,Kokona,0,0,0,,Yae-chan!
+Dialogue: 0,0:12:57.26,0:13:01.16,Default,Niizuma,0,0,0,,You don't need to force yourself to go \Nalong with Kathrina{**-san}'s take.
+Dialogue: 0,0:13:01.44,0:13:05.63,Default,Niizuma,0,0,0,,You should perform in a way \Nthat's true to you, Kokona{**-san}.
+Dialogue: 0,0:13:06.90,0:13:08.24,Default,Kokona,0,0,0,,Yae{**-chan}!
 Dialogue: 0,0:13:08.24,0:13:09.68,Default,Niizuma,0,0,0,,Y-Yes?
 Dialogue: 0,0:13:09.68,0:13:11.45,Default,Kokona,0,0,0,,What do you think I should do?
-Dialogue: 0,0:13:11.45,0:13:15.07,Default,Kokona,0,0,0,,How can I put on a genuine \Nperformance with Kathrina-chan?
+Dialogue: 0,0:13:11.45,0:13:15.07,Default,Kokona,0,0,0,,How can I put on a genuine \Nperformance with Kathrina{**-chan}?
 Dialogue: 0,0:13:16.22,0:13:19.75,Default,Niizuma,0,0,0,,There's only one way to break\Na perfectly calculated performance...
 Dialogue: 0,0:13:20.19,0:13:24.59,Default,Niizuma,0,0,0,,Believe in the other actor and face \Nthem head-on without running away.
-Dialogue: 0,0:13:24.59,0:13:28.08,Default,Niizuma,0,0,0,,You can also save Kathrina-san that way.
-Dialogue: 0,0:13:28.34,0:13:31.82,Default,Kokona,0,0,0,,Save... Kathrina-chan?
+Dialogue: 0,0:13:24.59,0:13:28.08,Default,Niizuma,0,0,0,,You can also save Kathrina{**-san} that way.
+Dialogue: 0,0:13:28.34,0:13:31.82,Default,Kokona,0,0,0,,Save... Kathrina{**-chan}?
 Dialogue: 0,0:13:32.11,0:13:36.78,Default,Niizuma,0,0,0,,The only one who can save an actor\Nis the actor on stage with them.
 Dialogue: 0,0:13:58.77,0:14:00.68,Default,Kathrina,0,0,0,,What do you think you're doing?
 Dialogue: 0,0:14:00.68,0:14:03.45,Default,Kathrina,0,0,0,,You've been sneaking around, \Nfollowing me this whole time.
@@ -256,12 +256,12 @@ Dialogue: 0,0:14:39.77,0:14:42.12,Default,Kokona,0,0,0,,I need to face her head-
 Dialogue: 0,0:14:45.40,0:14:46.90,Signs,Sign,0,0,0,,{\pos(1326.387,388.908)\org(1326.546,388.908)\fscx98.688\fscy99.963\frz-9.628\fry-3.364\fax0.004\fnTimes New Roman\fs36\xbord2.96\ybord3\c&HBCCDA3&\3c&H46494A&}The Tale of the Bamboo Cutter
 Dialogue: 0,0:14:45.40,0:14:46.90,Signs,Sign,0,0,0,,{\pos(1287.273,624.546)\frz350.7\fnTimes New Roman\fs30\b1\c&H6C60C4&\3c&HFAFDFA&}Newcomer Performance Today
 Dialogue: 0,0:14:59.32,0:15:01.37,Default,Shizuka,0,0,0,,Are you all right, Kokona?
-Dialogue: 0,0:15:01.37,0:15:02.50,Default,Kokona,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:15:01.37,0:15:02.50,Default,Kokona,0,0,0,,Shizuka{**-chan}!
 Dialogue: 0,0:15:02.50,0:15:03.41,Default,Shizuka,0,0,0,,Wh-What?
 Dialogue: 0,0:15:03.69,0:15:05.68,Default,Kokona,0,0,0,,I can't wait to be on that stage!
 Dialogue: 0,0:15:08.83,0:15:10.41,Default,Shizuka,0,0,0,,That's the spirit.
 Dialogue: 0,0:15:10.41,0:15:14.25,Default,Shizuka,0,0,0,,Believe in what you've been doing in \Nrehearsals and give it all you've got.
-Dialogue: 0,0:15:14.52,0:15:16.53,Default,Kokona,0,0,0,,Thanks, Shizuka-chan!
+Dialogue: 0,0:15:14.52,0:15:16.53,Default,Kokona,0,0,0,,Thanks, Shizuka{**-chan}!
 Dialogue: 0,0:15:18.51,0:15:20.82,Default,Kathrina,0,0,0,,Listen, Kathrina.
 Dialogue: 0,0:15:20.82,0:15:22.78,Default,Kathrina,0,0,0,,You can't mess up this time.
 Dialogue: 0,0:15:23.42,0:15:25.71,Default,Kathrina,0,0,0,,You have to make this a \Nsuccess no matter what.
@@ -327,7 +327,7 @@ Dialogue: 0,0:21:03.34,0:21:05.80,Default,Kokona (Misao),0,0,0,,Can you see me?
 Dialogue: 0,0:21:14.89,0:21:16.24,Default,Kokona (Misao),0,0,0,,My sister...
 Dialogue: 0,0:21:24.67,0:21:26.26,Default,Kokona (Misao),0,0,0,,The bamboo blossoms...
 Dialogue: 0,0:21:27.29,0:21:29.49,Default,Kokona (Misao),0,0,0,,truly were beautiful.
-Dialogue: 0,0:21:43.03,0:21:44.74,Default,Kokona,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:21:43.03,0:21:44.74,Default,Kokona,0,0,0,,Shizuka{**-chan}!
 Dialogue: 0,0:21:45.16,0:21:46.31,Default,Shizuka,0,0,0,,Kokona?
 Dialogue: 0,0:21:46.31,0:21:47.94,Default,Kokona,0,0,0,,What were you doing onstage?
 Dialogue: 0,0:21:48.38,0:21:49.25,Default,Kathrina,0,0,0,,Hey.
