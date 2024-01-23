@@ -279,8 +279,8 @@ Dialogue: 0,0:12:42.22,0:12:45.29,Default,Kathrina,0,0,0,,"I heard that you've a
 Dialogue: 0,0:12:45.29,0:12:47.95,Default,Kathrina,0,0,0,,in order to help her prepare for her role.
 Dialogue: 0,0:12:47.95,0:12:53.95,Default,Kathrina,0,0,0,,I do apologize that we are greeting you \Nby letter rather than properly in person."
 Dialogue: 0,0:12:54.81,0:12:58.71,Default,Shizuka,0,0,0,,"Ever since she was little, our daughter was \Nvery aware of her surroundings,
-Dialogue: 0,0:12:55.15,0:12:56.86,Default,Niizuma,0,0,0,,{\an8}Would you like me to help you?
-Dialogue: 0,0:12:56.86,0:12:59.71,Default,Kokona,0,0,0,,{\an8}N-No! Yae{**-chan}, you can \Njust make yourself at home!
+Dialogue: 0,0:12:55.15,0:12:56.86,Overlap,Niizuma,0,0,0,,{\an8}Would you like me to help you?
+Dialogue: 0,0:12:56.86,0:12:59.71,Overlap,Kokona,0,0,0,,{\an8}N-No! Yae{**-chan}, you can \Njust make yourself at home!
 Dialogue: 0,0:12:58.71,0:13:00.09,Default,Shizuka,0,0,0,,filled with compassion,
 Dialogue: 0,0:13:00.09,0:13:05.04,Default,Shizuka,0,0,0,,determined and uncompromising once \Nshe sets her mind on something.
 Dialogue: 0,0:13:05.04,0:13:06.70,Default,Shizuka,0,0,0,,Everyone often compliments her,
