@@ -314,10 +314,10 @@ Dialogue: 0,0:17:20.72,0:17:23.43,Default,Hiiragi,0,0,0,,Thank you. You can head
 Dialogue: 0,0:17:24.01,0:17:25.53,Default,Hiiragi,0,0,0,,Next up is our last candidate,
 Dialogue: 0,0:17:25.53,0:17:26.72,Default,Hiiragi,0,0,0,,Kokona Otori.
 Dialogue: 0,0:17:28.33,0:17:30.08,Default,Kokona,0,0,0,,Y-Yes, ma'am!
-Dialogue: 0,0:17:30.08,0:17:33.41,Default,Shizuka,0,0,0,,{\an8}You've got this, Kokona. You'll be fine.
+Dialogue: 0,0:17:30.08,0:17:33.41,Overlap,Shizuka,0,0,0,,{\an8}You've got this, Kokona. You'll be fine.
 Dialogue: 0,0:17:31.43,0:17:35.85,Default,Kokona,0,0,0,,{\i1}What do I do?\NMaybe I can't do this... Because I...
-Dialogue: 0,0:17:33.41,0:17:35.55,Default,Shizuka,0,0,0,,{\an8}You're going to be a Dai Star, aren't you?
-Dialogue: 0,0:17:35.55,0:17:37.43,Default,Shizuka,0,0,0,,{\an8}Kokona? Are you listening?
+Dialogue: 0,0:17:33.41,0:17:35.55,Overlap,Shizuka,0,0,0,,{\an8}You're going to be a Dai Star, aren't you?
+Dialogue: 0,0:17:35.55,0:17:37.43,Overlap,Shizuka,0,0,0,,{\an8}Kokona? Are you listening?
 Dialogue: 0,0:17:36.66,0:17:38.03,Default,Kokona,0,0,0,,{\i1}don't have it...
 Dialogue: 0,0:17:39.22,0:17:40.68,Flashback,Judge A,0,0,0,,{\i1}You have no Sense.
 Dialogue: 0,0:17:40.68,0:17:42.42,Flashback,Judge B,0,0,0,,{\i1}You're not bad, but...
@@ -362,8 +362,8 @@ Dialogue: 0,0:19:32.65,0:19:34.35,Default,Niizuma,0,0,0,,If you focus too much o
 Dialogue: 0,0:19:34.35,0:19:37.11,Default,Niizuma,0,0,0,,you'll get so stiff you won't be able to speak.
 Dialogue: 0,0:19:37.11,0:19:41.71,Default,Niizuma,0,0,0,,What's important is what\N {\i1}you{\i0} want to be onstage.
 Dialogue: 0,0:19:41.71,0:19:43.30,Default,Kokona,0,0,0,,What {\i1}I{\i0} want to be?
-Dialogue: 0,0:19:44.67,0:19:49.00,Default,Niizuma (Little Mermaid),0,0,0,,{\an8}The world you've shown me \Nis just so beautiful.
-Dialogue: 0,0:19:50.00,0:19:52.05,Default,Niizuma (Little Mermaid),0,0,0,,{\an8}If only I could tell you how I really feel...
+Dialogue: 0,0:19:44.67,0:19:49.00,Overlap,Niizuma (Little Mermaid),0,0,0,,{\an8}The world you've shown me \Nis just so beautiful.
+Dialogue: 0,0:19:50.00,0:19:52.05,Overlap,Niizuma (Little Mermaid),0,0,0,,{\an8}If only I could tell you how I really feel...
 Dialogue: 0,0:19:50.52,0:19:52.31,Default,Kokona,0,0,0,,{\i1}What I've wanted to be...
 Dialogue: 0,0:19:58.55,0:20:01.60,Flashback,Shizuka,0,0,0,,They're people who believe\N in their future selves.
 Dialogue: 0,0:20:04.30,0:20:07.53,Default,Kokona (Prince),0,0,0,,What is it? What are you trying to say?
@@ -390,12 +390,12 @@ Dialogue: 0,0:21:20.80,0:21:23.56,Default,Niizuma,0,0,0,,I'm Yae. Yae Niizuma.
 Dialogue: 0,0:21:23.85,0:21:25.40,Default,Kokona,0,0,0,,Yae-chan...
 Dialogue: 0,0:21:26.01,0:21:30.39,Default,Kokona,0,0,0,,Even if I don't pass this round,\NI'm going to audition for SIRIUS again!
 Dialogue: 0,0:21:30.39,0:21:32.29,Default,Kokona,0,0,0,,And then, one day we can...
-Dialogue: 0,0:21:31.08,0:21:34.42,Default,Shizuka,0,0,0,,{\an8}Hey, Kokona! Why are you talking \Nlike you're going to fail?!
+Dialogue: 0,0:21:31.08,0:21:34.42,Overlap,Shizuka,0,0,0,,{\an8}Hey, Kokona! Why are you talking \Nlike you're going to fail?!
 Dialogue: 0,0:21:34.42,0:21:38.25,Default,Kokona,0,0,0,,Hey! This part's really \Nimportant, so butt out!
 Dialogue: 0,0:21:38.25,0:21:40.18,Default,Niizuma,0,0,0,,You're a strange one.
 Dialogue: 0,0:21:50.20,0:21:54.11,Default,Hiiragi,0,0,0,,{\i1}Kokona Otori played the prince \Nfrom {\i0}The Little Mermaid{\i1}.
 Dialogue: 0,0:21:54.52,0:21:55.31,Default,Hiiragi,0,0,0,,{\i1}But...
-Dialogue: 0,0:21:55.31,0:22:00.40,Default,Kokona,0,0,0,,{\an8}Just thinking about what I'd have\N done if Yae-chan hadn't shown up...
+Dialogue: 0,0:21:55.31,0:22:00.40,Overlap,Kokona,0,0,0,,{\an8}Just thinking about what I'd have\N done if Yae-chan hadn't shown up...
 Dialogue: 0,0:21:56.04,0:21:58.94,Default,Hiiragi,0,0,0,,{\i1}That wasn't her take on the prince.
 Dialogue: 0,0:21:59.64,0:22:02.96,Default,Hiiragi,0,0,0,,{\i1}Who exactly were you playing?
 Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Second Stage
