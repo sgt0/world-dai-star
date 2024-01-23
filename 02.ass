@@ -229,9 +229,9 @@ Dialogue: 0,0:12:56.24,0:12:57.63,Default,Niizuma (Kaguya),0,0,0,,Misao{**-chan}
 Dialogue: 0,0:12:58.51,0:13:00.95,Default,Panda (Misao),0,0,0,,C-Can I help you?
 Dialogue: 0,0:13:00.95,0:13:01.76,Default,Niizuma (Kaguya),0,0,0,,Let's play!
 Dialogue: 0,0:13:01.76,0:13:02.57,Default,Panda (Misao),0,0,0,,Huh?
-Dialogue: 0,0:13:02.97,0:13:04.52,Default,Niizuma (Kaguya),0,0,0,,{\an8}Come here!
+Dialogue: 0,0:13:02.97,0:13:04.52,Overlap,Niizuma (Kaguya),0,0,0,,{\an8}Come here!
 Dialogue: 0,0:13:03.39,0:13:06.02,Default,Kokona,0,0,0,,Yae{**-chan}'s so cute!
-Dialogue: 0,0:13:04.52,0:13:06.10,Default,Sasuga (Old Man),0,0,0,,{\an8}Princess, wait!
+Dialogue: 0,0:13:04.52,0:13:06.10,Overlap,Sasuga (Old Man),0,0,0,,{\an8}Princess, wait!
 Dialogue: 0,0:13:07.22,0:13:11.03,Default,Shizuka,0,0,0,,{\i1}This is the story of the ill-fated\NPrincess Kaguya, who was born of bamboo.
 Dialogue: 0,0:13:11.03,0:13:13.46,Default,Shizuka,0,0,0,,{\i1}It's Japan's oldest sci-fi story.
 Dialogue: 0,0:13:14.87,0:13:19.41,Default,Shizuka,0,0,0,,{\i1}In the play, Kaguya and her attendant Misao\N grow up like sisters
