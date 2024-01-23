@@ -57,10 +57,10 @@ Dialogue: 0,0:02:31.15,0:02:32.20,Default,Kathrina,0,0,0,,Sure.
 Dialogue: 0,0:02:32.20,0:02:33.54,Default,Kathrina,0,0,0,,I'll read it later.
 Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,376.155)\fnLato\fs48\b1\bord0\c&H524F5F&}Voice call has ended
 Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,710.31)\fnLato\fs48\b1\bord0\c&H524F5F&}Voice call has ended
-Dialogue: 0,0:02:38.63,0:02:44.97,Subtitles,Theresa/Subs,0,0,0,,{\pos(955.635,867)}Great performance. I saw the stream. Good job getting\N over that hiccup. You have some wonderful costars.
-Dialogue: 0,0:02:45.60,0:02:46.35,Subtitles,Kathrina,0,0,0,,...Yes.
-Dialogue: 0,0:02:46.47,0:02:48.48,Subtitles,Theresa/Subs,0,0,0,,Have you thanked them?
-Dialogue: 0,0:02:49.02,0:02:50.39,Subtitles,Kathrina/Subs,0,0,0,,...Not yet.
+Dialogue: 0,0:02:38.63,0:02:44.97,Subtitles,Theresa/Subs,0,0,0,,{\pos(955.635,867)\3c&H013E12&}Great performance. I saw the stream. Good job getting\N over that hiccup. You have some wonderful costars.
+Dialogue: 0,0:02:45.60,0:02:46.35,Subtitles,Kathrina,0,0,0,,{\3c&H013E12&}...Yes.
+Dialogue: 0,0:02:46.47,0:02:48.48,Subtitles,Theresa/Subs,0,0,0,,{\3c&H013E12&}Have you thanked them?
+Dialogue: 0,0:02:49.02,0:02:50.39,Subtitles,Kathrina/Subs,0,0,0,,{\3c&H013E12&}...Not yet.
 Dialogue: 0,0:02:51.66,0:02:53.96,Default,Kokona,0,0,0,,Man, she really is incredible!
 Dialogue: 0,0:02:53.96,0:02:56.59,Default,Shizuka,0,0,0,,Hey! Are you okay with that?! \NDoesn't it frustrate you?!
 Dialogue: 0,0:02:54.59,0:02:55.21,Overlap,Kathrina,0,0,0,,H—
