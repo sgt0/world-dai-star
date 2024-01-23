@@ -112,8 +112,8 @@ Dialogue: 0,0:05:29.94,0:05:31.56,Default,Shizuka,0,0,0,,{\i1}You're{\i0} suppos
 Dialogue: 0,0:05:31.91,0:05:36.08,Default,Kokona,0,0,0,,If only you could {**\N}audition too, Shizuka{**-chan}...
 Dialogue: 0,0:05:36.08,0:05:38.26,Default,Shizuka,0,0,0,,Come on. The first train will be here soon.
 Dialogue: 0,0:05:38.26,0:05:40.64,Default,Kokona,0,0,0,,Oh, right!
-Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\fay.24\fnTimes New Roman\fs90\shad0\bord3\frx8\fry14\3c&H3B386B&\4c&H121030&\frz356.9\move(1288.8,461.199,1209.399,461.199)}Elisabeth
-Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\fay.19\fnTimes New Roman\fs60\shad3\bord3\move(1395.201,714,1315.8,714)\frx8\fry14\frz358.4\3c&H121030&\4c&H121030&}Now Playing!
+Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\move(1288.8,461.199,1209.399,461.199)\frz356.9\fry14\frx8\fay0.24\fnTimes New Roman\fs90\bord3\3c&H3B386B&\4c&H121030&}Elisabeth
+Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\move(1395.201,714,1315.8,714)\frz358.4\fry14\frx8\fay0.19\fnTimes New Roman\fs60\bord3\shad3\3c&H121030&\4c&H121030&}Now Playing!
 Dialogue: 0,0:05:55.19,0:05:59.59,Default,Shizuka,0,0,0,,Oh, {\i1}Elisabeth{\i0} is playing again. \NI wonder if we can get tickets the day of.
 Dialogue: 0,0:05:59.89,0:06:01.59,Default,Kokona,0,0,0,,There's an audition for it.
 Dialogue: 0,0:06:01.59,0:06:03.46,Default,Shizuka,0,0,0,,You'll pass, so it's all good.
