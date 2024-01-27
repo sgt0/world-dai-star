@@ -178,7 +178,7 @@ Dialogue: 0,0:09:30.64,0:09:36.47,Default,Kokona,0,0,0,,I'd like to be her frien
 Dialogue: 0,0:09:36.47,0:09:39.97,Default,Kokona,0,0,0,,She said we're competing for roles.
 Dialogue: 0,0:09:40.42,0:09:43.98,Default,Panda,0,0,0,,I mean, she does have a point.
 Dialogue: 0,0:09:43.97,0:09:50.48,Signs,Sign,0,0,0,,{\pos(423,789)\fnComic Sans MS\c&H589CAE&\3c&H76E6EB&}Panda
-Dialogue: 0,0:09:43.97,0:09:50.48,Signs,Sign,0,0,0,,{\pos(1644,789)\fnArial)\fs42\c&H589CAE&\3c&H76E6EB&}Chisa Sasuga
+Dialogue: 0,0:09:43.97,0:09:50.48,Signs,Sign,0,0,0,,{\pos(1644,789)\fnArial\fs42\c&H589CAE&\3c&H76E6EB&}Chisa Sasuga
 Dialogue: 0,0:09:44.45,0:09:47.61,Default,Panda,0,0,0,,No matter how close you are,\Nif you're striving to become Dai Stars,
 Dialogue: 0,0:09:47.61,0:09:49.98,Default,Panda,0,0,0,,you're going to butt heads.
 Dialogue: 0,0:09:50.91,0:09:53.91,Default,Panda,0,0,0,,But that doesn't mean you \Ncan't understand each other.
@@ -188,7 +188,7 @@ Dialogue: 0,0:09:58.62,0:10:00.11,Default,Kokona,0,0,0,,Okay!
 Dialogue: 0,0:10:00.67,0:10:03.63,Default,Kokona,0,0,0,,First, I'll make her acknowledge\Nme as an actor!
 Dialogue: 0,0:10:03.63,0:10:08.29,Default,Kokona,0,0,0,,To that end, I'll do my best\Nfor the Kaguya audition!
 Dialogue: 0,0:10:10.88,0:10:12.88,Signs,Sign,0,0,0,,{\pos(540,141)\fnGeorgia\fs54\bord0\c&HC9CAC9&}Kokona Otori
-Dialogue: 0,0:10:10.88,0:10:12.88,Signs,Sign,0,0,0,,{\pos(1086,114)\fnAria\fs54\bord0\c&HC9CAC9&}Kathrina Griebel
+Dialogue: 0,0:10:10.88,0:10:12.88,Signs,Sign,0,0,0,,{\pos(1086,114)\fnArial\fs54\bord0\c&HC9CAC9&}Kathrina Griebel
 Dialogue: 0,0:10:27.89,0:10:29.90,Signs,Sign,0,0,0,,{\move(679.668,159.333,551.667,153.333)\fay0.2\fnArial\fs54\b1\c&H3A3F7A&\3c&H71669D&}Coffee
 Dialogue: 0,0:10:27.89,0:10:29.90,Signs,Sign,0,0,0,,{\move(1520.337,362.001,1386.336,362.001)\fay-0.27\fnTimes New Roman\fs54\b1\c&H3285CB&\3c&H141D38&}Royal Coffee Shop
 Dialogue: 0,0:10:27.89,0:10:29.90,Signs,Sign,0,0,0,,{\move(1679.67,940.668,1554.336,940.668)\fay-0.22\fnTimes New Roman\fs36\c&H121827&\3c&H67B8E0&}Roasted In Store
