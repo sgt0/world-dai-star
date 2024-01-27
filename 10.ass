@@ -54,7 +54,7 @@ Dialogue: 0,0:01:18.42,0:01:20.15,Default,Kokona,0,0,0,,I'd also like a chance
 Dialogue: 0,0:01:20.56,0:01:21.74,Default,Kokona,0,0,0,,to be the Phantom!
 Dialogue: 0,0:01:35.32,0:01:40.66,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:02:53.27,0:02:57.99,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H4B4B4C&}Everyone's Phantoms
-Dialogue: 0,0:02:54.56,0:02:59.79,Default,Hiiragi,0,0,0,,{\an8}Panda, Chisa, Yae, Kathrina, Kokona.
+Dialogue: 0,0:02:54.56,0:02:59.79,Default,Hiiragi,0,0,0,,Panda, Chisa, Yae, Kathrina, Kokona.
 Dialogue: 0,0:03:00.06,0:03:02.57,Default,Hiiragi,0,0,0,,You five will be auditioning.
 Dialogue: 0,0:03:02.91,0:03:04.91,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1255.692,221.844)\frz336.6\fax-.15}The Phantom of the Opera
 Dialogue: 0,0:03:03.60,0:03:05.65,Default,Kudo,0,0,0,,We'll then decide the supporting roles
@@ -256,7 +256,7 @@ Dialogue: 0,0:16:27.48,0:16:30.79,Default,Terahara (Christine),0,0,0,,"Phantom"?
 Dialogue: 0,0:16:31.55,0:16:35.33,Default,Sasuga (Phantom),0,0,0,,Yes, that's what my mother called me.
 Dialogue: 0,0:16:36.32,0:16:40.14,Default,Sasuga (Phantom),0,0,0,,Let us eat. I just got \Nsome excellent red wine.
 Dialogue: 0,0:16:40.51,0:16:43.12,Default,Kokona,0,0,0,,{\i1}The Phantom and Christine's meeting...
-Dialogue: 0,0:16:41.96,0:16:43.39,Default,Terahara (Christine),0,0,0,,{\an8}Why do you wear a mask?
+Dialogue: 0,0:16:41.96,0:16:43.39,Overlap,Terahara (Christine),0,0,0,,{\an8}Why do you wear a mask?
 Dialogue: 0,0:16:43.91,0:16:46.81,Default,Sasuga (Phantom),0,0,0,,One who can't hide their pain\Nwith a mask of smiles
 Dialogue: 0,0:16:46.81,0:16:52.63,Default,Sasuga (Phantom),0,0,0,,nor their delight with a mask of indifference\N cannot consider themselves a true Parisian.
 Dialogue: 0,0:16:52.63,0:16:54.83,Default,Sasuga (Phantom),0,0,0,,Let's just say it's for my amusement.
