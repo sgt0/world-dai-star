@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +36,7 @@ Dialogue: 0,0:00:08.48,0:00:13.86,Signs,Sign,0,0,0,,{\fad(2940,1)\an1\fs24\fnTim
 Dialogue: 0,0:00:08.48,0:00:13.86,Signs,Sign,0,0,0,,{\fad(2940,1)\an1\fs24\fnTimes New Roman\bord3\blur6\shad0\c&H47606B&\3c&H081922&\pos(657.6,963.6)}Genie of the Lamp
 Dialogue: 1,0:00:09.15,0:00:12.97,Default,Stage director,0,0,0,,{\i1}Five minutes to curtain up. \NAll sections, get ready.
 Dialogue: 0,0:00:17.96,0:00:18.83,Default,Shizuka,0,0,0,,Koko—
-Dialogue: 0,0:00:18.20,0:00:19.33,Default,Yae,0,0,0,,Kokona-san!
+Dialogue: 0,0:00:18.20,0:00:19.33,Default,Yae,0,0,0,,Kokona{**-san}!
 Dialogue: 0,0:00:21.18,0:00:23.86,Default,Yae,0,0,0,,Let's make this a great opening night!
 Dialogue: 0,0:00:23.86,0:00:27.62,Default,Kokona,0,0,0,,Th-That's my line!\NI c-can't wait to perform together!
 Dialogue: 0,0:00:28.35,0:00:32.38,Default,Yae,0,0,0,,No need to worry. Just think \Nabout how much we rehearsed.
@@ -60,24 +61,24 @@ Dialogue: 0,0:03:18.29,0:03:20.90,Default,Niizuma (Genie),0,0,0,,I'm counting on
 Dialogue: 0,0:03:52.88,0:03:54.60,Default,Niizuma,0,0,0,,It went great, didn't it?
 Dialogue: 0,0:03:54.60,0:03:55.43,Default,Kokona,0,0,0,,Yeah.
 Dialogue: 0,0:04:03.22,0:04:12.18,Signs,Sign,0,0,0,,{\fad(480,1)\fnArial\fs48\fay-.13\shad0\c&H5B5B73&\3c&HD7D6F0&\b1\move(1350.801,582.798,699.201,582.798)}Merchandise Area
-Dialogue: 0,0:04:03.68,0:04:06.54,Default,Audience 1,0,0,0,,Kathrina-chan was so cool as the sultan!
-Dialogue: 0,0:04:06.54,0:04:09.44,Default,Audience 2,0,0,0,,Sasuga-san was so pretty as Princess Leila!
-Dialogue: 0,0:04:09.44,0:04:12.18,Default,Audience 3,0,0,0,,Panda-chan was so perfect as the villain!
+Dialogue: 0,0:04:03.68,0:04:06.54,Default,Audience 1,0,0,0,,Kathrina{**-chan} was so cool as the sultan!
+Dialogue: 0,0:04:06.54,0:04:09.44,Default,Audience 2,0,0,0,,Sasuga{**-san} was so pretty as Princess Leila!
+Dialogue: 0,0:04:09.44,0:04:12.18,Default,Audience 3,0,0,0,,Panda{**-chan} was so perfect as the villain!
 Dialogue: 0,0:04:12.18,0:04:16.94,Signs,Sign,0,0,0,,{\fnArial\b1\fs30\shad0\3c&HE7E9E9&\c&H262234&\frz341.8\pos(464.001,792.402)}Individual Photos 330 yen
 Dialogue: 0,0:04:12.45,0:04:14.09,Default,Audience 1,0,0,0,,Hey, let's go buy some merch!
 Dialogue: 0,0:04:14.09,0:04:15.97,Default,Audience 2,0,0,0,,Great idea! Let's go!
-Dialogue: 0,0:04:17.34,0:04:21.44,Default,Audience 1,0,0,0,,What?! Yae-chan's photos are all sold out?
+Dialogue: 0,0:04:17.34,0:04:21.44,Default,Audience 1,0,0,0,,What?! Yae{**-chan}'s photos are all sold out?
 Dialogue: 0,0:04:21.69,0:04:23.69,Default,Staff,0,0,0,,We're terribly sorry.
 Dialogue: 0,0:04:29.22,0:04:30.24,Default,Kokona,0,0,0,,Okay!
 Dialogue: 0,0:04:30.69,0:04:31.73,Default,Shizuka,0,0,0,,Kokona.
-Dialogue: 0,0:04:32.85,0:04:35.55,Default,Kokona,0,0,0,,Oh, Shizuka-chan. What's up?
+Dialogue: 0,0:04:32.85,0:04:35.55,Default,Kokona,0,0,0,,Oh, Shizuka{**-chan}. What's up?
 Dialogue: 0,0:04:36.41,0:04:39.30,Default,Shizuka,0,0,0,,Kokona, can we talk for a bit?
-Dialogue: 0,0:04:39.30,0:04:43.41,Default,Kokona,0,0,0,,Sorry! I promised Yae-chan I'd \Npractice some songs with her.
+Dialogue: 0,0:04:39.30,0:04:43.41,Default,Kokona,0,0,0,,Sorry! I promised Yae{**-chan} I'd \Npractice some songs with her.
 Dialogue: 0,0:04:43.70,0:04:46.19,Default,Kokona,0,0,0,,But tell me what you thought \Nof the show later!
 Dialogue: 0,0:04:55.19,0:04:57.69,Signs,Sign,0,0,0,,{\fnArial\shad0\bord0\fs54\c&H17191B&\pos(1004.802,478.8)}Yae Niizuma & Kokona Otori
 Dialogue: 0,0:04:55.19,0:04:57.69,Signs,Sign,0,0,0,,{\fnArial\shad0\bord0\fs54\an1\c&H17191B&\pos(524.802,843.6)}Private rehearsal
 Dialogue: 0,0:04:58.98,0:05:01.44,Default,Hiiragi,0,0,0,,I see you made it through the first day.
-Dialogue: 0,0:05:02.15,0:05:03.49,Default,Kokona,0,0,0,,Hiiragi-san!
+Dialogue: 0,0:05:02.15,0:05:03.49,Default,Kokona,0,0,0,,Hiiragi{**-san}!
 Dialogue: 0,0:05:03.99,0:05:05.38,Default,Kokona,0,0,0,,Thanks for today!
 Dialogue: 0,0:05:06.05,0:05:08.94,Default,Kokona,0,0,0,,Um... How was the performance?
 Dialogue: 0,0:05:11.61,0:05:14.87,Default,Kokona,0,0,0,,Uh, um...
@@ -124,7 +125,7 @@ Dialogue: 0,0:07:33.41,0:07:35.69,Default,Panda,0,0,0,,The critics have nothing 
 Dialogue: 0,0:07:35.69,0:07:39.01,Default,Panda,0,0,0,,And the day that Niizumacchi\Nbecomes a Dai Star draws near.
 Dialogue: 0,0:07:39.31,0:07:43.28,Default,Panda,0,0,0,,But is this {\i1}Arabian Nights{\i0} \Nrun really okay?
 Dialogue: 0,0:07:43.64,0:07:46.07,Default,Kathrina,0,0,0,,If you're hinting at something, \Njust spit it out.
-Dialogue: 0,0:07:49.33,0:07:51.42,Default,Panda,0,0,0,,Koko-chan's performance.
+Dialogue: 0,0:07:49.33,0:07:51.42,Default,Panda,0,0,0,,Koko{**-chan}'s performance.
 Dialogue: 0,0:07:51.42,0:07:55.08,Default,Panda,0,0,0,,It's been solely for Niizumacchi, hasn't it?
 Dialogue: 0,0:07:55.08,0:07:58.47,Default,Sasuga,0,0,0,,Yeah. She's just being the foil.
 Dialogue: 0,0:07:58.47,0:08:00.58,Default,Panda,0,0,0,,Is that how a star {\i1}should{\i0} be?!
@@ -140,13 +141,13 @@ Dialogue: 0,0:08:30.25,0:08:32.62,Default,Kokona,0,0,0,,Well? How was today's sh
 Dialogue: 0,0:08:33.80,0:08:36.03,Default,Shizuka,0,0,0,,I felt nothing from your performance.
 Dialogue: 0,0:08:36.03,0:08:36.64,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:08:37.32,0:08:41.75,Default,Shizuka,0,0,0,,I couldn't understand the Aladdin\N you were trying to play at all.
-Dialogue: 0,0:08:44.37,0:08:47.59,Default,Shizuka,0,0,0,,Because you're only performing for Yae-chan.
+Dialogue: 0,0:08:44.37,0:08:47.59,Default,Shizuka,0,0,0,,Because you're only performing for Yae{**-chan}.
 Dialogue: 0,0:08:48.57,0:08:50.20,Default,Kokona,0,0,0,,Th-That's not...
 Dialogue: 0,0:08:50.20,0:08:51.76,Default,Shizuka,0,0,0,,Can you really deny it?
 Dialogue: 0,0:08:53.91,0:08:57.71,Default,Shizuka,0,0,0,,The play's gotten great reviews, \Nand the audience seems satisfied.
-Dialogue: 0,0:08:58.34,0:09:03.89,Default,Shizuka,0,0,0,,But right now, your performance is bland, \Nlike you're trying to stay out of Yae-chan's way.
+Dialogue: 0,0:08:58.34,0:09:03.89,Default,Shizuka,0,0,0,,But right now, your performance is bland, \Nlike you're trying to stay out of Yae{**-chan}'s way.
 Dialogue: 0,0:09:06.34,0:09:09.53,Default,Shizuka,0,0,0,,This is our first lead role.
-Dialogue: 0,0:09:09.53,0:09:13.13,Default,Shizuka,0,0,0,,At this rate, you'll just \Nend up Yae-chan's foil.
+Dialogue: 0,0:09:09.53,0:09:13.13,Default,Shizuka,0,0,0,,At this rate, you'll just \Nend up Yae{**-chan}'s foil.
 Dialogue: 0,0:09:13.13,0:09:15.03,Default,Shizuka,0,0,0,,You understand that, don't you?
 Dialogue: 0,0:09:15.28,0:09:17.55,Default,Shizuka,0,0,0,,So let's try this together one more time—
 Dialogue: 0,0:09:17.55,0:09:18.27,Default,Kokona,0,0,0,,Sorry!
@@ -160,8 +161,8 @@ Dialogue: 0,0:09:46.29,0:09:52.69,Default,Niizuma (Genie),0,0,0,,Oh! But I can't
 Dialogue: 0,0:09:52.69,0:09:56.08,Default,Kokona (Aladdin),0,0,0,,But it can be anything else?
 Dialogue: 0,0:09:56.08,0:09:59.02,Default,Niizuma (Genie),0,0,0,,Sure can! I'll grant you any wish.
 Dialogue: 0,0:09:59.02,0:10:01.86,Default,Niizuma (Genie),0,0,0,,I am the Genie of the Lamp, after all!
-Dialogue: 0,0:10:03.56,0:10:08.59,Default,Kokona,0,0,0,,{\i1}I'm sorry, Shizuka-chan,\Nbut I'm having so much fun right now.
-Dialogue: 0,0:10:09.06,0:10:13.96,Default,Kokona,0,0,0,,{\i1}I mean... I'm on the stage I always \Ndreamed of, performing with Yae-chan!
+Dialogue: 0,0:10:03.56,0:10:08.59,Default,Kokona,0,0,0,,{\i1}I'm sorry, Shizuka{**-chan},\Nbut I'm having so much fun right now.
+Dialogue: 0,0:10:09.06,0:10:13.96,Default,Kokona,0,0,0,,{\i1}I mean... I'm on the stage I always \Ndreamed of, performing with Yae{**-chan}!
 Dialogue: 0,0:10:14.78,0:10:16.02,Default,Kokona (Aladdin),0,0,0,,Genie?
 Dialogue: 0,0:10:16.02,0:10:18.83,Default,Niizuma (Genie),0,0,0,,Hey! You don't believe me, do you?
 Dialogue: 0,0:10:19.19,0:10:21.26,Default,Kokona,0,0,0,,{\i1}I don't care if I'm the foil.
@@ -172,14 +173,14 @@ Dialogue: 0,0:10:34.51,0:10:37.48,Default,Yae (Genie),0,0,0,,Well, you can't jud
 Dialogue: 0,0:10:42.97,0:10:45.57,Default,Kokona,0,0,0,,{\i1}They're not looking at me?
 Dialogue: 0,0:10:54.23,0:10:58.12,Default,Kokona,0,0,0,,{\i1}No one is looking at me.
 Dialogue: 0,0:11:00.28,0:11:05.01,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:11:13.13,0:11:14.53,Default,Panda,0,0,0,,Koko-chan?
+Dialogue: 0,0:11:13.13,0:11:14.53,Default,Panda,0,0,0,,Koko{**-chan}?
 Dialogue: 0,0:11:24.54,0:11:29.43,Default,Niizuma (Genie),0,0,0,,Every human who's ever met me \Ngets stunned into silence,
 Dialogue: 0,0:11:29.43,0:11:32.86,Default,Niizuma (Genie),0,0,0,,but I guess it took you a bit\N longer to get there!
 Dialogue: 0,0:11:34.41,0:11:36.11,Default,Niizuma,0,0,0,,The stage is going to go dark.
 Dialogue: 0,0:11:36.11,0:11:37.71,Default,Niizuma,0,0,0,,Let's regroup from there.
 Dialogue: 0,0:11:39.16,0:11:43.12,Default,Niizuma (Genie),0,0,0,,All right! Let's try this \Nagain and have some fun!
 Dialogue: 0,0:11:44.97,0:11:46.32,Default,Panda,0,0,0,,She's so good.
-Dialogue: 0,0:11:46.32,0:11:48.87,Default,Panda,0,0,0,,She managed to turn Koko-chan's \Nmistake into a laugh.
+Dialogue: 0,0:11:46.32,0:11:48.87,Default,Panda,0,0,0,,She managed to turn Koko{**-chan}'s \Nmistake into a laugh.
 Dialogue: 0,0:11:48.87,0:11:50.88,Default,Kathrina,0,0,0,,Don't make us sweat like that.
 Dialogue: 0,0:12:01.43,0:12:05.90,Default,Kokona,0,0,0,,{\i1}I didn't notice because I've been so swept \Nup in my performance since the first day.
 Dialogue: 0,0:12:06.36,0:12:10.53,Default,Kokona,0,0,0,,{\i1}All this cheering and applause is for...
@@ -198,18 +199,18 @@ Dialogue: 0,0:13:00.25,0:13:02.40,Default,Hiiragi,0,0,0,,Resting is also part of
 Dialogue: 0,0:13:03.45,0:13:04.40,Default,Kokona,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:13:09.43,0:13:11.43,Signs,Sign,0,0,0,,{\an8\b1\fnArial\c&H5044C1&\3c&HEFEFEF&\4c&HEFEFEF&}BATH
 Dialogue: 0,0:13:13.85,0:13:16.73,Default,Kokona,0,0,0,,What am I supposed to do?
-Dialogue: 0,0:13:18.91,0:13:20.94,Default,Kokona,0,0,0,,Shizuka-chan, what would you...
-Dialogue: 0,0:13:21.70,0:13:24.45,Default,Kokona,0,0,0,,Huh? Shizuka-chan?
+Dialogue: 0,0:13:18.91,0:13:20.94,Default,Kokona,0,0,0,,Shizuka{**-chan}, what would you...
+Dialogue: 0,0:13:21.70,0:13:24.45,Default,Kokona,0,0,0,,Huh? Shizuka{**-chan}?
 Dialogue: 0,0:13:31.16,0:13:32.27,Default,Hiiragi,0,0,0,,Come in.
 Dialogue: 0,0:13:33.37,0:13:34.66,Default,Panda,0,0,0,,Pardon me.
-Dialogue: 0,0:13:36.03,0:13:38.79,Default,Panda,0,0,0,,Hiiragi-san, do you have a moment?
+Dialogue: 0,0:13:36.03,0:13:38.79,Default,Panda,0,0,0,,Hiiragi{**-san}, do you have a moment?
 Dialogue: 0,0:13:38.79,0:13:39.47,Default,Hiiragi,0,0,0,,What is it?
 Dialogue: 0,0:13:41.39,0:13:45.83,Default,Panda,0,0,0,,Do you think this production of\N{\i1}Arabian Nights{\i0} is really benefiting SIRIUS?
 Dialogue: 0,0:13:46.39,0:13:47.77,Default,Hiiragi,0,0,0,,What do you mean by that?
 Dialogue: 0,0:13:48.13,0:13:51.83,Default,Panda,0,0,0,,I'm honestly not sure if it's good for SIRIUS
 Dialogue: 0,0:13:51.83,0:13:56.23,Default,Panda,0,0,0,,when the star of Aladdin is being \Nused as a foil for the Genie.
 Dialogue: 0,0:13:57.10,0:14:00.17,Default,Panda,0,0,0,,Am I the only one worried about that?
-Dialogue: 0,0:14:00.60,0:14:03.23,Default,Sasuga,0,0,0,,What's Shamo-san saying about it?
+Dialogue: 0,0:14:00.60,0:14:03.23,Default,Sasuga,0,0,0,,What's Shamo{**-san} saying about it?
 Dialogue: 0,0:14:04.78,0:14:07.14,Default,Hiiragi,0,0,0,,I'm the one in charge of this production.
 Dialogue: 0,0:14:09.07,0:14:11.30,Default,Hiiragi,0,0,0,,She's leaving everything to me.
 Dialogue: 0,0:14:11.95,0:14:15.14,Default,Panda,0,0,0,,Then how do you feel about it?
@@ -220,24 +221,24 @@ Dialogue: 0,0:14:23.88,0:14:27.12,Default,Panda,0,0,0,,I honestly don't think it
 Dialogue: 0,0:14:29.07,0:14:30.15,Default,Sasuga,0,0,0,,Panda...
 Dialogue: 0,0:14:31.49,0:14:35.84,Default,Panda,0,0,0,,The reason you made Niizumacchi the \NGenie is to make her a Dai Star.
 Dialogue: 0,0:14:36.28,0:14:39.78,Default,Panda,0,0,0,,I completely understand that \Nthis benefits SIRIUS.
-Dialogue: 0,0:14:40.49,0:14:44.39,Default,Panda,0,0,0,,But if that's the only reason \Nyou decided to use Koko-chan,
+Dialogue: 0,0:14:40.49,0:14:44.39,Default,Panda,0,0,0,,But if that's the only reason \Nyou decided to use Koko{**-chan},
 Dialogue: 0,0:14:44.39,0:14:46.39,Default,Panda,0,0,0,,I'm honestly disappointed.
 Dialogue: 0,0:14:46.99,0:14:48.34,Default,Panda,0,0,0,,Please excuse me.
-Dialogue: 0,0:15:10.93,0:15:13.93,Signs,Sign,0,0,0,,{\an7\pos(495.6,218.799)\org(495.6,218.799)\fscx94.336\fscy97.9\frz-57.885\fry0\frx8.442\fax-0.072\fnTimes New Roman\fs36\xbord0\ybord0\c&H2D2528&}Dear Kokona-san,\NI have to go help out at a charity.\NWe don't have a show today,\Nso please get plenty of rest.
+Dialogue: 0,0:15:10.93,0:15:13.93,Signs,Sign,0,0,0,,{\an7\pos(495.6,218.799)\org(495.6,218.799)\fscx94.336\fscy97.9\frz-57.885\fry0\frx8.442\fax-0.072\fnTimes New Roman\fs36\xbord0\ybord0\c&H2D2528&}Dear Kokona{**-san},\NI have to go help out at a charity.\NWe don't have a show today,\Nso please get plenty of rest.
 Dialogue: 0,0:15:10.93,0:15:13.93,Signs,Sign,0,0,0,,{\an7\pos(631.599,836.4)\org(631.599,836.4)\fscx94.336\fscy97.9\frz-57.885\fry0\frx8.442\fax-0.072\fnTimes New Roman\fs36\xbord0\ybord0\c&H2D2528&}Yae
 Dialogue: 1,0:15:11.84,0:15:13.22,Default,Kokona,0,0,0,,A letter?
 Dialogue: 0,0:15:15.23,0:15:18.20,Default,Niizuma,0,0,0,,{\i1}I have to go help out at a charity.
 Dialogue: 0,0:15:18.60,0:15:22.49,Default,Niizuma,0,0,0,,{\i1}We don't have a show today, \Nso please get plenty of rest.
 Dialogue: 0,0:15:23.10,0:15:23.94,Default,Niizuma,0,0,0,,{\i1}Yae.
-Dialogue: 0,0:15:28.28,0:15:31.94,Default,Kokona,0,0,0,,Shizuka-chan still hasn't come back.
-Dialogue: 0,0:15:37.07,0:15:38.80,Default,Kokona,0,0,0,,Shizuka-chan?
-Dialogue: 0,0:15:41.48,0:15:43.66,Default,Kokona,0,0,0,,Where are you, Shizuka-chan?
+Dialogue: 0,0:15:28.28,0:15:31.94,Default,Kokona,0,0,0,,Shizuka{**-chan} still hasn't come back.
+Dialogue: 0,0:15:37.07,0:15:38.80,Default,Kokona,0,0,0,,Shizuka{**-chan}?
+Dialogue: 0,0:15:41.48,0:15:43.66,Default,Kokona,0,0,0,,Where are you, Shizuka{**-chan}?
 Dialogue: 0,0:15:46.24,0:15:47.42,Default,Sasuga,0,0,0,,Coming...
 Dialogue: 0,0:15:49.90,0:15:51.90,Default,Kokona,0,0,0,,G-Good morning...
 Dialogue: 0,0:15:51.90,0:15:53.00,Default,Sasuga,0,0,0,,Morning.
-Dialogue: 0,0:15:53.34,0:15:56.88,Default,Kokona,0,0,0,,Um... Has Shizuka-chan been by?
+Dialogue: 0,0:15:53.34,0:15:56.88,Default,Kokona,0,0,0,,Um... Has Shizuka{**-chan} been by?
 Dialogue: 0,0:15:56.88,0:15:58.34,Default,Sasuga,0,0,0,,Nope.
-Dialogue: 0,0:15:58.97,0:16:02.74,Default,Panda,0,0,0,,I actually haven't seen \NOshizu-chan for a while now.
+Dialogue: 0,0:15:58.97,0:16:02.74,Default,Panda,0,0,0,,I actually haven't seen \NOshizu{**-chan} for a while now.
 Dialogue: 0,0:16:02.97,0:16:04.69,Default,Kokona,0,0,0,,I see...
 Dialogue: 0,0:16:05.38,0:16:06.85,Default,Kokona,0,0,0,,Th-Thanks.
 Dialogue: 0,0:16:11.74,0:16:15.24,Signs,Sign,0,0,0,,{\pos(1068.137,369.036)\org(1072.122,346.116)\fscx100.292\fscy96.146\frz-4.376\fry0\frx-6.181\fax-0.027\fnImpact\xbord3.91\ybord3.75\c&H346A8E&\3c&H251C24&}Asakusa Hisago Street
@@ -249,17 +250,17 @@ Dialogue: 0,0:16:38.76,0:16:42.77,Signs,Sign,0,0,0,,{\an8\pos(356.802,194.004)\o
 Dialogue: 0,0:16:38.76,0:16:42.77,Signs,Sign,0,0,0,,{\an8\pos(1713.603,190.803)\org(1713.603,190.803)\fscx69.724\fscy98.457\frz23.579\fry-21.666\frx-3.875\fax-0.18\fnArial\fs42\b1\xbord2.72\ybord3.84\c&H382122&\3c&HF3F4F6&}Koyama Shop
 Dialogue: 0,0:16:48.82,0:16:52.60,Default,Kokona,0,0,0,,I can't find her anywhere. Where did she go?
 Dialogue: 0,0:16:52.60,0:16:56.04,Default,Audience A,0,0,0,,You should totally see \NSIRIUS's {\i1}Arabian Nights{\i0}!
-Dialogue: 0,0:16:56.34,0:17:00.02,Default,Audience B,0,0,0,,Yae Niizuma-chan is wonderful as the Genie!
+Dialogue: 0,0:16:56.34,0:17:00.02,Default,Audience B,0,0,0,,Yae Niizuma{**-chan} is wonderful as the Genie!
 Dialogue: 0,0:17:00.02,0:17:00.79,Default,Audience A,0,0,0,,Right?
 Dialogue: 0,0:17:01.03,0:17:03.27,Default,Audience C,0,0,0,,Who's playing Aladdin?
 Dialogue: 0,0:17:03.27,0:17:05.91,Default,Audience A,0,0,0,,Oh, um...
 Dialogue: 0,0:17:05.91,0:17:08.42,Default,Audience B,0,0,0,,It's some new girl... Who was it again?
 Dialogue: 0,0:17:08.70,0:17:10.40,Default,Audience C,0,0,0,,You two are awful!
-Dialogue: 0,0:17:10.40,0:17:13.64,Default,Audience A,0,0,0,,Oh, who cares? As long as \Nwe get to see Yae-chan!
+Dialogue: 0,0:17:10.40,0:17:13.64,Default,Audience A,0,0,0,,Oh, who cares? As long as \Nwe get to see Yae{**-chan}!
 Dialogue: 0,0:17:13.64,0:17:16.79,Default,Audience B,0,0,0,,It honestly doesn't matter who's \Nplaying the other role anyway.
-Dialogue: 0,0:17:16.79,0:17:19.31,Default,Audience A,0,0,0,,Oh, yeah! And Yae-chan's song was totally...
+Dialogue: 0,0:17:16.79,0:17:19.31,Default,Audience A,0,0,0,,Oh, yeah! And Yae{**-chan}'s song was totally...
 Dialogue: 0,0:17:33.19,0:17:34.30,Default,Kathrina,0,0,0,,Kokona?
-Dialogue: 0,0:17:35.17,0:17:36.46,Default,Kokona,0,0,0,,Kathrina-chan?
+Dialogue: 0,0:17:35.17,0:17:36.46,Default,Kokona,0,0,0,,Kathrina{**-chan}?
 Dialogue: 0,0:17:36.46,0:17:38.98,Default,Kathrina,0,0,0,,Oh, u-um...
 Dialogue: 0,0:17:43.38,0:17:45.83,Default,Kathrina,0,0,0,,You're not going to use it... are you?
 Dialogue: 0,0:17:47.68,0:17:49.33,Default,Kokona,0,0,0,,Thanks.
@@ -272,28 +273,28 @@ Dialogue: 0,0:18:12.48,0:18:13.86,Subtitles,Sign,0,0,0,,Keep your head up!
 Dialogue: 0,0:18:13.86,0:18:16.07,Default,Kokona,0,0,0,,Huh? What?
 Dialogue: 0,0:18:16.07,0:18:19.99,Default,Kathrina,0,0,0,,You're the star! If you don't \Nknow what to do as the star...
 Dialogue: 0,0:18:20.39,0:18:24.38,Default,Kathrina,0,0,0,,we can't support you in support roles,\Nno matter how hard we try!
-Dialogue: 0,0:18:25.85,0:18:27.60,Default,Kokona,0,0,0,,Kathrina-chan...
+Dialogue: 0,0:18:25.85,0:18:27.60,Default,Kokona,0,0,0,,Kathrina{**-chan}...
 Dialogue: 0,0:18:27.60,0:18:30.56,Default,Kathrina,0,0,0,,Not to mention,\Nwhen you play a lead at SIRIUS,
 Dialogue: 0,0:18:30.56,0:18:33.38,Default,Kathrina,0,0,0,,you're one step closer \Nto becoming a World Dai Star.
 Dialogue: 0,0:18:34.99,0:18:37.01,Flashback,Shizuka,0,0,0,,{\i1}You can do it too, Kokona.
 Dialogue: 0,0:18:37.89,0:18:41.91,Flashback,Shizuka,0,0,0,,{\i1}I'll make you shine brighter\Nthan anyone as an actor...
 Dialogue: 0,0:18:42.53,0:18:44.90,Flashback,Shizuka,0,0,0,,{\i1}I'll make you into a World Dai Star.
 Dialogue: 0,0:18:45.77,0:18:47.95,Flashback,Kokona,0,0,0,,{\i1}A World Dai Star...
-Dialogue: 0,0:18:53.61,0:18:57.82,Default,Kokona,0,0,0,,I made a promise with Shizuka-chan...
-Dialogue: 0,0:19:01.63,0:19:02.90,Default,Kokona,0,0,0,,Kathrina-chan!
+Dialogue: 0,0:18:53.61,0:18:57.82,Default,Kokona,0,0,0,,I made a promise with Shizuka{**-chan}...
+Dialogue: 0,0:19:01.63,0:19:02.90,Default,Kokona,0,0,0,,Kathrina{**-chan}!
 Dialogue: 0,0:19:03.53,0:19:04.92,Default,Kokona,0,0,0,,Thank you!
 Dialogue: 0,0:19:05.42,0:19:07.16,Default,Kathrina,0,0,0,,U-Uh...
 Dialogue: 0,0:19:08.55,0:19:10.06,Default,Kokona,0,0,0,,I have to go!
 Dialogue: 0,0:19:22.63,0:19:24.44,Default,Kathrina,0,0,0,,I need to do my best, too.
-Dialogue: 0,0:19:32.90,0:19:34.43,Default,Kokona,0,0,0,,Oh, Shamo-san!
+Dialogue: 0,0:19:32.90,0:19:34.43,Default,Kokona,0,0,0,,Oh, Shamo{**-san}!
 Dialogue: 0,0:19:37.30,0:19:38.81,Default,Shamo,0,0,0,,Shh...
-Dialogue: 0,0:19:39.18,0:19:43.35,Default,Kokona,0,0,0,,I'm sorry! Um, have you seen Shizuka-chan?
+Dialogue: 0,0:19:39.18,0:19:43.35,Default,Kokona,0,0,0,,I'm sorry! Um, have you seen Shizuka{**-chan}?
 Dialogue: 0,0:19:46.41,0:19:47.89,Default,Shamo,0,0,0,,Have a seat.
 Dialogue: 0,0:19:47.89,0:19:49.61,Default,Kokona,0,0,0,,Oh, but I...
 Dialogue: 0,0:19:49.97,0:19:51.76,Default,Shamo,0,0,0,,It's fine.
 Dialogue: 0,0:19:52.56,0:19:54.35,Default,Kokona,0,0,0,,O-Okay...
 Dialogue: 0,0:19:56.75,0:20:02.72,Default,Shamo,0,0,0,,When I'm watching you, it reminds \Nme of how Noa used to be.
-Dialogue: 0,0:20:02.72,0:20:05.62,Default,Kokona,0,0,0,,You mean Hiiragi-san?
+Dialogue: 0,0:20:02.72,0:20:05.62,Default,Kokona,0,0,0,,You mean Hiiragi{**-san}?
 Dialogue: 0,0:20:05.62,0:20:10.59,Default,Shamo,0,0,0,,Whenever it came to the plays,\Nshe'd try to do everything herself,
 Dialogue: 0,0:20:10.59,0:20:12.81,Default,Shamo,0,0,0,,unable to see what was going on around her.
 Dialogue: 0,0:20:14.86,0:20:17.22,Default,Shamo,0,0,0,,She doesn't seem like that, does she?
@@ -302,9 +303,9 @@ Dialogue: 0,0:20:18.64,0:20:24.49,Default,Shamo,0,0,0,,Noa's Sense allows her to
 Dialogue: 0,0:20:25.40,0:20:26.94,Default,Shamo,0,0,0,,Don't worry.
 Dialogue: 0,0:20:27.38,0:20:32.25,Default,Shamo,0,0,0,,She chose you two for that role because \Nshe knew you could handle the lead.
 Dialogue: 0,0:20:32.56,0:20:34.84,Default,Kokona,0,0,0,,Us... two?
-Dialogue: 0,0:20:35.52,0:20:40.51,Default,Shamo,0,0,0,,Yes. She knew that you and \NShizuka-chan could handle it.
+Dialogue: 0,0:20:35.52,0:20:40.51,Default,Shamo,0,0,0,,Yes. She knew that you and \NShizuka{**-chan} could handle it.
 Dialogue: 0,0:20:43.99,0:20:49.08,Default,Shamo,0,0,0,,Senses come alive on the stage.
-Dialogue: 0,0:21:10.91,0:21:12.20,Default,Kokona,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:21:10.91,0:21:12.20,Default,Kokona,0,0,0,,Shizuka{**-chan}!
 Dialogue: 0,0:21:13.99,0:21:15.10,Default,Kokona,0,0,0,,I'm sorry...
 Dialogue: 0,0:21:15.66,0:21:20.82,Default,Kokona,0,0,0,,I went off and did what I wanted \Nto do without even hearing you out.
 Dialogue: 0,0:21:22.34,0:21:27.17,Default,Kokona,0,0,0,,But I still want to do it.
