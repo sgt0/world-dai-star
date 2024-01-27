@@ -203,7 +203,7 @@ Dialogue: 0,0:10:58.03,0:11:00.54,Default,Kokona,0,0,0,,No... I can keep going.
 Dialogue: 0,0:11:00.54,0:11:03.69,Default,Hiiragi,0,0,0,,Okay. Then let's continue \Nrehearsing until you can't anymore,
 Dialogue: 0,0:11:03.69,0:11:05.62,Default,Hiiragi,0,0,0,,to increase the precision of your Sense.
 Dialogue: 0,0:11:05.62,0:11:06.57,Default,Kokona and Shizuka,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\pos(731.814,245.199)\frz353\fnTimes New Roman\fs36\b1\i1\bord3\c&H40637B&\3c&H201527&\blur3\fad(900,1)}Arabian Nights{\c&H406380&}
+Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\pos(731.814,245.199)\frz353\fnTimes New Roman\fs36\b1\i1\bord3\c&H40637B&\3c&H201527&\blur3\fad(900,1)}Arabian Nights
 Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\pos(713.355,436.338)\frz351.1\fnTimes New Roman\fs36\b1\c&H4A518B&\3c&H17116D&\fad(900,1)}Sold Out   Thank You
 Dialogue: 0,0:11:07.59,0:11:10.19,Default,Audience,0,0,0,,That person totally cut in line!
 Dialogue: 0,0:11:10.19,0:11:12.94,Default,Audience,0,0,0,,I'm so glad I made it in time!
@@ -373,7 +373,7 @@ Dialogue: 0,0:21:44.14,0:21:46.32,Default,Panda,0,0,0,,Festival time! Festival t
 Dialogue: 0,0:21:45.76,0:21:47.25,Overlap,Kokona,0,0,0,,Fireworks!
 Dialogue: 0,0:21:47.25,0:21:49.16,Default,Yae,0,0,0,,They're very pretty.
 Dialogue: 0,0:21:50.13,0:21:52.28,Default,Kokona,0,0,0,,Up they go!
-Dialogue: 0,0:21:52.75,0:21:57.05,Signs,Sign,0,0,0,,{\pos(1584,195.231)\frz355.9\fnAndy\fs30\b1\s1\c&H695CA5&\3c&HEAEEEB&\blur0.5\fad(1680,1)}Aladdin gets nervous{\s0}
+Dialogue: 0,0:21:52.75,0:21:57.05,Signs,Sign,0,0,0,,{\pos(1584,195.231)\frz355.9\fnAndy\fs30\b1\s1\c&H695CA5&\3c&HEAEEEB&\blur0.5\fad(1680,1)}Aladdin gets nervous
 Dialogue: 0,0:21:52.75,0:21:57.05,Signs,Sign,0,0,0,,{\pos(1390.152,952.155)\frz339.8\fnAndy\fs30\s1\c&H695CA5&\3c&HD2D3D1&\blur0.5\fad(1680,1)}Make the Genie stand out
 Dialogue: 0,0:21:52.75,0:21:57.05,Signs,Sign,0,0,0,,{\pos(1128,911.538)\frz355.9\fnAndy\fs36\c&H695CA5&\3c&HDCDFDF&\blur0.5\fad(1680,1)}I'm the star!!
 Dialogue: 0,0:21:52.75,0:21:57.05,Signs,Sign,0,0,0,,{\pos(956.307,758.307)\frz7.872\fnAndy\fs24\c&H695CA5&\3c&HEFEBE8&\blur0.5\fad(1680,1)}Without being swallowed up\Nby the Genie, Aladdin is totally moved\Nfrom the bottom of his heart!
