@@ -20,7 +20,7 @@ Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Lyrics,Trebuchet MS,72,&H001EC4CF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,8,60,60,54,0
-Style: Subtitles,Arial,60,&H00FFFFFF,&H000000FF,&H00272727,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,30,30,165,0
+Style: Subtitles,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,165,1
 Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
@@ -269,7 +269,7 @@ Dialogue: 0,0:17:57.63,0:17:58.45,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:17:59.04,0:18:01.19,Default,Kathrina,0,0,0,,I'm pretty sure I told you before,
 Dialogue: 0,0:18:01.19,0:18:04.56,Default,Kathrina,0,0,0,,but I joined SIRIUS\N to become a World Dai Star.
 Dialogue: 0,0:18:04.90,0:18:08.86,Default,Kathrina,0,0,0,,That's why I have no intention \Nof losing to you or Niizuma.
-Dialogue: 0,0:18:12.48,0:18:13.86,Subtitles,Sign,0,0,0,,Keep your head up!
+Dialogue: 0,0:18:12.48,0:18:13.86,Subtitles,Kathrina,0,0,0,,Keep your head up!
 Dialogue: 0,0:18:13.86,0:18:16.07,Default,Kokona,0,0,0,,Huh? What?
 Dialogue: 0,0:18:16.07,0:18:19.99,Default,Kathrina,0,0,0,,You're the star! If you don't \Nknow what to do as the star...
 Dialogue: 0,0:18:20.39,0:18:24.38,Default,Kathrina,0,0,0,,we can't support you in support roles,\Nno matter how hard we try!
