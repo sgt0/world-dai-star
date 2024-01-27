@@ -109,7 +109,7 @@ Dialogue: 0,0:05:04.91,0:05:05.89,Default,Shizuka,0,0,0,,Forsooth...
 Dialogue: 0,0:05:07.47,0:05:10.29,Default,Shizuka,0,0,0,,This is true love!
 Dialogue: 0,0:05:26.79,0:05:29.94,Default,Kokona,0,0,0,,Whoa! That was amazing, Shizuka{**-chan}!
 Dialogue: 0,0:05:29.94,0:05:31.56,Default,Shizuka,0,0,0,,{\i1}You're{\i0} supposed to be doing it.
-Dialogue: 0,0:05:31.91,0:05:36.08,Default,Kokona,0,0,0,,If only you could {**\N}audition too, Shizuka{**-chan}...
+Dialogue: 0,0:05:31.91,0:05:36.08,Default,Kokona,0,0,0,,If only you could audition too, Shizuka{**-chan}...
 Dialogue: 0,0:05:36.08,0:05:38.26,Default,Shizuka,0,0,0,,Come on. The first train will be here soon.
 Dialogue: 0,0:05:38.26,0:05:40.64,Default,Kokona,0,0,0,,Oh, right!
 Dialogue: 0,0:05:54.45,0:05:59.58,Signs,Sign,0,0,0,,{\move(1288.8,461.199,1209.399,461.199)\frz356.9\fry14\frx8\fay0.24\fnTimes New Roman\fs90\bord3\3c&H3B386B&\4c&H121030&}Elisabeth
@@ -398,6 +398,6 @@ Dialogue: 0,0:21:54.52,0:21:55.31,Default,Hiiragi,0,0,0,,{\i1}But...
 Dialogue: 0,0:21:55.31,0:22:00.40,Overlap,Kokona,0,0,0,,{\an8}Just thinking about what I'd have\N done if Yae{**-chan} hadn't shown up...
 Dialogue: 0,0:21:56.04,0:21:58.94,Default,Hiiragi,0,0,0,,{\i1}That wasn't her take on the prince.
 Dialogue: 0,0:21:59.64,0:22:02.96,Default,Hiiragi,0,0,0,,{\i1}Who exactly were you playing?
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Second Stage
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}Copying Someone Else
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Second Stage
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}Copying Someone Else
 Dialogue: 0,0:23:35.65,0:23:38.49,Default,Kokona,0,0,0,,Next time: "Copying Someone Else."
