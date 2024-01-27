@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +30,7 @@ Dialogue: 0,0:00:06.41,0:00:10.01,Default,Hiiragi,0,0,0,,This time, everyone her
 Dialogue: 0,0:00:10.34,0:00:13.14,Default,Terahara,0,0,0,,The Phantom... She means {\i1}the{\i0} Phantom, right?
 Dialogue: 0,0:00:13.14,0:00:16.32,Default,Kamiyashiki,0,0,0,,I can't do it. There's no way\N I can play that role.
 Dialogue: 0,0:00:16.32,0:00:18.33,Default,Hiiragi,0,0,0,,Anyone who wants to try for the Phantom—
-Dialogue: 0,0:00:18.33,0:00:19.48,Default,Panda,0,0,0,,Hiiragi-san!
+Dialogue: 0,0:00:18.33,0:00:19.48,Default,Panda,0,0,0,,Hiiragi{**-san}!
 Dialogue: 0,0:00:20.16,0:00:22.66,Default,Panda,0,0,0,,I want to audition!
 Dialogue: 0,0:00:24.66,0:00:29.02,Default,Panda,0,0,0,,{\i1}{\i0}The Phantom of the Opera{\i1} is one of \NSIRIUS's trademark productions.
 Dialogue: 0,0:00:29.02,0:00:32.30,Default,Panda,0,0,0,,{\i1}I can't pass up on an opportunity like this!
@@ -37,7 +38,7 @@ Dialogue: 0,0:00:32.30,0:00:34.38,Default,Sasuga,0,0,0,,If Panda's in, so am I.
 Dialogue: 0,0:00:35.16,0:00:37.97,Default,Kathrina,0,0,0,,Naturally, I'll be auditioning too.
 Dialogue: 0,0:00:37.97,0:00:39.78,Default,Group,0,0,0,,What? No way...
 Dialogue: 0,0:00:40.90,0:00:42.34,Default,Group,0,0,0,,I can't believe it.
-Dialogue: 0,0:00:42.34,0:00:43.36,Default,Group,0,0,0,,Yae-chan?!
+Dialogue: 0,0:00:42.34,0:00:43.36,Default,Group,0,0,0,,Yae{**-chan}?!
 Dialogue: 0,0:00:43.79,0:00:45.03,Default,Group,0,0,0,,It can't be...
 Dialogue: 0,0:00:45.03,0:00:46.56,Default,Niizuma,0,0,0,,I'd like to audition, too.
 Dialogue: 0,0:00:48.05,0:00:50.48,Default,Terahara,0,0,0,,No way. Yae playing the Phantom?
@@ -74,7 +75,7 @@ Dialogue: 0,0:03:39.68,0:03:41.29,Default,Kokona,0,0,0,,I'll see you in a bit, t
 Dialogue: 0,0:03:39.86,0:03:42.45,Signs,Sign,0,0,0,,{\fad(610,1)\an8\shad0\bord0\fs54\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1121.694,235.845)}The Phantom of the Opera
 Dialogue: 0,0:03:42.45,0:03:44.95,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs30\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1477.695,819.843)\frz0.7267}The Phantom of the Opera
 Dialogue: 0,0:03:46.45,0:03:48.20,Signs,Sign,0,0,0,,{\fad(610,1)\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\frz9.839\pos(849.696,245.847)}The Phantom of the Opera
-Dialogue: 0,0:03:55.95,0:03:58.41,Default,Kokona,0,0,0,,What did you want to \Ntalk about, Kathrina-chan?
+Dialogue: 0,0:03:55.95,0:03:58.41,Default,Kokona,0,0,0,,What did you want to \Ntalk about, Kathrina{**-chan}?
 Dialogue: 0,0:03:58.88,0:04:02.25,Default,Kathrina,0,0,0,,Kokona. How do you see me?
 Dialogue: 0,0:04:02.25,0:04:05.06,Default,Kokona,0,0,0,,Huh? How do I see you?
 Dialogue: 0,0:04:06.58,0:04:08.85,Default,Kokona,0,0,0,,I think you look cute. It really suits you.
@@ -89,7 +90,7 @@ Dialogue: 0,0:04:23.55,0:04:26.07,Default,Kathrina,0,0,0,,You just keep growing.
 Dialogue: 0,0:04:26.07,0:04:27.17,Default,Kathrina,0,0,0,,It's blinding to look at.
 Dialogue: 0,0:04:28.23,0:04:29.66,Default,Kathrina,0,0,0,,I don't want to lose to you.
 Dialogue: 0,0:04:30.01,0:04:31.22,Default,Kathrina,0,0,0,,I can't.
-Dialogue: 0,0:04:32.17,0:04:33.68,Default,Kokona,0,0,0,,Kathrina-chan...
+Dialogue: 0,0:04:32.17,0:04:33.68,Default,Kokona,0,0,0,,Kathrina{**-chan}...
 Dialogue: 0,0:04:35.36,0:04:37.63,Default,Kathina,0,0,0,,Let's have a fair match.
 Dialogue: 0,0:04:37.91,0:04:41.09,Default,Kathina,0,0,0,,Let's see who can take the role \Nof the Phantom... as rivals.
 Dialogue: 0,0:04:47.27,0:04:49.60,Default,Kokona,0,0,0,,Okay. I won't lose.
@@ -130,7 +131,7 @@ Dialogue: 0,0:07:54.07,0:07:56.98,Default,Shizuka,0,0,0,,I'll give you a true op
 Dialogue: 0,0:07:56.98,0:07:59.02,Default,Shizuka,0,0,0,,It should be {\i1}me{\i0}!
 Dialogue: 0,0:08:02.74,0:08:04.93,Default,Shizuka,0,0,0,,No, that's impossible...
 Dialogue: 0,0:08:07.29,0:08:11.54,Default,Shizuka,0,0,0,,I am but a shadow. A hideous monster.
-Dialogue: 0,0:08:19.67,0:08:21.02,Default,Shizuka,0,0,0,,Yae-chan?
+Dialogue: 0,0:08:19.67,0:08:21.02,Default,Shizuka,0,0,0,,Yae{**-chan}?
 Dialogue: 0,0:08:21.56,0:08:24.19,Default,Niizuma,0,0,0,,The Phantom's étude of rage...
 Dialogue: 0,0:08:24.19,0:08:25.57,Default,Niizuma,0,0,0,,That was magnificent.
 Dialogue: 0,0:08:26.69,0:08:32.32,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\fax-.2\frz351.2\move(1137,711,1137,207)}The Phantom of the Opera
@@ -138,7 +139,7 @@ Dialogue: 0,0:08:27.12,0:08:32.07,Default,Niizuma,0,0,0,,We've only just receive
 Dialogue: 0,0:08:32.60,0:08:34.81,Default,Niizuma,0,0,0,,I must say, I'm a bit jealous.
 Dialogue: 0,0:08:35.01,0:08:38.26,Default,Shizuka,0,0,0,,It's no big deal.\NI've still got a ways to go.
 Dialogue: 0,0:08:38.79,0:08:42.34,Default,Shizuka,0,0,0,,I need to delve even deeper \Nto really get into the Phantom.
-Dialogue: 0,0:08:44.37,0:08:47.77,Default,Niizuma,0,0,0,,Won't you take part in the play, Shizuka-san?
+Dialogue: 0,0:08:44.37,0:08:47.77,Default,Niizuma,0,0,0,,Won't you take part in the play, Shizuka{**-san}?
 Dialogue: 0,0:08:47.77,0:08:48.37,Default,Shizuka,0,0,0,,Huh?
 Dialogue: 0,0:08:48.79,0:08:53.31,Default,Niizuma,0,0,0,,I mean, all of us\Nand the audience can see you,
 Dialogue: 0,0:08:53.31,0:08:56.20,Default,Niizuma,0,0,0,,so I don't see the problem\Nwith you performing.
@@ -181,7 +182,7 @@ Dialogue: 0,0:10:56.96,0:11:01.96,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(9
 Dialogue: 0,0:11:07.00,0:11:08.73,Default,Niizuma,0,0,0,,I guess that about does it.
 Dialogue: 0,0:11:08.73,0:11:10.82,Default,Shizuka,0,0,0,,I feel like I'm starting to see it.
 Dialogue: 0,0:11:10.82,0:11:13.62,Default,Niizuma,0,0,0,,I think I'm starting to get the role, too.
-Dialogue: 0,0:11:13.62,0:11:15.73,Default,Shizuka,0,0,0,,Thanks, Yae-chan.
+Dialogue: 0,0:11:13.62,0:11:15.73,Default,Shizuka,0,0,0,,Thanks, Yae{**-chan}.
 Dialogue: 0,0:11:15.73,0:11:17.04,Default,Niizuma,0,0,0,,I should be thanking you.
 Dialogue: 0,0:11:17.04,0:11:19.32,Default,Shizuka,0,0,0,,I want to try this with Kokona immediately!
 Dialogue: 0,0:11:24.13,0:11:25.61,Default,Niizuma,0,0,0,,I need to go deeper...
@@ -207,13 +208,13 @@ Dialogue: 0,0:12:55.60,0:12:58.30,Default,Niizuma,0,0,0,,Just like when I asked 
 Dialogue: 0,0:12:58.30,0:13:00.35,Default,Niizuma,0,0,0,,I wanted to challenge myself.
 Dialogue: 0,0:13:00.68,0:13:03.38,Default,Niizuma,0,0,0,,To try for a role so unlike me.
 Dialogue: 0,0:13:03.73,0:13:08.64,Default,Hiiragi,0,0,0,,Every true actor wants to play a role \Ncompletely unlike themselves.
-Dialogue: 0,0:13:09.23,0:13:13.14,Default,Niizuma,0,0,0,,Hiiragi-san, what do you want \Nto see in this audition?
+Dialogue: 0,0:13:09.23,0:13:13.14,Default,Niizuma,0,0,0,,Hiiragi{**-san}, what do you want \Nto see in this audition?
 Dialogue: 0,0:13:16.49,0:13:18.41,Default,Hiiragi,0,0,0,,The potential of Senses.
 Dialogue: 0,0:13:19.47,0:13:24.47,Default,Hiiragi,0,0,0,,The clashing of your Senses\N might give rise to something.
 Dialogue: 0,0:13:25.02,0:13:29.84,Default,Hiiragi,0,0,0,,A performance far beyond what I could reach...
 Dialogue: 0,0:13:30.75,0:13:35.66,Default,Niizuma,0,0,0,,I knew it. \NNow I {\i1}really{\i0} can't lose this audition.
 Dialogue: 0,0:13:36.75,0:13:38.31,Default,Hiiragi,0,0,0,,I'm looking forward to it.
-Dialogue: 0,0:13:39.87,0:13:42.41,Default,Niizuma,0,0,0,,If you had been the Phantom, Hiiragi-san...
+Dialogue: 0,0:13:39.87,0:13:42.41,Default,Niizuma,0,0,0,,If you had been the Phantom, Hiiragi{**-san}...
 Dialogue: 0,0:13:43.44,0:13:45.87,Default,Niizuma,0,0,0,,I would've loved to be your Christine.
 Dialogue: 0,0:13:48.02,0:13:49.22,Default,Hiiragi,0,0,0,,Thank you.
 Dialogue: 0,0:14:00.29,0:14:01.94,Default,Shizuka,0,0,0,,How was that?
@@ -278,7 +279,7 @@ Dialogue: 0,0:17:44.92,0:17:47.32,Default,Kokona,0,0,0,,Their Phantoms were real
 Dialogue: 0,0:17:47.32,0:17:49.72,Default,Kokona,0,0,0,,It's the same role,\Nbut they made it totally different!
 Dialogue: 0,0:17:49.72,0:17:52.13,Default,Shizuka,0,0,0,,Now's not the time to be impressed.
 Dialogue: 0,0:17:52.13,0:17:54.69,Default,Shizuka,0,0,0,,You have to beat both of them!
-Dialogue: 0,0:17:55.60,0:18:00.56,Default,Shizuka,0,0,0,,Next up, Yae-chan and Kathrina are going \Nto be rehearsing on stage, so let's go watch.
+Dialogue: 0,0:17:55.60,0:18:00.56,Default,Shizuka,0,0,0,,Next up, Yae{**-chan} and Kathrina are going \Nto be rehearsing on stage, so let's go watch.
 Dialogue: 0,0:18:00.56,0:18:01.45,Default,Kokona,0,0,0,,Yeah!
 Dialogue: 0,0:18:02.09,0:18:07.13,Lyrics,Niizuma (Christine),0,0,0,,Two shadows overlap as this melody wavers
 Dialogue: 0,0:18:07.13,0:18:11.26,Lyrics,Niizuma (Christine),0,0,0,,Until we fall into the abyss
@@ -287,11 +288,11 @@ Dialogue: 0,0:18:11.91,0:18:14.41,Default,Shizuka,0,0,0,,{\i1}Her Sense is alway
 Dialogue: 0,0:18:15.18,0:18:18.25,Lyrics,Niizuma (Christine),0,0,0,,Even our sins can be hidden
 Dialogue: 0,0:18:15.50,0:18:18.55,Default,Shizuka,0,0,0,,{\i1}We need a way to hold our own\Nthat isn't through song.
 Dialogue: 0,0:18:18.25,0:18:22.10,Lyrics,Niizuma (Christine),0,0,0,,In this masquerade
-Dialogue: 0,0:18:30.17,0:18:31.60,Default,Niizuma,0,0,0,,Kathrina-san?
+Dialogue: 0,0:18:30.17,0:18:31.60,Default,Niizuma,0,0,0,,Kathrina{**-san}?
 Dialogue: 0,0:18:33.23,0:18:35.69,Default,Niizuma,0,0,0,,I hope you don't mind me\N using the stage before you.
 Dialogue: 0,0:18:37.08,0:18:41.55,Default,Kathrina,0,0,0,,Hey, would you read lines with me?
 Dialogue: 0,0:18:43.93,0:18:45.08,Default,Shizuka,0,0,0,,They're...
-Dialogue: 0,0:18:46.66,0:18:48.57,Default,Kokona,0,0,0,,Yae-chan's playing Christine?
+Dialogue: 0,0:18:46.66,0:18:48.57,Default,Kokona,0,0,0,,Yae{**-chan}'s playing Christine?
 Dialogue: 0,0:18:49.52,0:18:51.57,Default,Niizuma,0,0,0,,I'm ready whenever you are.
 Dialogue: 0,0:18:51.80,0:18:57.07,Default,Kathrina,0,0,0,,Then let's do act 1, scene 9, \Nstarting from when Christine wakes up.
 Dialogue: 0,0:19:01.33,0:19:04.07,Default,Niizuma (Christine),0,0,0,,Who are you?
@@ -303,7 +304,7 @@ Dialogue: 0,0:19:21.68,0:19:25.03,Default,Kathrina (Phantom),0,0,0,,You chose to
 Dialogue: 0,0:19:25.03,0:19:26.93,Default,Kathrina (Phantom),0,0,0,,There's no turning back now!
 Dialogue: 0,0:19:26.93,0:19:28.00,Default,Niizuma (Christine),0,0,0,,I'm sorry! I—
 Dialogue: 0,0:19:29.66,0:19:30.37,Default,Niizuma,0,0,0,,Huh?
-Dialogue: 0,0:19:35.55,0:19:38.95,Default,Shizuka,0,0,0,,{\i1}Did she just... predict what \NYae-chan would do next?
+Dialogue: 0,0:19:35.55,0:19:38.95,Default,Shizuka,0,0,0,,{\i1}Did she just... predict what \NYae{**-chan} would do next?
 Dialogue: 0,0:19:38.95,0:19:41.94,Default,Hiiragi,0,0,0,,{\i1}The effectiveness of her Sense\Nhas increased exponentially.
 Dialogue: 0,0:19:42.43,0:19:46.45,Default,Kathrina (Phantom),0,0,0,,Take a good look at my \Nhideous face, Christine...
 Dialogue: 0,0:19:46.72,0:19:50.45,Default,Kathrina (Phantom),0,0,0,,This repulsive visage\Nburned by the flames of hell!
@@ -318,11 +319,11 @@ Dialogue: 0,0:20:31.03,0:20:32.72,Default,Shizuka,0,0,0,,{\i1}Seeing this just..
 Dialogue: 0,0:20:34.18,0:20:36.84,Flashback,Niizuma,0,0,0,,{\i1}Don't you want to try to play the Phantom?
 Dialogue: 0,0:20:42.42,0:20:43.96,Default,Shizuka,0,0,0,,{\i1}This feeling...
 Dialogue: 0,0:20:50.91,0:20:53.86,Default,Kathrina,0,0,0,,Thank you for playing Christine.
-Dialogue: 0,0:20:54.53,0:20:55.71,Default,Niizuma,0,0,0,,Kathrina-san, you—
+Dialogue: 0,0:20:54.53,0:20:55.71,Default,Niizuma,0,0,0,,Kathrina{**-san}, you—
 Dialogue: 0,0:20:55.71,0:20:56.82,Default,Kathrina,0,0,0,,Stay away!
 Dialogue: 0,0:20:57.70,0:21:01.24,Default,Kathrina,0,0,0,,The Phantom is still inside of me.
 Dialogue: 0,0:21:18.95,0:21:21.13,Default,Kokona,0,0,0,,Everyone was so amazing.
-Dialogue: 0,0:21:21.84,0:21:24.09,Default,Kokona,0,0,0,,Especially Kathrina-chan's Phantom.
+Dialogue: 0,0:21:21.84,0:21:24.09,Default,Kokona,0,0,0,,Especially Kathrina{**-chan}'s Phantom.
 Dialogue: 0,0:21:26.90,0:21:30.44,Default,Kokona,0,0,0,,I wonder how I can play a role like that.
 Dialogue: 0,0:21:34.89,0:21:39.63,Default,Kokona,0,0,0,,I'm pretty sure my Phantom\Nisn't what the audience wants.
 Dialogue: 0,0:21:40.90,0:21:42.65,Default,Shizuka,0,0,0,,Care for a little trip?
@@ -330,7 +331,7 @@ Dialogue: 0,0:21:42.65,0:21:43.63,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:21:44.45,0:21:46.18,Default,Shizuka,0,0,0,,There's somewhere I want to go.
 Dialogue: 0,0:21:46.18,0:21:47.92,Default,Kokona,0,0,0,,We can go after the audition—
 Dialogue: 0,0:21:47.92,0:21:49.25,Default,Shizuka,0,0,0,,It has to be right now.
-Dialogue: 0,0:21:51.82,0:21:52.66,Default,Kokona,0,0,0,,Shizuka-chan?
+Dialogue: 0,0:21:51.82,0:21:52.66,Default,Kokona,0,0,0,,Shizuka{**-chan}?
 Dialogue: 0,0:21:56.61,0:21:58.63,Default,Shizuka,0,0,0,,I have to tell you something important.
 Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Eleventh Stage
 Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}Our Promise
