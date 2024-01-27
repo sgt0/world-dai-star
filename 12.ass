@@ -24,7 +24,7 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.28,0:00:20.29,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\shad0\bord3\fs60\c&HE3D1BF&\3c&H62343C&\an8)}The Phantom {\c&H240375&}of {\c&HE3D1BF&}the Opera
+Dialogue: 0,0:00:13.28,0:00:20.29,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs60\b1\bord3\c&HE3D1BF&\3c&H62343C&}The Phantom {\c&H240375&}of {\c&HE3D1BF&}the Opera
 Dialogue: 0,0:00:14.06,0:00:16.68,Default,Niizuma,0,0,0,,The show will start once\Ndress rehearsals are over.
 Dialogue: 0,0:00:16.68,0:00:18.54,Default,Panda,0,0,0,,It's finally upon us.
 Dialogue: 0,0:00:18.54,0:00:20.29,Default,Sasuga,0,0,0,,The big performance.
@@ -40,7 +40,7 @@ Dialogue: 0,0:00:46.72,0:00:50.48,Default,Kathrina,0,0,0,,Let's show the Shizuka
 Dialogue: 0,0:00:50.48,0:00:53.85,Default,Kathrina,0,0,0,,what a waste it'd be to miss \Nout on a production like this.
 Dialogue: 0,0:00:54.20,0:00:55.80,Default,Kokona,0,0,0,,Kathrina{**-chan}...
 Dialogue: 0,0:00:58.67,0:00:59.60,Default,Kokona,0,0,0,,Yeah!
-Dialogue: 0,0:01:02.12,0:01:07.04,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H4B4B4C&}The Two of Us Together
+Dialogue: 0,0:01:02.12,0:01:07.04,Signs,Sign,0,0,0,,{\an3\pos(1814.799,926.799)\fnTimes New Roman\fs54\bord3\3c&H4B4B4C&\blur6\fad(770,770)}The Two of Us Together
 Dialogue: 0,0:01:08.01,0:01:09.68,Default,Kokona's Mom,0,0,0,,Isn't this exciting, dear?
 Dialogue: 0,0:01:09.68,0:01:10.49,Default,Kokona's Dad,0,0,0,,Yes.
 Dialogue: 0,0:01:10.49,0:01:13.25,Default,Koyomi,0,0,0,,{\i1}SIRIUS's {\i0}The Phantom of the Opera{\i1}...
@@ -49,7 +49,7 @@ Dialogue: 0,0:01:17.26,0:01:20.62,Default,Iroha,0,0,0,,I'm excited to see\Nwhat 
 Dialogue: 0,0:01:20.62,0:01:24.03,Default,Mito,0,0,0,,Yeah, yeah! I'm getting excited, too.
 Dialogue: 0,0:01:24.31,0:01:26.85,Default,Hatsumi,0,0,0,,The star is that rather dry Aladdin...
 Dialogue: 0,0:01:26.85,0:01:29.94,Default,Hatsumi,0,0,0,,I hope you're able to \Nquench my thirst today.
-Dialogue: 0,0:01:30.27,0:01:32.15,Signs,Sign,0,0,0,,{\fad(1,230)\fnTimes New Roman\b1\shad0\bord0\fs30\c&H423C41&\3c&H62343C&\frz341.4\pos(855.273,983.454)}The Phantom {\c&H0D0426&}of {\c&H423C41&}the Opera
+Dialogue: 0,0:01:30.27,0:01:32.15,Signs,Sign,0,0,0,,{\pos(855.273,983.454)\frz341.4\fnTimes New Roman\fs30\b1\bord0\c&H423C41&\3c&H62343C&\fad(1,230)}The Phantom {\c&H0D0426&}of {\c&H423C41&}the Opera
 Dialogue: 0,0:01:35.92,0:01:38.15,Default,Chikage,0,0,0,,Huh?! Y-Y-You're—
 Dialogue: 0,0:01:37.53,0:01:38.53,Overlap,Theresa,0,0,0,,Shh.
 Dialogue: 0,0:01:38.53,0:01:40.52,Default,Theresa,0,0,0,,I haven't told my daughter I'm here.
@@ -193,7 +193,7 @@ Dialogue: 0,0:10:50.97,0:10:53.59,Flashback,Kokona,0,0,0,,You really are amazing
 Dialogue: 0,0:10:53.59,0:10:56.50,Flashback,Shizuka,0,0,0,,Again, {\i1}you'll{\i0} be the one\Nplaying the part, Kokona.
 Dialogue: 0,0:10:57.30,0:11:00.41,Flashback,Kokona,0,0,0,,Though it'd be the best if we \Ncould perform together.
 Dialogue: 0,0:11:13.95,0:11:15.01,Default,Shizuka,0,0,0,,Kokona...
-Dialogue: 0,0:11:16.02,0:11:21.02,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:11:16.03,0:11:21.04,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:11:24.03,0:11:25.36,Default,Kokona,0,0,0,,Shizuka{**-chan}.
 Dialogue: 0,0:11:30.70,0:11:33.37,Default,Shizuka,0,0,0,,Should the Phantom be here?
 Dialogue: 0,0:11:34.42,0:11:38.17,Default,Shizuka,0,0,0,,You're not done yet, but it's \Nbeen a great performance so far.
@@ -334,6 +334,6 @@ Dialogue: 0,0:23:05.87,0:23:08.24,Default,Shizuka,0,0,0,,Whatever it is, we'll b
 Dialogue: 0,0:23:08.53,0:23:10.05,Default,Kokona,0,0,0,,W-Wow, you're confident.
 Dialogue: 0,0:23:10.72,0:23:13.45,Default,Shizuka,0,0,0,,Well, we decided we'd take it.
 Dialogue: 0,0:23:29.30,0:23:30.16,Default,Kokona,0,0,0,,Yeah!
-Dialogue: 0,0:23:31.09,0:23:34.01,Signs,Sign,0,0,0,,{\fnArial\b1\fs24\frx0\fry350\frz0.6747\shad0\c&H2E2216&\3c&H847A6E&\move(1374.291,300,1241.292,300)}Become World Dai\N Stars together!!!!
-Dialogue: 0,0:23:34.01,0:23:40.01,Signs,Sign,0,0,0,,{\pos(1152.304,141.492)\org(1152.291,141.492)\fscx98.651\fscy100\frz0.684\fry-3.364\frx0\fax0\fnArial\fs42\b1\xbord3.85\ybord3.9\c&H2E2216&\3c&H847A6E&}Become World Dai Stars together!!!!
+Dialogue: 0,0:23:31.09,0:23:34.01,Signs,Sign,0,0,0,,{\move(1374.291,300,1241.292,300)\frz0.675\fry350\fnArial\fs24\b1\c&H2E2216&\3c&H847A6E&}Become World Dai\N Stars together!!!!
+Dialogue: 0,0:23:34.01,0:23:40.01,Signs,Sign,0,0,0,,{\pos(1152.304,141.492)\org(1152.291,141.492)\fscx98.651\frz0.684\fry-3.364\fnArial\fs42\b1\xbord3.85\c&H2E2216&\3c&H847A6E&}Become World Dai Stars together!!!!
 Dialogue: 0,0:23:36.78,0:23:38.40,Default,Kokona and Shizuka,0,0,0,,The two of us together!
