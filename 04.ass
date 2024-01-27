@@ -55,8 +55,8 @@ Dialogue: 0,0:02:20.99,0:02:26.77,Default,Shizuka,0,0,0,,So why isn't anyone say
 Dialogue: 0,0:02:26.77,0:02:30.47,Default,Kokona,0,0,0,,Oh! I found a comment about \Nyou, Kathrina{**-chan}! Lookie!
 Dialogue: 0,0:02:31.15,0:02:32.20,Default,Kathrina,0,0,0,,Sure.
 Dialogue: 0,0:02:32.20,0:02:33.54,Default,Kathrina,0,0,0,,I'll read it later.
-Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,376.155)\fnLato\fs48\b1\bord0\c&H524F5F&}Voice call has ended
-Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,710.31)\fnLato\fs48\b1\bord0\c&H524F5F&}Voice call has ended
+Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,376.155)\fnLato\fs48\b1\bord0\c&H524F5F&\blur0.5}Voice call has ended
+Dialogue: 0,0:02:33.54,0:02:35.55,Signs,Sign,0,0,0,,{\an1\pos(707.076,710.31)\fnLato\fs48\b1\bord0\c&H524F5F&\blur0.5}Voice call has ended
 Dialogue: 0,0:02:38.63,0:02:44.97,Subtitles,Theresa/Subs,0,0,0,,{\pos(955.635,867)\3c&H013E12&}Great performance. I saw the stream. Good job getting\N over that hiccup. You have some wonderful costars.
 Dialogue: 0,0:02:45.60,0:02:46.35,Subtitles,Kathrina,0,0,0,,{\3c&H013E12&}...Yes.
 Dialogue: 0,0:02:46.47,0:02:48.48,Subtitles,Theresa/Subs,0,0,0,,{\3c&H013E12&}Have you thanked them?
@@ -242,7 +242,7 @@ Dialogue: 0,0:12:13.51,0:12:15.32,Default,Kokona,0,0,0,,that Kathrina{**-chan} r
 Dialogue: 0,0:12:15.32,0:12:16.43,Default,Kokona,0,0,0,,Schuniterun!
 Dialogue: 0,0:12:16.43,0:12:17.92,Default,Kathrina,0,0,0,,It's {\i1}schnitzel{\i0}.
 Dialogue: 0,0:12:17.92,0:12:20.63,Default,Kokona,0,0,0,,Schnitzel! Um...
-Dialogue: 0,0:12:23.63,0:12:26.51,Signs,Sign,0,0,0,,{\an9\pos(1785.231,664.152)\frz348.4\fnLato\fs30\b1\bord0\c&H93B28D&\fad(150,1)}Schnitzel\N\N{\fs24\b0\c&H5D5D5D&}Lean pork\NBlock of bacon\NPotatoes\NGreen beans\NCherry tomatoes\NLemon\NItalian parsley\NPanko
+Dialogue: 0,0:12:23.63,0:12:26.51,Signs,Sign,0,0,0,,{\an9\pos(1785.231,664.152)\frz348.4\fnLato\fs30\b1\bord0\c&H93B28D&\fad(150,1)}Schnitzel\N\N{\fs24\b0\c&H5D5D5D&\blur0.5}Lean pork\NBlock of bacon\NPotatoes\NGreen beans\NCherry tomatoes\NLemon\NItalian parsley\NPanko
 Dialogue: 0,0:12:24.16,0:12:26.52,Default,Kokona,0,0,0,,It's basically German tonkatsu, right?
 Dialogue: 0,0:12:26.52,0:12:29.13,Default,Kathrina,0,0,0,,Well... Sort of.
 Dialogue: 0,0:12:29.13,0:12:32.58,Default,Kathrina,0,0,0,,Japanese tonkatsu is really good too, though.
