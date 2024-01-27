@@ -36,7 +36,7 @@ Dialogue: 0,0:00:08.48,0:00:13.86,Signs,Sign,0,0,0,,{\fad(2940,1)\an1\fs24\fnTim
 Dialogue: 0,0:00:08.48,0:00:13.86,Signs,Sign,0,0,0,,{\fad(2940,1)\an1\fs24\fnTimes New Roman\bord3\blur6\shad0\c&H47606B&\3c&H081922&\pos(657.6,963.6)}Genie of the Lamp
 Dialogue: 1,0:00:09.15,0:00:12.97,Default,Stage director,0,0,0,,{\i1}Five minutes to curtain up. \NAll sections, get ready.
 Dialogue: 0,0:00:17.96,0:00:18.83,Default,Shizuka,0,0,0,,Koko—
-Dialogue: 0,0:00:18.20,0:00:19.33,Default,Yae,0,0,0,,Kokona{**-san}!
+Dialogue: 0,0:00:18.20,0:00:19.33,Overlap,Yae,0,0,0,,Kokona{**-san}!
 Dialogue: 0,0:00:21.18,0:00:23.86,Default,Yae,0,0,0,,Let's make this a great opening night!
 Dialogue: 0,0:00:23.86,0:00:27.62,Default,Kokona,0,0,0,,Th-That's my line!\NI c-can't wait to perform together!
 Dialogue: 0,0:00:28.35,0:00:32.38,Default,Yae,0,0,0,,No need to worry. Just think \Nabout how much we rehearsed.
