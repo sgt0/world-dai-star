@@ -24,15 +24,15 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.36,0:00:08.08,Default,Kudo,0,0,0,,Here.
-Dialogue: 0,0:00:08.48,0:00:11.49,Signs,Sign,0,0,0,,{\fad(900,1)\fax.3\fnTimes New Roman\fs48\b1\shad0\bord0\frz23.73\c&H333945&\pos(1231.998,720)}SIRIUS Acting Troupe
+Dialogue: 0,0:00:08.48,0:00:11.49,Signs,Sign,0,0,0,,{\pos(1231.998,720)\frz23.73\fax0.3\fnTimes New Roman\fs48\b1\bord0\c&H333945&\fad(900,1)}SIRIUS Acting Troupe
 Dialogue: 0,0:00:08.49,0:00:11.48,Default,Kudo,0,0,0,,We got another request this year.
-Dialogue: 0,0:00:11.49,0:00:12.99,Default,,0,0,0,,{\pos(972,540)\fnArial\b1\fs36\shad0\3c&HB4CBA1&\c&H424A29&\blur6}Hozuki Ichi
+Dialogue: 0,0:00:11.49,0:00:12.99,Default,,0,0,0,,{\pos(972,540)\fnArial\fs36\shad0\c&H424A29&\3c&HB4CBA1&\blur6}Hozuki Ichi
 Dialogue: 0,0:00:13.42,0:00:15.29,Default,Hiiragi,0,0,0,,The special theatrical showcase?
 Dialogue: 0,0:00:16.12,0:00:18.13,Default,Hiiragi,0,0,0,,I guess it is that time already.
 Dialogue: 0,0:00:18.76,0:00:20.25,Default,Hiiragi,0,0,0,,We're definitely...
 Dialogue: 0,0:00:20.64,0:00:22.99,Default,Hiiragi,0,0,0,,getting our revenge this year.
-Dialogue: 0,0:00:35.22,0:00:40.56,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:01:53.13,0:01:58.01,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\3c&H4B4B4C&\pos(1832.799,924.798)}Romeo and Juliet
+Dialogue: 0,0:00:35.22,0:00:40.56,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:01:53.13,0:01:58.01,Signs,Sign,0,0,0,,{\an3\pos(1832.799,924.798)\fnTimes New Roman\fs54\bord3\3c&H4B4B4C&\blur6\fad(770,770)}Romeo and Juliet
 Dialogue: 0,0:01:58.79,0:02:00.67,Default,Shizuka,0,0,0,,An article about {\i1}Arabian Nights{\i0}?
 Dialogue: 0,0:02:00.67,0:02:02.17,Default,Kokona,0,0,0,,Oh, yeah!
 Dialogue: 0,0:02:02.17,0:02:04.47,Default,Shizuka,0,0,0,,Did they say anything about you, Kokona?
@@ -113,7 +113,7 @@ Dialogue: 0,0:06:20.04,0:06:24.03,Default,Panda,0,0,0,,that can move {\i1}everyo
 Dialogue: 0,0:06:24.33,0:06:25.95,Default,Sasuga,0,0,0,,I agree with Panda.
 Dialogue: 0,0:06:25.95,0:06:27.62,Default,Terahara and Kamiyashiki,0,0,0,,We do too!
 Dialogue: 0,0:06:37.60,0:06:39.17,Default,Hiiragi,0,0,0,,I guess you have a point.
-Dialogue: 0,0:06:41.79,0:06:47.67,Signs,Sign,0,0,0,,{\fad(190,1)\pos(974.001,126)\fnTimes New Roman\b1\shad0\c&H627A89&\3c&HF6F8F8&}Victory!!
+Dialogue: 0,0:06:41.79,0:06:47.67,Signs,Sign,0,0,0,,{\pos(974.001,126)\fnTimes New Roman\b1\c&H627A89&\3c&HF6F8F8&\fad(190,1)}Victory!!
 Dialogue: 0,0:06:45.36,0:06:47.66,Default,Kathrin,0,0,0,,What in the world happened last year?
 Dialogue: 0,0:06:47.92,0:06:52.85,Default,Kudo,0,0,0,,This is going to be a test performance, \Nso why don't we leave it to the girls?
 Dialogue: 0,0:06:53.97,0:06:57.93,Default,Hiiragi,0,0,0,,All right, let's discuss what play to put on.
@@ -134,10 +134,10 @@ Dialogue: 0,0:07:50.31,0:07:51.88,Default,Hiiragi,0,0,0,,Sounds like we have our
 Dialogue: 0,0:07:51.88,0:07:55.63,Default,Hiiragi,0,0,0,,We'll be doing {\i1}Romeo and Juliet{\i0} \Nfor the special theatrical showcase.
 Dialogue: 0,0:07:57.96,0:07:59.36,Default,Kokona,0,0,0,,What?!
 Dialogue: 0,0:08:00.03,0:08:02.67,Default,Kokona,0,0,0,,You're not going to be in it, Yae{**-chan}?!
-Dialogue: 0,0:08:00.04,0:08:02.67,Signs,Sign,0,0,0,,{\an7\fnArial\fs42\i1\c&H313331&\3c&HDADCDC&\shad0\bord9}Romeo and Juliet{\i0} Roles\N Romeo: Sasuga\N Juliet: Panda\N Benvolio: Kokona\NCount Paris: Terahara\N Friar Laurence: Kathrina\NTybalt: Kamiyashiki
-Dialogue: 0,0:08:02.67,0:08:08.17,Signs,Sign,0,0,0,,{\fad(350,1)\an8\fnArial\b1\shad0\bord12\c&H43F7F2&\3c&H060741&}Grade Schooler
+Dialogue: 0,0:08:00.04,0:08:02.67,Signs,Sign,0,0,0,,{\an7\fnArial\fs42\i1\bord9\c&H313331&\3c&HDADCDC&}Romeo and Juliet{\i0} Roles\N Romeo: Sasuga\N Juliet: Panda\N Benvolio: Kokona\NCount Paris: Terahara\N Friar Laurence: Kathrina\NTybalt: Kamiyashiki
+Dialogue: 0,0:08:02.67,0:08:08.17,Signs,Sign,0,0,0,,{\an8\fnArial\b1\bord12\c&H43F7F2&\3c&H060741&\fad(350,1)}Grade Schooler
 Dialogue: 0,0:08:03.00,0:08:08.17,Default,Niizuma,0,0,0,,Well, I'm in grade school too. I'll be in \Nthe audience cheering you all on this time.
-Dialogue: 0,0:08:11.42,0:08:15.93,Signs,Sign,0,0,0,,{\an8\fnArial\fs60\shad0\c&H1C1D1C&\3c&HE6E9E6&\t(1980,3650,\3c&H8E8C8A&)}Count Paris: Terahara\NFriar Laurence: Kathrina\NTybalt: Kamiyashiki
+Dialogue: 0,0:08:11.42,0:08:15.93,Signs,Sign,0,0,0,,{\an8\fnArial\fs60\c&H1C1D1C&\3c&HE6E9E6&\t(1980,3650,\3c&H8E8C8A&)}Count Paris: Terahara\NFriar Laurence: Kathrina\NTybalt: Kamiyashiki
 Dialogue: 0,0:08:12.42,0:08:14.93,Default,Kathrina,0,0,0,,I'm playing another support role...
 Dialogue: 0,0:08:18.87,0:08:20.20,Default,Sasuga,0,0,0,,Are you okay?
 Dialogue: 0,0:08:21.26,0:08:23.15,Default,Panda,0,0,0,,Oh, yeah.
@@ -155,18 +155,18 @@ Dialogue: 0,0:08:59.59,0:09:03.24,Default,Hiiragi,0,0,0,,I'm sure that girl will
 Dialogue: 0,0:09:04.59,0:09:06.12,Default,Panda,0,0,0,,Ah...
 Dialogue: 0,0:09:06.88,0:09:10.65,Default,Panda,0,0,0,,So {\i1}she's{\i0} coming back.
 Dialogue: 0,0:09:11.18,0:09:16.29,Default,Kudo,0,0,0,,The ward office said that she entered herself \Nin the ticket raffle hundreds of times.
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs90\pos(410.001,140.001)}M
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs84\pos(482.001,243.999)}E
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs78\pos(548.001,336)}N
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(600.003,432)}A
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(642.003,536.001)}C
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(672.003,650.001)}I
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(672.003,772.002)}N
-Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(658.005,878.001)}G
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(410.001,140.001)\fnImpact\fs90\bord9\c&HB04352&}M
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(482.001,243.999)\fnImpact\fs84\bord9\c&HB04352&}E
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(548.001,336)\fnImpact\bord9\c&HB04352&}N
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(600.003,432)\fnImpact\fs72\bord9\c&HB04352&}A
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(642.003,536.001)\fnImpact\fs72\bord9\c&HB04352&}C
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(672.003,650.001)\fnImpact\fs72\bord9\c&HB04352&}I
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(672.003,772.002)\fnImpact\fs72\bord9\c&HB04352&}N
+Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\pos(658.005,878.001)\fnImpact\fs72\bord9\c&HB04352&}G
 Dialogue: 1,0:09:17.77,0:09:21.28,Default,Kokona,0,0,0,,Wh-What's wrong, you three?
 Dialogue: 0,0:09:21.73,0:09:24.03,Default,Sasuga,0,0,0,,She's coming.
 Dialogue: 0,0:09:24.03,0:09:25.80,Default,Kokona,0,0,0,,Not you too, Sasuga{**-chan}!
-Dialogue: 0,0:09:25.79,0:09:28.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HEA3B53&\fs108\an8}Menacing
+Dialogue: 0,0:09:25.79,0:09:28.29,Signs,Sign,0,0,0,,{\an8\fnImpact\fs108\bord9\c&HEA3B53&}Menacing
 Dialogue: 0,0:09:26.29,0:09:28.29,Default,Kokona,0,0,0,,Wait, everyone's doing it?!
 Dialogue: 0,0:09:28.54,0:09:31.28,Default,Kathrina,0,0,0,,Who are you all talking about?
 Dialogue: 0,0:09:31.61,0:09:33.20,Default,Panda,0,0,0,,Chika Nanase.
@@ -195,7 +195,7 @@ Dialogue: 0,0:10:42.40,0:10:43.41,Default,All,0,0,0,,Yes, ma'am!
 Dialogue: 0,0:10:44.02,0:10:46.11,Default,Niizuma,0,0,0,,Things seem to be taking shape.
 Dialogue: 0,0:10:46.11,0:10:48.16,Default,Shizuka,0,0,0,,They're so motivated...
 Dialogue: 0,0:10:48.50,0:10:50.27,Default,Kokona,0,0,0,,Y-Yeah...
-Dialogue: 0,0:10:54.27,0:10:57.92,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:10:54.27,0:10:57.92,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:10:59.40,0:11:01.15,Default,Panda (Juliet),0,0,0,,I know that voice...
 Dialogue: 0,0:11:01.15,0:11:03.58,Default,Panda (Juliet),0,0,0,,Art thou not Romeo and a Montague?
 Dialogue: 0,0:11:03.58,0:11:07.58,Default,Sasuga (Romeo),0,0,0,,Neither, fair maid, if either thee dislike.
@@ -214,13 +214,13 @@ Dialogue: 0,0:11:53.78,0:11:56.39,Flashback,Young Sasuga,0,0,0,,That cloud looks
 Dialogue: 0,0:11:56.39,0:11:58.79,Flashback,Young Panda,0,0,0,,School's this way, dang it.
 Dialogue: 0,0:11:57.98,0:11:58.79,Overlap,Young Sasuga,0,0,0,,Ah...
 Dialogue: 1,0:11:59.42,0:12:03.92,Default,Panda,0,0,0,,{\i1}So I always had a front-row seat\Nto how impressive she was.
-Dialogue: 0,0:12:00.78,0:12:02.68,Signs,Sign,0,0,0,,{\move(998.001,459.999,998.001,-309.999)\fs60\fnTimes New Roman\shad0\c&H7E8282&\bord0\b1}Elementary School Art Contest
-Dialogue: 0,0:12:02.76,0:12:05.28,Signs,Sign,0,0,0,,{\fad(1120,1)\c&H8A8D95&\fnTimes New Roman\b1\fs48\shad0\3c&HF7FEFE&\pos(1605.999,250.002)}Special Award
-Dialogue: 0,0:12:02.76,0:12:05.28,Signs,Sign,0,0,0,,{\fad(1120,1)\c&H8A8D95&\fnTimes New Roman\fs36\shad0\3c&HF7FEFE&\pos(1627.998,796.002)}Panda Yanagiba
+Dialogue: 0,0:12:00.78,0:12:02.68,Signs,Sign,0,0,0,,{\move(998.001,459.999,998.001,-309.999)\fnTimes New Roman\fs60\b1\bord0\c&H7E8282&}Elementary School Art Contest
+Dialogue: 0,0:12:02.76,0:12:05.28,Signs,Sign,0,0,0,,{\pos(1605.999,250.002)\fnTimes New Roman\fs48\b1\c&H8A8D95&\3c&HF7FEFE&\fad(1120,1)}Special Award
+Dialogue: 0,0:12:02.76,0:12:05.28,Signs,Sign,0,0,0,,{\pos(1627.998,796.002)\fnTimes New Roman\fs36\c&H8A8D95&\3c&HF7FEFE&\fad(1120,1)}Panda Yanagiba
 Dialogue: 0,0:12:06.88,0:12:11.21,Flashback,Young Panda,0,0,0,,Looky, looky, Sassu!\NMy picture got a special award!
-Dialogue: 0,0:12:12.79,0:12:15.79,Signs,Sign,0,0,0,,{\c&H3B4D5F&\fnTimes New Roman\b1\fs48\shad0\3c&HD6FFFD&\move(1956,116.001,1380,112.002)}First Prize
-Dialogue: 0,0:12:12.79,0:12:15.79,Signs,Sign,0,0,0,,{\c&H8A8D95&\fnTimes New Roman\fs42\shad0\3c&HF7FEFE&\move(1967.997,860.001,1391.997,860.001)}Chisa Sasuga
-Dialogue: 0,0:12:15.79,0:12:17.54,Signs,Sign,0,0,0,,{\c&H3B4D5F&\fnTimes New Roman\b1\fs60\shad0\3c&HD6FFFD&\pos(957.999,156)}First Prize
+Dialogue: 0,0:12:12.79,0:12:15.79,Signs,Sign,0,0,0,,{\move(1956,116.001,1380,112.002)\fnTimes New Roman\fs48\b1\c&H3B4D5F&\3c&HD6FFFD&}First Prize
+Dialogue: 0,0:12:12.79,0:12:15.79,Signs,Sign,0,0,0,,{\move(1967.997,860.001,1391.997,860.001)\fnTimes New Roman\fs42\c&H8A8D95&\3c&HF7FEFE&}Chisa Sasuga
+Dialogue: 0,0:12:15.79,0:12:17.54,Signs,Sign,0,0,0,,{\pos(957.999,156)\fnTimes New Roman\fs60\b1\c&H3B4D5F&\3c&HD6FFFD&}First Prize
 Dialogue: 0,0:12:18.36,0:12:19.67,Flashback,Sasuga,0,0,0,,Seriously.
 Dialogue: 0,0:12:24.12,0:12:25.50,Flashback,Sasuga,0,0,0,,Seriously?
 Dialogue: 0,0:12:28.05,0:12:29.56,Flashback,Sasuga,0,0,0,,Seriously?!
@@ -238,9 +238,9 @@ Dialogue: 0,0:13:05.73,0:13:07.96,Flashback,Young Panda,0,0,0,,I'm not talking t
 Dialogue: 0,0:13:07.96,0:13:09.21,Flashback,Young Sasuga,0,0,0,,Why?
 Dialogue: 0,0:13:09.21,0:13:10.67,Flashback,Young Panda,0,0,0,,Because we're rivals!
 Dialogue: 0,0:13:10.67,0:13:11.39,Flashback,Young sasuga,0,0,0,,Oh...
-Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\pos(951.999,188.001)\fnArial\b1\fs48\shad3\c&HFDFFFD&\bord3\3c&H8B6FBB&\4c&HFDFFFD&}Special Theatrical Showcase
-Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\pos(972,558)\fnArial\fs42\shad0\bord0\b1\c&HD4A65E&}SIRIUS Acting Troupe's "Romeo and Juliet"
-Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\fnArial\an1\fs30\shad0\bord0\b1\c&H7F7C8B&\pos(657.999,902.001)}Anyone interested in the attending,\Nplease send a request letter to the Taito Ward Office.
+Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\pos(951.999,188.001)\fnArial\fs48\b1\bord3\shad3\c&HFDFFFD&\3c&H8B6FBB&\4c&HFDFFFD&}Special Theatrical Showcase
+Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\pos(972,558)\fnArial\fs42\b1\bord0\c&HD4A65E&}SIRIUS Acting Troupe's "Romeo and Juliet"
+Dialogue: 0,0:13:15.98,0:13:19.98,Signs,Sign,0,0,0,,{\an1\pos(657.999,902.001)\fnArial\fs30\b1\bord0\c&H7F7C8B&}Anyone interested in the attending,\Nplease send a request letter to the Taito Ward Office.
 Dialogue: 1,0:13:16.36,0:13:17.87,Flashback,Girls,0,0,0,,Wow!
 Dialogue: 1,0:13:17.87,0:13:19.49,Flashback,Girls,0,0,0,,{\i1}Romeo and Juliet{\i0}!
 Dialogue: 1,0:13:19.49,0:13:20.75,Flashback,Girls,0,0,0,,I'm so excited!
@@ -249,10 +249,10 @@ Dialogue: 0,0:13:22.16,0:13:24.24,Flashback,Girl 1,0,0,0,,There's a special thea
 Dialogue: 0,0:13:24.24,0:13:25.87,Flashback,Girl 2,0,0,0,,And SIRIUS is doing it!
 Dialogue: 0,0:13:25.87,0:13:27.77,Flashback,Girl 3,0,0,0,,SIRIUS is great!
 Dialogue: 0,0:13:28.87,0:13:30.52,Flashback,Young Panda,0,0,0,,SIRIUS...
-Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs42\shad0\bord0\c&HAE9EB2&\frz5.11\pos(930,219.999)}Special Theatrical Showcase
-Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs24\shad0\bord0\c&H867C89&\frz5.11\pos(950.001,375.999)}Taito Ward
-Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs24\shad0\bord0\c&H766D5C&\frz5.11\pos(968.004,453.999)}—SIRIUS Acting Troupe—
-Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\b1\fnTimes New Roman\fs60\i1\pos(986.001,720)\shad0\frz7.685\c&HFFEFDE&\3c&H554F44&\4c&H535151&}Romeo {\c&HFFFFFF&\3c&H544E4E&}& {\c&HFCD9FC&\3c&H835F79&}Juliet
+Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\pos(930,219.999)\frz5.11\fnTimes New Roman\fs42\bord0\c&HAE9EB2&}Special Theatrical Showcase
+Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\pos(950.001,375.999)\frz5.11\fnTimes New Roman\fs24\bord0\c&H867C89&}Taito Ward
+Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\pos(968.004,453.999)\frz5.11\fnTimes New Roman\fs24\bord0\c&H766D5C&}—SIRIUS Acting Troupe—
+Dialogue: 0,0:13:31.74,0:13:34.25,Signs,Sign,0,0,0,,{\pos(986.001,720)\frz7.685\fnTimes New Roman\fs60\b1\i1\c&HFFEFDE&\3c&H554F44&\4c&H535151&}Romeo {\c&HFFFFFF&\3c&H544E4E&}& {\c&HFCD9FC&\3c&H835F79&}Juliet
 Dialogue: 0,0:13:34.75,0:13:36.06,Flashback,Young Panda,0,0,0,,I won a ticket.
 Dialogue: 0,0:13:40.79,0:13:44.81,Flashback,Young Panda,0,0,0,,Once I get famous here, \NI'll finally be able to...
 Dialogue: 0,0:13:44.81,0:13:46.50,Flashback,Young sasuga,0,0,0,,Isn't this exciting?
@@ -351,10 +351,10 @@ Dialogue: 0,0:23:08.61,0:23:10.09,Default,Panda,0,0,0,,Hey, Sassu.
 Dialogue: 0,0:23:10.52,0:23:11.44,Default,Sasuga,0,0,0,,Hmm?
 Dialogue: 0,0:23:11.89,0:23:15.71,Default,Panda,0,0,0,,Do you think we measured up\Nto that other performance?
 Dialogue: 0,0:23:16.83,0:23:19.67,Default,Sasuga,0,0,0,,I dunno, but...
-Dialogue: 0,0:23:19.96,0:23:21.96,Signs,Sign,0,0,0,,{\b1\fnTimes New Roman\i1\shad0\c&HC9EFF4&\3c&H53647D&\4c&H535151&\pos(966,207.999)}Romeo & Juliet
-Dialogue: 0,0:23:19.96,0:23:21.96,Signs,Sign,0,0,0,,{\pos(756,500.001)\fnArial\fs36\shad0\frz9.354\c&HC0C3DE&\3c&H2F286C&}Chisa Sasuga
+Dialogue: 0,0:23:19.96,0:23:21.96,Signs,Sign,0,0,0,,{\pos(966,207.999)\fnTimes New Roman\b1\i1\c&HC9EFF4&\3c&H53647D&\4c&H535151&}Romeo & Juliet
+Dialogue: 0,0:23:19.96,0:23:21.96,Signs,Sign,0,0,0,,{\pos(739.23,505.92)\frz9.354\fnNothing You Could Say\fs46\b1\c&HC0C3DE&\3c&H2F286C&\blur0.5}Chisa Sasuga
 Dialogue: 0,0:23:20.79,0:23:24.34,Default,Sasuga,0,0,0,,I think this will make a great memory.
 Dialogue: 0,0:23:26.30,0:23:28.11,Default,Panda,0,0,0,,I hope so.
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Ninth Stage
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}World Dai Star
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\pos(952.401,307.599)\fnTimes New Roman\fs60\bord3\3c&H4B4B4C&\blur6}Ninth Stage
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\an8\pos(958.8,709.2)\fnTimes New Roman\fs90\bord3\3c&H4B4B4C&\blur6}World Dai Star
 Dialogue: 0,0:23:35.73,0:23:38.77,Default,Kokona,0,0,0,,Next time: "World Dai Star."
