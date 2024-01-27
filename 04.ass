@@ -20,7 +20,7 @@ Style: Overlap,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0
 Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Flashback,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,55,1
 Style: Subtitles,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,165,1
-Style: Signs,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -39,8 +39,8 @@ Dialogue: 0,0:02:03.27,0:02:05.88,Default,Shizuka,0,0,0,,"Audience brought to te
 Dialogue: 0,0:02:05.89,0:02:09.08,Signs,Sign,0,0,0,,{\pos(956.307,911.538)\fnArial\fs60\c&H2B243E&\3c&HFDFFFD&\fad(1,160)}The Final Show of SIRIUS's {\i1}The Tale of the Bamboo Cutter{\i0}\NAudience brought to tears by the singing of lead actress Yae Niizuma...
 Dialogue: 0,0:02:06.20,0:02:08.32,Default,Kokona,0,0,0,,{\an8}She was so amazing!
 Dialogue: 0,0:02:08.32,0:02:10.95,Default,Kokona,0,0,0,,{\an8}All the comments are about her, too!
-Dialogue: 0,0:02:09.08,0:02:09.83,Signs,Sign,0,0,0,,{\an4\fnArial\fs48\shad0\c&H2B243E&\3c&HFDFFFD&\fad(170,120)}Yae Niizuma starred in {\i1}The Tale of the Bamboo Cutter{\i0} at SIRIUS's theater in Asakusa.\NAs most readers probably know, SIRIUS is a female acting troupe put together by \Nour country's renowned World Dai Star, Shamo Yamabuki. Their performances regularly sell out,\N and while SIRIUS is gaining national attention, the one who shines the brightest among them\N is Yae Niizuma.
-Dialogue: 0,0:02:09.83,0:02:11.33,Signs,Sign,0,0,0,,{\an4\fnArial\fs48\shad0\c&H2B243E&\3c&HFDFFFD&\fad(120,120)}Niizuma's rendition of Princess Kaguya was delicate, and she put on a fantastic performance\Nthat made the audience feel how strong her will was at times. Her solo during the climax was \Ntruly a highlight, and the whole audience was brought to tears, overwhelmed with emotion\N from Niizuma's song overflowing with her Sense. I definitely saw her potential as a future\N Dai Star as she captivated the audience.
+Dialogue: 0,0:02:09.08,0:02:09.83,Signs,Sign,0,0,0,,{\an4\fnArial\fs48\c&H2B243E&\3c&HFDFFFD&\fad(170,120)}Yae Niizuma starred in {\i1}The Tale of the Bamboo Cutter{\i0} at SIRIUS's theater in Asakusa.\NAs most readers probably know, SIRIUS is a female acting troupe put together by \Nour country's renowned World Dai Star, Shamo Yamabuki. Their performances regularly sell out,\N and while SIRIUS is gaining national attention, the one who shines the brightest among them\N is Yae Niizuma.
+Dialogue: 0,0:02:09.83,0:02:11.33,Signs,Sign,0,0,0,,{\an4\fnArial\fs48\c&H2B243E&\3c&HFDFFFD&\fad(120,120)}Niizuma's rendition of Princess Kaguya was delicate, and she put on a fantastic performance\Nthat made the audience feel how strong her will was at times. Her solo during the climax was \Ntruly a highlight, and the whole audience was brought to tears, overwhelmed with emotion\N from Niizuma's song overflowing with her Sense. I definitely saw her potential as a future\N Dai Star as she captivated the audience.
 Dialogue: 0,0:02:09.85,0:02:10.75,Signs,Sign,0,0,0,,{\an1\pos(317.538,944.769)\fnArial\fs42\c&H2B243E&\3c&HFDFFFD&\fad(280,120)}Yae{**-chan} was amazing in {\i1}The Tale of the Bamboo Cutter{\i0}!
 Dialogue: 0,0:02:10.75,0:02:11.50,Signs,Sign,0,0,0,,{\an1\pos(317.538,944.769)\fnArial\fs42\c&H2B243E&\3c&HFDFFFD&}She really was! I'm definitely catching the next show!
 Dialogue: 0,0:02:11.50,0:02:12.25,Signs,Sign,0,0,0,,{\an1\pos(317.538,944.769)\fnArial\fs42\c&H2B243E&\3c&HFDFFFD&}I cried every time I saw it...
