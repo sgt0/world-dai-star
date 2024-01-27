@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,11 +25,11 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:26.66,0:00:29.97,Default,Theresa,0,0,0,,It's so muggy here in Japan.
-Dialogue: 0,0:00:43.31,0:00:48.64,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:01.01,0:02:06.02,Signs,Sign,0,0,0,,{\fad(2500,1)\fnArial\shad0\fs42\frz5.854\c&H77787A&\3c&HF0F3F2&\pos(400.002,524.001)}Sasuga
-Dialogue: 0,0:02:01.01,0:02:06.02,Signs,Sign,0,0,0,,{\fad(2500,1)\shad0\fnArial\b1\fs42\frz2.168\pos(1503.999,708)\3c&HF2F2F4&\c&H27252C&}Niizuma
-Dialogue: 0,0:02:01.18,0:02:05.89,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H1D1D1D&}World Dai Star
-Dialogue: 0,0:02:06.02,0:02:09.52,Signs,Sign,0,0,0,,{\fs30\fnArial\shad0\bord0\fay-.02\b1\c&HACBBBB&\pos(956.001,556.998)\frz358.5}SIRIUS SENTO
+Dialogue: 0,0:00:43.31,0:00:48.64,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:01.01,0:02:06.02,Signs,Sign,0,0,0,,{\pos(400.002,524.001)\frz5.854\fnArial\fs42\c&H77787A&\3c&HF0F3F2&\fad(2500,1)}Sasuga
+Dialogue: 0,0:02:01.01,0:02:06.02,Signs,Sign,0,0,0,,{\pos(1503.999,708)\frz2.168\fnArial\fs42\b1\c&H27252C&\3c&HF2F2F4&\fad(2500,1)}Niizuma
+Dialogue: 0,0:02:01.18,0:02:05.89,Signs,Sign,0,0,0,,{\an3\pos(1814.799,926.799)\fnTimes New Roman\fs54\bord3\3c&H1D1D1D&\blur6\fad(770,770)}World Dai Star
+Dialogue: 0,0:02:06.02,0:02:09.52,Signs,Sign,0,0,0,,{\pos(956.001,556.998)\frz358.5\fay-0.02\fnArial\fs30\b1\bord0\c&HACBBBB&}SIRIUS SENTO
 Dialogue: 0,0:02:06.91,0:02:09.52,Default,Sasuga,0,0,0,,Okay, I'll be back this evening.
 Dialogue: 0,0:02:09.87,0:02:11.48,Default,Panda,0,0,0,,Don't drown.
 Dialogue: 0,0:02:11.48,0:02:15.36,Default,Sasuga,0,0,0,,I've played a fish before, \Nso I'll be totally fine.
@@ -38,8 +39,8 @@ Dialogue: 0,0:02:22.81,0:02:25.62,Default,Panda,0,0,0,,That girl honestly does e
 Dialogue: 0,0:02:25.96,0:02:28.28,Default,Panda,0,0,0,,She'll come back from a random walk saying,
 Dialogue: 0,0:02:28.77,0:02:32.76,Default,Panda,0,0,0,,"A stranger taught me how\Nto do this thing." Like that.
 Dialogue: 0,0:02:33.19,0:02:36.88,Default,Panda,0,0,0,,The other day, it was pottery,\Nand before that, it was amateur radio.
-Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\fnArial\shad0\fs36\frz5.854\c&H77787A&\3c&HF0F3F2&\pos(492.003,698.001)}Sasuga
-Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\shad0\fnArial\b1\fs36\frz2.168\3c&HF2F2F4&\c&H27252C&\pos(1411.998,855.999)}Niizuma
+Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\pos(492.003,698.001)\frz5.854\fnArial\fs36\c&H77787A&\3c&HF0F3F2&}Sasuga
+Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\pos(1411.998,855.999)\frz2.168\fnArial\fs36\b1\c&H27252C&\3c&HF2F2F4&}Niizuma
 Dialogue: 1,0:02:37.25,0:02:42.00,Default,Panda,0,0,0,,Currently, she's hooked on researching \Nmorning glories and surfing.
 Dialogue: 0,0:02:42.80,0:02:46.63,Default,Shizuka,0,0,0,,I wonder if this is how she \Nprepares for her roles.
 Dialogue: 0,0:02:43.99,0:02:45.17,Overlap,Sasuga,0,0,0,,{\an8}How'd ya like that?
@@ -58,10 +59,10 @@ Dialogue: 0,0:03:44.07,0:03:46.60,Default,Hiiragi,0,0,0,,I feel alive again. Tha
 Dialogue: 0,0:03:46.60,0:03:49.23,Default,Kokona,0,0,0,,Um... What happened?
 Dialogue: 0,0:03:49.98,0:03:51.66,Default,Hiiragi,0,0,0,,It was the strangest thing.
 Dialogue: 1,0:03:51.66,0:03:54.32,Default,Hiiragi,0,0,0,,Those bottles hold a clear liquid, like water,
-Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\fad(3000,1)\fnTimes New Roman\bord3\fs24\shad0\an7\c&H12111D&\3c&H7B8185&\b1\pos(1355.997,373.998)}The Star of\NAsakusa
-Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\fad(3000,1)\fnTimes New Roman\bord3\fs24\shad0\an7\c&H12111D&\3c&H7B8185&\b1\pos(1533.996,361.998)}The Star of\NAsakusa
-Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\fad(3000,1)\fnTimes New Roman\bord3\fs24\shad0\an7\c&H12111D&\3c&H7B8185&\b1\frz242.9\pos(779.997,345.999)}The Star of\NAsakusa
-Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\fad(3000,1)\fnTimes New Roman\bord3\fs24\shad0\an7\c&H12111D&\3c&H606267&\b1\frz74.17\pos(201.996,769.998)}The Star of\NAsakusa
+Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\an7\pos(1355.997,373.998)\fnTimes New Roman\fs24\b1\bord3\c&H12111D&\3c&H7B8185&\fad(3000,1)}The Star of\NAsakusa
+Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\an7\pos(1533.996,361.998)\fnTimes New Roman\fs24\b1\bord3\c&H12111D&\3c&H7B8185&\fad(3000,1)}The Star of\NAsakusa
+Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\an7\pos(779.997,345.999)\frz242.9\fnTimes New Roman\fs24\b1\bord3\c&H12111D&\3c&H7B8185&\fad(3000,1)}The Star of\NAsakusa
+Dialogue: 0,0:03:52.04,0:03:57.34,Signs,Sign,0,0,0,,{\an7\pos(201.996,769.998)\frz74.17\fnTimes New Roman\fs24\b1\bord3\c&H12111D&\3c&H606267&\fad(3000,1)}The Star of\NAsakusa
 Dialogue: 1,0:03:54.32,0:03:56.90,Default,Hiiragi,0,0,0,,yet no matter how much I drink,\NI remain thirsty.
 Dialogue: 0,0:03:57.85,0:03:59.23,Default,Hiiragi,0,0,0,,It just doesn't make sense.
 Dialogue: 0,0:03:59.86,0:04:02.20,Default,Kokona,0,0,0,,Ah, so you drank too much.
@@ -138,7 +139,7 @@ Dialogue: 0,0:07:44.34,0:07:48.35,Default,Theresa,0,0,0,,It'd be a waste to come
 Dialogue: 0,0:07:48.35,0:07:49.60,Default,Shizuka,0,0,0,,Right now?!
 Dialogue: 0,0:07:49.60,0:07:52.75,Default,Theresa,0,0,0,,So with that settled, let's go!
 Dialogue: 0,0:07:53.53,0:07:55.97,Default,Kathrina,0,0,0,,I see you're as pushy as ever.
-Dialogue: 0,0:08:06.13,0:08:08.88,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\c&H694A40&\3c&HEFF5F2&\pos(960,126.801)\b1}Kaminarimon
+Dialogue: 0,0:08:06.13,0:08:08.88,Signs,Sign,0,0,0,,{\pos(960,126.801)\fnTimes New Roman\b1\c&H694A40&\3c&HEFF5F2&}Kaminarimon
 Dialogue: 0,0:08:06.82,0:08:08.89,Default,Theresa,0,0,0,,Okay, smile!
 Dialogue: 0,0:08:11.18,0:08:12.75,Default,Kokona,0,0,0,,Why are we wearing yukatas?
 Dialogue: 0,0:08:12.75,0:08:14.88,Default,Theresa,0,0,0,,Because we look cute in them.
@@ -155,24 +156,24 @@ Dialogue: 0,0:08:45.34,0:08:47.58,Default,Theresa,0,0,0,,Oh, sure!
 Dialogue: 0,0:08:47.58,0:08:48.18,Default,SP,0,0,0,,{\i1}Was{\i0}?
 Dialogue: 0,0:08:48.67,0:08:51.89,Default,Theresa,0,0,0,,As long as you don't mind these \Nfuture Dai Stars joining me!
 Dialogue: 0,0:09:00.52,0:09:01.44,Default,Kokona,0,0,0,,There we go.
-Dialogue: 0,0:09:12.19,0:09:14.70,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs54\shad0\c&H282418&\3c&HE9E2F0&\b1\pos(934.509,190.8)\frz353.5}Asakusa Hanayashiki
-Dialogue: 0,0:09:12.19,0:09:14.70,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs42\fay.1\shad0\c&H23291B&\3c&H7891A5&\b1\pos(933.234,708.435)}Asakusa Gate
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(510,243.999)}Flower
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(1002,237.999)}Flower
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(1362,253.998)}Flower
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(993.999,825.999)}Flower
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(1524,685.998)}Flower
-Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\fnTimes New Roman\shad0\blur12\bord3\fs36\b1\c&H33273A&\3c&H5481BB&\pos(1524,685.998)}Flower
-Dialogue: 0,0:09:25.71,0:09:28.21,Signs,Sign,0,0,0,,{\fnArial\fay-.14\fs30\shad0\pos(640.002,285.999)\3c&H433780&\c&HBEC1D9&}Shooting Gallery
-Dialogue: 0,0:09:25.71,0:09:28.21,Signs,Sign,0,0,0,,{\fnArial\fay-.14\fs36\shad0\3c&HAF5EB5&\c&HD0ADD4&\pos(1162.002,186)\b1}Ring Toss
+Dialogue: 0,0:09:12.19,0:09:14.70,Signs,Sign,0,0,0,,{\pos(934.509,190.8)\frz353.5\fnTimes New Roman\fs54\b1\c&H282418&\3c&HE9E2F0&}Asakusa Hanayashiki
+Dialogue: 0,0:09:12.19,0:09:14.70,Signs,Sign,0,0,0,,{\pos(933.234,708.435)\fay0.1\fnTimes New Roman\fs42\b1\c&H23291B&\3c&H7891A5&}Asakusa Gate
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(510,243.999)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(1002,237.999)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(1362,253.998)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(993.999,825.999)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(1524,685.998)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:23.20,0:09:25.71,Signs,Sign,0,0,0,,{\pos(1524,685.998)\fnTimes New Roman\fs36\b1\bord3\c&H33273A&\3c&H5481BB&\blur12}Flower
+Dialogue: 0,0:09:25.71,0:09:28.21,Signs,Sign,0,0,0,,{\pos(640.002,285.999)\fay-0.14\fnArial\fs30\c&HBEC1D9&\3c&H433780&}Shooting Gallery
+Dialogue: 0,0:09:25.71,0:09:28.21,Signs,Sign,0,0,0,,{\pos(1162.002,186)\fay-0.14\fnArial\fs36\b1\c&HD0ADD4&\3c&HAF5EB5&}Ring Toss
 Dialogue: 0,0:09:39.74,0:09:41.15,Default,Girl,0,0,0,,Over here!
-Dialogue: 0,0:09:45.60,0:09:49.10,Signs,Sign,0,0,0,,{\fs24\fnArial\shad0\bord3\fay-.02\b1\c&HACBBBB&\pos(690,770.997)\frz357.6\3c&H120C02&}SIRIUS SENTO
+Dialogue: 0,0:09:45.60,0:09:49.10,Signs,Sign,0,0,0,,{\pos(690,770.997)\frz357.6\fay-0.02\fnArial\fs24\b1\bord3\c&HACBBBB&\3c&H120C02&}SIRIUS SENTO
 Dialogue: 0,0:09:46.75,0:09:49.10,Default,Niizuma,0,0,0,,They're doing touristy things in Asakusa?
 Dialogue: 0,0:09:49.10,0:09:50.25,Default,Hiiragi,0,0,0,,Yes.
 Dialogue: 0,0:09:50.25,0:09:53.87,Default,Hiiragi,0,0,0,,I imagine Theresa{**-san} is dragging \NKokona and Shizuka around too.
 Dialogue: 0,0:09:53.87,0:09:55.24,Default,Panda,0,0,0,,Oh, it's for real.
 Dialogue: 0,0:09:55.60,0:10:00.36,Default,Panda,0,0,0,,It's trending all over social media. \N"A World Dai Star appears!"
-Dialogue: 0,0:10:00.37,0:10:08.54,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\fs60\an8\c&H1C1A18&\3c&HE5E3E1&\shad0}World Dai Star\N{\fs42}-Yae Niizuma
+Dialogue: 0,0:10:00.37,0:10:08.54,Signs,Sign,0,0,0,,{\an8\fnTimes New Roman\fs60\b1\c&H1C1A18&\3c&HE5E3E1&}World Dai Star\N{\fs42}-Yae Niizuma
 Dialogue: 0,0:10:00.77,0:10:04.06,Default,Niizuma,0,0,0,,I wish I could've met Theresa{**-san}, too.
 Dialogue: 0,0:10:04.06,0:10:07.15,Default,Hiiragi,0,0,0,,She contacted us saying that she \Nwanted a tour of SIRIUS,
 Dialogue: 0,0:10:07.15,0:10:08.55,Default,Hiiragi,0,0,0,,so you can meet her later.
@@ -182,10 +183,10 @@ Dialogue: 0,0:10:14.10,0:10:15.45,Default,Niizuma,0,0,0,,Okay...
 Dialogue: 0,0:10:15.45,0:10:18.71,Default,Panda,0,0,0,,I need to concentrate on my work, too.
 Dialogue: 0,0:10:19.01,0:10:21.51,Default,Panda,0,0,0,,"SIRIUS girls enjoying their day off!"
 Dialogue: 0,0:10:22.41,0:10:25.92,Default,Panda,0,0,0,,Take that, antis! Behold my cuteness!
-Dialogue: 0,0:10:27.48,0:10:30.19,Signs,Sign,0,0,0,,{\fad(1,190)\an1\pos(354,338.001)\shad0\bord0\fnArial\c&H184041&\fs60\b1}Got us some dinner
+Dialogue: 0,0:10:27.48,0:10:30.19,Signs,Sign,0,0,0,,{\an1\pos(354,338.001)\fnLato\fs60\b1\bord0\c&H184041&\blur0.5\fad(1,190)}Got us some dinner
 Dialogue: 0,0:10:28.30,0:10:30.17,Default,Panda,0,0,0,,"Got us some dinner"?
 Dialogue: 0,0:10:31.82,0:10:33.97,Default,Panda,0,0,0,,The heck happened to surfing?
-Dialogue: 0,0:10:34.25,0:10:38.98,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:10:34.25,0:10:38.98,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:10:40.97,0:10:42.50,Default,Theresa,0,0,0,,That was so much fun!
 Dialogue: 0,0:10:42.90,0:10:45.24,Default,Theresa,0,0,0,,Thank you, Kokona and Shizuka.
 Dialogue: 0,0:10:45.83,0:10:46.86,Default,Kokona,0,0,0,,No problem...
@@ -332,7 +333,7 @@ Dialogue: 0,0:20:06.63,0:20:09.24,Default,Theresa,0,0,0,,I'll get you the papers
 Dialogue: 0,0:20:09.24,0:20:12.48,Default,Theresa,0,0,0,,Give me your answer by the \Ntime I leave Japan tomorrow.
 Dialogue: 0,0:20:13.29,0:20:15.72,Default,Theresa,0,0,0,,I'll honor your wishes, no matter what.
 Dialogue: 0,0:20:42.64,0:20:44.12,Default,Kokona,0,0,0,,Kathrina{**-chan}?
-Dialogue: 0,0:20:55.73,0:20:59.98,Signs,Sign,0,0,0,,{\an1\shad0\bord0\fnArial\c&H184041&\fs60\b1\pos(422.001,318)}I'll become a Dai Star at SIRIUS
+Dialogue: 0,0:20:55.73,0:20:59.98,Signs,Sign,0,0,0,,{\an1\pos(422.001,318)\fnLato\fs60\b1\bord0\c&H184041&\blur0.5}I'll become a Dai Star at SIRIUS
 Dialogue: 0,0:22:40.40,0:22:44.26,Default,Kudo,0,0,0,,Our next performance will be \Nour last chance this year
 Dialogue: 0,0:22:44.68,0:22:47.70,Default,Kudo,0,0,0,,to get the World Theatre League\N to recognize a Dai Star.
 Dialogue: 0,0:22:48.18,0:22:52.56,Default,Kudo,0,0,0,,Still, we've never had so much trouble \Ndeciding on our fall show before.
@@ -347,6 +348,6 @@ Dialogue: 0,0:23:12.17,0:23:13.45,Default,Kudo,0,0,0,,What should we do?
 Dialogue: 0,0:23:18.55,0:23:20.45,Default,Hiiragi,0,0,0,,Our upcoming fall production will be...
 Dialogue: 0,0:23:21.44,0:23:23.72,Default,Hiiragi,0,0,0,,{\i1}The Phantom of the Opera{\i0}.
 Dialogue: 0,0:23:25.93,0:23:31.24,Default,Hiiragi,0,0,0,,And we'll be holding auditions\Nfor the role of the Phantom.
-Dialogue: 0,0:23:35.10,0:23:40.09,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Tenth Stage
-Dialogue: 0,0:23:35.10,0:23:40.09,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}Everyone's Phantoms
+Dialogue: 0,0:23:35.10,0:23:40.11,Signs,Sign,0,0,0,,{\pos(952.401,307.599)\fnTimes New Roman\fs60\bord3\3c&H4B4B4C&\blur6}Tenth Stage
+Dialogue: 0,0:23:35.10,0:23:40.11,Signs,Sign,0,0,0,,{\an8\pos(958.8,709.2)\fnTimes New Roman\fs90\bord3\3c&H4B4B4C&\blur6}Everyone's Phantoms
 Dialogue: 0,0:23:35.95,0:23:39.01,Default,Kokona,0,0,0,,Next time: "Everyone's Phantoms."
