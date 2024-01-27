@@ -300,7 +300,7 @@ Dialogue: 0,0:17:34.23,0:17:37.70,Default,Kokona,0,0,0,,How would you perform \N
 Dialogue: 0,0:17:37.70,0:17:38.96,Default,Shizuka,0,0,0,,I would...
 Dialogue: 0,0:17:57.46,0:17:58.87,Default,Hiiragi,0,0,0,,Are you ready?
 Dialogue: 0,0:17:58.87,0:17:59.88,Default,Kokona,0,0,0,,Yes!
-Dialogue: 0,0:17:58.87,0:17:59.88,Default,Kathrina,0,0,0,,Yes.
+Dialogue: 0,0:17:58.87,0:17:59.88,Overlap,Kathrina,0,0,0,,Yes.
 Dialogue: 0,0:17:59.88,0:18:02.21,Default,Panda,0,0,0,,Ooh, so fresh and new!
 Dialogue: 0,0:18:02.21,0:18:07.83,Default,Sasuga,0,0,0,,Kokona came to watch every rehearsal,\Nbut Kathrina didn't come to a single one.
 Dialogue: 0,0:18:07.83,0:18:10.28,Default,Panda,0,0,0,,We barely even saw her at the dorm.
