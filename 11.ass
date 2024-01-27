@@ -163,7 +163,7 @@ Dialogue: 0,0:12:56.97,0:12:58.62,Default,Kokona (Phantom),0,0,0,,I always have 
 Dialogue: 0,0:13:00.66,0:13:05.17,Default,Kokona (Phantom),0,0,0,,I'm walking under the sun\Nwith nothing to hide.
 Dialogue: 0,0:13:07.22,0:13:10.77,Default,Kokona (Phantom),0,0,0,,I can dine out like normal people do.
 Dialogue: 0,0:13:10.76,0:13:13.35,Default,Panda,0,0,0,,{\i1}This is the scene where \NChristine takes off his mask
-Dialogue: 0,0:13:11.17,0:13:14.89,Default,Kokona (Phantom),0,0,0,,{\an8}I go to mass on Sundays and pray to God.
+Dialogue: 0,0:13:11.17,0:13:14.89,Overlap,Kokona (Phantom),0,0,0,,{\an8}I go to mass on Sundays and pray to God.
 Dialogue: 0,0:13:13.35,0:13:16.01,Default,Panda,0,0,0,,{\i1}and he becomes enraged but \Nalso tells her how he feels.
 Dialogue: 0,0:13:16.76,0:13:19.03,Default,Kokona (Phantom),0,0,0,,No matter how unsightly I am...
 Dialogue: 0,0:13:29.21,0:13:32.17,Default,Shizuka,0,0,0,,{\i1}Being on a real stage was blinding.
