@@ -191,7 +191,7 @@ Dialogue: 0,0:10:06.90,0:10:10.75,Flashback,Hiiragi,0,0,0,,It was SIRIUS that sh
 Dialogue: 0,0:10:11.41,0:10:14.87,Flashback,Hiiragi,0,0,0,,Until SIRIUS produces a World Dai Star,
 Dialogue: 0,0:10:14.87,0:10:18.02,Flashback,Hiiragi,0,0,0,,I have no plans to take the stage again.
 Dialogue: 0,0:10:23.78,0:10:27.41,Default,Yae,0,0,0,,{\i1}I want to become a World Dai \NStar as soon as possible.
-Dialogue: 0,0:10:29.04,0:10:34.00,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:10:29.02,0:10:34.03,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:10:37.45,0:10:42.03,Default,Hiiragi,0,0,0,,The changed marks, lighting, \Nmusic cues, and direction...
 Dialogue: 0,0:10:42.29,0:10:44.42,Default,Hiiragi,0,0,0,,You've got it all down now, right?
 Dialogue: 0,0:10:44.95,0:10:46.29,Default,Shizuka,0,0,0,,Kokona!
