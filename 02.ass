@@ -36,7 +36,7 @@ Dialogue: 0,0:00:18.68,0:00:22.11,Default,Shizuka,0,0,0,,They're calling her the
 Dialogue: 0,0:00:22.12,0:00:24.37,Signs,Sign,0,0,0,,{\pos(996,885)\frz329.4\fnArial\fs48\b1\c&HE2C076&\3c&HECECF2&}Future Dai Star {\c&HB06228&}Weekly
 Dialogue: 1,0:00:22.48,0:00:25.23,Default,Kokona,0,0,0,,Wow, that's amazing!
 Dialogue: 0,0:00:31.12,0:00:35.51,Default,Kokona,0,0,0,,Gosh, if only I could share \Nthe stage with her again...
-Dialogue: 0,0:00:35.63,0:00:37.01,Signs,Sign,0,0,0,,{\an8\pos(777,489)\org(777,489)\fscx99.993\fscy97.331\frz47.437\fry-3.364\frx3.41\fax0.303\fnArial\fs24\ybord3.8\c&H280418&\3c&HF3E9E5&}The results of your second audition
+Dialogue: 0,0:00:35.63,0:00:37.01,Signs,Sign,0,0,0,,{\an8\pos(762.19,501.47)\fscx99.993\fscy97.331\frz47.437\fry-3.364\frx3.41\fax0.303\fnLato\fs24\ybord3.8\c&H211D39&\3c&HF3E9E5&\blur0.5}The results of your second audition
 Dialogue: 0,0:00:37.42,0:00:40.50,Default,Shizuka,0,0,0,,K-K-Kokona! You've got mail!\N It's from SIRIUS!
 Dialogue: 0,0:00:42.52,0:00:44.52,Signs,Sign,0,0,0,,{\an7\fnArial\fs42\c&H5D5D5D&\3c&HB0C4E5&\4c&HB0C4E5&}The results of your...\N\N{\3c&HF5F5F3&\4c&HF5F5F3&}Kokona Otori{**-sama},\N\NThank you for participating\Nin a second screening. \NAfter careful deliberation,\Nwe'd like to inform you that\N{\fs60}you have passed {\fs42}our audition.\N\N This is your official notification. \N\N Everyone who has passed will be\Ncontacted with further instructions.\N\N We will reach out separately\Nregarding your schedule.
 Dialogue: 0,0:00:44.52,0:00:46.52,Signs,Sign,0,0,0,,{\pos(1029,399)\fnArial\fs96\b1\c&H282241&\3c&HFDFDFD&\4c&HB0C4E5&}you have passed
