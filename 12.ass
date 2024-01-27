@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +28,7 @@ Dialogue: 0,0:00:13.28,0:00:20.29,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\shad0
 Dialogue: 0,0:00:14.06,0:00:16.68,Default,Niizuma,0,0,0,,The show will start once\Ndress rehearsals are over.
 Dialogue: 0,0:00:16.68,0:00:18.54,Default,Panda,0,0,0,,It's finally upon us.
 Dialogue: 0,0:00:18.54,0:00:20.29,Default,Sasuga,0,0,0,,The big performance.
-Dialogue: 0,0:00:22.00,0:00:23.40,Default,Kokona,0,0,0,,Shizuka-chan...
+Dialogue: 0,0:00:22.00,0:00:23.40,Default,Kokona,0,0,0,,Shizuka{**-chan}...
 Dialogue: 0,0:00:26.31,0:00:28.27,Default,Kathrina,0,0,0,,Have more confidence in yourself.
 Dialogue: 0,0:00:28.27,0:00:31.29,Default,Kathrina,0,0,0,,You beat all of us to \Nbecome the Phantom, Kokona.
 Dialogue: 0,0:00:31.29,0:00:33.55,Default,Panda,0,0,0,,And you've rehearsed like crazy.
@@ -37,7 +38,7 @@ Dialogue: 0,0:00:40.11,0:00:42.96,Default,Kathrina,0,0,0,,"Sorry. Can we do that
 Dialogue: 0,0:00:42.96,0:00:44.59,Default,Sasuga,0,0,0,,It was 23 times.
 Dialogue: 0,0:00:46.72,0:00:50.48,Default,Kathrina,0,0,0,,Let's show the Shizuka that's inside of you
 Dialogue: 0,0:00:50.48,0:00:53.85,Default,Kathrina,0,0,0,,what a waste it'd be to miss \Nout on a production like this.
-Dialogue: 0,0:00:54.20,0:00:55.80,Default,Kokona,0,0,0,,Kathrina-chan...
+Dialogue: 0,0:00:54.20,0:00:55.80,Default,Kokona,0,0,0,,Kathrina{**-chan}...
 Dialogue: 0,0:00:58.67,0:00:59.60,Default,Kokona,0,0,0,,Yeah!
 Dialogue: 0,0:01:02.12,0:01:07.04,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H4B4B4C&}The Two of Us Together
 Dialogue: 0,0:01:08.01,0:01:09.68,Default,Kokona's Mom,0,0,0,,Isn't this exciting, dear?
@@ -109,7 +110,7 @@ Dialogue: 0,0:05:38.60,0:05:44.34,Lyrics,Lyrics,0,0,0,,She sways back and forth
 Dialogue: 0,0:05:39.52,0:05:40.72,Flashback,Sasuga,0,0,0,,That's nonsense.
 Dialogue: 0,0:05:42.45,0:05:43.22,Flashback,Kokona,0,0,0,,Yeah.
 Dialogue: 0,0:05:44.34,0:05:53.85,Lyrics,Lyrics,0,0,0,,In the moonlight, her shining beads \Nof sweat resemble jewels
-Dialogue: 0,0:05:45.19,0:05:47.52,Default,Kokona,0,0,0,,{\i1}Shizuka-chan, I...
+Dialogue: 0,0:05:45.19,0:05:47.52,Default,Kokona,0,0,0,,{\i1}Shizuka{**-chan}, I...
 Dialogue: 0,0:05:48.09,0:05:51.73,Default,Kokona,0,0,0,,{\i1}I have so much I need to tell you.
 Dialogue: 0,0:05:53.85,0:06:02.40,Lyrics,Lyrics,0,0,0,,Pas de chat un deux trois, \Nuntil the day she can shine
 Dialogue: 0,0:06:05.92,0:06:08.06,Default,Terahara (Moncharmin),0,0,0,,Everyone, please stay calm!
@@ -133,11 +134,11 @@ Dialogue: 0,0:07:19.35,0:07:20.16,Default,Niizuma (Christine),0,0,0,,Who are you
 Dialogue: 0,0:07:20.69,0:07:23.69,Default,Kathrina (Raoul),0,0,0,,Christine! Do you remember me?
 Dialogue: 0,0:07:24.72,0:07:27.36,Default,Kathrina (Raoul),0,0,0,,{\an8}Maybe this will refresh your memory...
 Dialogue: 0,0:07:27.84,0:07:30.96,Default,Kathrina (Raoul),0,0,0,,{\an8}I'm the boy who retrieved\Nyour scarf from the ocean.
-Dialogue: 0,0:07:28.78,0:07:34.79,Default,Kokona,0,0,0,,{\i1}I've been able to take the stage because \Nit's where Shizuka-chan saw me off.
+Dialogue: 0,0:07:28.78,0:07:34.79,Default,Kokona,0,0,0,,{\i1}I've been able to take the stage because \Nit's where Shizuka{**-chan} saw me off.
 Dialogue: 0,0:07:31.34,0:07:34.11,Default,Niizuma (Christine),0,0,0,,{\an8}Raoul?! Is that you, Raoul?
 Dialogue: 0,0:07:39.05,0:07:41.58,Default,Niizuma (Christine),0,0,0,,Did you hear something just now?
 Dialogue: 0,0:07:41.58,0:07:43.61,Default,Kathrina (Raoul),0,0,0,,Hmm? No, nothing.
-Dialogue: 0,0:07:47.11,0:07:51.45,Default,Kokona,0,0,0,,{\i1}But I had no idea how Shizuka-chan felt.
+Dialogue: 0,0:07:47.11,0:07:51.45,Default,Kokona,0,0,0,,{\i1}But I had no idea how Shizuka{**-chan} felt.
 Dialogue: 0,0:07:52.20,0:07:54.84,Default,Kokona,0,0,0,,{\i1}So one more time...
 Dialogue: 0,0:07:56.35,0:07:57.73,Default,Kokona (Phantom),0,0,0,,Christine.
 Dialogue: 0,0:07:58.74,0:08:01.56,Default,Kokona (Phantom),0,0,0,,You wanted to see me, didn't you?
@@ -164,7 +165,7 @@ Dialogue: 0,0:08:59.82,0:09:06.95,Lyrics,Lyrics,0,0,0,,My heart commits a taboo,
 Dialogue: 0,0:09:03.05,0:09:06.97,Default,Kudo,0,0,0,,{\i1}Wait... We didn't prepare \Nanything like that.
 Dialogue: 0,0:09:07.26,0:09:10.31,Lyrics,Lyrics,0,0,0,,You are my angel
 Dialogue: 0,0:09:10.31,0:09:15.28,Lyrics,Lyrics,0,0,0,,Two shadows overlap as this melody wavers
-Dialogue: 0,0:09:15.28,0:09:18.89,Default,Niizuma,0,0,0,,{\i1}This feeling... It was the \Nsame way with Theresa-san.
+Dialogue: 0,0:09:15.28,0:09:18.89,Default,Niizuma,0,0,0,,{\i1}This feeling... It was the \Nsame way with Theresa{**-san}.
 Dialogue: 0,0:09:15.28,0:09:19.28,Lyrics,Lyrics,0,0,0,,Until we fall into the abyss
 Dialogue: 0,0:09:19.28,0:09:23.39,Lyrics,Lyrics,0,0,0,,I will swear myself to you for eternity
 Dialogue: 0,0:09:23.39,0:09:26.35,Lyrics,Lyrics,0,0,0,,Even our sins can be hidden
@@ -188,12 +189,12 @@ Dialogue: 0,0:10:36.07,0:10:38.44,Flashback,Kokona,0,0,0,,because he didn't want
 Dialogue: 0,0:10:38.66,0:10:40.98,Flashback,Shizuka,0,0,0,,I don't think that's the only reason.
 Dialogue: 0,0:10:40.98,0:10:46.89,Flashback,Shizuka,0,0,0,,I think he loves spending time with \NChristine and wants to make the most of it.
 Dialogue: 0,0:10:47.33,0:10:50.55,Flashback,Shizuka,0,0,0,,I realized that after hearing\Nyour interpretation of the Phantom.
-Dialogue: 0,0:10:50.97,0:10:53.59,Flashback,Kokona,0,0,0,,You really are amazing, Shizuka-chan!
+Dialogue: 0,0:10:50.97,0:10:53.59,Flashback,Kokona,0,0,0,,You really are amazing, Shizuka{**-chan}!
 Dialogue: 0,0:10:53.59,0:10:56.50,Flashback,Shizuka,0,0,0,,Again, {\i1}you'll{\i0} be the one\Nplaying the part, Kokona.
 Dialogue: 0,0:10:57.30,0:11:00.41,Flashback,Kokona,0,0,0,,Though it'd be the best if we \Ncould perform together.
 Dialogue: 0,0:11:13.95,0:11:15.01,Default,Shizuka,0,0,0,,Kokona...
 Dialogue: 0,0:11:16.02,0:11:21.02,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:11:24.03,0:11:25.36,Default,Kokona,0,0,0,,Shizuka-chan.
+Dialogue: 0,0:11:24.03,0:11:25.36,Default,Kokona,0,0,0,,Shizuka{**-chan}.
 Dialogue: 0,0:11:30.70,0:11:33.37,Default,Shizuka,0,0,0,,Should the Phantom be here?
 Dialogue: 0,0:11:34.42,0:11:38.17,Default,Shizuka,0,0,0,,You're not done yet, but it's \Nbeen a great performance so far.
 Dialogue: 0,0:11:38.17,0:11:41.58,Default,Shizuka,0,0,0,,Far better than when \Nwe rehearsed it together.
@@ -207,9 +208,9 @@ Dialogue: 0,0:12:05.77,0:12:11.82,Default,Kokona,0,0,0,,That's why I forgot abou
 Dialogue: 0,0:12:13.75,0:12:17.66,Default,Kokona,0,0,0,,But I believe now,\Nfrom the bottom of my heart.
 Dialogue: 0,0:12:18.44,0:12:20.84,Default,Kokona,0,0,0,,Because we promised each other.
 Dialogue: 0,0:12:20.84,0:12:24.52,Default,Kokona,0,0,0,,You can't make a promise without two people.
-Dialogue: 0,0:12:26.75,0:12:30.27,Default,Kokona,0,0,0,,You said this was my story, Shizuka-chan...
+Dialogue: 0,0:12:26.75,0:12:30.27,Default,Kokona,0,0,0,,You said this was my story, Shizuka{**-chan}...
 Dialogue: 0,0:12:31.05,0:12:33.34,Default,Kokona,0,0,0,,But it's actually {\i1}our{\i0} story.
-Dialogue: 0,0:12:50.47,0:12:52.39,Default,Kokona,0,0,0,,What do you want to do, Shizuka-chan?
+Dialogue: 0,0:12:50.47,0:12:52.39,Default,Kokona,0,0,0,,What do you want to do, Shizuka{**-chan}?
 Dialogue: 0,0:12:56.33,0:12:59.46,Flashback,Young Kokona,0,0,0,,{\i1}Someday, let's take the stage together!
 Dialogue: 0,0:13:03.36,0:13:05.01,Flashback,Young Kokona,0,0,0,,{\i1}It's a promise.
 Dialogue: 0,0:13:05.01,0:13:05.78,Flashback,Young Shizuka,0,0,0,,{\i1}Yeah.
@@ -305,17 +306,17 @@ Dialogue: 0,0:21:33.06,0:21:34.14,Default,Niizuma,0,0,0,,Nope.
 Dialogue: 0,0:21:36.56,0:21:40.12,Default,Kathrina,0,0,0,,Why did Niizuma get it when Kokona's \Nthe one who played the Phantom?
 Dialogue: 0,0:21:40.51,0:21:44.65,Default,Niizuma,0,0,0,,During the play, I was able to channel \NChristine from the bottom of my heart.
 Dialogue: 0,0:21:44.65,0:21:46.77,Default,Panda,0,0,0,,Yeah, I get that.
-Dialogue: 0,0:21:46.77,0:21:50.88,Default,Panda,0,0,0,,We totally got carried away\Nby Koko-chan's Sense.
+Dialogue: 0,0:21:46.77,0:21:50.88,Default,Panda,0,0,0,,We totally got carried away\Nby Koko{**-chan}'s Sense.
 Dialogue: 0,0:21:50.88,0:21:54.67,Default,Sasuga,0,0,0,,Being in {\i1}The Phantom of \Nthe Opera{\i0} felt real nice.
 Dialogue: 0,0:21:58.14,0:22:00.08,Default,Kathrina,0,0,0,,That's not what I meant.
-Dialogue: 0,0:22:00.52,0:22:03.89,Default,Panda,0,0,0,,Anyway, I mean,\NKoko-chan's already got quite a record.
+Dialogue: 0,0:22:00.52,0:22:03.89,Default,Panda,0,0,0,,Anyway, I mean,\NKoko{**-chan}'s already got quite a record.
 Dialogue: 0,0:22:03.89,0:22:07.22,Default,Panda,0,0,0,,You don't need to get upset on her behalf.
 Dialogue: 0,0:22:07.22,0:22:09.30,Default,Kathrina,0,0,0,,I-I-I'm not doing it for her!
 Dialogue: 0,0:22:09.30,0:22:09.98,Default,Kudo,0,0,0,,Girls!
 Dialogue: 0,0:22:10.67,0:22:12.98,Default,Hiiragi,0,0,0,,We've decided on our next production.
 Dialogue: 0,0:22:12.98,0:22:14.84,Default,Panda,0,0,0,,Will there be another audition?
 Dialogue: 0,0:22:15.08,0:22:18.72,Default,Hiiragi,0,0,0,,If you're overly disappointing, \NI'll fail all of you.
-Dialogue: 0,0:22:18.96,0:22:21.62,Default,Niizuma,0,0,0,,Then would you star instead, Hiiragi-san?
+Dialogue: 0,0:22:18.96,0:22:21.62,Default,Niizuma,0,0,0,,Then would you star instead, Hiiragi{**-san}?
 Dialogue: 0,0:22:21.85,0:22:25.56,Default,Hiiragi,0,0,0,,Well, if you're {\i1}all{\i0} that disappointing...
 Dialogue: 0,0:22:26.36,0:22:29.04,Default,Panda,0,0,0,,Oh, come on. Surely you jest.
 Dialogue: 0,0:22:29.04,0:22:31.68,Default,Panda,0,0,0,,This time, I'm going to be the star!
