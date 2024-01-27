@@ -217,7 +217,7 @@ Dialogue: 0,0:11:45.15,0:11:48.09,Default,Kokona (Aladdin),0,0,0,,They're too bu
 Dialogue: 0,0:11:52.90,0:11:55.61,Default,Kokona (Aladdin),0,0,0,,No one ever sees me.
 Dialogue: 0,0:11:56.25,0:11:59.20,Default,Kokona (Aladdin),0,0,0,,No one even knows my name.
 Dialogue: 0,0:12:02.97,0:12:04.10,Default,Shizuka (Aladdin),0,0,0,,But...
-Dialogue: 0,0:12:02.97,0:12:04.10,Default,Kokona (Aladdin),0,0,0,,But...
+Dialogue: 0,0:12:02.97,0:12:04.10,Overlap,Kokona (Aladdin),0,0,0,,But...
 Dialogue: 0,0:12:04.40,0:12:06.11,Default,Kokona (Aladdin),0,0,0,,I love this city!
 Dialogue: 0,0:12:06.40,0:12:08.22,Default,Kokona (Aladdin),0,0,0,,Everyone's desperate to survive.
 Dialogue: 0,0:12:08.22,0:12:10.16,Default,Kokona (Aladdin),0,0,0,,At night, they all get drunk to the music.
@@ -299,11 +299,11 @@ Dialogue: 0,0:16:38.10,0:16:40.78,Default,Yae,0,0,0,,{\i1}Your performance earli
 Dialogue: 0,0:16:41.09,0:16:44.02,Default,Yae,0,0,0,,{\i1}But I can't let you outshine me on this stage.
 Dialogue: 0,0:16:47.52,0:16:50.63,Default,Kokona (Aladdin),0,0,0,,Wow! You're totally amazing!
 Dialogue: 0,0:16:51.26,0:16:52.13,Default,Yae,0,0,0,,Huh?
-Dialogue: 0,0:16:53.15,0:16:54.69,Default,Kokona (Aladdin),0,0,0,,{\an8}Show me more!
+Dialogue: 0,0:16:53.15,0:16:54.69,Overlap,Kokona (Aladdin),0,0,0,,{\an8}Show me more!
 Dialogue: 0,0:16:53.67,0:16:55.40,Default,Panda,0,0,0,,{\i1}She's not fazed at all.
 Dialogue: 0,0:16:56.08,0:16:59.59,Default,Kathrina,0,0,0,,She's planning to play Aladdin as he is.
 Dialogue: 0,0:16:59.59,0:17:01.35,Default,Sasuga,0,0,0,,My heart just squeed.
-Dialogue: 0,0:17:01.65,0:17:04.41,Default,Kokona (Aladdin),0,0,0,,{\an8}You really surprised me!
+Dialogue: 0,0:17:01.65,0:17:04.41,Overlap,Kokona (Aladdin),0,0,0,,{\an8}You really surprised me!
 Dialogue: 0,0:17:02.31,0:17:05.95,Default,Hiiragi,0,0,0,,{\i1}When Kokona smiles, everyone smiles.
 Dialogue: 0,0:17:07.07,0:17:10.55,Default,Hiiragi,0,0,0,,{\i1}When Kokona speaks, everyone...
 Dialogue: 0,0:17:13.43,0:17:15.84,Default,Yae,0,0,0,,I'm looking forward to it!
@@ -370,7 +370,7 @@ Dialogue: 0,0:21:38.43,0:21:39.70,Default,Kokona,0,0,0,,You were watching?!
 Dialogue: 0,0:21:39.70,0:21:41.97,Default,Sasuga,0,0,0,,Festival time, festival time!
 Dialogue: 0,0:21:41.97,0:21:44.14,Default,Yae,0,0,0,,Oh, I love festivals.
 Dialogue: 0,0:21:44.14,0:21:46.32,Default,Panda,0,0,0,,Festival time! Festival time! Festival time!
-Dialogue: 0,0:21:45.76,0:21:47.25,Default,Kokona,0,0,0,,Fireworks!
+Dialogue: 0,0:21:45.76,0:21:47.25,Overlap,Kokona,0,0,0,,Fireworks!
 Dialogue: 0,0:21:47.25,0:21:49.16,Default,Yae,0,0,0,,They're very pretty.
 Dialogue: 0,0:21:50.13,0:21:52.28,Default,Kokona,0,0,0,,Up they go!
 Dialogue: 0,0:21:52.75,0:21:57.04,Signs,Sign,0,0,0,,{\fad(1680,1)\s1\fs30\fnArial\shad0\frz355.9\pos(1584,195.231)\3c&HEAEEEB&\c&H695CA5&}Aladdin gets nervous{\s0}
