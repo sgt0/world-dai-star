@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +43,7 @@ Dialogue: 0,0:02:47.18,0:02:52.27,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New R
 Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs54\c&H493268&\b1\frz51.42\pos(779.142,426)}Arabian Nights
 Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs54\c&H493268&\b1\pos(206.571,666)\frz93.41}Arabian Nights
 Dialogue: 0,0:02:50.02,0:02:52.27,Signs,Sign,0,0,0,,{\shad0\bord0\fnTimes New Roman\fs54\c&H493268&\b1\frz29.88\pos(1329.429,290.571)\clip(m 1152 279 l 1416 378 1719 177 1560 15)}Arabian Nights
-Dialogue: 0,0:02:50.68,0:02:55.15,Default,Kokona,0,0,0,,"I need to get better for Yae-chan's sake..."
+Dialogue: 0,0:02:50.68,0:02:55.15,Default,Kokona,0,0,0,,"I need to get better for Yae{**-chan}'s sake..."
 Dialogue: 0,0:02:55.15,0:02:58.06,Default,Kokona,0,0,0,,That's all I could think\Nwhile playing Aladdin.
 Dialogue: 0,0:02:58.73,0:03:00.77,Default,Shizuka,0,0,0,,You need to get more familiar with the role.
 Dialogue: 0,0:03:01.02,0:03:02.03,Default,Kokona,0,0,0,,Yeah.
@@ -56,12 +57,12 @@ Dialogue: 0,0:03:13.04,0:03:16.55,Signs,Sign,0,0,0,,{\pos(1616.706,808.893)\org(
 Dialogue: 0,0:03:13.38,0:03:16.55,Default,Reporter,0,0,0,,We'll send you the interview article soon.
 Dialogue: 0,0:03:16.55,0:03:19.25,Default,Yae,0,0,0,,Great. Thank you very much.
 Dialogue: 0,0:03:23.13,0:03:25.94,Default,Hiiragi,0,0,0,,You have so many press requests, \NI hardly know what to do.
-Dialogue: 0,0:03:26.43,0:03:29.31,Default,Yae,0,0,0,,If possible, I'd like to do them\Nwith Kokona-san.
+Dialogue: 0,0:03:26.43,0:03:29.31,Default,Yae,0,0,0,,If possible, I'd like to do them with Kokona{**-san}.
 Dialogue: 0,0:03:29.31,0:03:31.58,Default,Hiiragi,0,0,0,,Now that theater is so mainstream,
 Dialogue: 0,0:03:31.58,0:03:33.75,Default,Hiiragi,0,0,0,,audience-goers are connoisseurs.
 Dialogue: 0,0:03:33.75,0:03:35.24,Default,Hiiragi,0,0,0,,It doesn't matter if you're the lead.
 Dialogue: 0,0:03:35.24,0:03:38.31,Default,Hiiragi,0,0,0,,If an actor has no presence, they vanish.
-Dialogue: 0,0:03:38.80,0:03:41.54,Default,Yae,0,0,0,,It's because Kokona-san is working so hard
+Dialogue: 0,0:03:38.80,0:03:41.54,Default,Yae,0,0,0,,It's because Kokona{**-san} is working so hard
 Dialogue: 0,0:03:41.54,0:03:44.33,Default,Yae,0,0,0,,that I'm able to play the\NGenie the way I want.
 Dialogue: 0,0:03:44.72,0:03:47.54,Default,Hiiragi,0,0,0,,Is it guilt that's making you \Nworry so much about Kokona?
 Dialogue: 0,0:03:47.79,0:03:48.60,Default,Yae,0,0,0,,Huh?
@@ -71,7 +72,7 @@ Dialogue: 0,0:03:57.05,0:03:59.80,Default,Hiiragi,0,0,0,,isn't just rude to your
 Dialogue: 0,0:04:01.29,0:04:04.02,Default,Yae,0,0,0,,You don't need to worry about that.
 Dialogue: 0,0:04:07.80,0:04:12.99,Default,Shizuka,0,0,0,,A kind Aladdin, a powerful \NAladdin, an anxious Aladdin...
 Dialogue: 0,0:04:17.62,0:04:20.76,Default,Shizuka,0,0,0,,I played various versions, \Nso which one felt right?
-Dialogue: 0,0:04:20.76,0:04:23.20,Default,Kokona,0,0,0,,You really are amazing, Shizuka-chan.
+Dialogue: 0,0:04:20.76,0:04:23.20,Default,Kokona,0,0,0,,You really are amazing, Shizuka{**-chan}.
 Dialogue: 0,0:04:23.62,0:04:26.31,Default,Kokona,0,0,0,,If only I could act like that too!
 Dialogue: 0,0:04:26.52,0:04:28.57,Default,Shizuka,0,0,0,,You'll be the one on stage, remember?
 Dialogue: 0,0:04:30.21,0:04:34.71,Default,Shizuka,0,0,0,,Anyway, I guess you'll just have \Nto try various Aladdins for yourself.
@@ -114,7 +115,7 @@ Dialogue: 0,0:06:28.22,0:06:30.94,Default,Kudo,0,0,0,,This'll put the most stres
 Dialogue: 0,0:06:30.94,0:06:33.18,Default,Kudo,0,0,0,,And there's no guarantee it'll go well.
 Dialogue: 0,0:06:33.18,0:06:34.36,Default,Yae,0,0,0,,That's all right.
 Dialogue: 0,0:06:34.65,0:06:36.86,Default,Yae,0,0,0,,I'll figure things out.
-Dialogue: 0,0:06:37.52,0:06:39.03,Default,Kokona,0,0,0,,Yae-chan...
+Dialogue: 0,0:06:37.52,0:06:39.03,Default,Kokona,0,0,0,,Yae{**-chan}...
 Dialogue: 0,0:06:39.70,0:06:41.82,Default,Kathrina,0,0,0,,I'm fine with it too.
 Dialogue: 0,0:06:41.82,0:06:44.58,Default,Kathrina,0,0,0,,Not that I have that many \Nscenes with Aladdin.
 Dialogue: 0,0:06:44.58,0:06:47.41,Default,Sasuga,0,0,0,,I have a lot, but I'm cool with it.
@@ -122,10 +123,10 @@ Dialogue: 0,0:06:47.66,0:06:49.16,Default,Kudo,0,0,0,,You are?
 Dialogue: 0,0:06:50.22,0:06:55.10,Default,Sasuga,0,0,0,,The Leila within me said, "Squee."
 Dialogue: 0,0:06:55.10,0:06:57.79,Default,Panda,0,0,0,,Leila doesn't say, "squee"!
 Dialogue: 0,0:06:57.79,0:07:00.57,Default,Panda,0,0,0,,Well, I'm fine with it too.
-Dialogue: 0,0:07:00.57,0:07:01.80,Default,Kokona,0,0,0,,Panda-chan!
+Dialogue: 0,0:07:00.57,0:07:01.80,Default,Kokona,0,0,0,,Panda{**-chan}!
 Dialogue: 0,0:07:01.80,0:07:06.93,Default,Panda,0,0,0,,It's totally illogical, unprofessional, \Nand a whole mess of trouble...
 Dialogue: 0,0:07:08.21,0:07:10.87,Default,Panda,0,0,0,,But hey, it sounds fun.
-Dialogue: 0,0:07:11.63,0:07:13.83,Default,Panda,0,0,0,,What do you say, Hiiragi-san?
+Dialogue: 0,0:07:11.63,0:07:13.83,Default,Panda,0,0,0,,What do you say, Hiiragi{**-san}?
 Dialogue: 0,0:07:18.60,0:07:19.61,Default,Hiiragi,0,0,0,,Very well.
 Dialogue: 0,0:07:21.63,0:07:24.34,Default,Hiiragi,0,0,0,,But you only get to change up\Nyour performance once.
 Dialogue: 0,0:07:24.34,0:07:27.33,Default,Hiiragi,0,0,0,,Any more would be too much \Nof a burden for everyone else.
@@ -148,7 +149,7 @@ Dialogue: 0,0:08:15.23,0:08:16.67,Default,Kokona,0,0,0,,Uh, okay!
 Dialogue: 0,0:08:17.05,0:08:19.44,Default,Sasuga,0,0,0,,We should get back to rehearsing.
 Dialogue: 0,0:08:19.44,0:08:20.07,Default,Kathrina,0,0,0,,Right.
 Dialogue: 0,0:08:21.33,0:08:22.44,Default,Kathrina,0,0,0,,What's wrong?
-Dialogue: 0,0:08:22.75,0:08:26.62,Default,Panda,0,0,0,,Did Hiiragi-san just... smile?
+Dialogue: 0,0:08:22.75,0:08:26.62,Default,Panda,0,0,0,,Did Hiiragi{**-san} just... smile?
 Dialogue: 0,0:08:33.21,0:08:35.64,Default,Hiiragi,0,0,0,,It took you too long to find the answer.
 Dialogue: 0,0:08:35.64,0:08:36.45,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:08:37.33,0:08:38.41,Default,Hiiragi,0,0,0,,Come in.
@@ -178,7 +179,7 @@ Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs36\b1\an1\shad0\
 Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs36\b1\an1\shad0\bord0\c&H1C1C1B&\frz23.38\pos(550.152,920.769)}Sea Witch
 Dialogue: 0,0:09:24.50,0:09:26.75,Signs,Sign,0,0,0,,{\fnArial\fs36\an1\b1\shad0\bord0\c&H1C1C1B&\pos(936,584.769)\frz15.22}Noa Hiiragi
 Dialogue: 0,0:09:33.63,0:09:36.31,Flashback,Kudo,0,0,0,,Yae, where are you off to in such a rush?
-Dialogue: 0,0:09:36.31,0:09:39.97,Flashback,Yae,0,0,0,,I'm looking for Hiiragi-san! \NI wanted to rehearse with her!
+Dialogue: 0,0:09:36.31,0:09:39.97,Flashback,Yae,0,0,0,,I'm looking for Hiiragi{**-san}! \NI wanted to rehearse with her!
 Dialogue: 0,0:09:42.66,0:09:45.04,Flashback,Shamo,0,0,0,,Are you really going to stay?
 Dialogue: 0,0:09:45.04,0:09:45.90,Flashback,Hiiragi,0,0,0,,Yes.
 Dialogue: 0,0:09:47.59,0:09:50.79,Flashback,Hiiragi,0,0,0,,After this performance, \NI'll step down from the stage.
@@ -206,11 +207,11 @@ Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\fad(900,1)\fnTimes New Rom
 Dialogue: 0,0:11:07.35,0:11:10.19,Signs,Sign,0,0,0,,{\fad(900,1)\fnTimes New Roman\b1\fs36\shad0\c&H4A518B&\3c&H17116D&\frz351.1\pos(713.355,436.338)}Sold Out   Thank You
 Dialogue: 0,0:11:07.59,0:11:10.19,Default,Audience,0,0,0,,That person totally cut in line!
 Dialogue: 0,0:11:10.19,0:11:12.94,Default,Audience,0,0,0,,I'm so glad I made it in time!
-Dialogue: 0,0:11:12.94,0:11:15.18,Default,Audience,0,0,0,,We get to see Yae-chan, right?
+Dialogue: 0,0:11:12.94,0:11:15.18,Default,Audience,0,0,0,,We get to see Yae{**-chan}, right?
 Dialogue: 0,0:11:16.00,0:11:17.19,Default,Audience,0,0,0,,I can't wait!
 Dialogue: 0,0:11:24.23,0:11:26.70,Default,Shizuka,0,0,0,,{\i1}The curtain's rising, Kokona.
 Dialogue: 0,0:11:26.70,0:11:29.39,Default,Kokona,0,0,0,,{\i1}Yeah. I'm fine now.
-Dialogue: 0,0:11:33.56,0:11:35.82,Default,Kokona,0,0,0,,{\i1}Let's go, Shizuka-chan.
+Dialogue: 0,0:11:33.56,0:11:35.82,Default,Kokona,0,0,0,,{\i1}Let's go, Shizuka{**-chan}.
 Dialogue: 0,0:11:42.53,0:11:45.15,Default,Kokona (Aladdin),0,0,0,,The people in this town never look up.
 Dialogue: 0,0:11:45.15,0:11:48.09,Default,Kokona (Aladdin),0,0,0,,They're too busy running their shops.
 Dialogue: 0,0:11:52.90,0:11:55.61,Default,Kokona (Aladdin),0,0,0,,No one ever sees me.
@@ -237,7 +238,7 @@ Dialogue: 0,0:12:49.58,0:12:52.49,Flashback,Kokona,0,0,0,,Um, when you say how t
 Dialogue: 0,0:12:52.78,0:12:55.18,Flashback,Hiiragi,0,0,0,,When you played the Prince \Nfrom {\i1}The Little Mermaid{\i0},
 Dialogue: 0,0:12:55.18,0:12:57.76,Flashback,Hiiragi,0,0,0,,what were you thinking about, Kokona?
 Dialogue: 0,0:12:58.20,0:13:00.32,Flashback,Kokona,0,0,0,,I was just so caught up in the moment...
-Dialogue: 0,0:13:00.32,0:13:03.97,Flashback,Kokona,0,0,0,,I figured that was how Shizuka-chan \Nwould play the part.
+Dialogue: 0,0:13:00.32,0:13:03.97,Flashback,Kokona,0,0,0,,I figured that was how Shizuka{**-chan} \Nwould play the part.
 Dialogue: 0,0:13:04.99,0:13:09.96,Flashback,Hiiragi,0,0,0,,It was a short scene, but you could \Nclearly tell what the Prince was feeling.
 Dialogue: 0,0:13:10.86,0:13:12.75,Flashback,Hiiragi,0,0,0,,If you're just {\i1}playing{\i0} the role,
 Dialogue: 0,0:13:12.75,0:13:15.40,Flashback,Hiiragi,0,0,0,,you can't express\Nwhat a character is feeling.
@@ -306,7 +307,7 @@ Dialogue: 0,0:17:01.65,0:17:04.41,Default,Kokona (Aladdin),0,0,0,,{\an8}You real
 Dialogue: 0,0:17:02.31,0:17:05.95,Default,Hiiragi,0,0,0,,{\i1}When Kokona smiles, everyone smiles.
 Dialogue: 0,0:17:07.07,0:17:10.55,Default,Hiiragi,0,0,0,,{\i1}When Kokona speaks, everyone...
 Dialogue: 0,0:17:13.43,0:17:15.84,Default,Yae,0,0,0,,I'm looking forward to it!
-Dialogue: 0,0:17:39.39,0:17:41.44,Flashback,Kokona,0,0,0,,Yae-chan's flaw?
+Dialogue: 0,0:17:39.39,0:17:41.44,Flashback,Kokona,0,0,0,,Yae{**-chan}'s flaw?
 Dialogue: 0,0:17:41.92,0:17:42.89,Flashback,Hiiragi,0,0,0,,Yes.
 Dialogue: 0,0:17:43.74,0:17:46.09,Flashback,Hiiragi,0,0,0,,No one's realized it yet, though.
 Dialogue: 0,0:17:46.64,0:17:50.14,Flashback,Hiiragi,0,0,0,,Her Sense that allows her to express her \Nemotions to the audience through song
@@ -321,11 +322,11 @@ Dialogue: 0,0:18:22.87,0:18:28.71,Default,Kokona (Aladdin),0,0,0,,Just as you wi
 Dialogue: 0,0:18:30.45,0:18:32.10,Default,Kokona (Aladdin),0,0,0,,It's all thanks to you.
 Dialogue: 0,0:18:33.70,0:18:37.10,Default,Kokona (Aladdin),0,0,0,,If I ever get to see you again...
 Dialogue: 0,0:18:40.47,0:18:44.49,Default,Kokona (Aladdin),0,0,0,,No... No more wishes.
-Dialogue: 0,0:19:19.75,0:19:24.31,Default,Audience A,0,0,0,,Yae-chan's Genie was just like \NI heard. She was super cute!
+Dialogue: 0,0:19:19.75,0:19:24.31,Default,Audience A,0,0,0,,Yae{**-chan}'s Genie was just like \NI heard. She was super cute!
 Dialogue: 0,0:19:20.30,0:19:29.73,Signs,Sign,0,0,0,,{\fnArial\fs42\fay-.16\shad0\c&H5B5B73&\3c&HD7D6F0&\b1\move(2046.462,331.845,1146.462,331.845)}Merchandise Area
 Dialogue: 0,0:19:24.31,0:19:26.97,Default,Audience B,0,0,0,,Right? I think it was \Neven better than before.
 Dialogue: 0,0:19:26.97,0:19:29.73,Default,Audience B,0,0,0,,Especially that last scene \Nwith Aladdin and the Genie!
-Dialogue: 0,0:19:29.96,0:19:34.48,Default,Audience C (little girl),0,0,0,,Um! I'd like a picture of Aladdin... \NOf Kokona Otori-chan, please!
+Dialogue: 0,0:19:29.96,0:19:34.48,Default,Audience C (little girl),0,0,0,,Um! I'd like a picture of Aladdin... \NOf Kokona Otori{**-chan}, please!
 Dialogue: 0,0:19:34.48,0:19:36.98,Signs,Sign,0,0,0,,{\pos(1026.174,886.557)\org(1025.232,886.557)\fscx98.966\fscy97.573\frz-32.584\fry0\frx5.46\fax-0.032\fnArial\fs30\b1\i1\xbord0\ybord0\c&H262234&\3c&HE7E9E9&}T-shirts 2,500 yen
 Dialogue: 1,0:19:34.48,0:19:36.99,Default,Staff,0,0,0,,Here you go. Thank you very much.
 Dialogue: 0,0:19:37.46,0:19:41.58,Default,Audience E,0,0,0,,Was her name Kokona Otori? \NI heard she's new, but she's pretty good.
@@ -336,13 +337,13 @@ Dialogue: 0,0:19:56.10,0:19:58.19,Default,Hiiragi,0,0,0,,If you want to become a
 Dialogue: 0,0:19:58.19,0:20:00.62,Default,Hiiragi,0,0,0,,I don't think you can do it alone.
 Dialogue: 0,0:20:01.48,0:20:04.25,Default,Hiiragi,0,0,0,,Sadly, I realized that too late.
 Dialogue: 0,0:20:08.34,0:20:10.98,Default,Yae,0,0,0,,I'll become one no matter what.
-Dialogue: 0,0:20:10.98,0:20:13.45,Default,Yae,0,0,0,,I'll work together with \NKokona-san and the others.
+Dialogue: 0,0:20:10.98,0:20:13.45,Default,Yae,0,0,0,,I'll work together with \NKokona{**-san} and the others.
 Dialogue: 0,0:20:13.77,0:20:15.25,Default,Yae,0,0,0,,So...
 Dialogue: 0,0:20:15.25,0:20:17.51,Default,Yae,0,0,0,,One day, will you join me again?
 Dialogue: 0,0:20:18.42,0:20:19.54,Default,Hiiragi,0,0,0,,That's...
-Dialogue: 0,0:20:21.37,0:20:23.91,Default,Kokona,0,0,0,,Hiiragi-san... and Yae-chan?!
+Dialogue: 0,0:20:21.37,0:20:23.91,Default,Kokona,0,0,0,,Hiiragi{**-san}... and Yae{**-chan}?!
 Dialogue: 0,0:20:24.65,0:20:25.94,Default,Hiiragi,0,0,0,,Did you need something?
-Dialogue: 0,0:20:25.94,0:20:30.12,Default,Kokona,0,0,0,,Oh, um... Panda-chan said \Nyou'd probably be here.
+Dialogue: 0,0:20:25.94,0:20:30.12,Default,Kokona,0,0,0,,Oh, um... Panda{**-chan} said \Nyou'd probably be here.
 Dialogue: 0,0:20:30.12,0:20:31.68,Default,Kokona,0,0,0,,Am I interrupting something?
 Dialogue: 0,0:20:31.68,0:20:33.43,Default,Hiiragi,0,0,0,,We're done.
 Dialogue: 0,0:20:33.43,0:20:34.53,Default,Hiiragi,0,0,0,,So, what do you need?
@@ -351,16 +352,16 @@ Dialogue: 0,0:20:37.68,0:20:40.41,Default,Kokona,0,0,0,,Thank you for helping me
 Dialogue: 0,0:20:41.36,0:20:43.94,Default,Hiiragi,0,0,0,,Don't be so off the cuff next time.
 Dialogue: 0,0:20:44.23,0:20:45.90,Default,Hiiragi,0,0,0,,It's not good for my heart.
 Dialogue: 0,0:20:45.90,0:20:46.67,Default,Kokona,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:20:47.49,0:20:48.57,Default,Yae,0,0,0,,Kokona-san.
+Dialogue: 0,0:20:47.49,0:20:48.57,Default,Yae,0,0,0,,Kokona{**-san}.
 Dialogue: 0,0:20:48.57,0:20:49.55,Default,Kokona,0,0,0,,Yes?!
 Dialogue: 0,0:20:49.55,0:20:52.14,Default,Yae,0,0,0,,Thank you very much for helping me.
 Dialogue: 0,0:20:52.14,0:20:52.79,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:20:53.07,0:20:55.80,Default,Yae,0,0,0,,Tonight's performance was wonderful.
-Dialogue: 0,0:20:56.97,0:21:01.06,Default,Yae,0,0,0,,I'm looking forward to tomorrow's \Nshow as well, Kokona-san.
+Dialogue: 0,0:20:56.97,0:21:01.06,Default,Yae,0,0,0,,I'm looking forward to tomorrow's \Nshow as well, Kokona{**-san}.
 Dialogue: 0,0:21:02.77,0:21:03.83,Default,Kokona,0,0,0,,Yeah!
-Dialogue: 0,0:21:06.77,0:21:09.07,Default,Kokona,0,0,0,,Whoa, Dugong-chan?!
+Dialogue: 0,0:21:06.77,0:21:09.07,Default,Kokona,0,0,0,,Whoa, Dugong{**-chan}?!
 Dialogue: 0,0:21:09.07,0:21:11.97,Default,Koknoa,0,0,0,,Wh-Wh-What? What?!
-Dialogue: 0,0:21:12.44,0:21:15.84,Default,Yae,0,0,0,,It appears as though Dugong-san \Nenjoyed the performance, too.
+Dialogue: 0,0:21:12.44,0:21:15.84,Default,Yae,0,0,0,,It appears as though Dugong{**-san} \Nenjoyed the performance, too.
 Dialogue: 0,0:21:15.84,0:21:18.08,Default,Kokona,0,0,0,,Is that what this means?
 Dialogue: 0,0:21:29.39,0:21:32.18,Default,Kathrina,0,0,0,,Hey! Now the fireworks have started!
 Dialogue: 0,0:21:32.18,0:21:35.38,Default,Panda,0,0,0,,Come on! You know that \Nwas too awkward to butt in!
