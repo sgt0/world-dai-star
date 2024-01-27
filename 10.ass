@@ -25,14 +25,14 @@ Style: Signs,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.39,0:00:05.96,Default,Hiiragi,0,0,0,,We'll be holding auditions for the Phantom.
-Dialogue: 0,0:00:03.02,0:00:06.40,Signs,Sign,0,0,0,,{\fnArial\fs60\b1\fay.17\shad0\bord0\c&H3B3C3E&\move(1039.386,-292.845,1039.386,400.155)}Do not open
+Dialogue: 0,0:00:03.02,0:00:06.40,Signs,Sign,0,0,0,,{\move(1039.386,-292.845,1039.386,400.155)\fay0.17\fnHannaHandwriting\fs160\b1\bord0\c&H3B3C3E&\blur0.5}Do not open
 Dialogue: 0,0:00:06.41,0:00:10.01,Default,Hiiragi,0,0,0,,This time, everyone here will \Nget a shot at the role.
 Dialogue: 0,0:00:10.34,0:00:13.14,Default,Terahara,0,0,0,,The Phantom... She means {\i1}the{\i0} Phantom, right?
 Dialogue: 0,0:00:13.14,0:00:16.32,Default,Kamiyashiki,0,0,0,,I can't do it. There's no way\N I can play that role.
 Dialogue: 0,0:00:16.32,0:00:18.33,Default,Hiiragi,0,0,0,,Anyone who wants to try for the Phantom—
 Dialogue: 0,0:00:18.33,0:00:19.48,Default,Panda,0,0,0,,Hiiragi{**-san}!
 Dialogue: 0,0:00:20.16,0:00:22.66,Default,Panda,0,0,0,,I want to audition!
-Dialogue: 0,0:00:24.66,0:00:29.02,Default,Panda,0,0,0,,{\i1}{\i0}The Phantom of the Opera{\i1} is one of \NSIRIUS's trademark productions.
+Dialogue: 0,0:00:24.66,0:00:29.02,Default,Panda,0,0,0,,The Phantom of the Opera{\i1} is one of \NSIRIUS's trademark productions.
 Dialogue: 0,0:00:29.02,0:00:32.30,Default,Panda,0,0,0,,{\i1}I can't pass up on an opportunity like this!
 Dialogue: 0,0:00:32.30,0:00:34.38,Default,Sasuga,0,0,0,,If Panda's in, so am I.
 Dialogue: 0,0:00:35.16,0:00:37.97,Default,Kathrina,0,0,0,,Naturally, I'll be auditioning too.
@@ -52,11 +52,11 @@ Dialogue: 0,0:01:12.66,0:01:14.54,Default,Hiiragi,0,0,0,,I guess that's our pool
 Dialogue: 0,0:01:14.54,0:01:15.72,Default,Kokona,0,0,0,,Please wait!
 Dialogue: 0,0:01:18.42,0:01:20.15,Default,Kokona,0,0,0,,I'd also like a chance
 Dialogue: 0,0:01:20.56,0:01:21.74,Default,Kokona,0,0,0,,to be the Phantom!
-Dialogue: 0,0:01:35.32,0:01:40.66,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
-Dialogue: 0,0:02:53.27,0:02:57.99,Signs,Sign,0,0,0,,{\fad(770,770)\fnTimes New Roman\an3\fs54\blur6\bord3\shad0\pos(1814.799,926.799)\3c&H4B4B4C&}Everyone's Phantoms
+Dialogue: 0,0:01:35.32,0:01:40.66,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)\t(\fs114)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:02:53.27,0:02:57.99,Signs,Sign,0,0,0,,{\an3\pos(1814.799,926.799)\fnTimes New Roman\fs54\bord3\3c&H4B4B4C&\blur6\fad(770,770)}Everyone's Phantoms
 Dialogue: 0,0:02:54.56,0:02:59.79,Default,Hiiragi,0,0,0,,Panda, Chisa, Yae, Kathrina, Kokona.
 Dialogue: 0,0:03:00.06,0:03:02.57,Default,Hiiragi,0,0,0,,You five will be auditioning.
-Dialogue: 0,0:03:02.91,0:03:04.91,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1255.692,221.844)\frz336.6\fax-.15}The Phantom of the Opera
+Dialogue: 0,0:03:02.91,0:03:04.91,Signs,Sign,0,0,0,,{\an8\pos(1255.692,221.844)\frz336.6\fax-0.15\fnTimes New Roman\fs60\b1\bord0\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
 Dialogue: 0,0:03:03.60,0:03:05.65,Default,Kudo,0,0,0,,We'll then decide the supporting roles
 Dialogue: 0,0:03:05.65,0:03:08.13,Default,Kudo,0,0,0,,based around the one playing the lead.
 Dialogue: 0,0:03:10.22,0:03:12.35,Default,Hiiragi,0,0,0,,The audition will be in a week.
@@ -72,9 +72,9 @@ Dialogue: 0,0:03:32.30,0:03:33.23,Default,Kokona,0,0,0,,Huh?
 Dialogue: 0,0:03:33.73,0:03:38.47,Default,Shizuka,0,0,0,,Don't worry about me.\NI'll review the script in the meantime.
 Dialogue: 0,0:03:38.47,0:03:39.30,Default,Kokona,0,0,0,,Okay.
 Dialogue: 0,0:03:39.68,0:03:41.29,Default,Kokona,0,0,0,,I'll see you in a bit, then.
-Dialogue: 0,0:03:39.86,0:03:42.45,Signs,Sign,0,0,0,,{\fad(610,1)\an8\shad0\bord0\fs54\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1121.694,235.845)}The Phantom of the Opera
-Dialogue: 0,0:03:42.45,0:03:44.95,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs30\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(1477.695,819.843)\frz0.7267}The Phantom of the Opera
-Dialogue: 0,0:03:46.45,0:03:48.20,Signs,Sign,0,0,0,,{\fad(610,1)\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\frz9.839\pos(849.696,245.847)}The Phantom of the Opera
+Dialogue: 0,0:03:39.86,0:03:42.45,Signs,Sign,0,0,0,,{\an8\pos(1121.694,235.845)\fnTimes New Roman\fs54\b1\bord0\c&H2E2748&\3c&H9291D1&\fad(610,1)}The Phantom of the Opera
+Dialogue: 0,0:03:42.45,0:03:44.95,Signs,Sign,0,0,0,,{\an8\pos(1477.695,819.843)\frz0.727\fnTimes New Roman\fs30\b1\bord0\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
+Dialogue: 0,0:03:46.45,0:03:48.20,Signs,Sign,0,0,0,,{\pos(849.696,245.847)\frz9.839\fnTimes New Roman\fs60\b1\bord0\c&H2E2748&\3c&H9291D1&\fad(610,1)}The Phantom of the Opera
 Dialogue: 0,0:03:55.95,0:03:58.41,Default,Kokona,0,0,0,,What did you want to \Ntalk about, Kathrina{**-chan}?
 Dialogue: 0,0:03:58.88,0:04:02.25,Default,Kathrina,0,0,0,,Kokona. How do you see me?
 Dialogue: 0,0:04:02.25,0:04:05.06,Default,Kokona,0,0,0,,Huh? How do I see you?
@@ -134,7 +134,7 @@ Dialogue: 0,0:08:07.29,0:08:11.54,Default,Shizuka,0,0,0,,I am but a shadow. A hi
 Dialogue: 0,0:08:19.67,0:08:21.02,Default,Shizuka,0,0,0,,Yae{**-chan}?
 Dialogue: 0,0:08:21.56,0:08:24.19,Default,Niizuma,0,0,0,,The Phantom's étude of rage...
 Dialogue: 0,0:08:24.19,0:08:25.57,Default,Niizuma,0,0,0,,That was magnificent.
-Dialogue: 0,0:08:26.69,0:08:32.32,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs60\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\fax-.2\frz351.2\move(1137,711,1137,207)}The Phantom of the Opera
+Dialogue: 0,0:08:26.69,0:08:32.32,Signs,Sign,0,0,0,,{\an8\move(1137,711,1137,207)\frz351.2\fax-0.2\fnTimes New Roman\fs60\b1\bord0\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
 Dialogue: 0,0:08:27.12,0:08:32.07,Default,Niizuma,0,0,0,,We've only just received the scripts,\Nyet you're already so into the role.
 Dialogue: 0,0:08:32.60,0:08:34.81,Default,Niizuma,0,0,0,,I must say, I'm a bit jealous.
 Dialogue: 0,0:08:35.01,0:08:38.26,Default,Shizuka,0,0,0,,It's no big deal.\NI've still got a ways to go.
@@ -151,7 +151,7 @@ Dialogue: 0,0:09:16.69,0:09:18.08,Default,Niizuma,0,0,0,,I see...
 Dialogue: 0,0:09:21.34,0:09:25.20,Default,Niizuma,0,0,0,,Would you mind reading some lines with me?
 Dialogue: 0,0:09:25.20,0:09:26.07,Default,Shizuka,0,0,0,,Huh?
 Dialogue: 0,0:09:27.30,0:09:30.72,Default,Niizuma,0,0,0,,I suddenly feel like I want to be\N in this production with you.
-Dialogue: 0,0:09:32.96,0:09:35.22,Signs,Sign,0,0,0,,{\shad0\bord0\fs54\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(718.836,888.987)\frz160.5\fax-.15}The Phantom of the Opera
+Dialogue: 0,0:09:32.96,0:09:35.22,Signs,Sign,0,0,0,,{\pos(718.836,888.987)\frz160.5\fax-0.15\fnTimes New Roman\fs54\b1\bord0\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
 Dialogue: 0,0:09:37.05,0:09:37.96,Default,Shizuka,0,0,0,,Sure.
 Dialogue: 0,0:09:39.18,0:09:40.88,Default,Shizuka,0,0,0,,If you think I can do it.
 Dialogue: 0,0:09:44.22,0:09:49.78,Default,Panda,0,0,0,,The Phantom and Raoul both fall for Christine,\N and she doesn't know what to do!
@@ -160,8 +160,8 @@ Dialogue: 0,0:09:52.63,0:09:55.61,Default,Sasuga,0,0,0,,I thought you wanted to 
 Dialogue: 0,0:09:55.61,0:09:59.47,Default,Panda,0,0,0,,I do, but it'd also be fun to play Christine.
 Dialogue: 0,0:09:59.47,0:10:02.45,Default,Panda,0,0,0,,We only got bit roles\Nthe last time we did this show.
 Dialogue: 0,0:10:02.45,0:10:05.59,Default,Sasuga,0,0,0,,We were just nameless ensemble characters.
-Dialogue: 0,0:10:05.58,0:10:06.83,Signs,Sign,0,0,0,,{\an8\shad0\bord3\fnTimes New Roman\c&H2E2748&\b1\pos(939.693,175.845)\3c&H9291D1&}The Phantom of the Opera
-Dialogue: 0,0:10:06.83,0:10:25.05,Signs,Sign,0,0,0,,{\an8\shad0\bord0\fs30\fnTimes New Roman\c&H2E2748&\b1\3c&H9291D1&\pos(348.924,731.538)}The Phantom of the Opera
+Dialogue: 0,0:10:05.58,0:10:06.83,Signs,Sign,0,0,0,,{\an8\pos(939.693,175.845)\fnTimes New Roman\b1\bord3\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
+Dialogue: 0,0:10:06.83,0:10:25.05,Signs,Sign,0,0,0,,{\an8\pos(348.924,731.538)\fnTimes New Roman\fs30\b1\bord0\c&H2E2748&\3c&H9291D1&}The Phantom of the Opera
 Dialogue: 1,0:10:07.08,0:10:11.80,Default,Sasuga,0,0,0,,Playing the lead is nice, but the supporting\Nroles in the SIRIUS version are good too.
 Dialogue: 1,0:10:11.80,0:10:13.15,Default,Panda,0,0,0,,I know, right?
 Dialogue: 1,0:10:13.15,0:10:17.33,Default,Panda,0,0,0,,In the original story, the ballerina \NSorelli doesn't stand out too much,
@@ -175,10 +175,10 @@ Dialogue: 0,0:10:37.28,0:10:39.74,Default,Panda,0,0,0,,I think you'd be a decent
 Dialogue: 0,0:10:39.74,0:10:41.85,Default,Panda,0,0,0,,It's basically a storyteller-type role,
 Dialogue: 0,0:10:41.85,0:10:45.65,Default,Panda,0,0,0,,and you're really convincing when \Nyou're on the stage by yourself.
 Dialogue: 0,0:10:47.57,0:10:49.38,Default,Panda and Sasuga,0,0,0,,Hmm...
-Dialogue: 0,0:10:51.08,0:10:56.96,Signs,Sign,0,0,0,,{\an9\pos(1477.361,46.922)\org(1467.693,163.845)\fscx99.459\fscy98.815\frz5.721\fry-2.682\frx-2.706\fax-0.082\fnArial\fs84\b1\xbord3.88\ybord3.85\c&H040400&\3c&HF4F3F1&}Audition for the Phantom role\Nin 7 days!!
+Dialogue: 0,0:10:51.08,0:10:56.96,Signs,Sign,0,0,0,,{\an9\pos(1310.37,65.76)\org(1467.693,163.845)\fscx99.459\fscy98.815\frz5.721\fry-2.682\frx-2.706\fax-0.082\fnHannaHandwriting\fs100\b1\xbord3.88\ybord3.85\c&H040400&\3c&HF4F3F1&\blur0.5}Audition for the Phantom role\Nin 7 days!!
 Dialogue: 0,0:10:51.33,0:10:55.20,Default,Panda,0,0,0,,We were supposed to be \Nthinking about the Phantom.
 Dialogue: 0,0:10:55.20,0:10:56.24,Default,Sasuga,0,0,0,,Yeah.
-Dialogue: 0,0:10:56.96,0:11:01.96,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscx100\fscy99.662\frx-1.67\fax0\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
+Dialogue: 0,0:10:56.97,0:11:01.97,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(964.368,386.907)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:11:07.00,0:11:08.73,Default,Niizuma,0,0,0,,I guess that about does it.
 Dialogue: 0,0:11:08.73,0:11:10.82,Default,Shizuka,0,0,0,,I feel like I'm starting to see it.
 Dialogue: 0,0:11:10.82,0:11:13.62,Default,Niizuma,0,0,0,,I think I'm starting to get the role, too.
@@ -333,6 +333,6 @@ Dialogue: 0,0:21:46.18,0:21:47.92,Default,Kokona,0,0,0,,We can go after the audi
 Dialogue: 0,0:21:47.92,0:21:49.25,Default,Shizuka,0,0,0,,It has to be right now.
 Dialogue: 0,0:21:51.82,0:21:52.66,Default,Kokona,0,0,0,,Shizuka{**-chan}?
 Dialogue: 0,0:21:56.61,0:21:58.63,Default,Shizuka,0,0,0,,I have to tell you something important.
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\fs60\blur6\bord3\shad0\3c&H4B4B4C&\pos(952.401,307.599)}Eleventh Stage
-Dialogue: 0,0:23:34.97,0:23:39.97,Signs,Sign,0,0,0,,{\fnTimes New Roman\an8\blur6\bord3\fs90\shad0\3c&H4B4B4C&\pos(958.8,709.2)}Our Promise
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\pos(952.401,307.599)\fnTimes New Roman\fs60\bord3\3c&H4B4B4C&\blur6}Eleventh Stage
+Dialogue: 0,0:23:34.98,0:23:39.98,Signs,Sign,0,0,0,,{\an8\pos(958.8,709.2)\fnTimes New Roman\fs90\bord3\3c&H4B4B4C&\blur6}Our Promise
 Dialogue: 0,0:23:36.22,0:23:39.34,Default,Kokona,0,0,0,,Next time: "Our Promise."
