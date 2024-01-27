@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -33,7 +33,7 @@ Dialogue: 0,0:02:06.91,0:02:09.52,Default,Sasuga,0,0,0,,Okay, I'll be back this 
 Dialogue: 0,0:02:09.87,0:02:11.48,Default,Panda,0,0,0,,Don't drown.
 Dialogue: 0,0:02:11.48,0:02:15.36,Default,Sasuga,0,0,0,,I've played a fish before, \Nso I'll be totally fine.
 Dialogue: 0,0:02:15.76,0:02:18.64,Default,Shizuka,0,0,0,,I'm not sure what to make of that...
-Dialogue: 0,0:02:20.09,0:02:22.81,Default,Kokona,0,0,0,,So Sasuga-chan's into surfing?
+Dialogue: 0,0:02:20.09,0:02:22.81,Default,Kokona,0,0,0,,So Sasuga{**-chan}'s into surfing?
 Dialogue: 0,0:02:22.81,0:02:25.62,Default,Panda,0,0,0,,That girl honestly does everything.
 Dialogue: 0,0:02:25.96,0:02:28.28,Default,Panda,0,0,0,,She'll come back from a random walk saying,
 Dialogue: 0,0:02:28.77,0:02:32.76,Default,Panda,0,0,0,,"A stranger taught me how\Nto do this thing." Like that.
@@ -50,7 +50,7 @@ Dialogue: 0,0:02:58.30,0:03:01.92,Default,Panda,0,0,0,,and SIRIUS is on break un
 Dialogue: 0,0:03:05.00,0:03:08.80,Default,Panda,0,0,0,,All righty! Another day of checking \Nout the chatter about us on the net!
 Dialogue: 0,0:03:08.80,0:03:13.86,Default,Panda,0,0,0,,Gotta make sure none\Nof those anti-fans get popular!
 Dialogue: 0,0:03:16.54,0:03:20.96,Default,Shizuka,0,0,0,,I've been thinking about this for a while,\N but Panda's kinda dangerous.
-Dialogue: 0,0:03:25.33,0:03:29.13,Default,Kokona,0,0,0,,Hiiragi-san? Good morn...
+Dialogue: 0,0:03:25.33,0:03:29.13,Default,Kokona,0,0,0,,Hiiragi{**-san}? Good morn...
 Dialogue: 0,0:03:30.83,0:03:32.19,Default,Kokona and Shizuka,0,0,0,,What?!
 Dialogue: 0,0:03:32.77,0:03:35.68,Default,Hiiragi,0,0,0,,W-Water...
 Dialogue: 0,0:03:36.02,0:03:38.27,Default,Kokona and Shizuka,0,0,0,,What?!
@@ -69,7 +69,7 @@ Dialogue: 0,0:04:02.20,0:04:04.77,Default,Shizuka,0,0,0,,Now that you mention it
 Dialogue: 0,0:04:04.77,0:04:06.67,Default,Shizuka,0,0,0,,Kokona, let's get some air in here!
 Dialogue: 0,0:04:06.67,0:04:07.59,Default,Kokona,0,0,0,,Right!
 Dialogue: 0,0:04:11.99,0:04:16.45,Default,Hiiragi,0,0,0,,I heard that you've been visiting \Nvarious troupes these past few days.
-Dialogue: 0,0:04:16.45,0:04:19.73,Default,Kokona,0,0,0,,I have! I've been visiting an improv \Ntroupe with Kathrina-chan
+Dialogue: 0,0:04:16.45,0:04:19.73,Default,Kokona,0,0,0,,I have! I've been visiting an improv \Ntroupe with Kathrina{**-chan}
 Dialogue: 0,0:04:19.73,0:04:21.78,Default,Kokona,0,0,0,,where we can participate on the fly.
 Dialogue: 0,0:04:22.31,0:04:24.78,Default,Kokona,0,0,0,,We're actually going again today.
 Dialogue: 0,0:04:25.90,0:04:27.15,Default,Hiiragi,0,0,0,,That sounds fun.
@@ -78,14 +78,14 @@ Dialogue: 0,0:04:28.49,0:04:32.32,Default,Kokona,0,0,0,,Ever since {\i1}Arabian 
 Dialogue: 0,0:04:32.80,0:04:35.21,Default,Kokona,0,0,0,,It's just so much fun!
 Dialogue: 0,0:04:35.21,0:04:36.84,Default,Niizuma,0,0,0,,Must be nice...
 Dialogue: 0,0:04:38.39,0:04:42.88,Default,Niizuma,0,0,0,,If I didn't have summer vacation \Nhomework, I could've joined you...
-Dialogue: 0,0:04:42.88,0:04:44.05,Default,Kokona,0,0,0,,Yae-chan?!
+Dialogue: 0,0:04:42.88,0:04:44.05,Default,Kokona,0,0,0,,Yae{**-chan}?!
 Dialogue: 0,0:04:44.26,0:04:45.89,Default,Hiiragi,0,0,0,,What homework do you have today?
-Dialogue: 0,0:04:45.89,0:04:49.71,Default,Niizuma,0,0,0,,It's calligraphy, so I came by \Nto have Shamo-san teach me.
+Dialogue: 0,0:04:45.89,0:04:49.71,Default,Niizuma,0,0,0,,It's calligraphy, so I came by \Nto have Shamo{**-san} teach me.
 Dialogue: 0,0:04:49.71,0:04:54.46,Default,Niizuma,0,0,0,,Tomorrow, I have sewing for home ec. \NThe day after that, I have kanji drills...
 Dialogue: 0,0:04:55.90,0:04:58.39,Default,Shizuka,0,0,0,,I guess grade-schoolers\Nhave their own troubles.
-Dialogue: 0,0:05:04.48,0:05:07.19,Default,Kokona,0,0,0,,Kathrina-chan! We should get going.
+Dialogue: 0,0:05:04.48,0:05:07.19,Default,Kokona,0,0,0,,Kathrina{**-chan}! We should get going.
 Dialogue: 0,0:05:07.54,0:05:08.37,Default,Kathrina,0,0,0,,No way!
-Dialogue: 0,0:05:08.37,0:05:10.88,Default,Kokona,0,0,0,,What's up, Kathrina-chan?
+Dialogue: 0,0:05:08.37,0:05:10.88,Default,Kokona,0,0,0,,What's up, Kathrina{**-chan}?
 Dialogue: 0,0:05:10.88,0:05:12.36,Default,Shizuka,0,0,0,,Is something the matter?
 Dialogue: 0,0:05:12.61,0:05:17.87,Default,Kathrina,0,0,0,,M-My mama just said... she's in Asakusa.
 Dialogue: 0,0:05:18.19,0:05:19.22,Default,Kokona,0,0,0,,Mama?
@@ -111,14 +111,14 @@ Dialogue: 0,0:06:06.69,0:06:07.30,Default,Shizuka,0,0,0,,Huh?!
 Dialogue: 0,0:06:07.78,0:06:11.88,Default,Theresa,0,0,0,,You can touch her and she can talk...\N Is she really a Sense?
 Dialogue: 0,0:06:11.88,0:06:13.54,Default,Shizuka,0,0,0,,U-Um...
 Dialogue: 0,0:06:20.29,0:06:21.21,Default,Kathrina,0,0,0,,Mama?!
-Dialogue: 0,0:06:21.21,0:06:22.61,Default,Kokona,0,0,0,,Theresa-san?!
+Dialogue: 0,0:06:21.21,0:06:22.61,Default,Kokona,0,0,0,,Theresa{**-san}?!
 Dialogue: 0,0:06:23.58,0:06:27.56,Default,Theresa,0,0,0,,Oh, I'm sorry. I was just so curious.
 Dialogue: 0,0:06:27.82,0:06:31.65,Default,Theresa,0,0,0,,What a curious Sense. \NWill wonders never cease?
-Dialogue: 0,0:06:36.65,0:06:37.67,Default,Kokona,0,0,0,,Dugong-chan?
+Dialogue: 0,0:06:36.65,0:06:37.67,Default,Kokona,0,0,0,,Dugong{**-chan}?
 Dialogue: 0,0:06:38.19,0:06:39.92,Default,Theresa,0,0,0,,Who's this little one?
 Dialogue: 0,0:06:39.92,0:06:44.41,Default,Kokona,0,0,0,,Um... sort of a pet that belongs to SIRIUS.\NMaybe more like a mascot.
-Dialogue: 0,0:06:44.82,0:06:46.26,Default,Kokona,0,0,0,,Meet Dugong-chan.
-Dialogue: 0,0:06:48.39,0:06:51.92,Default,Kokona,0,0,0,,Dugong-chan tagged along when we \Nsaid we'd be meeting you.
+Dialogue: 0,0:06:44.82,0:06:46.26,Default,Kokona,0,0,0,,Meet Dugong{**-chan}.
+Dialogue: 0,0:06:48.39,0:06:51.92,Default,Kokona,0,0,0,,Dugong{**-chan} tagged along when we \Nsaid we'd be meeting you.
 Dialogue: 0,0:06:52.23,0:06:55.32,Default,Kathrina,0,0,0,,Be careful. That rodent bites.
 Dialogue: 0,0:06:55.32,0:06:56.51,Default,Theresa,0,0,0,,I see...
 Dialogue: 0,0:07:09.58,0:07:11.66,Default,Theresa,0,0,0,,I guess the little critter likes me!
@@ -150,7 +150,7 @@ Dialogue: 0,0:08:27.40,0:08:29.90,Default,Kokona,0,0,0,,Well, if you want the \N
 Dialogue: 0,0:08:30.48,0:08:31.37,Default,Kokona,0,0,0,,This!
 Dialogue: 0,0:08:32.24,0:08:34.66,Subtitles,Sign,0,0,0,,How traditional!
 Dialogue: 0,0:08:39.66,0:08:41.15,Default,Theresa,0,0,0,,Goemon!
-Dialogue: 0,0:08:42.01,0:08:45.03,Default,Fan,0,0,0,,Theresa-san! Can I get a picture, please?
+Dialogue: 0,0:08:42.01,0:08:45.03,Default,Fan,0,0,0,,Theresa{**-san}! Can I get a picture, please?
 Dialogue: 0,0:08:45.34,0:08:47.58,Default,Theresa,0,0,0,,Oh, sure!
 Dialogue: 0,0:08:47.58,0:08:48.18,Default,SP,0,0,0,,{\i1}Was{\i0}?
 Dialogue: 0,0:08:48.67,0:08:51.89,Default,Theresa,0,0,0,,As long as you don't mind these \Nfuture Dai Stars joining me!
@@ -169,11 +169,11 @@ Dialogue: 0,0:09:39.74,0:09:41.15,Default,Girl,0,0,0,,Over here!
 Dialogue: 0,0:09:45.60,0:09:49.10,Signs,Sign,0,0,0,,{\fs24\fnArial\shad0\bord3\fay-.02\b1\c&HACBBBB&\pos(690,770.997)\frz357.6\3c&H120C02&}SIRIUS SENTO
 Dialogue: 0,0:09:46.75,0:09:49.10,Default,Niizuma,0,0,0,,They're doing touristy things in Asakusa?
 Dialogue: 0,0:09:49.10,0:09:50.25,Default,Hiiragi,0,0,0,,Yes.
-Dialogue: 0,0:09:50.25,0:09:53.87,Default,Hiiragi,0,0,0,,I imagine Theresa-san is dragging \NKokona and Shizuka around too.
+Dialogue: 0,0:09:50.25,0:09:53.87,Default,Hiiragi,0,0,0,,I imagine Theresa{**-san} is dragging \NKokona and Shizuka around too.
 Dialogue: 0,0:09:53.87,0:09:55.24,Default,Panda,0,0,0,,Oh, it's for real.
 Dialogue: 0,0:09:55.60,0:10:00.36,Default,Panda,0,0,0,,It's trending all over social media. \N"A World Dai Star appears!"
 Dialogue: 0,0:10:00.37,0:10:08.54,Signs,Sign,0,0,0,,{\fnTimes New Roman\b1\fs60\an8\c&H1C1A18&\3c&HE5E3E1&\shad0}World Dai Star\N{\fs42}-Yae Niizuma
-Dialogue: 0,0:10:00.77,0:10:04.06,Default,Niizuma,0,0,0,,I wish I could've met Theresa-san, too.
+Dialogue: 0,0:10:00.77,0:10:04.06,Default,Niizuma,0,0,0,,I wish I could've met Theresa{**-san}, too.
 Dialogue: 0,0:10:04.06,0:10:07.15,Default,Hiiragi,0,0,0,,She contacted us saying that she \Nwanted a tour of SIRIUS,
 Dialogue: 0,0:10:07.15,0:10:08.55,Default,Hiiragi,0,0,0,,so you can meet her later.
 Dialogue: 0,0:10:08.55,0:10:11.42,Default,Niizuma,0,0,0,,Then let's head to SIRIUS immediately!
@@ -189,15 +189,15 @@ Dialogue: 0,0:10:34.25,0:10:38.98,Signs,Sign,0,0,0,,{\pos(964.368,386.907)\org(9
 Dialogue: 0,0:10:40.97,0:10:42.50,Default,Theresa,0,0,0,,That was so much fun!
 Dialogue: 0,0:10:42.90,0:10:45.24,Default,Theresa,0,0,0,,Thank you, Kokona and Shizuka.
 Dialogue: 0,0:10:45.83,0:10:46.86,Default,Kokona,0,0,0,,No problem...
-Dialogue: 0,0:10:46.86,0:10:51.92,Default,Shizuka,0,0,0,,Theresa-san, you didn't sweat at all... \Nin spite of the heat.
+Dialogue: 0,0:10:46.86,0:10:51.92,Default,Shizuka,0,0,0,,Theresa{**-san}, you didn't sweat at all... \Nin spite of the heat.
 Dialogue: 0,0:10:51.92,0:10:56.54,Default,Kathrina,0,0,0,,World Dai Stars don't sweat. \NThat's what my mama told me.
 Dialogue: 0,0:10:56.54,0:10:59.25,Default,Shizuka,0,0,0,,She's {\i1}definitely{\i0} lying to you about that.
 Dialogue: 0,0:10:59.25,0:11:03.01,Default,Kokona,0,0,0,,But she's so beautiful that \NI'd actually believe it!
 Dialogue: 0,0:11:05.04,0:11:06.31,Default,Kathrina,0,0,0,,Yeah.
 Dialogue: 0,0:11:14.68,0:11:18.42,Default,Kathrina,0,0,0,,I thought I'd be just like her immediately...
-Dialogue: 0,0:11:20.05,0:11:21.69,Default,Kokona,0,0,0,,Kathrina-chan?
+Dialogue: 0,0:11:20.05,0:11:21.69,Default,Kokona,0,0,0,,Kathrina{**-chan}?
 Dialogue: 0,0:11:21.69,0:11:23.28,Default,Kathrina,0,0,0,,N-Never mind!
-Dialogue: 0,0:11:28.15,0:11:30.78,Default,Hiiragi,0,0,0,,We've been waiting for you, Theresa-san.
+Dialogue: 0,0:11:28.15,0:11:30.78,Default,Hiiragi,0,0,0,,We've been waiting for you, Theresa{**-san}.
 Dialogue: 0,0:11:31.25,0:11:34.55,Default,Hiiragi,0,0,0,,I'm Noa Hiiragi. It's an honor to meet you.
 Dialogue: 0,0:11:34.84,0:11:37.15,Default,Theresa,0,0,0,,Thank you for looking after my daughter.
 Dialogue: 0,0:11:38.87,0:11:43.74,Default,Theresa,0,0,0,,Our troupe extended an invitation to you,\N but I guess you turned us down.
@@ -239,7 +239,7 @@ Dialogue: 0,0:13:35.42,0:13:36.15,Default,Niizuma,0,0,0,,Huh?!
 Dialogue: 0,0:13:36.34,0:13:39.05,Default,Theresa,0,0,0,,As Princess Kaguya and the Genie of the Lamp.
 Dialogue: 0,0:13:39.05,0:13:43.56,Default,Theresa,0,0,0,,Your closing show for {\i1}Arabian Nights{\i0}\Nwas especially magnificent.
 Dialogue: 0,0:13:43.86,0:13:45.79,Default,Niizuma,0,0,0,,I-I'm honored...
-Dialogue: 0,0:13:47.37,0:13:51.42,Default,Kokona,0,0,0,,So, um... We have a favor \Nto ask you, Theresa-san.
+Dialogue: 0,0:13:47.37,0:13:51.42,Default,Kokona,0,0,0,,So, um... We have a favor \Nto ask you, Theresa{**-san}.
 Dialogue: 0,0:13:52.12,0:13:54.82,Default,Theresa,0,0,0,,What is it? An autograph? Sure.
 Dialogue: 0,0:13:54.82,0:13:57.24,Default,Kokona,0,0,0,,I'd love one! But...
 Dialogue: 0,0:13:57.24,0:14:02.64,Default,Niizuma,0,0,0,,Even just for a second... \Ncould we see you perform?
@@ -250,10 +250,10 @@ Dialogue: 0,0:14:11.07,0:14:12.31,Default,Niizuma,0,0,0,,Please!
 Dialogue: 0,0:14:16.71,0:14:18.27,Default,Theresa,0,0,0,,Hmm...
 Dialogue: 0,0:14:24.98,0:14:28.01,Default,Theresa,0,0,0,,If Noa will do it with me, sure.
 Dialogue: 0,0:14:28.01,0:14:28.94,Default,All,0,0,0,,Huh?!
-Dialogue: 0,0:14:29.92,0:14:32.41,Default,Sasuga,0,0,0,,The boss and Theresa-san are \Ngoing to perform together?
+Dialogue: 0,0:14:29.92,0:14:32.41,Default,Sasuga,0,0,0,,The boss and Theresa{**-san} are \Ngoing to perform together?
 Dialogue: 0,0:14:32.41,0:14:33.94,Default,Panda,0,0,0,,That's too epic!
-Dialogue: 0,0:14:37.20,0:14:38.57,Default,Niizuma,0,0,0,,Hiiragi-san...
-Dialogue: 0,0:14:38.94,0:14:41.27,Default,Kokona,0,0,0,,Please, Hiiragi-san!
+Dialogue: 0,0:14:37.20,0:14:38.57,Default,Niizuma,0,0,0,,Hiiragi{**-san}...
+Dialogue: 0,0:14:38.94,0:14:41.27,Default,Kokona,0,0,0,,Please, Hiiragi{**-san}!
 Dialogue: 0,0:14:47.09,0:14:49.43,Default,Hiiragi,0,0,0,,All right, just one scene.
 Dialogue: 0,0:14:51.11,0:14:52.95,Default,Girls,0,0,0,,Yay! That's amazing!
 Dialogue: 0,0:14:58.39,0:15:00.72,Default,Kokona,0,0,0,,I wonder what they're going to perform.
@@ -287,8 +287,8 @@ Dialogue: 0,0:17:29.59,0:17:33.45,Default,Sasuga,0,0,0,,Me too, even without a s
 Dialogue: 0,0:17:33.45,0:17:35.69,Default,Niizuma,0,0,0,,My heart is pounding!
 Dialogue: 0,0:17:35.69,0:17:38.36,Default,Shizuka,0,0,0,,So that's how a World Dai Star performs...
 Dialogue: 0,0:17:38.36,0:17:40.02,Default,Kathrina,0,0,0,,She really is amazing.
-Dialogue: 0,0:17:40.02,0:17:42.45,Default,Kokona,0,0,0,,Hiiragi-san was amazing, too.
-Dialogue: 0,0:17:42.86,0:17:47.08,Default,Kokona,0,0,0,,I think she was playing her part \Nso we'd all be looking at Theresa-san.
+Dialogue: 0,0:17:40.02,0:17:42.45,Default,Kokona,0,0,0,,Hiiragi{**-san} was amazing, too.
+Dialogue: 0,0:17:42.86,0:17:47.08,Default,Kokona,0,0,0,,I think she was playing her part \Nso we'd all be looking at Theresa{**-san}.
 Dialogue: 0,0:17:47.08,0:17:49.45,Default,Kokona,0,0,0,,She was truly like a phantom.
 Dialogue: 0,0:17:49.45,0:17:51.96,Default,Kokona,0,0,0,,But right there at the end...
 Dialogue: 0,0:17:54.20,0:17:56.71,Default,Kokona (Phantom),0,0,0,,Come! Let us fall to hell together!
@@ -331,7 +331,7 @@ Dialogue: 0,0:20:03.31,0:20:06.00,Default,Theresa,0,0,0,,Is there a reason you h
 Dialogue: 0,0:20:06.63,0:20:09.24,Default,Theresa,0,0,0,,I'll get you the papers \Nfrom the troupes later.
 Dialogue: 0,0:20:09.24,0:20:12.48,Default,Theresa,0,0,0,,Give me your answer by the \Ntime I leave Japan tomorrow.
 Dialogue: 0,0:20:13.29,0:20:15.72,Default,Theresa,0,0,0,,I'll honor your wishes, no matter what.
-Dialogue: 0,0:20:42.64,0:20:44.12,Default,Kokona,0,0,0,,Kathrina-chan?
+Dialogue: 0,0:20:42.64,0:20:44.12,Default,Kokona,0,0,0,,Kathrina{**-chan}?
 Dialogue: 0,0:20:55.73,0:20:59.98,Signs,Sign,0,0,0,,{\an1\shad0\bord0\fnArial\c&H184041&\fs60\b1\pos(422.001,318)}I'll become a Dai Star at SIRIUS
 Dialogue: 0,0:22:40.40,0:22:44.26,Default,Kudo,0,0,0,,Our next performance will be \Nour last chance this year
 Dialogue: 0,0:22:44.68,0:22:47.70,Default,Kudo,0,0,0,,to get the World Theatre League\N to recognize a Dai Star.
