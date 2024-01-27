@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -11,6 +11,7 @@ PlayResX: 1920
 PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,7 +51,7 @@ Dialogue: 0,0:02:48.63,0:02:50.79,Default,Panda,0,0,0,,This is the stuff.
 Dialogue: 0,0:02:50.79,0:02:52.81,Default,Sasuga,0,0,0,,It's a summer tradition.
 Dialogue: 0,0:02:52.81,0:02:56.06,Default,Panda,0,0,0,,So, how do you find things at SIRIUS lately?
 Dialogue: 0,0:02:56.33,0:02:59.33,Default,Sasuga,0,0,0,,I think things are relaxing quite nicely.
-Dialogue: 0,0:03:00.07,0:03:05.31,Default,Panda,0,0,0,,Koko-chan, Kathrin, and Niizumacchi all seem \Nto be affecting each other positively.
+Dialogue: 0,0:03:00.07,0:03:05.31,Default,Panda,0,0,0,,Koko{**-chan}, Kathrin, and Niizumacchi all seem \Nto be affecting each other positively.
 Dialogue: 0,0:03:05.31,0:03:06.81,Default,Panda,0,0,0,,They're in top form now.
 Dialogue: 0,0:03:06.81,0:03:08.64,Default,Sasuga,0,0,0,,They sure are.
 Dialogue: 0,0:03:12.68,0:03:16.25,Default,Panda,0,0,0,,You know, I think we might just make it.
@@ -65,7 +66,7 @@ Dialogue: 0,0:03:38.69,0:03:44.53,Default,Panda,0,0,0,,Every year, SIRIUS puts o
 Dialogue: 0,0:03:44.53,0:03:49.67,Default,Panda,0,0,0,,We're looking for interested children,\Nand the chosen are invited to our troupe.
 Dialogue: 0,0:03:49.67,0:03:54.58,Default,Hiiragi,0,0,0,,The showcase is also for the\Npurpose of nurturing future Dai Stars.
 Dialogue: 0,0:03:54.58,0:03:59.04,Default,Hiiragi,0,0,0,,Remain focused in order to put on\Na good show for your younger peers.
-Dialogue: 0,0:03:59.04,0:04:00.16,Default,Panda,0,0,0,,Hiiragi-san!
+Dialogue: 0,0:03:59.04,0:04:00.16,Default,Panda,0,0,0,,Hiiragi{**-san}!
 Dialogue: 0,0:04:00.52,0:04:01.35,Default,Hiiragi,0,0,0,,What is it?
 Dialogue: 0,0:04:01.35,0:04:06.94,Default,Panda,0,0,0,,Um... Has the play already been decided?
 Dialogue: 0,0:04:11.50,0:04:13.47,Default,Hiiragi,0,0,0,,It's {\i1}King Lear{\i0}, same as last year.
@@ -133,7 +134,7 @@ Dialogue: 0,0:07:47.84,0:07:50.02,Default,Kokona,0,0,0,,It {\i1}is{\i0} pretty f
 Dialogue: 0,0:07:50.31,0:07:51.88,Default,Hiiragi,0,0,0,,Sounds like we have our play.
 Dialogue: 0,0:07:51.88,0:07:55.63,Default,Hiiragi,0,0,0,,We'll be doing {\i1}Romeo and Juliet{\i0} \Nfor the special theatrical showcase.
 Dialogue: 0,0:07:57.96,0:07:59.36,Default,Kokona,0,0,0,,What?!
-Dialogue: 0,0:08:00.03,0:08:02.67,Default,Kokona,0,0,0,,You're not going to be in it, Yae-chan?!
+Dialogue: 0,0:08:00.03,0:08:02.67,Default,Kokona,0,0,0,,You're not going to be in it, Yae{**-chan}?!
 Dialogue: 0,0:08:00.04,0:08:02.67,Signs,Sign,0,0,0,,{\an7\fnArial\fs42\i1\c&H313331&\3c&HDADCDC&\shad0\bord9}Romeo and Juliet{\i0} Roles\N Romeo: Sasuga\N Juliet: Panda\N Benvolio: Kokona\NCount Paris: Terahara\N Friar Laurence: Kathrina\NTybalt: Kamiyashiki
 Dialogue: 0,0:08:02.67,0:08:08.17,Signs,Sign,0,0,0,,{\fad(350,1)\an8\fnArial\b1\shad0\bord12\c&H43F7F2&\3c&H060741&}Grade Schooler
 Dialogue: 0,0:08:03.00,0:08:08.17,Default,Niizuma,0,0,0,,Well, I'm in grade school too. I'll be in \Nthe audience cheering you all on this time.
@@ -143,13 +144,13 @@ Dialogue: 0,0:08:18.87,0:08:20.20,Default,Sasuga,0,0,0,,Are you okay?
 Dialogue: 0,0:08:21.26,0:08:23.15,Default,Panda,0,0,0,,Oh, yeah.
 Dialogue: 0,0:08:23.70,0:08:27.55,Default,Panda,0,0,0,,{\i1}Romeo and Juliet{\i0} brings back\Na lot of memories for me,
 Dialogue: 0,0:08:27.55,0:08:32.05,Default,Panda,0,0,0,,so playing in it gives me\Na lot to think about.
-Dialogue: 0,0:08:36.32,0:08:42.78,Default,Kokona,0,0,0,,Sasuga-chan! I'll be Romeo's friend Benvolio.\N I look forward to acting alongside you.
+Dialogue: 0,0:08:36.32,0:08:42.78,Default,Kokona,0,0,0,,Sasuga{**-chan}! I'll be Romeo's friend Benvolio.\N I look forward to acting alongside you.
 Dialogue: 0,0:08:43.20,0:08:44.48,Default,Sasuga,0,0,0,,Same.
 Dialogue: 0,0:08:44.48,0:08:47.08,Default,Shizuka,0,0,0,,I can't wait to see you two star in this play.
 Dialogue: 0,0:08:47.08,0:08:50.20,Default,Niizuma,0,0,0,,I'm excited to learn from your performance.
 Dialogue: 0,0:08:50.20,0:08:53.10,Default,Panda,0,0,0,,No way! You saying that is...
 Dialogue: 0,0:08:54.38,0:08:57.90,Default,Hiiragi,0,0,0,,Make sure you two show your \Nyounger peers what you've got.
-Dialogue: 0,0:08:58.13,0:08:59.59,Default,Panda,0,0,0,,Hiiragi-san...
+Dialogue: 0,0:08:58.13,0:08:59.59,Default,Panda,0,0,0,,Hiiragi{**-san}...
 Dialogue: 0,0:08:58.13,0:08:59.59,Overlap,Sasuga,0,0,0,,Boss...
 Dialogue: 0,0:08:59.59,0:09:03.24,Default,Hiiragi,0,0,0,,I'm sure that girl will \Nbe back again this year.
 Dialogue: 0,0:09:04.59,0:09:06.12,Default,Panda,0,0,0,,Ah...
@@ -165,7 +166,7 @@ Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB0
 Dialogue: 0,0:09:17.53,0:09:21.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HB04352&\fs72\pos(658.005,878.001)}G
 Dialogue: 1,0:09:17.77,0:09:21.28,Default,Kokona,0,0,0,,Wh-What's wrong, you three?
 Dialogue: 0,0:09:21.73,0:09:24.03,Default,Sasuga,0,0,0,,She's coming.
-Dialogue: 0,0:09:24.03,0:09:25.80,Default,Kokona,0,0,0,,Not you too, Sasuga-chan!
+Dialogue: 0,0:09:24.03,0:09:25.80,Default,Kokona,0,0,0,,Not you too, Sasuga{**-chan}!
 Dialogue: 0,0:09:25.79,0:09:28.29,Signs,Sign,0,0,0,,{\fnImpact\shad0\bord9\c&HEA3B53&\fs108\an8}Menacing
 Dialogue: 0,0:09:26.29,0:09:28.29,Default,Kokona,0,0,0,,Wait, everyone's doing it?!
 Dialogue: 0,0:09:28.54,0:09:31.28,Default,Kathrina,0,0,0,,Who are you all talking about?
@@ -180,11 +181,11 @@ Dialogue: 0,0:09:55.98,0:09:59.92,Flashback,Chika,0,0,0,,But did you forget that
 Dialogue: 0,0:09:59.92,0:10:03.21,Flashback,Chika,0,0,0,,With that in mind, you should have chosen\Nsomething to make SIRIUS shine.
 Dialogue: 0,0:10:03.21,0:10:07.75,Flashback,Chika,0,0,0,,As someone who's followed SIRIUS for years,\NI was disappointed with this {\i1}King Lear{\i0}.
 Dialogue: 0,0:10:08.00,0:10:12.08,Flashback,Chika,0,0,0,,To quickly sum up everything wrong \Nwith this performance in an hour...
-Dialogue: 0,0:10:12.64,0:10:15.07,Default,Kokona,0,0,0,,She gave notes to Hiiragi-san?!
+Dialogue: 0,0:10:12.64,0:10:15.07,Default,Kokona,0,0,0,,She gave notes to Hiiragi{**-san}?!
 Dialogue: 0,0:10:15.07,0:10:17.07,Default,Shizuka,0,0,0,,What a terrifying grade schooler...
 Dialogue: 0,0:10:17.07,0:10:19.41,Default,Panda,0,0,0,,She told us off, too.
 Dialogue: 0,0:10:19.41,0:10:20.50,Default,Sasuga,0,0,0,,Yup, yup.
-Dialogue: 0,0:10:20.86,0:10:22.27,Default,Panda,0,0,0,,So, Koko-chan!
+Dialogue: 0,0:10:20.86,0:10:22.27,Default,Panda,0,0,0,,So, Koko{**-chan}!
 Dialogue: 0,0:10:22.27,0:10:26.90,Default,Panda,0,0,0,,We absolutely {\i1}cannot{\i0} lose this battle!
 Dialogue: 0,0:10:26.90,0:10:28.52,Default,Kokona,0,0,0,,"Battle"?
 Dialogue: 0,0:10:28.85,0:10:32.52,Default,Panda,0,0,0,,Sassu! This time, we'll \Nreally knock her socks off!
@@ -224,7 +225,7 @@ Dialogue: 0,0:12:15.79,0:12:17.54,Signs,Sign,0,0,0,,{\c&H3B4D5F&\fnTimes New Rom
 Dialogue: 0,0:12:18.36,0:12:19.67,Flashback,Sasuga,0,0,0,,Seriously.
 Dialogue: 0,0:12:24.12,0:12:25.50,Flashback,Sasuga,0,0,0,,Seriously?
 Dialogue: 0,0:12:28.05,0:12:29.56,Flashback,Sasuga,0,0,0,,Seriously?!
-Dialogue: 0,0:12:33.16,0:12:36.69,Flashback,Girl 1,0,0,0,,Sasuga-chan, the swim team wanted you\Nas a backup swimmer, didn't they?
+Dialogue: 0,0:12:33.16,0:12:36.69,Flashback,Girl 1,0,0,0,,Sasuga{**-chan}, the swim team wanted you\Nas a backup swimmer, didn't they?
 Dialogue: 0,0:12:36.96,0:12:39.47,Flashback,Girl 2,0,0,0,,And you got scouted as a model?
 Dialogue: 0,0:12:39.47,0:12:41.98,Flashback,Girl 3,0,0,0,,Is it true that you found some edible ants?
 Dialogue: 0,0:12:43.81,0:12:47.01,Flashback,Young Panda,0,0,0,,Starting today, we're rivals!
@@ -293,7 +294,7 @@ Dialogue: 0,0:15:55.92,0:15:57.20,Default,Sasuga,0,0,0,,What's the matter?
 Dialogue: 0,0:15:57.20,0:16:01.34,Default,Panda,0,0,0,,Oh, nothing. I was just reminiscing.
 Dialogue: 0,0:16:04.15,0:16:06.15,Signs,Sign,0,0,0,,{\pos(660.219,356.001)\org(664.002,356.001)\fscx97.102\fscy89.816\frz-27.978\fry9.234\frx6.783\fax0.108\fnTimes New Roman\fs36\b1\xbord3.79\ybord3.5\c&H08193A&\3c&H345588&}Monja Asakusa
 Dialogue: 0,0:16:10.21,0:16:13.05,Default,Chika,0,0,0,,It's been some time, Miss Niizuma.
-Dialogue: 0,0:16:13.05,0:16:15.07,Default,Niizuma,0,0,0,,Hello, Nanase-san.
+Dialogue: 0,0:16:13.05,0:16:15.07,Default,Niizuma,0,0,0,,Hello, Nanase{**-san}.
 Dialogue: 0,0:16:15.07,0:16:17.45,Default,Chika,0,0,0,,{\i1}Arabian Nights{\i0} was fantastic!
 Dialogue: 0,0:16:17.45,0:16:21.71,Default,Chika,0,0,0,,Your performance was on par with the \Nactors of SIRIUS's golden age.
 Dialogue: 0,0:16:21.71,0:16:23.08,Default,Niizuma,0,0,0,,Thank you very much.
