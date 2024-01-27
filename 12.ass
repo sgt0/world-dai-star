@@ -132,10 +132,10 @@ Dialogue: 0,0:07:12.03,0:07:15.58,Default,Kathrina (Raoul),0,0,0,,Oh? Isn't this
 Dialogue: 0,0:07:15.58,0:07:19.35,Default,Sasuga (Sorelli),0,0,0,,It is. Do you need something from her?
 Dialogue: 0,0:07:19.35,0:07:20.16,Default,Niizuma (Christine),0,0,0,,Who are you?
 Dialogue: 0,0:07:20.69,0:07:23.69,Default,Kathrina (Raoul),0,0,0,,Christine! Do you remember me?
-Dialogue: 0,0:07:24.72,0:07:27.36,Default,Kathrina (Raoul),0,0,0,,{\an8}Maybe this will refresh your memory...
-Dialogue: 0,0:07:27.84,0:07:30.96,Default,Kathrina (Raoul),0,0,0,,{\an8}I'm the boy who retrieved\Nyour scarf from the ocean.
+Dialogue: 0,0:07:24.72,0:07:27.36,Overlap,Kathrina (Raoul),0,0,0,,{\an8}Maybe this will refresh your memory...
+Dialogue: 0,0:07:27.84,0:07:30.96,Overlap,Kathrina (Raoul),0,0,0,,{\an8}I'm the boy who retrieved\Nyour scarf from the ocean.
 Dialogue: 0,0:07:28.78,0:07:34.79,Default,Kokona,0,0,0,,{\i1}I've been able to take the stage because \Nit's where Shizuka{**-chan} saw me off.
-Dialogue: 0,0:07:31.34,0:07:34.11,Default,Niizuma (Christine),0,0,0,,{\an8}Raoul?! Is that you, Raoul?
+Dialogue: 0,0:07:31.34,0:07:34.11,Overlap,Niizuma (Christine),0,0,0,,{\an8}Raoul?! Is that you, Raoul?
 Dialogue: 0,0:07:39.05,0:07:41.58,Default,Niizuma (Christine),0,0,0,,Did you hear something just now?
 Dialogue: 0,0:07:41.58,0:07:43.61,Default,Kathrina (Raoul),0,0,0,,Hmm? No, nothing.
 Dialogue: 0,0:07:47.11,0:07:51.45,Default,Kokona,0,0,0,,{\i1}But I had no idea how Shizuka{**-chan} felt.
