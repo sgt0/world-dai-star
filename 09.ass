@@ -42,7 +42,7 @@ Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\fnArial\shad0\fs36\frz5.85
 Dialogue: 0,0:02:36.88,0:02:39.38,Signs,Sign,0,0,0,,{\shad0\fnArial\b1\fs36\frz2.168\3c&HF2F2F4&\c&H27252C&\pos(1411.998,855.999)}Niizuma
 Dialogue: 1,0:02:37.25,0:02:42.00,Default,Panda,0,0,0,,Currently, she's hooked on researching \Nmorning glories and surfing.
 Dialogue: 0,0:02:42.80,0:02:46.63,Default,Shizuka,0,0,0,,I wonder if this is how she \Nprepares for her roles.
-Dialogue: 0,0:02:43.99,0:02:45.17,Default,Sasuga,0,0,0,,{\an8}How'd ya like that?
+Dialogue: 0,0:02:43.99,0:02:45.17,Overlap,Sasuga,0,0,0,,{\an8}How'd ya like that?
 Dialogue: 0,0:02:51.24,0:02:52.69,Default,Shizuka,0,0,0,,You seem tired.
 Dialogue: 0,0:02:52.69,0:02:55.21,Default,Kokona,0,0,0,,Did you stay up all night again?
 Dialogue: 0,0:02:55.81,0:02:58.30,Default,Panda,0,0,0,,It's summer vacay time for school,
