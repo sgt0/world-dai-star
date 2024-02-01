@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: English (US)
 Original Translation:
 Original Editing:
@@ -45,9 +45,9 @@ Dialogue: 0,0:00:58.74,0:01:02.24,Overlap,Panda (Misato),0,0,0,,{\an8}So why not
 Dialogue: 0,0:01:02.69,0:01:05.74,Default,Hiiragi,0,0,0,,{\i1}She's going overboard.\NShe'll be getting a lecture later.
 Dialogue: 0,0:01:27.23,0:01:32.56,Signs,Sign,0,0,0,,{\pos(964.368,413.088)\org(964.368,413.088)\fscy99.662\frx-1.67\fnArial\fs108\b1\xbord0\ybord0\c&H8A62FD&\3c&HFFFFFF&\fad(1200,1)}S{\c&HF9AA06&}t{\c&H30C2FF&}e{\c&H8A62FD&}l{\c&HF9AA06&}l{\c&H30C2FF&}a {\c&H8A62FD&}o{\c&HF9AA06&}f{\c&H30C2FF&} t{\c&H8A62FD&}h{\c&HF9AA06&}e {\c&H30C2FF&}T{\c&H8A62FD&}h{\c&HF9AA06&}e{\c&H30C2FF&}a{\c&H8A62FD&}t{\c&HF9AA06&}e{\c&H30C2FF&}r{\c&H8A62FD&}:
 Dialogue: 0,0:02:45.18,0:02:50.06,Signs,Sign,0,0,0,,{\an1\pos(123,926.799)\fnTimes New Roman\fs54\bord3\3c&H4B4B4C&\blur6\fad(770,770)}Our First Play
-Dialogue: 0,0:02:45.47,0:02:49.53,Default,Reporter,0,0,0,,{\an8}I'm with {\i1}Future Dai Star{\i0},\Nthe magazine that introduces young actors
-Dialogue: 0,0:02:49.53,0:02:51.19,Default,Reporter,0,0,0,,{\an8}who represent Japan's future.
-Dialogue: 0,0:02:51.19,0:02:53.18,Default,Reporter,0,0,0,,{\an8}Thank you for speaking with me today.
+Dialogue: 0,0:02:45.47,0:02:49.53,Default,Reporter,0,0,0,,I'm with {\i1}Future Dai Star{\i0},\Nthe magazine that introduces young actors
+Dialogue: 0,0:02:49.53,0:02:51.19,Default,Reporter,0,0,0,,who represent Japan's future.
+Dialogue: 0,0:02:51.19,0:02:53.18,Default,Reporter,0,0,0,,Thank you for speaking with me today.
 Dialogue: 0,0:02:53.46,0:02:56.77,Default,Kathrina,0,0,0,,I'm Kathrina Griebel. It's a pleasure.
 Dialogue: 0,0:02:56.77,0:03:03.21,Default,Reporter,0,0,0,,I hear that your parents back in Germany \Nare renowned World Dai Stars.
 Dialogue: 0,0:03:03.21,0:03:08.03,Default,Reporter,0,0,0,,Did they happen to give you any \Nadvice when you joined SIRIUS?
